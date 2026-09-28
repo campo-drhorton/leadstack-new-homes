@@ -1,44 +1,23 @@
 {
-  "updatedAt": "2026-09-27T17:59:28.781Z",
+  "updatedAt": "2026-09-28T20:19:23.400Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-27T17:59:28.781Z",
-  "photoCount": 113,
+  "publicUpdatedAt": "2026-09-28T20:19:23.400Z",
+  "photoCount": 109,
   "communities": [
     {
       "slug": "autumn-glen",
       "name": "Autumn Glen",
       "address": "11466 SE 72nd Avenue, Belleview, FL 34420",
-      "availableCount": 5,
+      "availableCount": 3,
       "lowestPrice": 272990,
-      "highestPrice": 339570,
+      "highestPrice": 287570,
       "beds": [
         3,
-        4,
-        5
+        4
       ],
       "lots": [
-        {
-          "lot": "84",
-          "address": "7174 SE 112th Lane",
-          "plan": "Cali",
-          "price": 282990,
-          "priceLabel": "$282,990",
-          "beds": 4,
-          "homeSlug": "7174-se-112th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7174-se-112th-lane",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0248-7174-se-112th-lane/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bb1554bce8ea443784569d001564ba8f&hash=19791936B5F1D8C3624E9F727A3917FE",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0248-7174-se-112th-lane/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bb1554bce8ea443784569d001564ba8f&hash=19791936B5F1D8C3624E9F727A3917FE"
-          ],
-          "incentive": 12580,
-          "incentiveLabel": "(12,580)"
-        },
         {
           "lot": "65",
           "address": "7127 SE 112th Lane",
@@ -91,24 +70,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0244-7138-se-112th-lane/cali-c-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=e9507324e89344d5a9261766e82933ef&hash=3FAA44C74EBFD4CF17B8ADA3288446CD",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0244-7138-se-112th-lane/cali-c-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=e9507324e89344d5a9261766e82933ef&hash=3FAA44C74EBFD4CF17B8ADA3288446CD"
-          ]
-        },
-        {
-          "lot": "81",
-          "address": "7146 SE 112th Lane",
-          "plan": "Hayden",
-          "price": 339570,
-          "priceLabel": "$339,570",
-          "beds": 5,
-          "homeSlug": "7146-se-112th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7146-se-112th-lane",
-          "baths": "3",
-          "sqft": "2,605",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0245-7146-se-112th-lane/hayden-h-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ac7e6358b779452188dc3ca752f81916&hash=0140BA531E248A3A707BA4AA7100391F",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0245-7146-se-112th-lane/hayden-h-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ac7e6358b779452188dc3ca752f81916&hash=0140BA531E248A3A707BA4AA7100391F"
           ]
         }
       ],
@@ -164,9 +125,9 @@
       "slug": "citrus-springs",
       "name": "Citrus County Spot Lots",
       "address": "143 W Citrus Springs Blvd, Citrus Springs, FL 34434",
-      "availableCount": 7,
+      "availableCount": 5,
       "lowestPrice": 267070,
-      "highestPrice": 299990,
+      "highestPrice": 295070,
       "beds": [
         3,
         4
@@ -206,42 +167,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4ebb/0091-1415-w-st-elizabeth-pl/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=c83822c5780a4ef691304b958e31f34e&hash=6E90A7D5A0296CB6A8A7DA0A5F9BE61B",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4ebb/0091-1415-w-st-elizabeth-pl/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=c83822c5780a4ef691304b958e31f34e&hash=6E90A7D5A0296CB6A8A7DA0A5F9BE61B"
-          ]
-        },
-        {
-          "lot": "8",
-          "address": "2656 W Braganza St",
-          "plan": "Cali",
-          "price": 289990,
-          "priceLabel": "$289,990",
-          "beds": 4,
-          "homeSlug": "2656-w-braganza-st",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/citrus-springs/citrus-county-spot-lots/qmis/2656-w-braganza-st",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4ebb/0094-2656-w-braganza-st/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=5cb2f25fa95e49618c0c3cc1848d01f1&hash=EF8A53AC028B76B7A3E8FF70AA16203A",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4ebb/0094-2656-w-braganza-st/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=5cb2f25fa95e49618c0c3cc1848d01f1&hash=EF8A53AC028B76B7A3E8FF70AA16203A"
-          ]
-        },
-        {
-          "lot": "1",
-          "address": "5962 N Darlington Dr",
-          "plan": "Cali",
-          "price": 299990,
-          "priceLabel": "$299,990",
-          "beds": 4,
-          "homeSlug": "5962-n-darlington-dr",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/citrus-springs/citrus-county-spot-lots/qmis/5962-n-darlington-dr",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4ebb/0097-5962-n-darlington-dr/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ec25b17384eb478d9473f8ece7122f4e&hash=3011048FAE98FF456CC15E12E296F5F4",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97475-citrus-springs-spot-lots/974750000-citrus-springs-spot-lots/4ebb/0097-5962-n-darlington-dr/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ec25b17384eb478d9473f8ece7122f4e&hash=3011048FAE98FF456CC15E12E296F5F4"
           ]
         },
         {
@@ -462,22 +387,24 @@
       ],
       "lots": [
         {
-          "lot": "94",
-          "address": "2074 NE 28th Place",
-          "plan": "Lakeside",
-          "price": 309990,
-          "priceLabel": "$309,990",
-          "beds": 5,
-          "homeSlug": "2074-ne-28th-place",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2074-ne-28th-place",
-          "baths": "3",
-          "sqft": "2,077",
+          "lot": "62",
+          "address": "2130 NE 33rd Lane",
+          "plan": "Allex",
+          "price": 261990,
+          "priceLabel": "$261,990",
+          "beds": 3,
+          "homeSlug": "2130-ne-33rd-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2130-ne-33rd-lane",
+          "baths": "2",
+          "sqft": "1,504",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e402/0041-2074-ne-28th-place/lakeside-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=e7c09bf7b78a481db582f5065cfcb11b&hash=FEC90E470A792954222273C3169E75CD",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0274-2130-ne-33rd-lane/allex-d-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=a3d4acf3001b4bc1b280f01daeb4d2b9&hash=6D4817C67F95FB9E7116C1341851D7F8",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e402/0041-2074-ne-28th-place/lakeside-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=e7c09bf7b78a481db582f5065cfcb11b&hash=FEC90E470A792954222273C3169E75CD"
-          ]
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0274-2130-ne-33rd-lane/allex-d-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=a3d4acf3001b4bc1b280f01daeb4d2b9&hash=6D4817C67F95FB9E7116C1341851D7F8"
+          ],
+          "incentive": 7080,
+          "incentiveLabel": "(7,080)"
         },
         {
           "lot": "58",
@@ -552,24 +479,6 @@
           ]
         },
         {
-          "lot": "62",
-          "address": "2130 NE 33rd Lane",
-          "plan": "Allex",
-          "price": 261990,
-          "priceLabel": "$261,990",
-          "beds": 3,
-          "homeSlug": "2130-ne-33rd-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2130-ne-33rd-lane",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0274-2130-ne-33rd-lane/allex-d-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=a3d4acf3001b4bc1b280f01daeb4d2b9&hash=6D4817C67F95FB9E7116C1341851D7F8",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0274-2130-ne-33rd-lane/allex-d-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=a3d4acf3001b4bc1b280f01daeb4d2b9&hash=6D4817C67F95FB9E7116C1341851D7F8"
-          ]
-        },
-        {
           "lot": "63",
           "address": "2146 NE 33rd Lane",
           "plan": "",
@@ -639,6 +548,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0009-2158-ne-28th-lane/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f2ceae2b7f2c46a08591a1a514c62542&hash=916D60B9456B8DB13C2FFAB7B19FC010",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0009-2158-ne-28th-lane/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f2ceae2b7f2c46a08591a1a514c62542&hash=916D60B9456B8DB13C2FFAB7B19FC010"
+          ]
+        },
+        {
+          "lot": "30",
+          "address": "2856 NE 21st Court Road",
+          "plan": "",
+          "price": 282070,
+          "priceLabel": "$282,070",
+          "beds": 4,
+          "homeSlug": "2856-ne-21st-court-road",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2856-ne-21st-court-road",
+          "baths": "2",
+          "sqft": "1,665",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/0014-2856-ne-21st-court-road/harper-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=9886ebe9ef5343829385dff72eedb02f&hash=163AD4BDE4228F15278C943DD9339CF1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/0014-2856-ne-21st-court-road/harper-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=9886ebe9ef5343829385dff72eedb02f&hash=163AD4BDE4228F15278C943DD9339CF1"
           ]
         },
         {
@@ -1335,26 +1262,6 @@
       ],
       "lots": [
         {
-          "lot": "48",
-          "address": "4603 SW 71st Lane Road",
-          "plan": "Bowen",
-          "price": 248990,
-          "priceLabel": "$248,990",
-          "beds": 3,
-          "homeSlug": "4603-sw-71st-lane-road",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/4603-sw-71st-lane-road",
-          "baths": "2",
-          "sqft": "1,402",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3bb/0026-4603-sw-71st-lane-road/mwdo_4603_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=32741e5eed054a10982f034cd5b6e4a6&hash=6F1A1E1A2D9DB2899EDF96CC05BEC8B1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3bb/0026-4603-sw-71st-lane-road/mwdo_4603_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=32741e5eed054a10982f034cd5b6e4a6&hash=6F1A1E1A2D9DB2899EDF96CC05BEC8B1"
-          ],
-          "incentive": 16640,
-          "incentiveLabel": "(16,640)"
-        },
-        {
           "lot": "64",
           "address": "4582 SW 71st Lane Road",
           "plan": "Clifton",
@@ -1370,7 +1277,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4cb/0022-4582-sw-71st-lane-road/mwdo_4582_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=4ab733f67d66488680de24664b8185c3&hash=5699BF8D13A6327D46AA6C8FC500CA9F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4cb/0022-4582-sw-71st-lane-road/mwdo_4582_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=4ab733f67d66488680de24664b8185c3&hash=5699BF8D13A6327D46AA6C8FC500CA9F"
-          ]
+          ],
+          "incentive": 36520,
+          "incentiveLabel": "(36,520)"
         },
         {
           "lot": "65",
@@ -1406,6 +1315,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3jb/0027-4599-sw-71st-lane-road/mwdo_4599_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=cd1394492bca41b294bc742fb42121cb&hash=8825E533A9E785A66FDA13A46508DD47",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3jb/0027-4599-sw-71st-lane-road/mwdo_4599_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=cd1394492bca41b294bc742fb42121cb&hash=8825E533A9E785A66FDA13A46508DD47"
+          ]
+        },
+        {
+          "lot": "48",
+          "address": "4603 SW 71st Lane Road",
+          "plan": "Bowen",
+          "price": 248990,
+          "priceLabel": "$248,990",
+          "beds": 3,
+          "homeSlug": "4603-sw-71st-lane-road",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/4603-sw-71st-lane-road",
+          "baths": "2",
+          "sqft": "1,402",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3bb/0026-4603-sw-71st-lane-road/mwdo_4603_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=32741e5eed054a10982f034cd5b6e4a6&hash=6F1A1E1A2D9DB2899EDF96CC05BEC8B1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3bb/0026-4603-sw-71st-lane-road/mwdo_4603_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=32741e5eed054a10982f034cd5b6e4a6&hash=6F1A1E1A2D9DB2899EDF96CC05BEC8B1"
           ]
         },
         {
