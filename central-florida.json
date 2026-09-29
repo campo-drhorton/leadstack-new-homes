@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-28T20:25:28.489Z",
+  "updatedAt": "2026-09-29T19:05:59.013Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-28T20:25:28.489Z",
-  "photoCount": 477,
+  "publicUpdatedAt": "2026-09-29T19:05:59.013Z",
+  "photoCount": 478,
   "communities": [
     {
       "slug": "annabelle-estates",
       "name": "Annabelle Estates",
       "address": "4206 Lester Drive, Lake Wales, FL 33859",
-      "availableCount": 8,
+      "availableCount": 9,
       "lowestPrice": 224990,
       "highestPrice": 338990,
       "beds": [
@@ -91,6 +91,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e402/0039-4415-blackwell-avenue/lakeside_g.jpg?iar=1&sc=1&thn=1&w=425&rev=4c625d31992f46a9874db3d5b7d52928&hash=58A139E9DE727871D2C4BB121B848CCF",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e402/0039-4415-blackwell-avenue/lakeside_g.jpg?iar=1&sc=1&thn=1&w=425&rev=4c625d31992f46a9874db3d5b7d52928&hash=58A139E9DE727871D2C4BB121B848CCF"
+          ]
+        },
+        {
+          "lot": "89",
+          "address": "4702 Tony Street",
+          "plan": "",
+          "price": 253990,
+          "priceLabel": "$253,990",
+          "beds": 3,
+          "homeSlug": "4702-tony-street",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4702-tony-street",
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20a/0013-4702-tony-street/_0014_1_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=a733db721d244554af35c3a05b3ad6f2&hash=6A343EC84ACF64851253DC7A3761BDC5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20a/0013-4702-tony-street/_0014_1_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=a733db721d244554af35c3a05b3ad6f2&hash=6A343EC84ACF64851253DC7A3761BDC5"
           ]
         },
         {
@@ -230,7 +248,13 @@
         {
           "slug": "e410",
           "name": "Fletcher",
+          "startingLabel": "Starting in the $280s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/floor-plans/e410",
+          "beds": 4,
+          "baths": "2",
+          "sqft": "1,574",
+          "story": "1",
+          "garage": "2",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e410/fletcher_ele_a_cs_cropped.jpg?as=1&w=425&rev=57489dee0e5c4ef4adcbbaf129543032&hash=54F091A13778D9CEE39B29F5CB5AA295",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e410/fletcher_ele_a_cs_cropped.jpg?as=1&w=425&rev=57489dee0e5c4ef4adcbbaf129543032&hash=54F091A13778D9CEE39B29F5CB5AA295"
@@ -7543,21 +7567,6 @@
           ]
         },
         {
-          "slug": "3rcb",
-          "name": "Campbell",
-          "startingLabel": "Starting in the $347s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/3rcb",
-          "beds": 4,
-          "baths": "2.5",
-          "sqft": "2,308",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/1_exterior_cropped.jpg?as=1&w=425&rev=3ee2248611744a3cafad20fcbe9338ce&hash=F07F492132A20443C7D74547E0A56109",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/1_exterior_cropped.jpg?as=1&w=425&rev=3ee2248611744a3cafad20fcbe9338ce&hash=F07F492132A20443C7D74547E0A56109"
-          ]
-        },
-        {
           "slug": "e502",
           "name": "Covington",
           "startingLabel": "Starting in the $441s",
@@ -13219,8 +13228,8 @@
           "lot": "07",
           "address": "20 Amberwood Ln",
           "plan": "",
-          "price": 366725,
-          "priceLabel": "$366,725",
+          "price": 364990,
+          "priceLabel": "$364,990",
           "beds": 5,
           "homeSlug": "20-amberwood-ln",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/sunside-at-ormond-station/qmis/20-amberwood-ln",
@@ -15853,8 +15862,8 @@
           "price": 420670,
           "priceLabel": "$420,670",
           "beds": 4,
-          "homeSlug": "4235-acoma-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/wexford-cove/qmis/4235-acoma-drive",
+          "homeSlug": "14404-tawny-street",
+          "sourceUrl": "https://www.drhorton.com/texas/houston/splendora/canopies/qmis/14404-tawny-street",
           "baths": "3",
           "sqft": "2,020",
           "story": "1",

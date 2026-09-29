@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T20:27:46.362Z",
+  "updatedAt": "2026-09-29T19:08:17.618Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
@@ -1382,7 +1382,7 @@
       "slug": "annabelle-estates",
       "name": "Annabelle Estates",
       "address": "4206 Lester Drive, Lake Wales, FL 33859",
-      "availableCount": 8,
+      "availableCount": 9,
       "lowestPrice": 224990,
       "highestPrice": 338990,
       "beds": [
@@ -1544,6 +1544,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e402/0039-4415-blackwell-avenue/lakeside_g.jpg?iar=1&sc=1&thn=1&w=425&rev=4c625d31992f46a9874db3d5b7d52928&hash=58A139E9DE727871D2C4BB121B848CCF",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e402/0039-4415-blackwell-avenue/lakeside_g.jpg?iar=1&sc=1&thn=1&w=425&rev=4c625d31992f46a9874db3d5b7d52928&hash=58A139E9DE727871D2C4BB121B848CCF"
+          ]
+        },
+        {
+          "lot": "89",
+          "address": "4702 Tony Street",
+          "plan": "",
+          "price": 253990,
+          "priceLabel": "$253,990",
+          "beds": 3,
+          "homeSlug": "4702-tony-street",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4702-tony-street",
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20a/0013-4702-tony-street/_0014_1_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=a733db721d244554af35c3a05b3ad6f2&hash=6A343EC84ACF64851253DC7A3761BDC5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20a/0013-4702-tony-street/_0014_1_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=a733db721d244554af35c3a05b3ad6f2&hash=6A343EC84ACF64851253DC7A3761BDC5"
           ]
         },
         {
@@ -1859,7 +1877,13 @@
         {
           "slug": "e410",
           "name": "Fletcher",
+          "startingLabel": "Starting in the $280s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/floor-plans/e410",
+          "beds": 4,
+          "baths": "2",
+          "sqft": "1,574",
+          "story": "1",
+          "garage": "2",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e410/fletcher_ele_a_cs_cropped.jpg?as=1&w=494&rev=57489dee0e5c4ef4adcbbaf129543032&hash=90BFA538496616643AB14BA58ED3E65E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e410/fletcher_ele_a_cs_cropped.jpg?as=1&w=494&rev=57489dee0e5c4ef4adcbbaf129543032&hash=90BFA538496616643AB14BA58ED3E65E",
@@ -23057,53 +23081,6 @@
           ]
         },
         {
-          "slug": "3rcb",
-          "name": "Campbell",
-          "startingLabel": "Starting in the $347s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/3rcb",
-          "beds": 4,
-          "baths": "2.5",
-          "sqft": "2,308",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/1_exterior_cropped.jpg?as=1&w=494&rev=3ee2248611744a3cafad20fcbe9338ce&hash=697BE0728CB91CD7C0DC09A523ACE1D4",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/1_exterior_cropped.jpg?as=1&w=494&rev=3ee2248611744a3cafad20fcbe9338ce&hash=697BE0728CB91CD7C0DC09A523ACE1D4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/cropped_0001_2282_-_campbell_ele_a.jpg?as=1&w=494&rev=27cb1cb77c01441e9b6c5d0e13b6dd48&hash=5CCBF5A7C093E9D0B2A0100D7B966558",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/1_foyer_cropped.jpg?as=1&w=494&rev=256db9dfb0124f3e81ca6bce02ccbb21&hash=5ADDA7E34B79B7BE8FE52A99F9923EDF",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/2_kitchen_cropped.jpg?as=1&w=494&rev=97bd046356d7430b9b57acc372d0f799&hash=79D3F04C6BA7C282826B5D8CC81A43F4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/3_kitchen_cropped.jpg?as=1&w=494&rev=f9099cbd7abe441d9d125a56d3e2a818&hash=924A3847852AC6F7155BCA4F94196EBA",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/4_kitchen_cropped.jpg?as=1&w=494&rev=35b0d0ce5bfd4a37bec51f8eab7f061e&hash=7CFB44E383995E768E1331D29B0D937B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/5_kitchen_cropped.jpg?as=1&w=494&rev=4f095655454f4f2bbc2005e773e17102&hash=B98A1C47CAA517030F27D00568A480D7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/6_living_room_cropped.jpg?as=1&w=494&rev=79958deff45b4bf9b951a7fdeb2a71b8&hash=EE84BCF828FBE75D675440B7C52569AF",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/7_living_room_cropped.jpg?as=1&w=494&rev=6309e52331094cfba83b89700aed52e1&hash=C10801C87C2FFAB6BBAD0446ACBC72DC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/8_living_room_cropped.jpg?as=1&w=494&rev=55000678740c4081a7b2d1c6f64ef1bf&hash=B658E34B5AECA797778C70D1F32C50DD",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/9_living_room_cropped.jpg?as=1&w=494&rev=be3e99bde2654b3eaae074b30c115677&hash=73B6F4B20D8FEF3117A48EBDC8AFE787",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/10_living_room_cropped.jpg?as=1&w=494&rev=6c0f77268d2c44e6ba6a8d0b32ac2d2b&hash=B2719BFE51CB343B987880B8ED4F20AE",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/11_primary_bedroom_cropped.jpg?as=1&w=494&rev=1f22c8c8ecd046ec976644347d58ed86&hash=FE35E6BF3496C139E63CD438FE29FB12",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/12__primary_bedroom_cropped.jpg?as=1&w=494&rev=8f2f003b96514cfb98042c223c99484a&hash=5BE3CBD195D0C820B32417CFDE72E98E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/13__primary_bedroom_cropped.jpg?as=1&w=494&rev=c6c4ea4898294feba4b9d6886c742a62&hash=DC80A18C9C0FCDCC962C31F2A3AE158D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/16_primary_bathroom_cropped.jpg?as=1&w=494&rev=b17cd9e837f240d7b58a8535a70da3ee&hash=3F2D2E7A8878A7B69D2C7E5860AA8E7A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/18_laundry_room_cropped.jpg?as=1&w=494&rev=0166d740ce34432db12a56f2bde470d4&hash=EAF54CDAF85C06D9491B9845E1C99AB7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/19_guest_bathroom_cropped.jpg?as=1&w=494&rev=9d3bdcc90ae8431fb096d71a98d56282&hash=76B5B639D08EAA2C571B786350BBDA9E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/21_guest_bedroom_cropped.jpg?as=1&w=494&rev=bc0b8be992a5496486db4d6ab7676d0b&hash=1C67AE76353641D31AC1EDEB9FA562D2",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/22_guest_bedroom_cropped.jpg?as=1&w=494&rev=20b4554637744f7a88aad8b79ce50193&hash=624F299DE7099EB1C054E427E73D9F82",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/23_guest_bedroom_cropped.jpg?as=1&w=494&rev=acb0890b607543928ebf1b651c779965&hash=3937EA1BC5863C2D934E2E45159C5A88",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/24_guest_bedroom_cropped.jpg?as=1&w=494&rev=1e65d857659940f2ad12127344ec524e&hash=C7225C2003A87A73CA7FE35F49953574",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/25_guest_bedroom_cropped.jpg?as=1&w=494&rev=bb93d752c9434372b44f2589469739f1&hash=8AF00E532D16E539EB4D7CA0B86EE09E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/26_second_guest_bedroom_cropped.jpg?as=1&w=494&rev=dd6585f45d9940aabf6bcb606ce6c7cd&hash=639122F63FBE1BFA3F4BDCC15C9061DA",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/27_second_guest_bedroom_cropped.jpg?as=1&w=494&rev=3f196fc0cebb46f49f6c8b1247b903e5&hash=478B44A0D05A698858C9768872D6044E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/28_second_guest_bedroom_cropped.jpg?as=1&w=494&rev=3d7885872a1c45daab83c72fd936d958&hash=CAE0DEF5B968E08CA032F2B74D826D44",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/29_second_guest_bedroom_cropped.jpg?as=1&w=494&rev=e43ca7f636f543149f092bec56a08c89&hash=1B27687212262F7BB72C1089754C073D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/30_third_guest_bedroom_cropped.jpg?as=1&w=494&rev=b0b2891ce011434b82f71ac30e58d5bd&hash=8AD4663A9C9BDD92C37B5EAB54CEF981",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/31_third_guest_bedroom_cropped.jpg?as=1&w=494&rev=f8d2e888962e4d87a79f56935cd657b8&hash=DEE1484474CE0C5562C154362AD113B1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/32_fourth_guest_bedroom_cropped.jpg?as=1&w=494&rev=98155f530c63440bb7e245ffc5e1fe37&hash=93DBF095A12414D4FA9A72A02E78244A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/33_fourth_guest_bedroom_cropped.jpg?as=1&w=494&rev=734f36411c2840c7bc6949468387b956&hash=C3CB815700A02C229C8092E176E4EEE2",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/34_half_bath_cropped.jpg?as=1&w=494&rev=438efcbaca2349cf9dbc09dd2265a6ce&hash=00895952E8EA506920942CF8221980B8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/36_garage_cropped.jpg?as=1&w=494&rev=b5c2ccfd84ac499593b60c51663e9d43&hash=91546D006280EEB99CE26F30CAAB9AE4"
-          ]
-        },
-        {
           "slug": "e502",
           "name": "Covington",
           "startingLabel": "Starting in the $441s",
@@ -42201,8 +42178,8 @@
           "lot": "07",
           "address": "20 Amberwood Ln",
           "plan": "",
-          "price": 366725,
-          "priceLabel": "$366,725",
+          "price": 364990,
+          "priceLabel": "$364,990",
           "beds": 5,
           "homeSlug": "20-amberwood-ln",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/sunside-at-ormond-station/qmis/20-amberwood-ln",
@@ -50003,25 +49980,15 @@
           "price": 420670,
           "priceLabel": "$420,670",
           "beds": 4,
-          "homeSlug": "4235-acoma-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/wexford-cove/qmis/4235-acoma-drive",
+          "homeSlug": "14404-tawny-street",
+          "sourceUrl": "https://www.drhorton.com/texas/houston/splendora/canopies/qmis/14404-tawny-street",
           "baths": "3",
           "sqft": "2,020",
           "story": "1",
           "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/1_1_madison_l_withstone_exterior.jpg?as=1&w=1280&rev=a46f8d49fbd94bc2a3fff7cea6ab3ad2&hash=3D1E5EA9F7853FD9EB13DB70F6655EF3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/1_1_madison_l_withstone_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=a46f8d49fbd94bc2a3fff7cea6ab3ad2&hash=123B627A379F6217DA3E7846F67EE6C3",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/1_1_madison_l_withstone_exterior.jpg?as=1&w=1280&rev=a46f8d49fbd94bc2a3fff7cea6ab3ad2&hash=3D1E5EA9F7853FD9EB13DB70F6655EF3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/1_madison_kitchen.jpg?as=1&w=1280&rev=00d007a50b044466816f5f7c236aff72&hash=FD7C68A67AC5AF3B7D5491F7CE19D503",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/2_madison_diningroom.jpg?as=1&w=1280&rev=af0c2b964e2e4ab79926cc5f4a5836c4&hash=B3853826C0AD7B81393B933C1F88E720",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/3_madison_livingarea.jpg?as=1&w=1280&rev=b23140bca2e747ceb84ba05959c34c3e&hash=84E33792B78B42A1B406979AF8C9B05B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/4_madison_primary_bedrooom.jpg?as=1&w=1280&rev=2f6429748b794fddafda01c9bcde7f17&hash=25C2E83097FD670E1B5C2F8B855BFF62",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/5_madison_primarybathroom.jpg?as=1&w=1280&rev=c28fb7efb5134171950f0da4b68a0918&hash=6E9DA93E29B306B1B7D01A556216B7D1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/6_madison_guestbedroom.jpg?as=1&w=1280&rev=8d61f8b9ad8b459e83d10f3444f82dfe&hash=DB0E9214D00A0A6F49964EBB160B68BA",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/6_madison_office.jpg?as=1&w=1280&rev=8a3f01bb15e04e008b4c13375ca6f3d1&hash=8CDEB648B09E14A53AAD63D36361B483",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/7_madison_guestbathroom.jpg?as=1&w=1280&rev=506412c2718d493a90405f9af7d1c80d&hash=A913A91292D4B1F54472B5C858F425F3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/7_madison_guestbedroom.jpg?as=1&w=1280&rev=1536ff64e71e43c291971e81d8ab7132&hash=65722A71CB0A660B4E6F3DD983FE6429",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/madison_ele_l_with_stone_cs4.jpg?as=1&w=1280&rev=abfe09d83e1441d2b2eb3d302a9fae09&hash=57FA3F64E49CC1D53E81E808F3DD004C"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0018-4235-acoma-drive/1_1_madison_l_withstone_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=a46f8d49fbd94bc2a3fff7cea6ab3ad2&hash=123B627A379F6217DA3E7846F67EE6C3"
           ]
         }
       ],
