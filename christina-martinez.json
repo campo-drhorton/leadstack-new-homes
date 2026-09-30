@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-29T18:59:34.655Z",
+  "updatedAt": "2026-09-30T18:42:10.044Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-09-29T18:59:34.655Z",
-  "photoCount": 109,
+  "publicUpdatedAt": "2026-09-30T18:42:10.044Z",
+  "photoCount": 106,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -261,7 +261,7 @@
       "slug": "derby-creek",
       "name": "Derby Creek",
       "address": "7665 SW 46th Court, Ocala, FL 34474",
-      "availableCount": 3,
+      "availableCount": 2,
       "lowestPrice": 262990,
       "highestPrice": 265990,
       "beds": [
@@ -287,24 +287,6 @@
           ],
           "incentive": 7975,
           "incentiveLabel": "(7,975)"
-        },
-        {
-          "lot": "58",
-          "address": "7828 SW 46th Court",
-          "plan": "Cameron",
-          "price": 265990,
-          "priceLabel": "$265,990",
-          "beds": 4,
-          "homeSlug": "7828-sw-46th-court",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7828-sw-46th-court",
-          "baths": "2",
-          "sqft": "1,560",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/1560_e312_cameron_ele_c_cs6_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=72c343bf2e01431c8f4943b00193cbe1&hash=D40FE44B0FE7D39CBB7EAC210E0FE0D8",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/1560_e312_cameron_ele_c_cs6_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=72c343bf2e01431c8f4943b00193cbe1&hash=D40FE44B0FE7D39CBB7EAC210E0FE0D8"
-          ]
         },
         {
           "lot": "59",
@@ -822,7 +804,7 @@
       "slug": "marion-oaks-spot-lots",
       "name": "Marion County Spot Lots",
       "address": "272 Marion Oaks Course, Ocala, FL 34473",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 319990,
       "highestPrice": 344070,
       "beds": [
@@ -901,24 +883,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0364-2982-sw-165th-street-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bbecd7796bdc4e1d91cb1d645d7a64b6&hash=A629C0334C8AF4128F9682C578692B16",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0364-2982-sw-165th-street-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bbecd7796bdc4e1d91cb1d645d7a64b6&hash=A629C0334C8AF4128F9682C578692B16"
-          ]
-        },
-        {
-          "lot": "32",
-          "address": "4037 SW 130th PL",
-          "plan": "Cali",
-          "price": 344070,
-          "priceLabel": "$344,070",
-          "beds": 4,
-          "homeSlug": "4037-sw-130th-pl",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/4037-sw-130th-pl",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d40ad3031448441abe08863502c31bdb&hash=A0E4718A754E78A026D70A2C69BBACCB",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d40ad3031448441abe08863502c31bdb&hash=A0E4718A754E78A026D70A2C69BBACCB"
           ]
         },
         {
@@ -3105,8 +3069,8 @@
       "slug": "the-towns-at-laurel-commons",
       "name": "The Towns at Laurel Commons",
       "address": "8256 SW 67th Avenue, Ocala, FL 34476",
-      "availableCount": 6,
-      "lowestPrice": 224990,
+      "availableCount": 5,
+      "lowestPrice": 229990,
       "highestPrice": 247990,
       "beds": [
         3
@@ -3131,24 +3095,6 @@
           ],
           "incentive": 6080,
           "incentiveLabel": "(6,080)"
-        },
-        {
-          "lot": "155",
-          "address": "6570 SW 82nd Loop",
-          "plan": "Pearson B",
-          "price": 224990,
-          "priceLabel": "$224,990",
-          "beds": 3,
-          "homeSlug": "6570-sw-82nd-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6570-sw-82nd-loop",
-          "baths": "2.5",
-          "sqft": "1,458",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=0d2537e312bd4269ae5be6a0bd2b9322&hash=F62CBF539426F0F2C9532E68F5F48A37",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=0d2537e312bd4269ae5be6a0bd2b9322&hash=F62CBF539426F0F2C9532E68F5F48A37"
-          ]
         },
         {
           "lot": "158",

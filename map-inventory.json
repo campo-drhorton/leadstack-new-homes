@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T19:08:17.618Z",
+  "updatedAt": "2026-09-30T18:50:29.248Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
@@ -2057,8 +2057,8 @@
       "slug": "two-rivers---archer",
       "name": "Archer at Two Rivers",
       "address": "2274 Stratten Dr, Zephyrhills, FL 33541",
-      "availableCount": 10,
-      "lowestPrice": 365000,
+      "availableCount": 9,
+      "lowestPrice": 400000,
       "highestPrice": 582000,
       "beds": [
         4,
@@ -2122,60 +2122,9 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2795/0032-2034-stratten-drive/43-custom-stratten_dr-s3101-043.jpg?as=1&w=1280&rev=2828cca87ec245de8522ed7261938306&hash=B98A494A72BBCDFEA513C71EB1826733",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2795/0032-2034-stratten-drive/44-custom-stratten_dr-s3101-044.jpg?as=1&w=1280&rev=91e34e55f03d49c08ab20e55f37ff284&hash=DC97795DC9D9CBF5E00E3C21722BB6CC",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2795/camden_blacklines_two_rivers_no_waterheater_25.jpg?as=1&w=1280&rev=c03298f322d349079ae6701f7056b100&hash=2B61BCD9D414B09CE30E4FF0AC861E1F"
-          ]
-        },
-        {
-          "lot": "28",
-          "address": "2371 Bender Drive",
-          "plan": "",
-          "price": 365000,
-          "priceLabel": "$365,000",
-          "beds": 4,
-          "homeSlug": "2371-bender-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/qmis/2371-bender-drive",
-          "baths": "2.5",
-          "sqft": "2,305",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/elston_ii_mc.jpg?as=1&w=1280&rev=3dd1be6d32614ae5b5b1e3ba7297a664&hash=D4B817F9C4F039D83CD51A2676E426FF",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/elston_ii_mc.jpg?as=1&w=1280&rev=3dd1be6d32614ae5b5b1e3ba7297a664&hash=D4B817F9C4F039D83CD51A2676E426FF",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/5-custom-pleasantview_blvd-04042025-1-005.jpg?as=1&w=1280&rev=bc863dbd9e504ff9aab642dca49e0433&hash=C433CCA4121F9C3DF6649BCB478162B3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/6-custom-pleasantview_blvd-04042025-1-006.jpg?as=1&w=1280&rev=45d04898fa264628851c7a00e4fc1719&hash=419BB30CBE4CAA773F271F9C394363A0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/7-custom-pleasantview_blvd-04042025-1-007.jpg?as=1&w=1280&rev=5e0b7aa82cf54b69a47ce8408cb8e910&hash=AC1892174A0F7DB9A9C4DD0A020CA2EF",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/8-custom-pleasantview_blvd-04042025-1-008.jpg?as=1&w=1280&rev=3e46ef48f4c74069853cc572525b0bfc&hash=FBAE32E627EA29E22D79A0E725E47B74",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/9-custom-pleasantview_blvd-04042025-1-009.jpg?as=1&w=1280&rev=52a5e19629f843fea02de1b5cae16aa1&hash=7BE7D6021BC831E5CB688FBB84D11A4C",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/10-custom-pleasantview_blvd-04042025-1-010.jpg?as=1&w=1280&rev=c151567192334d2c87b7e4096d09c059&hash=D1FB9052BC370798D7C777F15436BC3F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/11-custom-pleasantview_blvd-04042025-1-011.jpg?as=1&w=1280&rev=a995a1f3f64d49b4bceb82c9b93a0a12&hash=8F0AEE8B5570F38BBDD52A0A7FFA810A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/12-custom-pleasantview_blvd-04042025-1-012.jpg?as=1&w=1280&rev=1da4754249e243b7afc1ef543fd9474d&hash=658C2796017C72F2FF466C19AC8FC4C7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/13-custom-pleasantview_blvd-04042025-1-013.jpg?as=1&w=1280&rev=29669c845b2041f58f527cc891242391&hash=7F9880FD5F65191008161A165CCD9A90",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/14-custom-pleasantview_blvd-04042025-1-014.jpg?as=1&w=1280&rev=efaffc5c53524ade87fc9a8c61b222af&hash=5E212F9AA1F22FE7549D257BBF2265DA",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/15-custom-pleasantview_blvd-04042025-1-015.jpg?as=1&w=1280&rev=ea9c12de3b6c4fbca43835d8342b597c&hash=54AF214F620E6CCF3B70AB7205F5B4E6",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/16-custom-pleasantview_blvd-04042025-1-016.jpg?as=1&w=1280&rev=2ef89d3b86974cec968eb1b2b2fde5f8&hash=B59FBA196FA1FF1348FCA2EBA79C733C",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/17-custom-pleasantview_blvd-04042025-1-017.jpg?as=1&w=1280&rev=bc7a810e9c07446daf7f12ddd447d345&hash=AD01D7D5C122B765705F8D8AEDC86BA3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/18-custom-pleasantview_blvd-04042025-1-018.jpg?as=1&w=1280&rev=e52535479e0a4fe995c38d38b7391f68&hash=F30AD69DCDD5F07520D5410A2F8B61D1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/19-custom-pleasantview_blvd-04042025-1-019.jpg?as=1&w=1280&rev=0657d09542384017a8a460e7f9e96b99&hash=B1FF7E4877FE6DFB54DD3456381B06B0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/22-custom-pleasantview_blvd-04042025-1-022.jpg?as=1&w=1280&rev=ab1af9195e024db79e5d0a56396d0cd4&hash=68B0D7150219170A8AACCC18991CFC87",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/23-custom-pleasantview_blvd-04042025-1-023.jpg?as=1&w=1280&rev=e391ba9be105456899c7e75799e8acee&hash=0CA38594EF1D9E48AEB2854B52FCE204",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/24-custom-pleasantview_blvd-04042025-1-024.jpg?as=1&w=1280&rev=40320be3337f434b8b4040bffb5a9630&hash=FCFFC00DDC7C48EACB92445409F946D9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/25-custom-pleasantview_blvd-04042025-1-025.jpg?as=1&w=1280&rev=d88f24c696884a97b72b54f4054b99b3&hash=67E20575EB3BAB4C700A46193CA8D471",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/26-custom-pleasantview_blvd-04042025-1-026.jpg?as=1&w=1280&rev=41a481068f2e4a2f9e4946032ae28f4a&hash=17DEF7D06C89ABAABE1FA48B42EB9CF4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/27-custom-pleasantview_blvd-04042025-1-027.jpg?as=1&w=1280&rev=6778fdd98a694546937d3dd3c69b5169&hash=371F77534ECAF6B6C45B1D7C948C0ACA",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/28-custom-pleasantview_blvd-04042025-1-028.jpg?as=1&w=1280&rev=0d24b97ef72e422da7caecd681dd327b&hash=DB45963A7D0D0DDC54D98FD0B6EBEB20",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/29-custom-pleasantview_blvd-04042025-1-029.jpg?as=1&w=1280&rev=0fa268f11a584774a7b1259ece37fb09&hash=16EDA2438FAEE78B6D49A50C38A4157B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/30-custom-pleasantview_blvd-04042025-1-030.jpg?as=1&w=1280&rev=cd4da1c9ea3443bda90d6018a66edea3&hash=4E2F209642DA994ADEE31196C36F682D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/31-custom-pleasantview_blvd-04042025-1-031.jpg?as=1&w=1280&rev=b7e27b553d1e4f0282684a7ad67ea6e9&hash=62A5673968911184652CD15117FA5A29",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/32-custom-pleasantview_blvd-04042025-1-032.jpg?as=1&w=1280&rev=3da3f7179fd042a4ab5292518968819c&hash=700C7B4D17A7D41D0C75B064D9C8D747",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/33-custom-pleasantview_blvd-04042025-1-033.jpg?as=1&w=1280&rev=bf6e4446851442c39239167e702e6241&hash=83932F6E211EDB85AB1937C5CE1F7C29",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/34-custom-pleasantview_blvd-04042025-1-034.jpg?as=1&w=1280&rev=e4903b92e69f45b9b41304da408feaaa&hash=86320C4A6DDC3716721CC7EA4E6E1D33",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/35-custom-pleasantview_blvd-04042025-1-035.jpg?as=1&w=1280&rev=526bd71bf0474ba5bdf578ac26c0e7e7&hash=FF9F53D337FD471FF1052A75821BE980",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/36-custom-pleasantview_blvd-04042025-1-036.jpg?as=1&w=1280&rev=b0d4f7783d4346e589afef304b5eb7f7&hash=55B3D523C8CA6B0D76618A75BE3FFF02",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/37-custom-pleasantview_blvd-04042025-1-037.jpg?as=1&w=1280&rev=b0eb060c22a54211b905441bda3edeeb&hash=705A0838B15AE4D3AA552F679213D1E3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/38-custom-pleasantview_blvd-04042025-1-038.jpg?as=1&w=1280&rev=923c37206f274c1abcd4de4d7b89fbd8&hash=73A009255016A7176622146A42DAA3F9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/39-custom-pleasantview_blvd-04042025-1-039.jpg?as=1&w=1280&rev=25829d4e6a6d4cfd88f888ccf8281464&hash=8D666B9B7CF239C3359542F4B8EF6A4D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/0028-2371-bender-drive/40-custom-pleasantview_blvd-04042025-1-040.jpg?as=1&w=1280&rev=46aa89385e594b62ac767efab11d67a5&hash=902D9D0437D4B65F4A8F93D23C4B7D0B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394370000-archer-at-two-rivers-40s-exp/e303/elston_ii_blacklines.jpg?as=1&w=1280&rev=d20db4398c8b4c99a8ea9f0034a40757&hash=56C604D7BE375379F19EBA1932D4CEF1"
-          ]
+          ],
+          "incentive": 50490,
+          "incentiveLabel": "(50,490)"
         },
         {
           "lot": "22",
@@ -4591,7 +4540,7 @@
       "slug": "balm-grove",
       "name": "Balm Grove",
       "address": "13610 Fenwick Stream Dr, Wimauma, FL 33598",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 285000,
       "highestPrice": 415000,
       "beds": [
@@ -4848,51 +4797,6 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e406/archer_ii_blacklines.jpg?as=1&w=1280&rev=72efc062b7ca47fea4e9cd5cae6dec4c&hash=A0C289EE7D7997A22224707CACD7E953"
           ],
           "photo": "https://www.drhorton.com/-/media/drhorton/creativecatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e406/0006-15016-crosshall-stream-dr/archer_ele_a_c8_without_stone_8-0.jpg?as=1&w=1280&rev=ecb180cf6dda444194fd4996a6a1bad9&hash=FA279725CD04EC5EDD8D670DA2C22961"
-        },
-        {
-          "lot": "78",
-          "address": "15022 Crosshall Stream Dr",
-          "plan": "",
-          "price": 310000,
-          "priceLabel": "$310,000",
-          "beds": 4,
-          "homeSlug": "15022-crosshall-stream-dr",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/qmis/15022-crosshall-stream-dr",
-          "baths": "2",
-          "sqft": "1,498",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/freeport_ele_a_with_siding_8_0_no_cl.jpg?as=1&w=1280&rev=20ab76f75fbb4dffafcf72ac036e1baf&hash=934936166515E7A305C1B9FA69117730",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/freeport_ele_a_with_siding_8_0_no_cl.jpg?as=1&w=1280&rev=20ab76f75fbb4dffafcf72ac036e1baf&hash=934936166515E7A305C1B9FA69117730",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/9-custom-wild_clover_way-s2001-009.jpg?as=1&w=1280&rev=845fd87fa3464cdca2e88119315d6ea9&hash=C05785F58B9FD4700C30EF5F21DE67A6",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/10-custom-wild_clover_way-s2001-010.jpg?as=1&w=1280&rev=02c8f6b5de104fe89825d7218aa0fa78&hash=12B84C6C072539140B46B52A537DFDC8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/11-custom-wild_clover_way-s2001-011.jpg?as=1&w=1280&rev=9a935621dae84f188170c1080858564d&hash=F3F343016CCB1F83AD6C02D4ABE45F5E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/12-custom-wild_clover_way-s2001-012.jpg?as=1&w=1280&rev=c955de8670984562914b4511517ece3f&hash=076247EF3822C4AE6CDC3230EC7F2953",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/13-custom-wild_clover_way-s2001-013.jpg?as=1&w=1280&rev=04d9514c8b414df299064f1757799902&hash=404E63AB55FA33B4437853C084E24830",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/14-custom-wild_clover_way-s2001-014.jpg?as=1&w=1280&rev=82ec330bd4e84403a8d7964a1fb11caa&hash=155F8F9923217BB15352505FAF576C8B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/15-custom-wild_clover_way-s2001-015.jpg?as=1&w=1280&rev=54925507aa634560990500a319fde69b&hash=149A61A4D788E9E61904050C05047C80",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/16-custom-wild_clover_way-s2001-016.jpg?as=1&w=1280&rev=0b3b52ad20654c8d89015564491a4e12&hash=01800CFBF98618FEC1ABA3830C198572",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/17-custom-wild_clover_way-s2001-017.jpg?as=1&w=1280&rev=322856e8839f40f784da82588fd5b3a5&hash=0DC00D6E8E7837E02A2659BE144C6B66",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/18-custom-wild_clover_way-s2001-018.jpg?as=1&w=1280&rev=24159e3a337543039b96dee6536b62fb&hash=96DB5D749083BA706413EB44F704D74C",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/19-custom-wild_clover_way-s2001-019.jpg?as=1&w=1280&rev=bffc9c32fb5e4f29899b356e565ceccd&hash=1418BD67C1A47E45EF4188681004F8C6",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/20-custom-wild_clover_way-s2001-020.jpg?as=1&w=1280&rev=c752e3f1032247d688be6a687c768747&hash=53A2A0E455D9D8D275484C3EDF98FB06",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/21-custom-wild_clover_way-s2001-021.jpg?as=1&w=1280&rev=f33733e87c154beb82cf514fa0d3b7c5&hash=2C20A7567B092587B59FFD0EC775A3D3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/22-custom-wild_clover_way-s2001-022.jpg?as=1&w=1280&rev=421f818e76884859a58109ffcc086d96&hash=9B591B10060E879AED25AE083B18C6B1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/23-custom-wild_clover_way-s2001-023.jpg?as=1&w=1280&rev=4c03ec5e48d446419d44036a358f3c80&hash=4E16C8381CA0D137CB9DE3AF74847844",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/24-custom-wild_clover_way-s2001-024.jpg?as=1&w=1280&rev=5d42eb0586f147b9a86b0ecc13aece30&hash=A8067ADBFD9FF331B14D8B66E0E39789",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/25-custom-wild_clover_way-s2001-025.jpg?as=1&w=1280&rev=351ffec55f9d4ff3a210115c2aec9b18&hash=7CC7E0ED1AF66A7EBEB4FE6AFBC3E935",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/26-custom-wild_clover_way-s2001-026.jpg?as=1&w=1280&rev=a4a5b97a6cfe4679ad2952ecc3282cbf&hash=A9BF0A30DEE3E74007AA7DD5E0838ECA",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/27-custom-wild_clover_way-s2001-027.jpg?as=1&w=1280&rev=0eaaa51c68d0418fafeb60eaa40d3767&hash=3560F6F62582787124702DA72CF90AC8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/28-custom-wild_clover_way-s2001-028.jpg?as=1&w=1280&rev=cf6fe3041c144e748fe6072a4f1c860b&hash=03EFB41934B4D908C4A11102056987D3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/29-custom-wild_clover_way-s2001-029.jpg?as=1&w=1280&rev=4285838429524fa19f8cd26a1ca64360&hash=973ED1908F88C2613DC92AB038FE9E0D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/30-custom-wild_clover_way-s2001-030.jpg?as=1&w=1280&rev=c02e3a07a75242e39389fcc830c8de74&hash=FDAD03B018E52D57E05557D3B04B4D71",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/31-custom-wild_clover_way-s2001-031.jpg?as=1&w=1280&rev=6bfe989fda5747c7bc560829eb7759a6&hash=2C5AA8E1B781F98A98D79F5009A69E7E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/32-custom-wild_clover_way-s2001-032.jpg?as=1&w=1280&rev=354d79c2e7a04de9a304b14f3ad9e900&hash=137EDF1A7E258D2E839DE85D4ADC31D9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/33-custom-wild_clover_way-s2001-033.jpg?as=1&w=1280&rev=cdbd616366c9433e8c3fed2eb24c5569&hash=9C89BF7CE0EA6A5673D02E7FD801A108",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/0008-15022-crosshall-stream-dr/37-custom-wild_clover_way-s2001-037.jpg?as=1&w=1280&rev=ce0f8baa2b4949f098c3aeea1734f071&hash=A2F0CEE91C2F40EDB7BC6AD81BBEC6BC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e407/freeport_ii_blacklines_permit_submissions_as_of_11_10_25.jpg?as=1&w=1280&rev=37e254df877c47119c781e10360c4413&hash=86B3FE79A164E393C8EC30208928DA12"
-          ]
         },
         {
           "lot": "311",
@@ -8960,8 +8864,8 @@
           "lot": "415",
           "address": "5285 Masser Road",
           "plan": "",
-          "price": 395685,
-          "priceLabel": "$395,685",
+          "price": 384990,
+          "priceLabel": "$384,990",
           "beds": 4,
           "homeSlug": "5285-masser-road",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/5285-masser-road",
@@ -11049,7 +10953,7 @@
       "slug": "concorde",
       "name": "Concorde",
       "address": "3616 Botanical Way, Sanford, FL 32773",
-      "availableCount": 6,
+      "availableCount": 8,
       "lowestPrice": 405000,
       "highestPrice": 498990,
       "beds": [
@@ -11074,6 +10978,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0175-1355-grand-flora-lane/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=ba8c182e377d4d47b4448a3347c2ede1&hash=2ABAD57D2308B8063C9E9B72870E53EA",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0175-1355-grand-flora-lane/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=ba8c182e377d4d47b4448a3347c2ede1&hash=2ABAD57D2308B8063C9E9B72870E53EA"
+          ]
+        },
+        {
+          "lot": "376",
+          "address": "1352 Grand Flora Lane",
+          "plan": "",
+          "price": 420990,
+          "priceLabel": "$420,990",
+          "beds": 3,
+          "homeSlug": "1352-grand-flora-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/seminole-county/sanford/concorde/qmis/1352-grand-flora-lane",
+          "baths": "2",
+          "sqft": "1,504",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0187-1352-grand-flora-lane/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=b69e84127bfd4d99976f7cc9e4e9561e&hash=1AE34A57596ACFB136A5211A3B94D4D7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0187-1352-grand-flora-lane/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=b69e84127bfd4d99976f7cc9e4e9561e&hash=1AE34A57596ACFB136A5211A3B94D4D7"
           ]
         },
         {
@@ -11196,6 +11118,24 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3emb/0159-1380-scarlett-sage-lane/8_harper_primarybathroom.jpg?as=1&w=1280&rev=580097951cfb4ec1bd5c4f2503940f32&hash=E79217722AC5FCD91270D2A72A3AB663",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3emb/0159-1380-scarlett-sage-lane/9_harper_guestbathroom.jpg?as=1&w=1280&rev=ad0faa62a16b4cdf8f498613b99927ac&hash=88E15803A358AB9F375F56FC454CEEDA",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3emb/harper_g.jpg?as=1&w=1280&rev=6b1557150bbe4f3c85c5adef13661e7f&hash=8C85BC9DF4531C2E3F413D227F1F5CDB"
+          ]
+        },
+        {
+          "lot": "378",
+          "address": "1344 Grand Flora Lane",
+          "plan": "",
+          "price": 498990,
+          "priceLabel": "$498,990",
+          "beds": 5,
+          "homeSlug": "1344-grand-flora-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/seminole-county/sanford/concorde/qmis/1344-grand-flora-lane",
+          "baths": "3",
+          "sqft": "2,447",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3efb/0189-1344-grand-flora-lane/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ac1bf88232cd4e54bf54a46419828f07&hash=BD21B6C6C5486AE82116E0C37508932D",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3efb/0189-1344-grand-flora-lane/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ac1bf88232cd4e54bf54a46419828f07&hash=BD21B6C6C5486AE82116E0C37508932D"
           ]
         },
         {
@@ -11454,7 +11394,7 @@
       "address": "5270 Marshelder Street, Apopka, FL 32712",
       "availableCount": 7,
       "lowestPrice": 419997,
-      "highestPrice": 513080,
+      "highestPrice": 499997,
       "beds": [
         3,
         4,
@@ -11531,8 +11471,8 @@
           "lot": "530",
           "address": "4910 Marshelder St",
           "plan": "",
-          "price": 513080,
-          "priceLabel": "$513,080",
+          "price": 499997,
+          "priceLabel": "$499,997",
           "beds": 5,
           "homeSlug": "4910-marshelder-st",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/crossroads-at-kelly-park/qmis/4910-marshelder-st",
@@ -14543,7 +14483,7 @@
       "slug": "derby-creek",
       "name": "Derby Creek",
       "address": "7665 SW 46th Court, Ocala, FL 34474",
-      "availableCount": 3,
+      "availableCount": 2,
       "lowestPrice": 262990,
       "highestPrice": 265990,
       "beds": [
@@ -14584,39 +14524,6 @@
           ],
           "incentive": 7975,
           "incentiveLabel": "(7,975)"
-        },
-        {
-          "lot": "58",
-          "address": "7828 SW 46th Court",
-          "plan": "Cameron",
-          "price": 265990,
-          "priceLabel": "$265,990",
-          "beds": 4,
-          "homeSlug": "7828-sw-46th-court",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7828-sw-46th-court",
-          "baths": "2",
-          "sqft": "1,560",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/1560_e312_cameron_ele_c_cs6_cropped.jpg?as=1&w=1280&rev=72c343bf2e01431c8f4943b00193cbe1&hash=075388C7D8679D2D218C79339536B2DF",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/1560_e312_cameron_ele_c_cs6_cropped.jpg?as=1&w=1280&rev=72c343bf2e01431c8f4943b00193cbe1&hash=075388C7D8679D2D218C79339536B2DF",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/1_cameron_kitchen.jpg?as=1&w=1280&rev=58a5e74b5b524ebda2ae4c73d08c76bb&hash=D8D5020F9AA8FF75062D9092B3A06C8F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/2_cameron_kitchen.jpg?as=1&w=1280&rev=ff70a6ed53874ecc82683a052f31973e&hash=BFC5E2595ABFBDC9AB1D17239D9FAC1E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/4_cameron_kitchen.jpg?as=1&w=1280&rev=8e3e15593e0649edace2ea2919d4d180&hash=7DEF09A0E1ACB77B7A63C31C336EF0B7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/5_cameron_dining_room.jpg?as=1&w=1280&rev=305aa6d15c784ce1a8562d0908187e8e&hash=695CD71666A263A9294B222D74FFCE5F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/6_cameron_dining_room.jpg?as=1&w=1280&rev=3302a297f12f4e718f6ceb5d857a3438&hash=C4E4D8B824A023CD886CD6858185FEF1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/7_cameron_living_room.jpg?as=1&w=1280&rev=a3a7f7a8fcb0459b8505dcb350798cf9&hash=04589EC02455678C88B155C1F1D6D452",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/8_cameron_living_room.jpg?as=1&w=1280&rev=db9eabb5acfb474d9313f529613a8241&hash=539ADF86A81841DCB936A0B1B72F56B3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/9_cameron_living_room.jpg?as=1&w=1280&rev=06c01031b1ff4920b900d4aac8c30698&hash=AB188180C03DE31C5328A3244596BF89",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/10_cameron_owners_suite.jpg?as=1&w=1280&rev=1e36e191ac9841f3bdc8b9140401f2e6&hash=B47622A2CF76FB7B715F15DBBE171D6B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/12_cameron_owners_ensuite_bathroom.jpg?as=1&w=1280&rev=397588fc59c34097913d6cd133887a14&hash=193BA08BA90550DB2E0E291CCAAC133B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/13_cameron_bedroom2.jpg?as=1&w=1280&rev=752509447b2a4cdbade340776716ba7b&hash=EF75D44716BBCE732EC32C743FE5CFD3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/14_cameron_bedroom2.jpg?as=1&w=1280&rev=405ae0c094db4428a191f60e92e40101&hash=0BA1497B9B3E06DDF6C9AEA56DEBFA0F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/15_cameron_bedroom3.jpg?as=1&w=1280&rev=e6bf7d69afce4aa7a230387ef90034c8&hash=FDF675D74E59052DF2B39E792B4A7F56",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/16_cameron_bathroom2.jpg?as=1&w=1280&rev=8fd619a28a41438097720c924ed44f90&hash=73F4FF9651294D4775FC05A1552A2A81",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0058-7828-sw-46th-court/17_cameron_bedroom4.jpg?as=1&w=1280&rev=851aa5598cb94000a127e91fe13cb868&hash=3990B328005607C6C4E4622F2E2C28BA"
-          ]
         },
         {
           "lot": "59",
@@ -15894,7 +15801,7 @@
       "address": "1792 Bryant Street, Kissimmee, FL 34746",
       "availableCount": 12,
       "lowestPrice": 309990,
-      "highestPrice": 351860,
+      "highestPrice": 324997,
       "beds": [
         3
       ],
@@ -15903,8 +15810,8 @@
           "lot": "49",
           "address": "1832 Bryant Street",
           "plan": "",
-          "price": 348822,
-          "priceLabel": "$348,822",
+          "price": 324997,
+          "priceLabel": "$324,997",
           "beds": 3,
           "homeSlug": "1832--bryant-street",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/evergreen-park/qmis/1832--bryant-street",
@@ -15938,7 +15845,9 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38543-evergreen-park-ths/385430000-evergreen-park-ths-fl/t20a/0033-1832--bryant-street/30-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc08035_copy.jpg?as=1&w=1280&rev=582e87eb702344abb64ff4f92255e2b9&hash=2358F447B8644295A8C6B2D23D89129A",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38543-evergreen-park-ths/385430000-evergreen-park-ths-fl/t20a/pearson_a_b_resizedweb_endunit.jpg?as=1&w=1280&rev=2fe3060477f749ecab6e95ad09bb13d7&hash=4D8C1B7075B5EA63618CE7928C3D86E4",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38543-evergreen-park-ths/385430000-evergreen-park-ths-fl/t20a/pearson_b_no_logo.jpg?as=1&w=1280&rev=33bb49a1ee284fef82efa85afa0f5791&hash=A8F7BA6315E4FA20FEE4BC06E50BDC04"
-          ]
+          ],
+          "incentive": 23825,
+          "incentiveLabel": "(23,825)"
         },
         {
           "lot": "40",
@@ -16066,8 +15975,8 @@
           "lot": "49",
           "address": "1832 Bryant Street",
           "plan": "",
-          "price": 348822,
-          "priceLabel": "$348,822",
+          "price": 324997,
+          "priceLabel": "$324,997",
           "beds": 3,
           "homeSlug": "1832--bryant-street",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/evergreen-park/qmis/1832--bryant-street",
@@ -16107,8 +16016,8 @@
           "lot": "59",
           "address": "4310 Hazel Street",
           "plan": "",
-          "price": 351860,
-          "priceLabel": "$351,860",
+          "price": 324997,
+          "priceLabel": "$324,997",
           "beds": 3,
           "homeSlug": "4310--hazel-street",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/evergreen-park/qmis/4310--hazel-street",
@@ -18901,7 +18810,7 @@
       "slug": "fountain-view",
       "name": "Fountain View",
       "address": "1383 Fountain View St, Ormond Beach, FL 32174",
-      "availableCount": 14,
+      "availableCount": 15,
       "lowestPrice": 315000,
       "highestPrice": 417990,
       "beds": [
@@ -19000,6 +18909,34 @@
           ]
         },
         {
+          "lot": "167",
+          "address": "1476 Morning Walk Drive",
+          "plan": "",
+          "price": 334997,
+          "priceLabel": "$334,997",
+          "beds": 4,
+          "homeSlug": "1476-morning-walk-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1476-morning-walk-drive",
+          "baths": "2",
+          "sqft": "1,498",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/1_1_freeportii_exteriorb.jpg?as=1&w=1280&rev=e3c47c73fe5f40ce82f0abab500eca4a&hash=CEE6F26701C2E77AC2180757283757AB",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/1_1_freeportii_exteriorb.jpg?as=1&w=1280&rev=e3c47c73fe5f40ce82f0abab500eca4a&hash=CEE6F26701C2E77AC2180757283757AB",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/1_freeport_kitchen.jpg?as=1&w=1280&rev=96ba944df0dc443b8df8539d3caaf16a&hash=965CF376B2B86AD0BAC8FF44671B4ED8",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/2_freeport_kitchen.jpg?as=1&w=1280&rev=aa59c3fa703f46d3a05939fa23761a54&hash=3567B383D543940D82AE7A1E3BA126C0",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/3_freeport_livingarea.jpg?as=1&w=1280&rev=3e335ba2ef544590a4257ad35c769ca9&hash=4C91A8D014D86077F0F8F56E991DA604",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/4_freeport_dining.jpg?as=1&w=1280&rev=ad5ea9584ad34f55a8e093ff379ca30e&hash=F1193AD9AE3795184D05FAD98D473AF8",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/5_freeport_primarybedroom.jpg?as=1&w=1280&rev=1b1ce606adda48c2a47e33488ca496f3&hash=719B390618F69F3061E8C2A3B5D1FECF",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/6_freeport_primarybathroom.jpg?as=1&w=1280&rev=81451e4ec58041c3b631b491d02cf7bf&hash=49D30645B916818ACA4D353A418F0ED7",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/7_freeport_guest_bedroom.jpg?as=1&w=1280&rev=c616d4a137c04bd6b0970215ad105c4d&hash=28596CB7963635303B2D6295ED040986",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/freeportii_guestbathroom.jpg?as=1&w=1280&rev=88807698c1804c758d15a0fdb746b1f7&hash=CE1ED4229FCD873B4A9337142FEB0267",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/freeportii_office.jpg?as=1&w=1280&rev=d08fc811525d4f50810f877ad0bc73c7&hash=925AAF3FEF03162C0483E4BDFFF944BB",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/freeport_ii_b_web.jpg?as=1&w=1280&rev=ff1da78cf65b4f848af13e459d27dde1&hash=73A681E732DA0CE25C5B6B68A640EC08"
+          ]
+        },
+        {
           "lot": "168",
           "address": "1480 Morning Walk Drive",
           "plan": "",
@@ -19026,34 +18963,6 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e405/0149-1480-morning-walk-drive/9_dundee_guestbedroom.jpg?as=1&w=1280&rev=36f177ea9f93484184f2e8c9d582224b&hash=2267A5BC83D218404E0A8205229D6392",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e405/0149-1480-morning-walk-drive/kids_room.jpg?as=1&w=1280&rev=45e182aa5ac1447187f37b062f88b399&hash=9E9AA5BAF2FDDCA5C447B6683A33359A",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e405/dundee_a_web.jpg?as=1&w=1280&rev=95f9a3d411094bc989b8cc1a3d288941&hash=288AF8A684042F74D8A82833E9ED332F"
-          ]
-        },
-        {
-          "lot": "167",
-          "address": "1476 Morning Walk Drive",
-          "plan": "",
-          "price": 344110,
-          "priceLabel": "$344,110",
-          "beds": 4,
-          "homeSlug": "1476-morning-walk-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1476-morning-walk-drive",
-          "baths": "2",
-          "sqft": "1,498",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/1_1_freeportii_exteriorb.jpg?as=1&w=1280&rev=e3c47c73fe5f40ce82f0abab500eca4a&hash=CEE6F26701C2E77AC2180757283757AB",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/1_1_freeportii_exteriorb.jpg?as=1&w=1280&rev=e3c47c73fe5f40ce82f0abab500eca4a&hash=CEE6F26701C2E77AC2180757283757AB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/1_freeport_kitchen.jpg?as=1&w=1280&rev=96ba944df0dc443b8df8539d3caaf16a&hash=965CF376B2B86AD0BAC8FF44671B4ED8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/2_freeport_kitchen.jpg?as=1&w=1280&rev=aa59c3fa703f46d3a05939fa23761a54&hash=3567B383D543940D82AE7A1E3BA126C0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/3_freeport_livingarea.jpg?as=1&w=1280&rev=3e335ba2ef544590a4257ad35c769ca9&hash=4C91A8D014D86077F0F8F56E991DA604",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/4_freeport_dining.jpg?as=1&w=1280&rev=ad5ea9584ad34f55a8e093ff379ca30e&hash=F1193AD9AE3795184D05FAD98D473AF8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/5_freeport_primarybedroom.jpg?as=1&w=1280&rev=1b1ce606adda48c2a47e33488ca496f3&hash=719B390618F69F3061E8C2A3B5D1FECF",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/6_freeport_primarybathroom.jpg?as=1&w=1280&rev=81451e4ec58041c3b631b491d02cf7bf&hash=49D30645B916818ACA4D353A418F0ED7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/7_freeport_guest_bedroom.jpg?as=1&w=1280&rev=c616d4a137c04bd6b0970215ad105c4d&hash=28596CB7963635303B2D6295ED040986",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/freeportii_guestbathroom.jpg?as=1&w=1280&rev=88807698c1804c758d15a0fdb746b1f7&hash=CE1ED4229FCD873B4A9337142FEB0267",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/freeportii_office.jpg?as=1&w=1280&rev=d08fc811525d4f50810f877ad0bc73c7&hash=925AAF3FEF03162C0483E4BDFFF944BB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/freeport_ii_b_web.jpg?as=1&w=1280&rev=ff1da78cf65b4f848af13e459d27dde1&hash=73A681E732DA0CE25C5B6B68A640EC08"
           ]
         },
         {
@@ -19165,6 +19074,24 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0158-1524-morning-walk-drive/freeportii_guestbathroom.jpg?as=1&w=1280&rev=9fe907fab07f4fc391f0542f374b21e3&hash=A3C78DDC8A6386C6189E356C7A14FA02",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0158-1524-morning-walk-drive/freeportii_office.jpg?as=1&w=1280&rev=9b1ea039095149b7b95aec3b9b77a398&hash=541B10A6D2791024571068B9ADFCEFF6",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/freeport_ii_a_web.jpg?as=1&w=1280&rev=dbe8aa97c7ee4adda801b3eebf5f5eaf&hash=F2A1B2616EAA3EB418AB7E50BF39D812"
+          ]
+        },
+        {
+          "lot": "193",
+          "address": "1495 Morning Walk Drive",
+          "plan": "",
+          "price": 387990,
+          "priceLabel": "$387,990",
+          "beds": 4,
+          "homeSlug": "1495-morning-walk-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1495-morning-walk-drive",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0171-1495-morning-walk-drive/1_1_cali_exterior_m.jpg?iar=1&sc=1&thn=1&w=425&rev=f3b62bfaa9b74265bf3d6129c581465b&hash=E88CA1907540BF4C5067B52C15DD4060",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0171-1495-morning-walk-drive/1_1_cali_exterior_m.jpg?iar=1&sc=1&thn=1&w=425&rev=f3b62bfaa9b74265bf3d6129c581465b&hash=E88CA1907540BF4C5067B52C15DD4060"
           ]
         },
         {
@@ -20415,9 +20342,9 @@
       "slug": "gardenside-at-ormond-station",
       "name": "Gardenside at Ormond Station",
       "address": "Gardenside at Ormond Station",
-      "availableCount": 6,
+      "availableCount": 8,
       "lowestPrice": 329797,
-      "highestPrice": 348060,
+      "highestPrice": 375990,
       "beds": [
         3,
         4,
@@ -20537,6 +20464,42 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/e406/0056-141-heirloom-drive/10_archer_ii_guest_bedroom.jpg?as=1&w=1280&rev=6d4f671682d34b08873233a8764a6735&hash=B8BD5B3B5538B14392EFEE68556E1E3B",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/e406/0056-141-heirloom-drive/11_guest_bathroom.jpg?as=1&w=1280&rev=e8261a95ad914d79adc01a0341158ade&hash=19C3BF7CE9571FC226F949D73D0197E3",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/e406/archer_ii_elevation_b_web.jpg?as=1&w=1280&rev=40be77a7bc464afeb550f09ad54040d7&hash=878ADBA078FC2F77E3AFDA71D860E3FA"
+          ]
+        },
+        {
+          "lot": "53",
+          "address": "144 Heirloom Drive",
+          "plan": "",
+          "price": 357990,
+          "priceLabel": "$357,990",
+          "beds": 4,
+          "homeSlug": "144-heirloom-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/gardenside-at-ormond-station/qmis/144-heirloom-drive",
+          "baths": "2",
+          "sqft": "1,498",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/e407/0053-144-heirloom-drive/1_1_freeportii_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=b25d23c8d62947eead7fce4f5c6803ce&hash=4847D27428D70D8A369AFC20DA439154",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/e407/0053-144-heirloom-drive/1_1_freeportii_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=b25d23c8d62947eead7fce4f5c6803ce&hash=4847D27428D70D8A369AFC20DA439154"
+          ]
+        },
+        {
+          "lot": "54",
+          "address": "145 Heirloom Drive",
+          "plan": "",
+          "price": 375990,
+          "priceLabel": "$375,990",
+          "beds": 5,
+          "homeSlug": "145-heirloom-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/gardenside-at-ormond-station/qmis/145-heirloom-drive",
+          "baths": "2",
+          "sqft": "1,708",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/e405/0054-145-heirloom-drive/1_1_dundee_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=3d1f031120b64849a02e115ad50c71e7&hash=62256407E9E720E43C5346AA34BA4777",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/e405/0054-145-heirloom-drive/1_1_dundee_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=3d1f031120b64849a02e115ad50c71e7&hash=62256407E9E720E43C5346AA34BA4777"
           ]
         },
         {
@@ -20787,11 +20750,32 @@
       "slug": "groveside-at-ormond-station",
       "name": "Groveside at Ormond Station",
       "address": "Groveside at Ormond Station",
-      "availableCount": 0,
-      "lowestPrice": null,
-      "highestPrice": null,
-      "beds": [],
-      "lots": [],
+      "availableCount": 1,
+      "lowestPrice": 372171,
+      "highestPrice": 372171,
+      "beds": [
+        4
+      ],
+      "lots": [
+        {
+          "lot": "19",
+          "address": "13 Honeybell Way",
+          "plan": "",
+          "price": 372171,
+          "priceLabel": "$372,171",
+          "beds": 4,
+          "homeSlug": "13-honeybell-way",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/groveside-at-ormond-station/qmis/13-honeybell-way",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ebb/0019-13-honeybell-way/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=34255676fd484adfb1ad0d5ef818ddf5&hash=6F4EB8FCFCB59BAB55D8C755E8B07AAA",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ebb/0019-13-honeybell-way/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=34255676fd484adfb1ad0d5ef818ddf5&hash=6F4EB8FCFCB59BAB55D8C755E8B07AAA"
+          ]
+        }
+      ],
       "models": [
         {
           "slug": "4eab",
@@ -21810,6 +21794,53 @@
       ],
       "lots": [
         {
+          "lot": "4",
+          "address": "35611 Lowery Trail",
+          "plan": "",
+          "price": 535000,
+          "priceLabel": "$535,000",
+          "beds": 4,
+          "homeSlug": "35611-lowery-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/hammock-at-two-rivers/qmis/35611-lowery-trail",
+          "baths": "3",
+          "sqft": "3,313",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/holden_h_stone_cl_garage_hw.jpg?as=1&w=1280&rev=bc97057c455c468b8088a5a6eed6c796&hash=0674816121F918C3218951BE7A74E357",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/holden_h_stone_cl_garage_hw.jpg?as=1&w=1280&rev=bc97057c455c468b8088a5a6eed6c796&hash=0674816121F918C3218951BE7A74E357",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/1_tpa_holden_quartz_tile_foyer.jpg?as=1&w=1280&rev=c9d1bf9f69e94779ba94e1855a3be9c3&hash=BF7A042503404542393BEF62A5D8C43D",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/2_tpa_holden_quartz_tile_office.jpg?as=1&w=1280&rev=324a8dbd8c214e16acda30db63036048&hash=8E32E0003A53C2DCC89FA310A9ACD37C",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/3_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=1280&rev=56cf845d25514c6c9ed4f36c5829349b&hash=6B71DE3E55051D98DD5D66278DDE352C",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/4_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=1280&rev=e4b165f7747046e9a2927ae3e2b046dc&hash=8DC10B79B65A1712A8F6667DF6CFE5DF",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/5_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=1280&rev=fd8b271361b54d80b2c5e11ae7a6d41b&hash=C54DF0EE272F9A2F8DCEF9630967C053",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/6_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=1280&rev=7f898970163c4cf38055eef57a7e7525&hash=8086299209AC881A6F6F44AC47668B7A",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/7_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=1280&rev=3932592d22a442818058dfe056d90841&hash=2A4A6B06F002F2C7B31616E704E4119B",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/8_tpa_holden_quartz_tile_dining.jpg?as=1&w=1280&rev=8f8d44d1b9d44e688f1e8ec92efc33ed&hash=BD4A4A1ED6FCC2A6E8D3279D59B4A391",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/9_tpa_holden_quartz_tile_living.jpg?as=1&w=1280&rev=972c1ae430654b63854cbc647c921222&hash=75E882F09657BFA9A5D45EADA8D84048",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/10_tpa_holden_quartz_tile_living.jpg?as=1&w=1280&rev=23fbbe2e32ca4f8fb1cc53aa88790b99&hash=F714D75ACDE7AA99E5A9E77134650004",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/11_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=f9bc2f8e19b945539726252a0e55f384&hash=AC2F5117AD959EDE6E5DBCCBB8D760F0",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/12_tpa_holden_quartz_tile_bath.jpg?as=1&w=1280&rev=0b82d9a99a5d42a68d08b705bd20d8ab&hash=0BFABB9A8B7BA7B9268A28419EF318DF",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/13_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=5e130f61281a4d36a9c787d4a2e87b40&hash=84BC5E055E1A2C70D4A2892C4A160955",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/14_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=113cd419669548fc9dda90287f8aee17&hash=829729BAD36E0DEBA9A9819ACE2CE4AC",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/15_tpa_holden_quartz_tile_bath.jpg?as=1&w=1280&rev=8a449e39aae442e68ae556716c4cd62d&hash=F619DE07D7F349A6A69A2A9AB406E378",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/16_tpa_holden_quartz_tile_loft.jpg?as=1&w=1280&rev=941144147ccb45599a4d5accd2ddb953&hash=3413630EFE88572FEC399A7E58513AAC",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/17_tpa_holden_quartz_tile_loft.jpg?as=1&w=1280&rev=4d287e0c29194bf99c45e08c94ba1fb1&hash=7AF18A9D120B9560E9BE7108D32D5343",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/18_tpa_holden_quartz_tile_bath.jpg?as=1&w=1280&rev=8459b23df44642cd813b99a30606fc93&hash=04C28EF66A0EA710A0FD1E3A039BA974",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/19_tpa_holden_quartz_tile_bath.jpg?as=1&w=1280&rev=9e043a95a1a744a982c0be0395737d51&hash=83AB351B61C5E987C1B342463C12AED2",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/20_tpa_holden_quartz_tile_bath.jpg?as=1&w=1280&rev=0c68d6a2b26f44928ca0cf533fc7ebdf&hash=BAA0B3D6AAA3E28E141034466976EDD6",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/21_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=f19a546279f04d79ab1e61977c2b3235&hash=766DCC2EA02DBC8F28689CB0C4F3A2F4",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/22_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=0cce6c3f48cd4b90bed82b8b32e6cfea&hash=6528459217559AC6E27F664F45976966",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/23_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=872b4d93df7f43239a22104ca17f8e94&hash=2867F9CBB45D918C41F0E542FB30517E",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/24_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=7ecf1a319960484786bed3ff0b05c4a1&hash=53C5EC2215968E52A4A3AF07177CB6B8",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/25_tpa_holden_quartz_tile_closet.jpg?as=1&w=1280&rev=7781b95252924c3d80d0e97e9a4c81b0&hash=17569D518E94C60BBACA365652B6065E",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/26_tpa_holden_quartz_tile_wash_dry.jpg?as=1&w=1280&rev=77f11604dcf24855a694d6d8bcd1933b&hash=9655FA868F364201E13B1A4CA9E2A8DF",
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/holden_hammock_blacklines_2_12_26.jpg?as=1&w=1280&rev=fc069294097344fd8cb302c86457590d&hash=0A30D1618E1328966EE36C1A78F297A6"
+          ],
+          "incentive": 2740,
+          "incentiveLabel": "(2,740)"
+        },
+        {
           "lot": "2",
           "address": "1073 Chasehill Lane",
           "plan": "",
@@ -21911,51 +21942,6 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0074-35608-lowery-trail/24_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=6435daf6bbbd48adbb731916845fb406&hash=F4AD50E0C9B7D4F7279472EE5B4B5BE2",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0074-35608-lowery-trail/25_tpa_holden_quartz_tile_closet.jpg?as=1&w=1280&rev=48fefa054da54926805699ca0e48b4aa&hash=EDA24FD7EE5163CDD92C6D7B2AF1C195",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0074-35608-lowery-trail/26_tpa_holden_quartz_tile_wash_dry.jpg?as=1&w=1280&rev=0881872e09734dbead6b3bbe873ce957&hash=F8F85FE5B376C8F9B457C98AAB9FF498",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/holden_hammock_blacklines_2_12_26.jpg?as=1&w=1280&rev=fc069294097344fd8cb302c86457590d&hash=0A30D1618E1328966EE36C1A78F297A6"
-          ]
-        },
-        {
-          "lot": "4",
-          "address": "35611 Lowery Trail",
-          "plan": "",
-          "price": 535000,
-          "priceLabel": "$535,000",
-          "beds": 4,
-          "homeSlug": "35611-lowery-trail",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/hammock-at-two-rivers/qmis/35611-lowery-trail",
-          "baths": "3",
-          "sqft": "3,313",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/holden_h_stone_cl_garage_hw.jpg?as=1&w=1280&rev=bc97057c455c468b8088a5a6eed6c796&hash=0674816121F918C3218951BE7A74E357",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/holden_h_stone_cl_garage_hw.jpg?as=1&w=1280&rev=bc97057c455c468b8088a5a6eed6c796&hash=0674816121F918C3218951BE7A74E357",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/1_tpa_holden_quartz_tile_foyer.jpg?as=1&w=1280&rev=c9d1bf9f69e94779ba94e1855a3be9c3&hash=BF7A042503404542393BEF62A5D8C43D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/2_tpa_holden_quartz_tile_office.jpg?as=1&w=1280&rev=324a8dbd8c214e16acda30db63036048&hash=8E32E0003A53C2DCC89FA310A9ACD37C",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/3_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=1280&rev=56cf845d25514c6c9ed4f36c5829349b&hash=6B71DE3E55051D98DD5D66278DDE352C",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/4_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=1280&rev=e4b165f7747046e9a2927ae3e2b046dc&hash=8DC10B79B65A1712A8F6667DF6CFE5DF",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/5_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=1280&rev=fd8b271361b54d80b2c5e11ae7a6d41b&hash=C54DF0EE272F9A2F8DCEF9630967C053",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/6_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=1280&rev=7f898970163c4cf38055eef57a7e7525&hash=8086299209AC881A6F6F44AC47668B7A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/7_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=1280&rev=3932592d22a442818058dfe056d90841&hash=2A4A6B06F002F2C7B31616E704E4119B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/8_tpa_holden_quartz_tile_dining.jpg?as=1&w=1280&rev=8f8d44d1b9d44e688f1e8ec92efc33ed&hash=BD4A4A1ED6FCC2A6E8D3279D59B4A391",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/9_tpa_holden_quartz_tile_living.jpg?as=1&w=1280&rev=972c1ae430654b63854cbc647c921222&hash=75E882F09657BFA9A5D45EADA8D84048",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/10_tpa_holden_quartz_tile_living.jpg?as=1&w=1280&rev=23fbbe2e32ca4f8fb1cc53aa88790b99&hash=F714D75ACDE7AA99E5A9E77134650004",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/11_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=f9bc2f8e19b945539726252a0e55f384&hash=AC2F5117AD959EDE6E5DBCCBB8D760F0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/12_tpa_holden_quartz_tile_bath.jpg?as=1&w=1280&rev=0b82d9a99a5d42a68d08b705bd20d8ab&hash=0BFABB9A8B7BA7B9268A28419EF318DF",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/13_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=5e130f61281a4d36a9c787d4a2e87b40&hash=84BC5E055E1A2C70D4A2892C4A160955",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/14_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=113cd419669548fc9dda90287f8aee17&hash=829729BAD36E0DEBA9A9819ACE2CE4AC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/15_tpa_holden_quartz_tile_bath.jpg?as=1&w=1280&rev=8a449e39aae442e68ae556716c4cd62d&hash=F619DE07D7F349A6A69A2A9AB406E378",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/16_tpa_holden_quartz_tile_loft.jpg?as=1&w=1280&rev=941144147ccb45599a4d5accd2ddb953&hash=3413630EFE88572FEC399A7E58513AAC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/17_tpa_holden_quartz_tile_loft.jpg?as=1&w=1280&rev=4d287e0c29194bf99c45e08c94ba1fb1&hash=7AF18A9D120B9560E9BE7108D32D5343",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/18_tpa_holden_quartz_tile_bath.jpg?as=1&w=1280&rev=8459b23df44642cd813b99a30606fc93&hash=04C28EF66A0EA710A0FD1E3A039BA974",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/19_tpa_holden_quartz_tile_bath.jpg?as=1&w=1280&rev=9e043a95a1a744a982c0be0395737d51&hash=83AB351B61C5E987C1B342463C12AED2",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/20_tpa_holden_quartz_tile_bath.jpg?as=1&w=1280&rev=0c68d6a2b26f44928ca0cf533fc7ebdf&hash=BAA0B3D6AAA3E28E141034466976EDD6",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/21_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=f19a546279f04d79ab1e61977c2b3235&hash=766DCC2EA02DBC8F28689CB0C4F3A2F4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/22_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=0cce6c3f48cd4b90bed82b8b32e6cfea&hash=6528459217559AC6E27F664F45976966",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/23_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=872b4d93df7f43239a22104ca17f8e94&hash=2867F9CBB45D918C41F0E542FB30517E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/24_tpa_holden_quartz_tile_bed.jpg?as=1&w=1280&rev=7ecf1a319960484786bed3ff0b05c4a1&hash=53C5EC2215968E52A4A3AF07177CB6B8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/25_tpa_holden_quartz_tile_closet.jpg?as=1&w=1280&rev=7781b95252924c3d80d0e97e9a4c81b0&hash=17569D518E94C60BBACA365652B6065E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/26_tpa_holden_quartz_tile_wash_dry.jpg?as=1&w=1280&rev=77f11604dcf24855a694d6d8bcd1933b&hash=9655FA868F364201E13B1A4CA9E2A8DF",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/holden_hammock_blacklines_2_12_26.jpg?as=1&w=1280&rev=fc069294097344fd8cb302c86457590d&hash=0A30D1618E1328966EE36C1A78F297A6"
           ]
         },
@@ -23081,6 +23067,21 @@
           ]
         },
         {
+          "slug": "3rcb",
+          "name": "Campbell",
+          "startingLabel": "Starting in the $347s",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/3rcb",
+          "beds": 4,
+          "baths": "2.5",
+          "sqft": "2,308",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/1_exterior_cropped.jpg?as=1&w=425&rev=3ee2248611744a3cafad20fcbe9338ce&hash=F07F492132A20443C7D74547E0A56109",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/1_exterior_cropped.jpg?as=1&w=425&rev=3ee2248611744a3cafad20fcbe9338ce&hash=F07F492132A20443C7D74547E0A56109"
+          ]
+        },
+        {
           "slug": "e502",
           "name": "Covington",
           "startingLabel": "Starting in the $441s",
@@ -23590,8 +23591,8 @@
           "lot": "137",
           "address": "3026 House Finch Road",
           "plan": "",
-          "price": 353645,
-          "priceLabel": "$353,645",
+          "price": 346997,
+          "priceLabel": "$346,997",
           "beds": 3,
           "homeSlug": "3026-house-finch-road",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3026-house-finch-road",
@@ -26208,7 +26209,7 @@
       "slug": "ironwood",
       "name": "Ironwood",
       "address": "1004 Morfontaine St, Daytona Beach, FL 32124",
-      "availableCount": 15,
+      "availableCount": 16,
       "lowestPrice": 350000,
       "highestPrice": 463490,
       "beds": [
@@ -26249,31 +26250,39 @@
           "incentiveLabel": "(20,990)"
         },
         {
+          "lot": "55",
+          "address": "1024 Champion Ridge Drive",
+          "plan": "",
+          "price": 351990,
+          "priceLabel": "$351,990",
+          "beds": 3,
+          "homeSlug": "1024-champion-ridge-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/daytona-beach/ironwood/qmis/1024-champion-ridge-drive",
+          "baths": "2",
+          "sqft": "1,672",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0095-1024-champion-ridge-drive/1_1_aria_exterior_elevation_c.jpg?iar=1&sc=1&thn=1&w=425&rev=82c57d32c2534ec5a3545f6bbba76a28&hash=FC7E25FFC5CAC8143E56FFEE1819F41E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0095-1024-champion-ridge-drive/1_1_aria_exterior_elevation_c.jpg?iar=1&sc=1&thn=1&w=425&rev=82c57d32c2534ec5a3545f6bbba76a28&hash=FC7E25FFC5CAC8143E56FFEE1819F41E"
+          ]
+        },
+        {
           "lot": "57",
           "address": "1032 Champion Ridge Drive",
           "plan": "",
           "price": 350000,
           "priceLabel": "$350,000",
           "beds": 3,
-          "homeSlug": "1032-champion-ridge-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/daytona-beach/ironwood/qmis/1032-champion-ridge-drive",
+          "homeSlug": "unit-25-medford-hill-drive",
+          "sourceUrl": "https://www.drhorton.com/michigan/detroit/metamora/steeplechase/qmis/unit-25-medford-hill-drive",
           "baths": "2",
           "sqft": "1,672",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/1_1_aria__exterior_l.jpg?as=1&w=1280&rev=4bc34a3aac7f437fb9195128df58b79c&hash=960182545EA3D73665F328C55F8B6AB1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/1_1_aria__exterior_l.jpg?iar=1&sc=1&thn=1&w=425&rev=4bc34a3aac7f437fb9195128df58b79c&hash=BDBFD5F6DBFEC3697F387750C997DB5C",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/1_1_aria__exterior_l.jpg?as=1&w=1280&rev=4bc34a3aac7f437fb9195128df58b79c&hash=960182545EA3D73665F328C55F8B6AB1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/5369-hayloft-drive--apopka--fl-32712---13.jpg?as=1&w=1280&rev=1f7ca7ff3b5845f39d96edbd8a72880f&hash=7C619D3A9D392BEB39BC91F75ABF05B4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/5369-hayloft-drive--apopka--fl-32712---15.jpg?as=1&w=1280&rev=0a41fa48298044758828a6969c218f25&hash=43098BFA3C2237C387F0DBE59DA360BC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/5369-hayloft-drive--apopka--fl-32712---19.jpg?as=1&w=1280&rev=bd8a3e4c864740319a7304da8b91ef74&hash=4FE32BABBD092CDB17B7683BD5488B9F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/guest_bathroom.jpg?as=1&w=1280&rev=e25fb2e3af2b437aa9df3c83453cdd28&hash=A1D96E64F4E553A6F91DD14CEFC86F12",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/guest_bedroom_2.jpg?as=1&w=1280&rev=43978c95f89b4a93a9a433ce0916ae8f&hash=6AF08ACFCD47EB831B416F849A61E48B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/guest_bedroom.jpg?as=1&w=1280&rev=6417482ad25a4f80a10b37f3255c469f&hash=7A10353183F8E21E8437752212DC94E8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/primary_bathroom_1.jpg?as=1&w=1280&rev=9d6332beeefd4ed7a93b2245902b0e2e&hash=93B21CB4A04410EEE2FF13844B4BF5D1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/primary_bathroom_2.jpg?as=1&w=1280&rev=584aff6811684a048a762fb4bae7b46d&hash=D038176EAFC645141747F91A7D451BC7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/primary_bedroom.jpg?as=1&w=1280&rev=4cb107100b2f45399c789fa15b78a923&hash=5FFE4347DAF3379DD2880B4F4B9698A9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/aria_l_hires.jpg?as=1&w=1280&rev=73be9eec0eee4555a2e8009aab968eb6&hash=5029BBFBCEE17AA14582FA71191E848D"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/1_1_aria__exterior_l.jpg?iar=1&sc=1&thn=1&w=425&rev=4bc34a3aac7f437fb9195128df58b79c&hash=BDBFD5F6DBFEC3697F387750C997DB5C"
           ]
         },
         {
@@ -26868,7 +26877,7 @@
       "slug": "kindred",
       "name": "Kindred",
       "address": "1848 Southbury Drive, Kissimmee, FL 34744",
-      "availableCount": 20,
+      "availableCount": 21,
       "lowestPrice": 345990,
       "highestPrice": 481790,
       "beds": [
@@ -26991,6 +27000,24 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0584-1512-park-side-ave/1508-park-side-avenue--kissimmee--fl-34744-allex---29.jpg?as=1&w=1280&rev=e497c873e16c469d9df47fdec55e8e0b&hash=2990D2A63DECAADB8F545ED21905EF1B",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/allex_no_logo.png?as=1&w=1280&rev=c639a377ad7541e7bcfc3593830d6ae3&hash=E3BE33376F66D6C9D1151A01FD6EC776",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/allex_c_web.jpg?as=1&w=1280&rev=c13828ae83ec4ad08c0406cd3b6a6fec&hash=207AF59D0CAF2C40E4CDFD341D02000B"
+          ]
+        },
+        {
+          "lot": "445",
+          "address": "1830 Howard Mesa Drive",
+          "plan": "",
+          "price": 472770,
+          "priceLabel": "$472,770",
+          "beds": 5,
+          "homeSlug": "1830-howard-mesa-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1830-howard-mesa-drive",
+          "baths": "3",
+          "sqft": "2,447",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/0519-1830-howard-mesa-drive/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=bf22de73ec17443e907304ced2dc0f34&hash=324B469917A1E0F091658E0A11E8A434",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/0519-1830-howard-mesa-drive/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=bf22de73ec17443e907304ced2dc0f34&hash=324B469917A1E0F091658E0A11E8A434"
           ]
         },
         {
@@ -29683,7 +29710,7 @@
       "slug": "marion-oaks-spot-lots",
       "name": "Marion County Spot Lots",
       "address": "272 Marion Oaks Course, Ocala, FL 34473",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 319990,
       "highestPrice": 344070,
       "beds": [
@@ -29824,39 +29851,6 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0364-2982-sw-165th-street-rd/17_cali_bedroom4.jpg?as=1&w=1280&rev=0f74d1a3cf434bbdbd9e7aa0ede4a676&hash=492B143A3D4D2E53DBCBA19FE2F1FCB4",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0364-2982-sw-165th-street-rd/18_cali_bathroom2.jpg?as=1&w=1280&rev=0c9017ec001d4039a78458d8b32cbdcd&hash=3F7B4DB4A7DADE3869B26E4B41E7A174",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0364-2982-sw-165th-street-rd/19_cali_outdoor_lanai.jpg?as=1&w=1280&rev=c274516ca6dd421abb6e6a6b3024d457&hash=E9961628C69628E52C250D333081FCD8"
-          ]
-        },
-        {
-          "lot": "32",
-          "address": "4037 SW 130th PL",
-          "plan": "Cali",
-          "price": 344070,
-          "priceLabel": "$344,070",
-          "beds": 4,
-          "homeSlug": "4037-sw-130th-pl",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/4037-sw-130th-pl",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/cali-d-gen3-elev_ind.jpg?as=1&w=1280&rev=d40ad3031448441abe08863502c31bdb&hash=FE3DCF92470F156B06CB1F22A27B0E6F",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/cali-d-gen3-elev_ind.jpg?as=1&w=1280&rev=d40ad3031448441abe08863502c31bdb&hash=FE3DCF92470F156B06CB1F22A27B0E6F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/1_cali_entry.jpg?as=1&w=1280&rev=ba9340f0f3d24b919861489d57956c91&hash=2E398DDB368F8EAC2833F96C1F2C896C",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/2_cali_living_room.jpg?as=1&w=1280&rev=7bed1a7c324041f4b74e33050f77b335&hash=0F59C0039FDFEF6B9FEBC126A022E30F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/3_cali_living_room.jpg?as=1&w=1280&rev=b87de9dd859d42d5ac5b9ee1bb599049&hash=83D155179A9B8CDD0E34877114335623",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/4_cali_kitchen.jpg?as=1&w=1280&rev=e02a353d81a348e0b113afd009ad3273&hash=CCE7C4C4947EA17A527CAB3F3CF23B18",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/5_cali_kitchen.jpg?as=1&w=1280&rev=a0343137cb6d41d5af26417c5c54326f&hash=6AA1A0E7C7FA94EF7829A45058870603",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/6_cali_kitchen.jpg?as=1&w=1280&rev=96b409247cca46cb84aba11607acc509&hash=4A7DC360B1F77576FBC8DDD131659491",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/7_cali_dining_room.jpg?as=1&w=1280&rev=8e9115358c004802a33a45bbe1ecd91e&hash=DA9FF4E5797EFB19E9DBDF5FF9203DF4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/8_cali_dining_room.jpg?as=1&w=1280&rev=58540b8c4d1b4a1ba0638b1989096877&hash=8CBD312FFDAAE0A6AB3A8A0849A5C229",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/9_cali_owners_suite.jpg?as=1&w=1280&rev=455cdd2d634742d994f8f2c05e917c89&hash=59EC023F387E61BB49C89C770EC73603",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/12_cali_owners_ensuite_bathroom.jpg?as=1&w=1280&rev=dcbbb39eea4544d59a4bb1ff1edf0eea&hash=5AF536CD7B257DCB79B101B50478E448",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/13_cali_bedroom2.jpg?as=1&w=1280&rev=a1a75786c5524a11ba212a6fa4cbf853&hash=32C8D236A0CAA5A8593A8990C69179CC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/15_cali_bedroom3.jpg?as=1&w=1280&rev=fb176d7702ce496199ea693c571b7538&hash=00A73A4E77B9FFF18FC86A14552BE4C4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/17_cali_bedroom4.jpg?as=1&w=1280&rev=12d10c8cfecd49f59af661cf27fee2cd&hash=FAD465331BE02CFD465039F280ECE219",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/18_cali_bathroom2.jpg?as=1&w=1280&rev=f87047ff3b044c6eabe532e1e12ef4de&hash=1022D65E6B5B30ABDF36E6D531ACF020",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0360-4037-sw-130th-pl/19_cali_outdoor_lanai.jpg?as=1&w=1280&rev=4df965c55b7049269add792772ccb20b&hash=FEB8897071FBF451CCCC33A1D4ED79D4"
           ]
         },
         {
@@ -32103,7 +32097,7 @@
       "slug": "nona-west",
       "name": "Nona West",
       "address": "14348 Canvas Street, Orlando, FL 32824",
-      "availableCount": 4,
+      "availableCount": 5,
       "lowestPrice": 404990,
       "highestPrice": 426990,
       "beds": [
@@ -32157,6 +32151,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0048-3516-chroma-street/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=c895f9249f5a45bea19148aa6adf8898&hash=1677143F700B92BCA66F5E67C885C3EF",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0048-3516-chroma-street/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=c895f9249f5a45bea19148aa6adf8898&hash=1677143F700B92BCA66F5E67C885C3EF"
+          ]
+        },
+        {
+          "lot": "47",
+          "address": "3522 Chroma Street",
+          "plan": "",
+          "price": 412465,
+          "priceLabel": "$412,465",
+          "beds": 3,
+          "homeSlug": "3522-chroma-street",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/orlando/nona-west/qmis/3522-chroma-street",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0047-3522-chroma-street/1_1_glenstoneexterior_1.jpg?iar=1&sc=1&thn=1&w=425&rev=ec38baaeeeb045c8879a952d2b0978e4&hash=9E8D1ACAEA0BC85435F361DDE1FED630",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0047-3522-chroma-street/1_1_glenstoneexterior_1.jpg?iar=1&sc=1&thn=1&w=425&rev=ec38baaeeeb045c8879a952d2b0978e4&hash=9E8D1ACAEA0BC85435F361DDE1FED630"
           ]
         },
         {
@@ -32697,137 +32709,6 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/3emb/34-custom-berry_bay_ave-s2102-034.jpg?as=1&w=494&rev=695ad7ad59314cac8c8fc3ec9770a1fe&hash=62569587FEDAD08A23CE4FE5E12C138E",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/3emb/35-custom-berry_bay_ave-s2102-035.jpg?as=1&w=494&rev=380a6619659c46498dc3d69b323873d1&hash=788877B2E9F1B1F5E75643D70D04B870",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/3emb/37-custom-berry_bay_ave-s2102-037.jpg?as=1&w=494&rev=bbd3dd505ac34061875ceb971512f673&hash=2E2CCBF2CFB87A630123DE7F592FCA22"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "oak-leaf-preserve",
-      "name": "Oak Leaf Preserve",
-      "address": "1846 Red Rock Road, New Smyrna Beach, FL 32132",
-      "availableCount": 0,
-      "lowestPrice": null,
-      "highestPrice": null,
-      "beds": [],
-      "lots": [],
-      "models": [
-        {
-          "slug": "4eab",
-          "name": "Aria",
-          "startingLabel": "Starting in the $367s",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/oak-leaf-preserve/floor-plans/4eab",
-          "beds": 3,
-          "baths": "2",
-          "sqft": "1,672",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/1_1_aria_exterior_elevation_c.jpg?as=1&w=494&rev=27eef32398d142cca06caf521696b08d&hash=62FEDF3F4E84CDF7BDBF455ADFBBFFA5",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/1_1_aria_exterior_elevation_c.jpg?as=1&w=494&rev=27eef32398d142cca06caf521696b08d&hash=62FEDF3F4E84CDF7BDBF455ADFBBFFA5",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/1_1_aria_exterior_elevation_d.jpg?as=1&w=494&rev=fbf7035082e84655abac3afa18946936&hash=1AFD378BE9C1ACFF0C119BC3F6921C3F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/1aria_lvp_kitchen.jpg?as=1&w=494&rev=f2feb2bf3bc94271a7daae52cbf7fa1a&hash=CDDDDAC93043DC99060A0733574F79A0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/5369-hayloft-drive--apopka--fl-32712---13.jpg?as=1&w=494&rev=a5198664108347c09ad8023aebe65001&hash=45D5EA36E04FECB2E3508371239CC284",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/5369-hayloft-drive--apopka--fl-32712---15.jpg?as=1&w=494&rev=f3a17094f0ef49cfbe90c5acee6d4a64&hash=4E08519301084455DB93597B98DA7627",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/guest_bathroom.jpg?as=1&w=494&rev=46a0ea9de1504486b8e027b55337ff8a&hash=4EB687631C28140ECECFB9D8BA4ECF00",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/guest_bedroom_2.jpg?as=1&w=494&rev=16a2e429ed114314b3be02e97548b847&hash=A5DF57663CBDF62BABAB87DA4E966B59",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/guest_bedroom.jpg?as=1&w=494&rev=8674137a1ffb43188baba0fb0af8ab10&hash=ED290DD55BB8CFFAED1C8C111E2B7750",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/primary_bathroom_1.jpg?as=1&w=494&rev=312cea13aa9549b9b2b24568e3d95494&hash=00469AAA54E32C559B74F64109BC958A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/primary_bathroom_2.jpg?as=1&w=494&rev=781da3e2631c409a96e7b01cb6251aba&hash=09D840DD94E303E249A3350969708400",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4eab/primary_bedroom.jpg?as=1&w=494&rev=e8bc150b91a54147b0db43e0f00449f3&hash=968D36EF79D75345F5B5CA15B56B5A33"
-          ]
-        },
-        {
-          "slug": "4ebb",
-          "name": "Cali",
-          "startingLabel": "Starting in the $377s",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/oak-leaf-preserve/floor-plans/4ebb",
-          "beds": 4,
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/1-1-caliexterior-elevationc.jpg?as=1&w=494&rev=6633fc75e28347348d1cd6d8fc55726d&hash=678EE485538B7E1A966FF910C393EC52",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/1-1-caliexterior-elevationc.jpg?as=1&w=494&rev=6633fc75e28347348d1cd6d8fc55726d&hash=678EE485538B7E1A966FF910C393EC52",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/1-1-caliexterior-elevationd.jpg?as=1&w=494&rev=c7f0ba84fcfa49fea08ae4259e8e8ab4&hash=8702998E955D07686ACDAF082C86CBE7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/1-1-caliexterior-elevationd1.jpg?as=1&w=494&rev=c178cc0df8844be3ac4a8f3e2949acbb&hash=B32B5C1136D30747490BC8F3FDB4A31A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/1-1-caliexterior-elevationm.jpg?as=1&w=494&rev=8bf1f12fbd16476c88585019cb083525&hash=11D674A3ECE1234BC37664892EC5A2E0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/11-web-or-mls-1004_morfontaine_st__daytona_beach__fl_32124-18991_dsc08476.jpg?as=1&w=494&rev=6e905993ba4a400ba3358fa91f699246&hash=2E3B6462EC566C47B3993A4717DD84E1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/13-web-or-mls-1004_morfontaine_st__daytona_beach__fl_32124-18991_dsc08464.jpg?as=1&w=494&rev=57556e74ee5d47acb9c141ac189ccb74&hash=1A7D17CB203276C1DBCD83C6467AC84E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/17-web-or-mls-1004_morfontaine_st__daytona_beach__fl_32124-18991_dsc08449_copy.jpg?as=1&w=494&rev=1f560842b06f4f218fddfd6b6ed0e5d8&hash=0836EE4911C3A50CC0C0C4C280918A32",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/21-web-or-mls-1004_morfontaine_st__daytona_beach__fl_32124-18991_dsc08455_copy.jpg?as=1&w=494&rev=79d568ef2a42436398031c69f71385b9&hash=FB8671A33F194FEBEE5E6FF206D05A9A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/26-web-or-mls-1004_morfontaine_st__daytona_beach__fl_32124-18991_dsc08488_copy.jpg?as=1&w=494&rev=d18fd797fb5b4b83a5d431a82bcc695a&hash=A82AA7FEA099F38C4A3ECAE55EC518C9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/30-web-or-mls-1004_morfontaine_st__daytona_beach__fl_32124-18991_dsc08425_copy.jpg?as=1&w=494&rev=cf196cac9a2c4cafbe5e3a18a98d3606&hash=0035A53DF6BCE179FC59C8891EE5545B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ebb/36-web-or-mls-1004_morfontaine_st__daytona_beach__fl_32124-18991_dsc08434_copy.jpg?as=1&w=494&rev=b35aa3a17cb64b919b756f9de9a531a7&hash=7C67E26C388A50431A9F420E726F306A"
-          ]
-        },
-        {
-          "slug": "3efb",
-          "name": "Robie",
-          "startingLabel": "Starting in the $402s",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/oak-leaf-preserve/floor-plans/3efb",
-          "beds": 5,
-          "baths": "3",
-          "sqft": "2,447",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1_1_robieexterior_elevation_g.jpg?as=1&w=494&rev=e4d661cfd41343c69fba6197c295b45f&hash=2096C4FDEE8D3B809F9B50CA3C243AC8",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1_1_robieexterior_elevation_g.jpg?as=1&w=494&rev=e4d661cfd41343c69fba6197c295b45f&hash=2096C4FDEE8D3B809F9B50CA3C243AC8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---04.jpg?as=1&w=494&rev=3def186033664ff082a0c0b650205422&hash=E88F865708C48A79B45E2F59EFE9393C",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---05.jpg?as=1&w=494&rev=5610b830c7f34c56b9af929b8dbd12ea&hash=364E1EB259D77A337B27EA728CF77C75",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---06.jpg?as=1&w=494&rev=c22418bd025841d4b166ca3041eb0a5b&hash=C50A00701471FAD9EC8B01C3920CB5FC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---07.jpg?as=1&w=494&rev=e250cc3154a749748f821ec37437317c&hash=A12EB4C82959659DE46E7F4C1CD3130D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---08.jpg?as=1&w=494&rev=a0477e12853b442d8faa319e43e39bd1&hash=57F7BB7B59895B0ABE141C5DAA046CE6",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---09.jpg?as=1&w=494&rev=c089c9336dae41bfa2d8f3ce9786143d&hash=A93F790734611D4449C1699ACDCC40F2",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---10.jpg?as=1&w=494&rev=2c077c0e158541fc96dff554c4a1166e&hash=044B1AC32D7333E5236DD2BEB7C8D1BB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---11.jpg?as=1&w=494&rev=55363511c14d463ebb01e27a566e790a&hash=3CB3AF54BE3390821D59B5CDA62194C7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---12.jpg?as=1&w=494&rev=56deb285a75d448da06cc8461ab5ef9b&hash=8A97445A42F887047CA1477FA4BA1510",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---13.jpg?as=1&w=494&rev=018384fe09874c9c9b4e1a92dc249ea9&hash=05BC073D76E0261FD36FB8755DC23A1E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---14.jpg?as=1&w=494&rev=a715d0099bd44136badaf3be275508f0&hash=AA88DC29F04AA5F6CB567D54C83CC97A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---15.jpg?as=1&w=494&rev=ddc6805f7e1f4d159bc52f77889b463b&hash=DC48D01CD1D33CDFCF05877D33239256",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---18.jpg?as=1&w=494&rev=b81896fb7abf41eb9248954678ddf35e&hash=409B58BCBC17DE3FFE9F02A18075346B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---19.jpg?as=1&w=494&rev=a8bafc386c0d44fcb79881311b2045bf&hash=020C6F348301FBD35217314BE9BE5D6D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---20.jpg?as=1&w=494&rev=4cf6596966684b2a9a3aa618d203d926&hash=EA5467B0D968ACA55A0353C53C59F3F4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---21.jpg?as=1&w=494&rev=ad154956bab740d7bd7cb5649fb7c794&hash=E67172628EDA3D03720EA540402D5A76",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---22.jpg?as=1&w=494&rev=202e739038e14b96a3b4cb742a0f37f5&hash=53B6080B63D0F7EA7EE32C692A623AD5",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---23.jpg?as=1&w=494&rev=6bd9740a1644419c8831aafc85624648&hash=39FE809BE86846072953DA4765194ED4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---24.jpg?as=1&w=494&rev=99d3e61c5cab46ba87001682522bcf7e&hash=3693ED88BDC3EAF0D675B1AB8EC20DAB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---25.jpg?as=1&w=494&rev=bcdb35f1ad57455d9609137062b11f0e&hash=8D216B4EDD8C2CB17BCBBDB24071CE7A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---26.jpg?as=1&w=494&rev=8902ccfc2a2b4618b393015594f41555&hash=70740A6E066522D7FFE334CA672E3DBB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---27.jpg?as=1&w=494&rev=f02dfd4c199f43bf87ab224752c48587&hash=8C7678B59971B95D5CA64C7F3096EAF1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---28.jpg?as=1&w=494&rev=a4e0880ee4f04dea8787e7b98c8d862a&hash=D770E46B51B80A22D11AECCA1EE28C8C",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---29.jpg?as=1&w=494&rev=ffac03be83f74563bb798ee8f7bbce56&hash=F92E2A3CD94541EB8D59C4C7BAAED3E3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---31.jpg?as=1&w=494&rev=1387a62be49c4c1cacf63decc1f5b43f&hash=953D4AB572ADD2BD8F435BDBC00B5CE9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---32.jpg?as=1&w=494&rev=d8e1a7cf560547a6b9af1c33f8038c91&hash=649827C674699145E30CCB61B0800220"
-          ]
-        },
-        {
-          "slug": "4ehb",
-          "name": "Hayden",
-          "startingLabel": "Starting in the $422s",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/oak-leaf-preserve/floor-plans/4ehb",
-          "beds": 5,
-          "baths": "3",
-          "sqft": "2,601",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/1_1_haydenexterior_g.jpg?as=1&w=494&rev=409ebec2b0d945cc8dc5af37dfa4b368&hash=14010D790BEA39456B986E507CEF57D4",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/1_1_haydenexterior_g.jpg?as=1&w=494&rev=409ebec2b0d945cc8dc5af37dfa4b368&hash=14010D790BEA39456B986E507CEF57D4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/2-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08395.jpg?as=1&w=494&rev=c8891b9f90cf4e54b5d9b38b5eb5ff26&hash=BC65FB3E0275C9BB5A1BDDD68FF997D0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/5-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08281.jpg?as=1&w=494&rev=8f1efb3fe13d44e2acb60727cbb55ab3&hash=11FD66D5B3B2AD33AFC856E7EDC9295C",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/8-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08314.jpg?as=1&w=494&rev=e4fe9f75c7014dbca0c39c1d6e033794&hash=A093ECC22D8170EA7B1E238FBCFDD3F4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/14-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08308.jpg?as=1&w=494&rev=de6eef204be246f9aa1b739cd7ee21c7&hash=E6BCEB8C88F2431D077F5DEA1FBAD568",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/16-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08287.jpg?as=1&w=494&rev=5e1d62ddf9604fb688e4e597d7dc97c6&hash=6DAA21D93CA3244EF19BDE32D1092953",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/22-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08356.jpg?as=1&w=494&rev=522b4fba5bc3481aa6694c1004ca934d&hash=1285070E9E8D8226E1380C8FD9FEA9AC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/23-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08344.jpg?as=1&w=494&rev=220d7a04bd4f4a77b931d944d333ac98&hash=60B9D4E3CD271CDB1ECF49F98857EF91",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/25-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08359.jpg?as=1&w=494&rev=62560ffabcb04c90839515f3e8e61cec&hash=4EEB712FBEAB06361A7E117EE0E13AA8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/26-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08329.jpg?as=1&w=494&rev=8033c04e38104945863f49130279bb80&hash=EFE7D9830DC2FEDC21C4066CD7A59139",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/27-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08353.jpg?as=1&w=494&rev=277d857ac62244af85282431f1e4e194&hash=B10926F25E8B50BE96782330C6B9E42A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/28-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08368.jpg?as=1&w=494&rev=0bb7e263e7144e629748809bf3667257&hash=61EE45F218B39662545775D28A9BEE62",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/30-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08350.jpg?as=1&w=494&rev=55197c24ca03408280968f75475eb2c9&hash=5794DA750534681A8EAE8AA069D4DE69",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34685-oak-leaf-preserve/346850000-oak-leaf-preserve-50s/4ehb/33-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08327.jpg?as=1&w=494&rev=dcd315cbe3ed4df887e8a5a070b218a2&hash=215462CDBA14D90F7B240007456BA217"
           ]
         }
       ]
@@ -35390,14 +35271,83 @@
       "slug": "poinciana-enclave",
       "name": "Poinciana Enclave",
       "address": "2004 Aster Way, Poinciana, FL 34759",
-      "availableCount": 6,
+      "availableCount": 19,
       "lowestPrice": 300000,
-      "highestPrice": 334990,
+      "highestPrice": 383860,
       "beds": [
         3,
-        4
+        4,
+        5
       ],
       "lots": [
+        {
+          "lot": "10",
+          "address": "103 Herring Ln",
+          "plan": "",
+          "price": 338990,
+          "priceLabel": "$338,990",
+          "beds": 4,
+          "homeSlug": "103-herring-ln",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/103-herring-ln",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0169-103-herring-ln/1_1_cali_elevation_d3.jpg?iar=1&sc=1&thn=1&w=425&rev=5679d8cec17640fdbfa2328481ec83b3&hash=DAD445FBE7937BC94B836AD9CE0F32B6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0169-103-herring-ln/1_1_cali_elevation_d3.jpg?iar=1&sc=1&thn=1&w=425&rev=5679d8cec17640fdbfa2328481ec83b3&hash=DAD445FBE7937BC94B836AD9CE0F32B6"
+          ]
+        },
+        {
+          "lot": "5",
+          "address": "110 Cheltenham Place",
+          "plan": "",
+          "price": 352990,
+          "priceLabel": "$352,990",
+          "beds": 4,
+          "homeSlug": "110-cheltenham-place",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/110-cheltenham-place",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/383730000-osceola-county-spot-lots/4ebb/0270-110-cheltenham-place/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=13f81628eb494370a862833ea8b73e63&hash=2A6E86BC6C0C0251570EB3C634A6CF20",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/383730000-osceola-county-spot-lots/4ebb/0270-110-cheltenham-place/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=13f81628eb494370a862833ea8b73e63&hash=2A6E86BC6C0C0251570EB3C634A6CF20"
+          ]
+        },
+        {
+          "lot": "4",
+          "address": "1240 Alafia Way",
+          "plan": "",
+          "price": 337990,
+          "priceLabel": "$337,990",
+          "beds": 4,
+          "homeSlug": "1240-alafia-way",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/1240-alafia-way",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2"
+        },
+        {
+          "lot": "15",
+          "address": "1314 Congo Dr",
+          "plan": "",
+          "price": 309990,
+          "priceLabel": "$309,990",
+          "beds": 3,
+          "homeSlug": "1314-congo-dr",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/1314-congo-dr",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0172-1314-congo-dr/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=602e0e992170426789ba52a89d0d348a&hash=45EE8106F4EE8FE715574DF7CAAF3BBE",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0172-1314-congo-dr/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=602e0e992170426789ba52a89d0d348a&hash=45EE8106F4EE8FE715574DF7CAAF3BBE"
+          ]
+        },
         {
           "lot": "12",
           "address": "1323 Congo Drive",
@@ -35425,6 +35375,42 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0149-1323-congo-drive/11_guest_bathroom.jpg?as=1&w=1280&rev=8afc00b71e7946cf9b78fd6c6c9fecf7&hash=7FF3E8E62B442997035D833C73DBC11A",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/383730000-osceola-county-spot-lots/e406/archer_ii_elevation_a_web.jpg?as=1&w=1280&rev=2985df5206dd4ed79361cd79f09a6f1e&hash=A57F954FF2105F016050217C37C95822",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/383730000-osceola-county-spot-lots/e406/archer_ii_floorplan_unbranded_2.jpg?as=1&w=1280&rev=0dcf6bc5cd184a36823cd5828ee2a4c5&hash=255E2D0AC202DEE942D0EEDDA6DB0A39"
+          ]
+        },
+        {
+          "lot": "5",
+          "address": "158 Redwing Court",
+          "plan": "",
+          "price": 383860,
+          "priceLabel": "$383,860",
+          "beds": 5,
+          "homeSlug": "158-redwing-court",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/158-redwing-court",
+          "baths": "3",
+          "sqft": "2,601",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ehb/0206-158-redwing-court/1_1_haydenexterior_g1.jpg?iar=1&sc=1&thn=1&w=425&rev=854f43bc3aea4f44895eb34e72632c8c&hash=E54371F5B3B399E01F5C59AC38255810",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ehb/0206-158-redwing-court/1_1_haydenexterior_g1.jpg?iar=1&sc=1&thn=1&w=425&rev=854f43bc3aea4f44895eb34e72632c8c&hash=E54371F5B3B399E01F5C59AC38255810"
+          ]
+        },
+        {
+          "lot": "3",
+          "address": "1806 Superior Place",
+          "plan": "",
+          "price": 342530,
+          "priceLabel": "$342,530",
+          "beds": 4,
+          "homeSlug": "1806-superior-place",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/1806-superior-place",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0202-1806-superior-place/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=e4d2cf3be11b47a1a79fe3a239ee02a7&hash=1F8FDDBDF96FBAF598B4869F73F01769",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0202-1806-superior-place/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=e4d2cf3be11b47a1a79fe3a239ee02a7&hash=1F8FDDBDF96FBAF598B4869F73F01769"
           ]
         },
         {
@@ -35478,6 +35464,60 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0204-2317-rock-drive/cali_c_guestroom2.jpg?as=1&w=1280&rev=a09f5bd0c8204881855e57dffa55821e&hash=42CCF6D3FD6BAD2B9B2FC4C90FA6B261",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0204-2317-rock-drive/cali_c_guestroom3.jpg?as=1&w=1280&rev=b68e0b69ca3f4484ad0aa6df7d6148bc&hash=57DCB0D4B416125B239DCB11EC4E143D",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/383730000-osceola-county-spot-lots/4ebb/cali_floorplan_only.jpg?as=1&w=1280&rev=afab2cd1491c4aefbfd4318fd1b9740e&hash=038E47DE86991FF3EF0500B948965F40"
+          ]
+        },
+        {
+          "lot": "11",
+          "address": "300 Begonia Ct",
+          "plan": "",
+          "price": 340530,
+          "priceLabel": "$340,530",
+          "beds": 4,
+          "homeSlug": "300-begonia-ct",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/300-begonia-ct",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0222-300-begonia-ct/1_1_cali_elevation_d3.jpg?iar=1&sc=1&thn=1&w=425&rev=0e9ff00ca5cb4fd38c36447ce1f49fce&hash=9EC45CACE76D6A1DCB4AC62C776BD57C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0222-300-begonia-ct/1_1_cali_elevation_d3.jpg?iar=1&sc=1&thn=1&w=425&rev=0e9ff00ca5cb4fd38c36447ce1f49fce&hash=9EC45CACE76D6A1DCB4AC62C776BD57C"
+          ]
+        },
+        {
+          "lot": "2",
+          "address": "311 Bowfin Court",
+          "plan": "",
+          "price": 342530,
+          "priceLabel": "$342,530",
+          "beds": 4,
+          "homeSlug": "311-bowfin-court",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/311-bowfin-court",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0217-311-bowfin-court/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=dcc695e7ddda48e99b2bbbf33aa88e24&hash=EE770425A451FD4921FD1D13A2622A26",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0217-311-bowfin-court/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=dcc695e7ddda48e99b2bbbf33aa88e24&hash=EE770425A451FD4921FD1D13A2622A26"
+          ]
+        },
+        {
+          "lot": "3",
+          "address": "328 Alewife Lane",
+          "plan": "",
+          "price": 344990,
+          "priceLabel": "$344,990",
+          "beds": 4,
+          "homeSlug": "328-alewife-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/328-alewife-lane",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0213-328-alewife-lane/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=b347635d20be48148edcb366df8f10b5&hash=AAA0A96A80D34985CB643A4BD3847078",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0213-328-alewife-lane/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=b347635d20be48148edcb366df8f10b5&hash=AAA0A96A80D34985CB643A4BD3847078"
           ]
         },
         {
@@ -35568,6 +35608,78 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0147-369-bass-ct/12_archer_ii_backyard.jpg?as=1&w=1280&rev=b1502323c3994e53aa57b6e44c77b3e7&hash=B6B7E6813D32B6A235F801B9917AFE9B",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/383730000-osceola-county-spot-lots/e406/archer_ii_elevation_a_web.jpg?as=1&w=1280&rev=2985df5206dd4ed79361cd79f09a6f1e&hash=A57F954FF2105F016050217C37C95822",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/383730000-osceola-county-spot-lots/e406/archer_ii_floorplan_unbranded_2.jpg?as=1&w=1280&rev=0dcf6bc5cd184a36823cd5828ee2a4c5&hash=255E2D0AC202DEE942D0EEDDA6DB0A39"
+          ]
+        },
+        {
+          "lot": "3",
+          "address": "394 Bowfin Drive",
+          "plan": "",
+          "price": 342530,
+          "priceLabel": "$342,530",
+          "beds": 4,
+          "homeSlug": "394-bowfin-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/394-bowfin-drive",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0216-394-bowfin-drive/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=0c202045449a4bdd8a9e1fa3a5dcaa69&hash=4D6B7B7B0A73CFE2F32AAFE2CA60DF12",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0216-394-bowfin-drive/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=0c202045449a4bdd8a9e1fa3a5dcaa69&hash=4D6B7B7B0A73CFE2F32AAFE2CA60DF12"
+          ]
+        },
+        {
+          "lot": "1",
+          "address": "447 Caribbean Ct",
+          "plan": "",
+          "price": 313870,
+          "priceLabel": "$313,870",
+          "beds": 3,
+          "homeSlug": "447-caribbean-ct",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/447-caribbean-ct",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0220-447-caribbean-ct/archer_ii_elevation_b_web.jpg?iar=1&sc=1&thn=1&w=425&rev=d250408cddc042f1a1faeb0fe06a4f4f&hash=25718CB401A863199A500DF52DDC5932",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0220-447-caribbean-ct/archer_ii_elevation_b_web.jpg?iar=1&sc=1&thn=1&w=425&rev=d250408cddc042f1a1faeb0fe06a4f4f&hash=25718CB401A863199A500DF52DDC5932"
+          ]
+        },
+        {
+          "lot": "4",
+          "address": "507 Rio Grande Dr",
+          "plan": "",
+          "price": 308870,
+          "priceLabel": "$308,870",
+          "beds": 3,
+          "homeSlug": "507-rio-grande-dr",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/507-rio-grande-dr",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0221-507-rio-grande-dr/archer_ii_elevation_b_web.jpg?iar=1&sc=1&thn=1&w=425&rev=57a01abd97e74ddc9d7431df60336f9a&hash=6626FA55BA99508C9DB8A89A7437F913",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0221-507-rio-grande-dr/archer_ii_elevation_b_web.jpg?iar=1&sc=1&thn=1&w=425&rev=57a01abd97e74ddc9d7431df60336f9a&hash=6626FA55BA99508C9DB8A89A7437F913"
+          ]
+        },
+        {
+          "lot": "5",
+          "address": "509 Rio Grande Drive",
+          "plan": "",
+          "price": 310870,
+          "priceLabel": "$310,870",
+          "beds": 3,
+          "homeSlug": "509-rio-grande-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/509-rio-grande-drive",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0186-509-rio-grande-drive/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=eee73185b7d04b0290fc03c4067c1e01&hash=4C823EA77818181E4C7A59E2232C9078",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0186-509-rio-grande-drive/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=eee73185b7d04b0290fc03c4067c1e01&hash=4C823EA77818181E4C7A59E2232C9078"
           ]
         }
       ],
@@ -35716,7 +35828,7 @@
       "name": "Preston Cove",
       "address": "288 Conway Ave, Saint Cloud, FL 34771",
       "availableCount": 23,
-      "lowestPrice": 320000,
+      "lowestPrice": 314997,
       "highestPrice": 493990,
       "beds": [
         3,
@@ -36146,8 +36258,8 @@
           "lot": "288",
           "address": "741 Preston Cove Drive",
           "plan": "",
-          "price": 326025,
-          "priceLabel": "$326,025",
+          "price": 314997,
+          "priceLabel": "$314,997",
           "beds": 3,
           "homeSlug": "741-preston-cove-drive",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/741-preston-cove-drive",
@@ -37375,96 +37487,6 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/3129/29_holden_lanai.jpg?as=1&w=494&rev=f4a1ac6f48eb4d5a88682412d364a99b&hash=A2704D095AC0ED8D71401B136BD3960A",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347800000-ridge-at-heath-brook-drh/3129/fl_-west-florida_-dr-horton-_-holden-g-new-color.jpg?as=1&w=494&rev=72cc68f814fa45c8a2573b7be310c669&hash=3E4346380E8B1232A7AE4FFF794050FE",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/3129/fl_-west-florida_-dr-horton-_-holden-h-new-colors.jpg?as=1&w=494&rev=0f9445e72c254167aea3ffa3be4fad39&hash=3556EF40D4749803A7B9C80C33DE4F3C"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "rivers-edge",
-      "name": "Rivers Edge",
-      "address": "2741 Silver Canoe Drive, Edgewater, FL 32141",
-      "availableCount": 0,
-      "lowestPrice": null,
-      "highestPrice": null,
-      "beds": [],
-      "lots": [],
-      "models": [
-        {
-          "slug": "1842",
-          "name": "Oasis",
-          "startingLabel": "Starting in the $298s",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/edgewater/rivers-edge/floor-plans/1842",
-          "beds": 3,
-          "baths": "2.5",
-          "sqft": "1,840",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---01.jpg?as=1&w=494&rev=2ffd19e122b04c29a74564d5def04d47&hash=D9D095D6D0D94E30EE569F8A8A88EC12",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---01.jpg?as=1&w=494&rev=2ffd19e122b04c29a74564d5def04d47&hash=D9D095D6D0D94E30EE569F8A8A88EC12",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---06.jpg?as=1&w=494&rev=6136ae6912f747a987b1bc4609deb2f5&hash=61695D9BD9969E9D4B4243E5EBF25510",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---07.jpg?as=1&w=494&rev=a7dc075430cd4b95b0d22a207922bfb7&hash=ECA373F52A7CA3B8158ACF4969D47C87",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---09.jpg?as=1&w=494&rev=a51eb7e27f474c82b0a8e3ea9228632e&hash=5414F7ADE8345C6584A9B1754937A9F5",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---12.jpg?as=1&w=494&rev=38bc580d400c4e4a905403ca29b3146b&hash=8D1AE2915B510775FB0BCE6D3FE082CB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---17.jpg?as=1&w=494&rev=13b654de7b2d4fc991ed03c9103150b4&hash=099E5F6D8A87C18C5828572FAAD376DE",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---18.jpg?as=1&w=494&rev=ed2492c0600c4f6ea1479b44e5e68427&hash=57D90819586FBA6CEAB124625F36B7DD",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---23.jpg?as=1&w=494&rev=46460756a888422287d76417508e92da&hash=BED8CFCC93A0D7EBEFFC73144CBE22CA",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---24.jpg?as=1&w=494&rev=53a81de5853345c6a4e315e521d854e7&hash=81897D6F95FCA0CBD7CCB9CBC56AE338",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---28.jpg?as=1&w=494&rev=dfc6ca7cd0ef4b618e5eadd1cb89e4a7&hash=6E6A540D02687922846E1128CB3D0CCA",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---29.jpg?as=1&w=494&rev=d25996f18c6f4966bb97fcbcc72f29c7&hash=555EF6B83BCDCA8924BCFD941636C0C7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---30.jpg?as=1&w=494&rev=8ed97bd76f5542bf9b75294082345e6b&hash=BA9866D20D3B9D0A77E3B2C980156D65",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---31.jpg?as=1&w=494&rev=b8199e55dc3e4bfd89ebd41176afa268&hash=B5D507AB8028FB760EC908EAF8139E24",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---32.jpg?as=1&w=494&rev=e53c2f1a12004994a99feae75cd17077&hash=B178C19EC63628443FB34F9AE17081B8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---33.jpg?as=1&w=494&rev=538a8646fff3479188a7d0b81904bef2&hash=8362FE7F211E45DAFB2025F546786249",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---34.jpg?as=1&w=494&rev=101e65dcc67643faa33239ba1e4dca18&hash=751398BC10D5702CB9D06CC5D95220CB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---35.jpg?as=1&w=494&rev=b3f7925bf52946739f3a04388b28fcd0&hash=0909F2AA069FC88C81C0A574690293E7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---36.jpg?as=1&w=494&rev=c6f2faaa3c864a2a83fb1a951fed6375&hash=42C7E9B6D09EF81E4DFA5A56682BB0AC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---38.jpg?as=1&w=494&rev=c347f480c63c48e7932306dd51042b0c&hash=3F5296F7F26E05E42B1ED04EE615E093",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---39.jpg?as=1&w=494&rev=25045e53b2e5422583842f9a4b7ea5de&hash=604F49448FABF8BBAA9FE3CE550D5375",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---41.jpg?as=1&w=494&rev=6b141f42407f4e3789ad326dccb9780c&hash=D91B7BDE6AA56B6776C968448E82B502",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---48.jpg?as=1&w=494&rev=8efb573ec37842dbbb5ba996e8542c0d&hash=CAB4662BC19941B3320FBA82199604F4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---55.jpg?as=1&w=494&rev=4e7d8bf5293f47e7997423388ca12d2a&hash=A0DFE6F5E7083D01858ABEE674EF1B2F"
-          ]
-        },
-        {
-          "slug": "1672",
-          "name": "Seabreeze",
-          "startingLabel": "Starting in the $283s",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/edgewater/rivers-edge/floor-plans/1672",
-          "beds": 3,
-          "baths": "2.5",
-          "sqft": "1,671",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---06.jpg?as=1&w=494&rev=7ce625466c724a9193b34a57473dc1db&hash=26F405465E23E1FCD7F09040ECB2751B",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---06.jpg?as=1&w=494&rev=7ce625466c724a9193b34a57473dc1db&hash=26F405465E23E1FCD7F09040ECB2751B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---05.jpg?as=1&w=494&rev=ee6168809d2849b5995659b7421ab42d&hash=88945C27321571E87149297B8703704F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---08.jpg?as=1&w=494&rev=3ebf17ef932e49d7ba410ea24c68c65b&hash=607F3D1C059B07674AAC471BC56F96B1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---11.jpg?as=1&w=494&rev=8018bf317c964a0a850104a790f644ae&hash=7362AADD8B095433D902EA5C804DD289",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---13.jpg?as=1&w=494&rev=98b5e81777964e40a45045aaea0baa7f&hash=343494AE32857CC8287160848D866B80",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---15.jpg?as=1&w=494&rev=68acb58aeb314743b2fd0378e82821fa&hash=B1869498F05EE0E29E4FE5F885CC5354",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---18.jpg?as=1&w=494&rev=b1b8253674494230af2d7d014512017e&hash=A115CBDF9952E0F6C5B1FD99A02C4C5A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---20.jpg?as=1&w=494&rev=331dfb284ca04bda80495df1129f3e3b&hash=EFC3D1717B71096756B49889742DFFFB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---21.jpg?as=1&w=494&rev=5f814e65dd7942498540427d8101d4c4&hash=87EB44AA083193F2F185F41C6093973A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---22.jpg?as=1&w=494&rev=0be1f4fe3964417785a47d750e0dd2f8&hash=C7C627BC39FE12377B899949143C28D1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---25.jpg?as=1&w=494&rev=3eacb0e0f5974478af342673ca2d9810&hash=542F7B192AC539C641A0ABF0A7BD9708",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---31.jpg?as=1&w=494&rev=ad6ffa3cc7024fd88e4d5e1475f439da&hash=35168584C7CD236EA43D710D76D02FFF",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---32.jpg?as=1&w=494&rev=2c105b3a63664260b3ce10bb33275f34&hash=AA59B26E706936A639220624D2F0A06E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---33.jpg?as=1&w=494&rev=4e897962922a4fac9e880e002164ab5d&hash=4764EA7DE7C3A3C3D25CE358E828DCA9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---34.jpg?as=1&w=494&rev=d2d8f19f288e49d097e2b327040f7c4b&hash=4AD666F01B7E58F75AD04FAD70FB91D7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---35.jpg?as=1&w=494&rev=87ef279c90b244b8b27c24b18b1613fc&hash=193ED12E91AF08079050C9D20895A5EB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---36.jpg?as=1&w=494&rev=f3d3cff7afbf41a384de9dab3a732898&hash=CBC07D4DC7E33958E90BFDB3701E3E57",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---37.jpg?as=1&w=494&rev=5a444c178ad049869cfd53dcdefa7787&hash=815B93030080C366124C6CBD790619B6",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---39.jpg?as=1&w=494&rev=21462c14f03f48548551ef11cf07dd6f&hash=F1FEF85C3251F1FDADE827E3E498B065",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---40.jpg?as=1&w=494&rev=1494c5b045c74c82a08739b65eacca20&hash=4481430EEB9DDBF9B6D8DEF87163178B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---41.jpg?as=1&w=494&rev=1e25bab134ff4cd3b5f029c0c60a4046&hash=3A1B0C5C4CFFBDDF2BC7A49975FD002E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---42.jpg?as=1&w=494&rev=829b9d572dd64213bc96d715768b4c12&hash=09CABC5AC11FDFD76FB1C0B9634A439D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---43.jpg?as=1&w=494&rev=f616ab840ad241c7b9c3112d1387a572&hash=73DF5528AD2E1300E652EE89F99F0C41",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---44.jpg?as=1&w=494&rev=96ff4803119141dbadbbbf921d8c5f3f&hash=0645DDE85D0B78BF05D39D8A0DADDEB8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---52.jpg?as=1&w=494&rev=a62c5769586e424c9b5a1e9410c7a122&hash=6488E2CE3AFAAE7EEEE109CAB2ADCB7A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---53.jpg?as=1&w=494&rev=9f02b3108eb34d90b59d4046b24e36b4&hash=0038F8D0264170ED3BFC4F95F80FF81D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/oasis_seabreeze_exterior_rendering.jpg?as=1&w=494&rev=4261c373c2f840b1afae2cb95d7145df&hash=38E1DE77B9950F7BA90D680EF3EED67B"
           ]
         }
       ]
@@ -39331,7 +39353,7 @@
       "slug": "sandalwood",
       "name": "Sandalwood",
       "address": "1688 Great Osprey Way, New Smyrna Beach, FL 32168",
-      "availableCount": 5,
+      "availableCount": 4,
       "lowestPrice": 264990,
       "highestPrice": 306990,
       "beds": [
@@ -39393,34 +39415,6 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20a/0062-1638-great-osprey-way/28-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc08017_copy.jpg?as=1&w=1280&rev=17062818018b4b858d95129c9ca50700&hash=B7F12740256B6FE18DD19970ED94A551",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20a/0062-1638-great-osprey-way/30-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc08035_copy.jpg?as=1&w=1280&rev=2f7cfc27570543d69f71c5099de4a5e2&hash=31429E6E6B8F23DD3A90DD4BCBB66C53",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20a/pearson_b_no_logo.jpg?as=1&w=1280&rev=b6d52d40c61d47f9bd7a9b3339c20402&hash=A209811EBC6935C60AE5E67D9C8181D2"
-          ]
-        },
-        {
-          "lot": "12",
-          "address": "1655 Great Osprey Way",
-          "plan": "",
-          "price": 264990,
-          "priceLabel": "$264,990",
-          "beds": 3,
-          "homeSlug": "1655-great-osprey-way",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/sandalwood/qmis/1655-great-osprey-way",
-          "baths": "2.5",
-          "sqft": "1,463",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0012-1655-great-osprey-way/1_1_pearson_sandalwood_2.jpg?as=1&w=1280&rev=49b4798a0df9451899454257651e6600&hash=CA2734254045ACFE2ACED4389A86850E",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0012-1655-great-osprey-way/1_1_pearson_sandalwood_2.jpg?as=1&w=1280&rev=49b4798a0df9451899454257651e6600&hash=CA2734254045ACFE2ACED4389A86850E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0012-1655-great-osprey-way/4-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc07960_livingroom.jpg?as=1&w=1280&rev=9391733fdfa94f63a83c8c9e386f7ce6&hash=9BC20214753117309CBCD6564107554F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0012-1655-great-osprey-way/8-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc07951_copy.jpg?as=1&w=1280&rev=9bcf7976cffe4c9dab043decc5124390&hash=FB1611EC2868938EF4D6B48AF28F6624",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0012-1655-great-osprey-way/12-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc07948_copy.jpg?as=1&w=1280&rev=c146fdda971e4920aaaf91233bbf4ba6&hash=E9D81BF118A1727AF2091F095B048667",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0012-1655-great-osprey-way/14-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc07933_copy.jpg?as=1&w=1280&rev=32e3993afba546e6adc8360693e374e3&hash=BD6C602215FDAE70287EBEC96BD6AEE9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0012-1655-great-osprey-way/18-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc08029_copy.jpg?as=1&w=1280&rev=75663c789e0b4a59897610d7e7c38fa4&hash=8DA1C910B3181E194F48208760019CF2",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0012-1655-great-osprey-way/22-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc08002_copy.jpg?as=1&w=1280&rev=b3c96257f0084384b8a043e82db84067&hash=14248402221DBA4ADAB8BF3E3A2BBA9F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0012-1655-great-osprey-way/27-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc08020_copy.jpg?as=1&w=1280&rev=e4bb2175a4c44a26bc2659a7842e2e38&hash=F84AF4C574BC0B5C6A2C605E3A15F934",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0012-1655-great-osprey-way/30-web-or-mls-osprey_dr__new_smyrna_beach__fl_32168-18760_dsc08035_copy.jpg?as=1&w=1280&rev=4cab11a6e6ed4c39b3b15c29082d2bb4&hash=8442B2285E8FCF80A306E3DD64492AB4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/pearson_b_no_logo.jpg?as=1&w=1280&rev=041dfb8d51c14343ababd72e6a2da031&hash=9A45A73A44F5F462C059693D58F68E91",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/pearson_a_b_resizedweb_interiorunit.jpg?as=1&w=1280&rev=3bcdb996e1f24949ac03f00180f2da04&hash=C169A22A8F9D5F6C92EF9565CE8734DD"
           ]
         },
         {
@@ -42341,6 +42335,114 @@
       ]
     },
     {
+      "slug": "tara-esmeralda",
+      "name": "Tara Esmeralda",
+      "address": "1889 NW 136th Blvd, Newberry, FL 32669",
+      "availableCount": 0,
+      "lowestPrice": null,
+      "highestPrice": null,
+      "beds": [],
+      "lots": [],
+      "models": [
+        {
+          "slug": "4eab",
+          "name": "Aria",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-esmeralda/floor-plans/4eab",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/4eab/ep_lot_12_aria_2945_ne_21st_terrace_road.png?as=1&w=425&rev=362f3d39499e42d5bbd7d41ba7981413&hash=4B18CF46C6691BD2411A077679A321B2",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/4eab/ep_lot_12_aria_2945_ne_21st_terrace_road.png?as=1&w=425&rev=362f3d39499e42d5bbd7d41ba7981413&hash=4B18CF46C6691BD2411A077679A321B2"
+          ]
+        },
+        {
+          "slug": "4ebb",
+          "name": "Cali",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-esmeralda/floor-plans/4ebb",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/4ebb/1fl_west-florida_drhorton_express-series_cali_ks.jpg?as=1&w=425&rev=686d8fe932ac42ca99a66ef64f7cae43&hash=567871F1A24B416DD64A70F402616845",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/4ebb/1fl_west-florida_drhorton_express-series_cali_ks.jpg?as=1&w=425&rev=686d8fe932ac42ca99a66ef64f7cae43&hash=567871F1A24B416DD64A70F402616845"
+          ]
+        },
+        {
+          "slug": "4ehb",
+          "name": "Hayden",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-esmeralda/floor-plans/4ehb",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/4ehb/1fl_west-florida_dr-horton_express_hayden-js.jpg?as=1&w=425&rev=9373030d159845f493ff8d17e6cad26c&hash=3C263205BA48C5762ED0912E9845F794",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/4ehb/1fl_west-florida_dr-horton_express_hayden-js.jpg?as=1&w=425&rev=9373030d159845f493ff8d17e6cad26c&hash=3C263205BA48C5762ED0912E9845F794"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tara-verde",
+      "name": "Tara Verde",
+      "address": "1149 NW 138th Drive, Newberry, FL 32669",
+      "availableCount": 0,
+      "lowestPrice": null,
+      "highestPrice": null,
+      "beds": [],
+      "lots": [],
+      "models": [
+        {
+          "slug": "4eab",
+          "name": "Aria",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-verde/floor-plans/4eab",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/974760000-tara-verde/4eab/fl_west-florida_drh_express-series_aria_02-elevation_ks.jpg?as=1&w=425&rev=c2612a8654c14cb6a933b8a52ff44c7f&hash=5383768FEBBA5C2918AF8A2984869F86",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/974760000-tara-verde/4eab/fl_west-florida_drh_express-series_aria_02-elevation_ks.jpg?as=1&w=425&rev=c2612a8654c14cb6a933b8a52ff44c7f&hash=5383768FEBBA5C2918AF8A2984869F86"
+          ]
+        },
+        {
+          "slug": "4ebb",
+          "name": "Cali",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-verde/floor-plans/4ebb",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/974760000-tara-verde/4ebb/1fl_west-florida_drhorton_express-series_cali_ks.jpg?as=1&w=425&rev=353cc2958d9f4892bb9027e1110ec14d&hash=7C64A0C35D6BDBBC34B96D3FC94046F7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/974760000-tara-verde/4ebb/1fl_west-florida_drhorton_express-series_cali_ks.jpg?as=1&w=425&rev=353cc2958d9f4892bb9027e1110ec14d&hash=7C64A0C35D6BDBBC34B96D3FC94046F7"
+          ]
+        },
+        {
+          "slug": "4ehb",
+          "name": "Hayden",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-verde/floor-plans/4ehb",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/974760000-tara-verde/4ehb/2fl_west-florida_dr-horton_express_hayden-ks.jpg?as=1&w=425&rev=1911301fcd8a438e8715910fa55d808a&hash=2E765789AA4E2ED2BF1CBC54B2CA3BD6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/974760000-tara-verde/4ehb/2fl_west-florida_dr-horton_express_hayden-ks.jpg?as=1&w=425&rev=1911301fcd8a438e8715910fa55d808a&hash=2E765789AA4E2ED2BF1CBC54B2CA3BD6"
+          ]
+        },
+        {
+          "slug": "t20a",
+          "name": "Pearson A",
+          "startingLabel": "Starting in the $270s",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-verde/floor-plans/t20a",
+          "beds": 3,
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20a/pearson-6_unit-th-modern2-gen3-elev_day.jpg?as=1&w=425&rev=8c3d6c68507c4543a7971bd86c7e5d1c&hash=94FC5EE4C96A939FFC01F6ACE5D15343",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20a/pearson-6_unit-th-modern2-gen3-elev_day.jpg?as=1&w=425&rev=8c3d6c68507c4543a7971bd86c7e5d1c&hash=94FC5EE4C96A939FFC01F6ACE5D15343"
+          ]
+        },
+        {
+          "slug": "t20b",
+          "name": "Pearson A",
+          "startingLabel": "Starting in the $260s",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-verde/floor-plans/t20b",
+          "beds": 3,
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20b/pearson-6_unit-th-modern2-gen3-elev_day.jpg?as=1&w=425&rev=f51c536b62fe4d76bbffa9ad0a33a4c3&hash=9FC0C60E9E917565D24EFD61AEE7A8A6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20b/pearson-6_unit-th-modern2-gen3-elev_day.jpg?as=1&w=425&rev=f51c536b62fe4d76bbffa9ad0a33a4c3&hash=9FC0C60E9E917565D24EFD61AEE7A8A6"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "tara-vista",
       "name": "Tara Vista",
       "address": "4746 SW 69th Street, Gainesville, FL 32608",
@@ -43901,8 +44003,8 @@
       "slug": "the-towns-at-laurel-commons",
       "name": "The Towns at Laurel Commons",
       "address": "8256 SW 67th Avenue, Ocala, FL 34476",
-      "availableCount": 6,
-      "lowestPrice": 224990,
+      "availableCount": 5,
+      "lowestPrice": 229990,
       "highestPrice": 247990,
       "beds": [
         3
@@ -43943,40 +44045,6 @@
           ],
           "incentive": 6080,
           "incentiveLabel": "(6,080)"
-        },
-        {
-          "lot": "155",
-          "address": "6570 SW 82nd Loop",
-          "plan": "Pearson B",
-          "price": 224990,
-          "priceLabel": "$224,990",
-          "beds": 3,
-          "homeSlug": "6570-sw-82nd-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6570-sw-82nd-loop",
-          "baths": "2.5",
-          "sqft": "1,458",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?as=1&w=1280&rev=0d2537e312bd4269ae5be6a0bd2b9322&hash=685D34D986D0C4B21C09957AE76B8D23",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?as=1&w=1280&rev=0d2537e312bd4269ae5be6a0bd2b9322&hash=685D34D986D0C4B21C09957AE76B8D23",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/1_pearson_entry.jpg?as=1&w=1280&rev=c2c4d80a1c9c4bb7a05bb2512fcba06b&hash=FB66AE7C792AB28B90E3C6555D669B71",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/2_pearson_kitchen5.jpg?as=1&w=1280&rev=88444316bf0b4846b4fe11d5f77830e0&hash=57CA0B3DE29337E33D679D5323617EE0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/3_pearson_kitchen4.jpg?as=1&w=1280&rev=40f0ed65de1445b0a0773f4c97236085&hash=0040E216761922E9CB0F12DC05A635FD",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/5_pearson_kitchen3.jpg?as=1&w=1280&rev=b69335d3468340299937d4f8a19cc75e&hash=61144B6360A0F008E06B5F5C05241A53",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/6_pearson_kitchen2.jpg?as=1&w=1280&rev=2fde5e9cdb044d38af81645882b329b3&hash=B5791EBDAFD57FBDD0E8A002CB5574C7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/7_pearson_dining_room3.jpg?as=1&w=1280&rev=47a5fd2a705e4b5a83b535abaafe9f00&hash=A7DEE2457D442A1221FC809EDF918E4F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/8_pearson_dining_room4.jpg?as=1&w=1280&rev=2be578e1b2ec4ad293d16ec97057760a&hash=CCA474E33A169AF1CDA24B9E374D502A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/10_pearson_living_room.png?as=1&w=1280&rev=515f11a7404a432493292e953381a3eb&hash=3D0F49A380ED96FDA286207395FF0963",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/11_pearson_living_room3.jpg?as=1&w=1280&rev=f684ee29468a4c5b8c43ded620c9bee9&hash=C23CD8CB372A0EC68D9129EBD545A5C0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/12pearson_living_room2.jpg?as=1&w=1280&rev=3b5bb8edba4947148ddd4adcc6744de0&hash=C948F94F9D7801DA2FC715ED66872055",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/13_pearson_owners_suite.png?as=1&w=1280&rev=985517ffc68f40ba9889694dafb5428e&hash=D83B473C8E591C97936BC6380CF6ACF4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/15_pearson_owners_ensuite_bathroom.jpg?as=1&w=1280&rev=6de9742e110b4885b8b868ab26905e1a&hash=961EB61F3B834048E44CD083892C00EC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/16_pearson_bedroom2.jpg?as=1&w=1280&rev=c831fe0ecf02499d830a1314a4cdc609&hash=D3909AF7D1809A97C0C5D495B5BB3937",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/17_pearson_bedroom3.jpg?as=1&w=1280&rev=e87a9d97344546b68a58e0c2ddc391e5&hash=C8A615FB59702AA648AEDF4142916E39",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/18_pearson_bathroom2.jpg?as=1&w=1280&rev=0693e87a4e4a46598337e2021d85495e&hash=494FE461EE1BDA09B63FD1C7AE859E00",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0155-6570-sw-82nd-loop/19_pearson_laundry_room.jpg?as=1&w=1280&rev=a9e4d1a835224b6ba8edd94195dc84fd&hash=E8C18A196D3A53F821BB76DE7C3508A2"
-          ]
         },
         {
           "lot": "158",
@@ -49980,8 +50048,8 @@
           "price": 420670,
           "priceLabel": "$420,670",
           "beds": 4,
-          "homeSlug": "14404-tawny-street",
-          "sourceUrl": "https://www.drhorton.com/texas/houston/splendora/canopies/qmis/14404-tawny-street",
+          "homeSlug": "4235-acoma-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/wexford-cove/qmis/4235-acoma-drive",
           "baths": "3",
           "sqft": "2,020",
           "story": "1",
@@ -50077,14 +50145,51 @@
       "slug": "willowbrook-south",
       "name": "Willowbrook South",
       "address": "2815 Adeline Ave, Winter Haven, FL 33881",
-      "availableCount": 2,
-      "lowestPrice": 302990,
+      "availableCount": 10,
+      "lowestPrice": 277490,
       "highestPrice": 326990,
       "beds": [
+        3,
         4,
         5
       ],
       "lots": [
+        {
+          "lot": "66",
+          "address": "2742 Adeline Ave",
+          "plan": "",
+          "price": 320990,
+          "priceLabel": "$320,990",
+          "beds": 4,
+          "homeSlug": "2742-adeline-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2742-adeline-ave",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/4ebb/0066-2742-adeline-ave/cali_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=21554e6b8a6f44408fb2fe3f3e9d27cf&hash=8F39D612EFEC6826B701FD589B75B4D4",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/4ebb/0066-2742-adeline-ave/cali_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=21554e6b8a6f44408fb2fe3f3e9d27cf&hash=8F39D612EFEC6826B701FD589B75B4D4"
+          ]
+        },
+        {
+          "lot": "69",
+          "address": "2754 Adeline Ave",
+          "plan": "",
+          "price": 318990,
+          "priceLabel": "$318,990",
+          "beds": 4,
+          "homeSlug": "2754-adeline-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2754-adeline-ave",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/4ebb/0069-2754-adeline-ave/cropped_0006_cali_h_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=08729466b1f743feb7edf989cc6d64fd&hash=16D0DD699D26DE8A95F8BBF237C9E3BE",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/4ebb/0069-2754-adeline-ave/cropped_0006_cali_h_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=08729466b1f743feb7edf989cc6d64fd&hash=16D0DD699D26DE8A95F8BBF237C9E3BE"
+          ]
+        },
         {
           "lot": "70",
           "address": "2758 Adeline Ave",
@@ -50181,6 +50286,114 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/4ebb/untitled-1_0000_cali_ele_g_cs1.jpg?as=1&w=1280&rev=578dfdc380d5417689f6d6dc4caa7da7&hash=D2FFF6A55632AA706629500BD807874C",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/4ebb/cropped_0004_cali_floorplan_only.jpg?as=1&w=1280&rev=ddbf6ba572714f178eaf3bb2e0c386b4&hash=CB2D94366F0783DE8F5806175C6895E8",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/4ebb/cropped_0005_cali_3d_staged_floorplan.jpg?as=1&w=1280&rev=7937f46e7ad448b4a3c2718fcc39f30e&hash=FB9643666F83E9757CB487F29D32F0A4"
+          ]
+        },
+        {
+          "lot": "71",
+          "address": "2762 Adeline Ave",
+          "plan": "",
+          "price": 295990,
+          "priceLabel": "$295,990",
+          "beds": 4,
+          "homeSlug": "2762-adeline-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2762-adeline-ave",
+          "baths": "2",
+          "sqft": "1,574",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0071-2762-adeline-ave/fletcher_ele_a_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=edcbd5e5a84544f4b738e304bb8651c9&hash=23A347E39723620C99DF5AACC2FFE4B3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0071-2762-adeline-ave/fletcher_ele_a_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=edcbd5e5a84544f4b738e304bb8651c9&hash=23A347E39723620C99DF5AACC2FFE4B3"
+          ]
+        },
+        {
+          "lot": "14",
+          "address": "2767 Adeline Ave",
+          "plan": "",
+          "price": 298990,
+          "priceLabel": "$298,990",
+          "beds": 4,
+          "homeSlug": "2767-adeline-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2767-adeline-ave",
+          "baths": "2",
+          "sqft": "1,574",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0014-2767-adeline-ave/fletcher_ele_c_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=875a181901ea4a9485a363031f72df52&hash=43536194B7E9C4745CBD48334A0CA2AC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0014-2767-adeline-ave/fletcher_ele_c_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=875a181901ea4a9485a363031f72df52&hash=43536194B7E9C4745CBD48334A0CA2AC"
+          ]
+        },
+        {
+          "lot": "13",
+          "address": "2771 Adeline Ave",
+          "plan": "",
+          "price": 296990,
+          "priceLabel": "$296,990",
+          "beds": 4,
+          "homeSlug": "2771-adeline-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2771-adeline-ave",
+          "baths": "2",
+          "sqft": "1,574",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0013-2771-adeline-ave/fletcher_ele_a_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=6ea4ae43ed99472bb862dae769c0e51a&hash=14371F44B771C897A0D44CB6480C6F14",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0013-2771-adeline-ave/fletcher_ele_a_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=6ea4ae43ed99472bb862dae769c0e51a&hash=14371F44B771C897A0D44CB6480C6F14"
+          ]
+        },
+        {
+          "lot": "62",
+          "address": "3504 Henry Lane",
+          "plan": "",
+          "price": 277490,
+          "priceLabel": "$277,490",
+          "beds": 3,
+          "homeSlug": "3504-henry-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/3504-henry-lane",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e406/0062-3504-henry-lane/archer_ii_a_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=711f2e162fdd4f9a80dc65db82ebd9c6&hash=BA7EF01523CDACE19D7994BC389538C9",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e406/0062-3504-henry-lane/archer_ii_a_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=711f2e162fdd4f9a80dc65db82ebd9c6&hash=BA7EF01523CDACE19D7994BC389538C9"
+          ]
+        },
+        {
+          "lot": "61",
+          "address": "3508 Henry Lane",
+          "plan": "",
+          "price": 291990,
+          "priceLabel": "$291,990",
+          "beds": 4,
+          "homeSlug": "3508-henry-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/3508-henry-lane",
+          "baths": "2",
+          "sqft": "1,574",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0061-3508-henry-lane/fletcher_ele_a_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f8551bd72bb54b51929d7c7e9ff30f5e&hash=0B1D36DC37E1565CF27C1A0EFABECA9B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0061-3508-henry-lane/fletcher_ele_a_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f8551bd72bb54b51929d7c7e9ff30f5e&hash=0B1D36DC37E1565CF27C1A0EFABECA9B"
+          ]
+        },
+        {
+          "lot": "59",
+          "address": "3516 Henry Lane",
+          "plan": "",
+          "price": 295490,
+          "priceLabel": "$295,490",
+          "beds": 4,
+          "homeSlug": "3516-henry-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/3516-henry-lane",
+          "baths": "2",
+          "sqft": "1,574",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0059-3516-henry-lane/fletcher_ele_a_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=246d2257fa80420abfc949e158051120&hash=6A6919075B89EDF8376995105C0AE00E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0059-3516-henry-lane/fletcher_ele_a_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=246d2257fa80420abfc949e158051120&hash=6A6919075B89EDF8376995105C0AE00E"
           ]
         }
       ],
@@ -52854,7 +53067,7 @@
       "address": "2180 Greenwood Oak Drive, Ocoee, FL 34761",
       "availableCount": 10,
       "lowestPrice": 412000,
-      "highestPrice": 604990,
+      "highestPrice": 594997,
       "beds": [
         3,
         4,
@@ -53065,8 +53278,8 @@
           "lot": "343",
           "address": "2091 Ashwood Bluff Drive",
           "plan": "",
-          "price": 604990,
-          "priceLabel": "$604,990",
+          "price": 594997,
+          "priceLabel": "$594,997",
           "beds": 4,
           "homeSlug": "2091-ashwood-bluff-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/qmis/2091-ashwood-bluff-drive",
