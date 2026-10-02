@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-01T19:15:09.860Z",
+  "updatedAt": "2026-10-02T18:55:15.816Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-01T19:15:09.860Z",
-  "photoCount": 510,
+  "publicUpdatedAt": "2026-10-02T18:55:15.816Z",
+  "photoCount": 512,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -2003,24 +2003,24 @@
       ],
       "lots": [
         {
-          "lot": "240",
-          "address": "3675 Malawi Trail",
+          "lot": "415",
+          "address": "5285 Masser Road",
           "plan": "",
-          "price": 679997,
-          "priceLabel": "$679,997",
-          "beds": 5,
-          "homeSlug": "3675-malawi-trail",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3675-malawi-trail",
-          "baths": "3",
-          "sqft": "2,929",
+          "price": 384990,
+          "priceLabel": "$384,990",
+          "beds": 4,
+          "homeSlug": "5285-masser-road",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/5285-masser-road",
+          "baths": "2",
+          "sqft": "1,828",
           "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384000000-buena-lago-lake-lots/2929/0002-3675-malawi-trail/1_1_everett_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=5d7a6665f1b841eda4bc1ccf14a104a6&hash=B746F908D446B617D63601E72504D38B",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0294-5285-masser-road/1_1_cali_exteriorg.jpg?iar=1&sc=1&thn=1&w=425&rev=6d616d5d89134feea68fd7818b6531ba&hash=7A07AA2B83358A73E67C2C150A835B1C",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384000000-buena-lago-lake-lots/2929/0002-3675-malawi-trail/1_1_everett_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=5d7a6665f1b841eda4bc1ccf14a104a6&hash=B746F908D446B617D63601E72504D38B"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0294-5285-masser-road/1_1_cali_exteriorg.jpg?iar=1&sc=1&thn=1&w=425&rev=6d616d5d89134feea68fd7818b6531ba&hash=7A07AA2B83358A73E67C2C150A835B1C"
           ],
-          "incentive": 74189,
-          "incentiveLabel": "(74,189)"
+          "incentive": 10695,
+          "incentiveLabel": "(10,695)"
         },
         {
           "lot": "286",
@@ -2239,6 +2239,24 @@
           ]
         },
         {
+          "lot": "240",
+          "address": "3675 Malawi Trail",
+          "plan": "",
+          "price": 679997,
+          "priceLabel": "$679,997",
+          "beds": 5,
+          "homeSlug": "3675-malawi-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3675-malawi-trail",
+          "baths": "3",
+          "sqft": "2,929",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384000000-buena-lago-lake-lots/2929/0002-3675-malawi-trail/1_1_everett_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=5d7a6665f1b841eda4bc1ccf14a104a6&hash=B746F908D446B617D63601E72504D38B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384000000-buena-lago-lake-lots/2929/0002-3675-malawi-trail/1_1_everett_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=5d7a6665f1b841eda4bc1ccf14a104a6&hash=B746F908D446B617D63601E72504D38B"
+          ]
+        },
+        {
           "lot": "215",
           "address": "3781 Malawi Trail",
           "plan": "",
@@ -2308,24 +2326,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0358-3805-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=41d3c960b13d4c5b9efa1f4d8006131e&hash=697E5E41D134FCE07D49EA0AFE196C3A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0358-3805-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=41d3c960b13d4c5b9efa1f4d8006131e&hash=697E5E41D134FCE07D49EA0AFE196C3A"
-          ]
-        },
-        {
-          "lot": "415",
-          "address": "5285 Masser Road",
-          "plan": "",
-          "price": 384990,
-          "priceLabel": "$384,990",
-          "beds": 4,
-          "homeSlug": "5285-masser-road",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/5285-masser-road",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0294-5285-masser-road/1_1_cali_exteriorg.jpg?iar=1&sc=1&thn=1&w=425&rev=6d616d5d89134feea68fd7818b6531ba&hash=7A07AA2B83358A73E67C2C150A835B1C",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0294-5285-masser-road/1_1_cali_exteriorg.jpg?iar=1&sc=1&thn=1&w=425&rev=6d616d5d89134feea68fd7818b6531ba&hash=7A07AA2B83358A73E67C2C150A835B1C"
           ]
         }
       ],
@@ -3164,6 +3164,10 @@
           "sqft": "1,504",
           "story": "1",
           "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0180-1375-grand-flora-lane/1_1_allexexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=3964cc7733fc41fcb993d203bec90c56&hash=680F6048327D0A6D2026D459D1852B96",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0180-1375-grand-flora-lane/1_1_allexexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=3964cc7733fc41fcb993d203bec90c56&hash=680F6048327D0A6D2026D459D1852B96"
+          ],
           "incentive": 10000,
           "incentiveLabel": "(10,000)"
         },
@@ -4860,6 +4864,24 @@
           ]
         },
         {
+          "lot": "350",
+          "address": "4611 Hidden Farm Drive",
+          "plan": "",
+          "price": 329000,
+          "priceLabel": "$329,000",
+          "beds": 3,
+          "homeSlug": "4611-hidden-farm-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4611-hidden-farm-drive",
+          "baths": "2",
+          "sqft": "1,560",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/1521-4611-hidden-farm-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=8ef2180a66f042ff9332333320269a25&hash=07D6BC69DF9023C7C8568BA48DBD2E7E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/1521-4611-hidden-farm-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=8ef2180a66f042ff9332333320269a25&hash=07D6BC69DF9023C7C8568BA48DBD2E7E"
+          ]
+        },
+        {
           "lot": "66",
           "address": "3524 Harvest Gardens Loop",
           "plan": "",
@@ -4893,60 +4915,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0157-4402-hidden-farm-drive/fl_drhorton_tampanorth_cali_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=ebf3e3e1589a4b4b8346811ce575d9fd&hash=608185D693294AC7AD4CE2DD8058106D",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0157-4402-hidden-farm-drive/fl_drhorton_tampanorth_cali_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=ebf3e3e1589a4b4b8346811ce575d9fd&hash=608185D693294AC7AD4CE2DD8058106D"
-          ]
-        },
-        {
-          "lot": "23",
-          "address": "3503 Harvest Gardens Lp",
-          "plan": "",
-          "price": 345000,
-          "priceLabel": "$345,000",
-          "beds": 4,
-          "homeSlug": "3503-harvest-gardens-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3503-harvest-gardens-loop",
-          "baths": "2.5",
-          "sqft": "2,045",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0109-3503-harvest-gardens-loop/fl_tampanorth_drhorton_lantana_b.jpg?iar=1&sc=1&thn=1&w=425&rev=cfb3f95d24e9471fb9268c400ef2ddf1&hash=FA343DDC758AA83942344FA05909574E",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0109-3503-harvest-gardens-loop/fl_tampanorth_drhorton_lantana_b.jpg?iar=1&sc=1&thn=1&w=425&rev=cfb3f95d24e9471fb9268c400ef2ddf1&hash=FA343DDC758AA83942344FA05909574E"
-          ]
-        },
-        {
-          "lot": "27",
-          "address": "3511 Harvest Gardens Lp",
-          "plan": "",
-          "price": 390000,
-          "priceLabel": "$390,000",
-          "beds": 4,
-          "homeSlug": "3511-harvest-gardens-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3511-harvest-gardens-loop",
-          "baths": "2.5",
-          "sqft": "2,045",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0113-3511-harvest-gardens-loop/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f0aa1cc958864e70a93f376b39d608a6&hash=5A377792AAD4CBD209C6CFD1A7D36491",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0113-3511-harvest-gardens-loop/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f0aa1cc958864e70a93f376b39d608a6&hash=5A377792AAD4CBD209C6CFD1A7D36491"
-          ]
-        },
-        {
-          "lot": "192",
-          "address": "4325 Hidden Farm Drive",
-          "plan": "",
-          "price": 390000,
-          "priceLabel": "$390,000",
-          "beds": 4,
-          "homeSlug": "4325-hidden-farm-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4325-hidden-farm-drive",
-          "baths": "2.5",
-          "sqft": "2,045",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0222-4325-hidden-farm-drive/fl_tampanorth_drhorton_lantana_f.jpg?iar=1&sc=1&thn=1&w=425&rev=005fa462666b44a88bfcea27bd62a257&hash=DB1F4EF82151C24182F0C9ADBB447BFA",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0222-4325-hidden-farm-drive/fl_tampanorth_drhorton_lantana_f.jpg?iar=1&sc=1&thn=1&w=425&rev=005fa462666b44a88bfcea27bd62a257&hash=DB1F4EF82151C24182F0C9ADBB447BFA"
           ]
         },
         {
@@ -5001,6 +4969,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e303/1523-4605-hidden-farm-drive/fl_drhorton_tampanorth_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=1cbe68466e6d457ebc8a1f868cdafb93&hash=9F0232259483F29EF6D41252C6D68BAD",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e303/1523-4605-hidden-farm-drive/fl_drhorton_tampanorth_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=1cbe68466e6d457ebc8a1f868cdafb93&hash=9F0232259483F29EF6D41252C6D68BAD"
+          ]
+        },
+        {
+          "lot": "206",
+          "address": "4616 Hidden Farm Drive",
+          "plan": "",
+          "price": 377000,
+          "priceLabel": "$377,000",
+          "beds": 4,
+          "homeSlug": "4616-hidden-farm-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4616-hidden-farm-drive",
+          "baths": "2.5",
+          "sqft": "2,305",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e303/0652-4616-hidden-farm-drive/fl_drhorton_tampanorth_elstonii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=b99c6cedb8674a4ebbfed52c71139825&hash=082FCBF937DEABF5DD5B9B81058DA352",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e303/0652-4616-hidden-farm-drive/fl_drhorton_tampanorth_elstonii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=b99c6cedb8674a4ebbfed52c71139825&hash=082FCBF937DEABF5DD5B9B81058DA352"
           ]
         },
         {
@@ -5199,6 +5185,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/3278/0002-3536-golden-wheat-ln/fl_tampanorth_drhorton_jordynii_h.jpg?iar=1&sc=1&thn=1&w=425&rev=5325ef54b6754baf83cb677fef0107cf&hash=351B3914E807DEAC5153374831B6ACC5",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/3278/0002-3536-golden-wheat-ln/fl_tampanorth_drhorton_jordynii_h.jpg?iar=1&sc=1&thn=1&w=425&rev=5325ef54b6754baf83cb677fef0107cf&hash=351B3914E807DEAC5153374831B6ACC5"
+          ]
+        },
+        {
+          "lot": "156",
+          "address": "4407 Hidden Farm Drive",
+          "plan": "",
+          "price": 475000,
+          "priceLabel": "$475,000",
+          "beds": 4,
+          "homeSlug": "4407-hidden-farm-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4407-hidden-farm-drive",
+          "baths": "3",
+          "sqft": "3,313",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/3129/0216-4407-hidden-farm-drive/fl_drhorton_tampanorth_holden_h.jpg?iar=1&sc=1&thn=1&w=425&rev=2badc27c44254684bdbd49ecc7d51346&hash=8F1894507258FB4604A1881782C312D6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/3129/0216-4407-hidden-farm-drive/fl_drhorton_tampanorth_holden_h.jpg?iar=1&sc=1&thn=1&w=425&rev=2badc27c44254684bdbd49ecc7d51346&hash=8F1894507258FB4604A1881782C312D6"
           ]
         }
       ],
@@ -5543,6 +5547,15 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38530-fish-lake-cove/385480000-fish-lake-cove-fl-ths/t20a/1_1_pearson_exterior.jpg?as=1&w=425&rev=56d120c0ab4c482085e5f65331af9fd9&hash=6E622ED6F30D97BE171FF4C5DEE7A0F5",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38530-fish-lake-cove/385480000-fish-lake-cove-fl-ths/t20a/1_1_pearson_exterior.jpg?as=1&w=425&rev=56d120c0ab4c482085e5f65331af9fd9&hash=6E622ED6F30D97BE171FF4C5DEE7A0F5"
+          ]
+        },
+        {
+          "slug": "t20b",
+          "name": "Pearson - Interior Unit",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/fish-lake-cove/floor-plans/t20b",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38530-fish-lake-cove/385480000-fish-lake-cove-fl-ths/t20b/1_1_pearson_exterior.jpg?as=1&w=425&rev=bb093e92094e4af683fee19503712ed1&hash=8506DA83F8EA5ED51E77A279C3D11E36",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38530-fish-lake-cove/385480000-fish-lake-cove-fl-ths/t20b/1_1_pearson_exterior.jpg?as=1&w=425&rev=bb093e92094e4af683fee19503712ed1&hash=8506DA83F8EA5ED51E77A279C3D11E36"
           ]
         },
         {
@@ -7871,24 +7884,24 @@
       ],
       "lots": [
         {
-          "lot": "201",
-          "address": "3126 Grey Moss Drive",
+          "lot": "94",
+          "address": "2928 Elio Hammock Drive",
           "plan": "",
-          "price": 405000,
-          "priceLabel": "$405,000",
-          "beds": 4,
-          "homeSlug": "3126-grey-moss-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3126-grey-moss-drive",
-          "baths": "2",
-          "sqft": "1,828",
+          "price": 406990,
+          "priceLabel": "$406,990",
+          "beds": 5,
+          "homeSlug": "2928-elio-hammock-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/2928-elio-hammock-drive",
+          "baths": "3",
+          "sqft": "2,077",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0869-3126-grey-moss-drive/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=ac1f949af3ce4be8ba8a107a29767dbf&hash=935F72A8EAB0FA9F679DA099D31D707B",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0863-2928-elio-hammock-drive/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6a3a7294fd214cc88c84e2df1e31bf03&hash=235D6C564920F419CC5A6BA3E675E0A4",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0869-3126-grey-moss-drive/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=ac1f949af3ce4be8ba8a107a29767dbf&hash=935F72A8EAB0FA9F679DA099D31D707B"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0863-2928-elio-hammock-drive/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6a3a7294fd214cc88c84e2df1e31bf03&hash=235D6C564920F419CC5A6BA3E675E0A4"
           ],
-          "incentive": 10615,
-          "incentiveLabel": "(10,615)"
+          "incentive": 5000,
+          "incentiveLabel": "(5,000)"
         },
         {
           "lot": "336",
@@ -7906,24 +7919,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0919-2895-common-crane-court/1_1_lakeside_exterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ba5d1b752fd24e6ba6c08d9b9da48311&hash=20F5ED29DF9CA5E473E016A6ECF0B631",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0919-2895-common-crane-court/1_1_lakeside_exterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ba5d1b752fd24e6ba6c08d9b9da48311&hash=20F5ED29DF9CA5E473E016A6ECF0B631"
-          ]
-        },
-        {
-          "lot": "94",
-          "address": "2928 Elio Hammock Drive",
-          "plan": "",
-          "price": 406990,
-          "priceLabel": "$406,990",
-          "beds": 5,
-          "homeSlug": "2928-elio-hammock-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/2928-elio-hammock-drive",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0863-2928-elio-hammock-drive/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6a3a7294fd214cc88c84e2df1e31bf03&hash=235D6C564920F419CC5A6BA3E675E0A4",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0863-2928-elio-hammock-drive/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6a3a7294fd214cc88c84e2df1e31bf03&hash=235D6C564920F419CC5A6BA3E675E0A4"
           ]
         },
         {
@@ -7978,6 +7973,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/385210000-harmony-west-40s/e311/0170-3095-grey-moss-drive/1_1_greenbriar_b.jpg?iar=1&sc=1&thn=1&w=425&rev=2610af445e2b47c8a324476def1bbdcf&hash=F51DC770E7F83094524103FBFEDA2DD6",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/385210000-harmony-west-40s/e311/0170-3095-grey-moss-drive/1_1_greenbriar_b.jpg?iar=1&sc=1&thn=1&w=425&rev=2610af445e2b47c8a324476def1bbdcf&hash=F51DC770E7F83094524103FBFEDA2DD6"
+          ]
+        },
+        {
+          "lot": "201",
+          "address": "3126 Grey Moss Drive",
+          "plan": "",
+          "price": 405000,
+          "priceLabel": "$405,000",
+          "beds": 4,
+          "homeSlug": "3126-grey-moss-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3126-grey-moss-drive",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0869-3126-grey-moss-drive/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=ac1f949af3ce4be8ba8a107a29767dbf&hash=935F72A8EAB0FA9F679DA099D31D707B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0869-3126-grey-moss-drive/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=ac1f949af3ce4be8ba8a107a29767dbf&hash=935F72A8EAB0FA9F679DA099D31D707B"
           ]
         },
         {
@@ -9580,22 +9593,24 @@
       ],
       "lots": [
         {
-          "lot": "222",
-          "address": "1851 Southbury Drive",
+          "lot": "455",
+          "address": "1872 Howard Mesa Drive",
           "plan": "",
-          "price": 357990,
-          "priceLabel": "$357,990",
+          "price": 392000,
+          "priceLabel": "$392,000",
           "beds": 3,
-          "homeSlug": "1851-southbury-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1851-southbury-drive",
-          "baths": "2.5",
-          "sqft": "1,551",
-          "story": "2",
+          "homeSlug": "1872-howard-mesa-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1872-howard-mesa-drive",
+          "baths": "2",
+          "sqft": "1,504",
+          "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/380760000-kindred-th/1513/0501-1851-southbury-drive/1_1_stratford_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=860377a805784c39981a530d627cff91&hash=E558401B0873807006345B671C1CDFE6",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0529-1872-howard-mesa-drive/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=747377a5d9b5464a96653e8fd73591ed&hash=C328053BB6A9D2536AC549B876503EBB",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/380760000-kindred-th/1513/0501-1851-southbury-drive/1_1_stratford_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=860377a805784c39981a530d627cff91&hash=E558401B0873807006345B671C1CDFE6"
-          ]
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0529-1872-howard-mesa-drive/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=747377a5d9b5464a96653e8fd73591ed&hash=C328053BB6A9D2536AC549B876503EBB"
+          ],
+          "incentive": 18990,
+          "incentiveLabel": "(18,990)"
         },
         {
           "lot": "35",
@@ -9724,6 +9739,24 @@
           ]
         },
         {
+          "lot": "222",
+          "address": "1851 Southbury Drive",
+          "plan": "",
+          "price": 357990,
+          "priceLabel": "$357,990",
+          "beds": 3,
+          "homeSlug": "1851-southbury-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1851-southbury-drive",
+          "baths": "2.5",
+          "sqft": "1,551",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/380760000-kindred-th/1513/0501-1851-southbury-drive/1_1_stratford_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=860377a805784c39981a530d627cff91&hash=E558401B0873807006345B671C1CDFE6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/380760000-kindred-th/1513/0501-1851-southbury-drive/1_1_stratford_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=860377a805784c39981a530d627cff91&hash=E558401B0873807006345B671C1CDFE6"
+          ]
+        },
+        {
           "lot": "451",
           "address": "1856 Howard Mesa Drive",
           "plan": "",
@@ -9775,24 +9808,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3emb/0528-1868-howard-mesa-drive/harper_g_-_edited_-_web.jpg?iar=1&sc=1&thn=1&w=425&rev=ac466660665a4e3b83493602ff46dfc7&hash=AC14A2ADBDD8431A626965FC63F2857B",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3emb/0528-1868-howard-mesa-drive/harper_g_-_edited_-_web.jpg?iar=1&sc=1&thn=1&w=425&rev=ac466660665a4e3b83493602ff46dfc7&hash=AC14A2ADBDD8431A626965FC63F2857B"
-          ]
-        },
-        {
-          "lot": "455",
-          "address": "1872 Howard Mesa Drive",
-          "plan": "",
-          "price": 392000,
-          "priceLabel": "$392,000",
-          "beds": 3,
-          "homeSlug": "1872-howard-mesa-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1872-howard-mesa-drive",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0529-1872-howard-mesa-drive/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=747377a5d9b5464a96653e8fd73591ed&hash=C328053BB6A9D2536AC549B876503EBB",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0529-1872-howard-mesa-drive/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=747377a5d9b5464a96653e8fd73591ed&hash=C328053BB6A9D2536AC549B876503EBB"
           ]
         },
         {
@@ -11296,24 +11311,6 @@
       ],
       "lots": [
         {
-          "lot": "43",
-          "address": "3558 Chroma Street",
-          "plan": "",
-          "price": 426990,
-          "priceLabel": "$426,990",
-          "beds": 3,
-          "homeSlug": "3558-chroma-street",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/orlando/nona-west/qmis/3558-chroma-street",
-          "baths": "2.5",
-          "sqft": "1,758",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1758/0043-3558-chroma-street/1_1_vale_exterior1.jpg?iar=1&sc=1&thn=1&w=425&rev=5048e11a89434ae299e0c8da60da798a&hash=065249FD4A18EC0B2A37CE4C93393D91",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1758/0043-3558-chroma-street/1_1_vale_exterior1.jpg?iar=1&sc=1&thn=1&w=425&rev=5048e11a89434ae299e0c8da60da798a&hash=065249FD4A18EC0B2A37CE4C93393D91"
-          ]
-        },
-        {
           "lot": "48",
           "address": "3516 Chroma Street",
           "plan": "",
@@ -11329,7 +11326,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0048-3516-chroma-street/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=c895f9249f5a45bea19148aa6adf8898&hash=1677143F700B92BCA66F5E67C885C3EF",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0048-3516-chroma-street/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=c895f9249f5a45bea19148aa6adf8898&hash=1677143F700B92BCA66F5E67C885C3EF"
-          ]
+          ],
+          "incentive": 2000,
+          "incentiveLabel": "(2,000)"
         },
         {
           "lot": "47",
@@ -11365,6 +11364,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0167-3545-chroma-street/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=a060647d39ff45298ad80b3f0f3007a4&hash=5C51E41F5FFD3D5D64073CFB2B4F0987",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0167-3545-chroma-street/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=a060647d39ff45298ad80b3f0f3007a4&hash=5C51E41F5FFD3D5D64073CFB2B4F0987"
+          ]
+        },
+        {
+          "lot": "43",
+          "address": "3558 Chroma Street",
+          "plan": "",
+          "price": 426990,
+          "priceLabel": "$426,990",
+          "beds": 3,
+          "homeSlug": "3558-chroma-street",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/orlando/nona-west/qmis/3558-chroma-street",
+          "baths": "2.5",
+          "sqft": "1,758",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1758/0043-3558-chroma-street/1_1_vale_exterior1.jpg?iar=1&sc=1&thn=1&w=425&rev=5048e11a89434ae299e0c8da60da798a&hash=065249FD4A18EC0B2A37CE4C93393D91",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1758/0043-3558-chroma-street/1_1_vale_exterior1.jpg?iar=1&sc=1&thn=1&w=425&rev=5048e11a89434ae299e0c8da60da798a&hash=065249FD4A18EC0B2A37CE4C93393D91"
           ]
         },
         {
@@ -11758,6 +11775,26 @@
       ],
       "lots": [
         {
+          "lot": "12",
+          "address": "1323 Congo Drive",
+          "plan": "",
+          "price": 300000,
+          "priceLabel": "$300,000",
+          "beds": 3,
+          "homeSlug": "1323-congo-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/1323-congo-drive",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0149-1323-congo-drive/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=4860ca90bc6a44d1a8b631703aab1f34&hash=04AA96373813518F3C37F4939D7BFF8A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0149-1323-congo-drive/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=4860ca90bc6a44d1a8b631703aab1f34&hash=04AA96373813518F3C37F4939D7BFF8A"
+          ],
+          "incentive": 9990,
+          "incentiveLabel": "(9,990)"
+        },
+        {
           "lot": "10",
           "address": "103 Herring Ln",
           "plan": "",
@@ -11823,24 +11860,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0172-1314-congo-dr/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=602e0e992170426789ba52a89d0d348a&hash=45EE8106F4EE8FE715574DF7CAAF3BBE",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0172-1314-congo-dr/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=602e0e992170426789ba52a89d0d348a&hash=45EE8106F4EE8FE715574DF7CAAF3BBE"
-          ]
-        },
-        {
-          "lot": "12",
-          "address": "1323 Congo Drive",
-          "plan": "",
-          "price": 300000,
-          "priceLabel": "$300,000",
-          "beds": 3,
-          "homeSlug": "1323-congo-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/1323-congo-drive",
-          "baths": "2",
-          "sqft": "1,328",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0149-1323-congo-drive/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=4860ca90bc6a44d1a8b631703aab1f34&hash=04AA96373813518F3C37F4939D7BFF8A",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/0149-1323-congo-drive/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=4860ca90bc6a44d1a8b631703aab1f34&hash=04AA96373813518F3C37F4939D7BFF8A"
           ]
         },
         {
@@ -12182,24 +12201,24 @@
       ],
       "lots": [
         {
-          "lot": "472",
-          "address": "5780 Springer St",
+          "lot": "474",
+          "address": "5792 Springer St",
           "plan": "",
-          "price": 404990,
-          "priceLabel": "$404,990",
-          "beds": 3,
-          "homeSlug": "5780-springer-st",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5780-springer-st",
-          "baths": "2",
-          "sqft": "1,672",
+          "price": 436990,
+          "priceLabel": "$436,990",
+          "beds": 5,
+          "homeSlug": "5792-springer-st",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5792-springer-st",
+          "baths": "3",
+          "sqft": "2,077",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4eab/0089-5780-springer-st/1_1_aria_exterior_elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=a4e39b78b1bb466e8807645189d9a343&hash=8732994F2744AE7DCF5485DF74713C61",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0091-5792-springer-st/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3fef8c66dc4147108786d8468e167583&hash=97A2E4DD9C489A659BCBD81D19DD84AB",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4eab/0089-5780-springer-st/1_1_aria_exterior_elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=a4e39b78b1bb466e8807645189d9a343&hash=8732994F2744AE7DCF5485DF74713C61"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0091-5792-springer-st/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3fef8c66dc4147108786d8468e167583&hash=97A2E4DD9C489A659BCBD81D19DD84AB"
           ],
-          "incentive": 19500,
-          "incentiveLabel": "(19,500)"
+          "incentive": 10000,
+          "incentiveLabel": "(10,000)"
         },
         {
           "lot": "29",
@@ -12310,6 +12329,24 @@
           ]
         },
         {
+          "lot": "472",
+          "address": "5780 Springer St",
+          "plan": "",
+          "price": 404990,
+          "priceLabel": "$404,990",
+          "beds": 3,
+          "homeSlug": "5780-springer-st",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5780-springer-st",
+          "baths": "2",
+          "sqft": "1,672",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4eab/0089-5780-springer-st/1_1_aria_exterior_elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=a4e39b78b1bb466e8807645189d9a343&hash=8732994F2744AE7DCF5485DF74713C61",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4eab/0089-5780-springer-st/1_1_aria_exterior_elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=a4e39b78b1bb466e8807645189d9a343&hash=8732994F2744AE7DCF5485DF74713C61"
+          ]
+        },
+        {
           "lot": "584",
           "address": "5782 Banks Pl",
           "plan": "",
@@ -12343,24 +12380,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385160000-preston-cove-70s/5emb/0022-5788-banks-pl/1_1_madisonexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=38085aed592546918083bdeced4a3550&hash=84B41F307E46AC18B615E4A3E16D0B55",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385160000-preston-cove-70s/5emb/0022-5788-banks-pl/1_1_madisonexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=38085aed592546918083bdeced4a3550&hash=84B41F307E46AC18B615E4A3E16D0B55"
-          ]
-        },
-        {
-          "lot": "474",
-          "address": "5792 Springer St",
-          "plan": "",
-          "price": 436990,
-          "priceLabel": "$436,990",
-          "beds": 5,
-          "homeSlug": "5792-springer-st",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5792-springer-st",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0091-5792-springer-st/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3fef8c66dc4147108786d8468e167583&hash=97A2E4DD9C489A659BCBD81D19DD84AB",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0091-5792-springer-st/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3fef8c66dc4147108786d8468e167583&hash=97A2E4DD9C489A659BCBD81D19DD84AB"
           ]
         },
         {
@@ -12754,26 +12773,6 @@
       ],
       "lots": [
         {
-          "lot": "17",
-          "address": "1114 Gull Drive",
-          "plan": "",
-          "price": 518997,
-          "priceLabel": "$518,997",
-          "beds": 5,
-          "homeSlug": "1114-gull-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1114-gull-drive",
-          "baths": "3",
-          "sqft": "2,601",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ehb/0017-1114-gull-drive/1_1_hayden_exteriorstone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=1e511cc5ab324b7ca57600d262ba95bc&hash=37E6064C3879B469798C06BE4839EC37",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ehb/0017-1114-gull-drive/1_1_hayden_exteriorstone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=1e511cc5ab324b7ca57600d262ba95bc&hash=37E6064C3879B469798C06BE4839EC37"
-          ],
-          "incentive": 8993,
-          "incentiveLabel": "(8,993)"
-        },
-        {
           "lot": "71",
           "address": "1091 Gull Drive",
           "plan": "",
@@ -12789,7 +12788,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0071-1091-gull-drive/1_1_cali_exterior_l.jpg?iar=1&sc=1&thn=1&w=425&rev=29331a50aebb4d7b920e2ca636e46916&hash=0CE843D6EB9F0A467BB405DCAD4A4C2E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0071-1091-gull-drive/1_1_cali_exterior_l.jpg?iar=1&sc=1&thn=1&w=425&rev=29331a50aebb4d7b920e2ca636e46916&hash=0CE843D6EB9F0A467BB405DCAD4A4C2E"
-          ]
+          ],
+          "incentive": 12996,
+          "incentiveLabel": "(12,996)"
         },
         {
           "lot": "69",
@@ -12825,6 +12826,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0068-1109-gull-drive/1_1_lakeside_sagewood_h.jpg?iar=1&sc=1&thn=1&w=425&rev=29756838ceba4719be5ea4284debd53d&hash=3A3C55E3FF1BE06EB582DDC18D847411",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0068-1109-gull-drive/1_1_lakeside_sagewood_h.jpg?iar=1&sc=1&thn=1&w=425&rev=29756838ceba4719be5ea4284debd53d&hash=3A3C55E3FF1BE06EB582DDC18D847411"
+          ]
+        },
+        {
+          "lot": "17",
+          "address": "1114 Gull Drive",
+          "plan": "",
+          "price": 518997,
+          "priceLabel": "$518,997",
+          "beds": 5,
+          "homeSlug": "1114-gull-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1114-gull-drive",
+          "baths": "3",
+          "sqft": "2,601",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ehb/0017-1114-gull-drive/1_1_hayden_exteriorstone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=1e511cc5ab324b7ca57600d262ba95bc&hash=37E6064C3879B469798C06BE4839EC37",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ehb/0017-1114-gull-drive/1_1_hayden_exteriorstone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=1e511cc5ab324b7ca57600d262ba95bc&hash=37E6064C3879B469798C06BE4839EC37"
           ]
         },
         {
@@ -13414,7 +13433,11 @@
           "baths": "2",
           "sqft": "1,574",
           "story": "1",
-          "garage": "2"
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34566-ormond-station/345660000-sunside-at-ormond-station/e410/0008-22-amberwood-ln/fletcher_rendering_elevation_b_web.jpg?iar=1&sc=1&thn=1&w=425&rev=b6c49e14ae654f65939f27a483894def&hash=A924CF190761B6B0466C2E1A0263847C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34566-ormond-station/345660000-sunside-at-ormond-station/e410/0008-22-amberwood-ln/fletcher_rendering_elevation_b_web.jpg?iar=1&sc=1&thn=1&w=425&rev=b6c49e14ae654f65939f27a483894def&hash=A924CF190761B6B0466C2E1A0263847C"
+          ]
         },
         {
           "lot": "35",
@@ -17129,26 +17152,6 @@
       ],
       "lots": [
         {
-          "lot": "204",
-          "address": "3309 Spineywood Drive",
-          "plan": "",
-          "price": 510000,
-          "priceLabel": "$510,000",
-          "beds": 5,
-          "homeSlug": "3309-spineywood-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/qmis/3309-spineywood-drive",
-          "baths": "3",
-          "sqft": "2,447",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3efb/0049-3309-spineywood-drive/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=952e4675d79243548fb2936a16b720d3&hash=1793496018DCAF4533391137B2694EFD",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3efb/0049-3309-spineywood-drive/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=952e4675d79243548fb2936a16b720d3&hash=1793496018DCAF4533391137B2694EFD"
-          ],
-          "incentive": 8990,
-          "incentiveLabel": "(8,990)"
-        },
-        {
           "lot": "201",
           "address": "3321 Spineywood Drive",
           "plan": "",
@@ -17164,7 +17167,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3eab/0046-3321-spineywood-drive/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=86222ffe818741bbad8a57923d458942&hash=41CB31CAD9B922D01FAC3E79BE9A805F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3eab/0046-3321-spineywood-drive/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=86222ffe818741bbad8a57923d458942&hash=41CB31CAD9B922D01FAC3E79BE9A805F"
-          ]
+          ],
+          "incentive": 30990,
+          "incentiveLabel": "(30,990)"
         },
         {
           "lot": "198",
@@ -17290,6 +17295,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3emb/0042-3403-spineywood-drive/harper_g_-_edited_-_web.jpg?iar=1&sc=1&thn=1&w=425&rev=60f62455096e4c5e929bee9f5405eedc&hash=63CC8E42F7CBF4E3CB6DE5283219B4B9",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3emb/0042-3403-spineywood-drive/harper_g_-_edited_-_web.jpg?iar=1&sc=1&thn=1&w=425&rev=60f62455096e4c5e929bee9f5405eedc&hash=63CC8E42F7CBF4E3CB6DE5283219B4B9"
+          ]
+        },
+        {
+          "lot": "204",
+          "address": "3309 Spineywood Drive",
+          "plan": "",
+          "price": 510000,
+          "priceLabel": "$510,000",
+          "beds": 5,
+          "homeSlug": "3309-spineywood-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/qmis/3309-spineywood-drive",
+          "baths": "3",
+          "sqft": "2,447",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3efb/0049-3309-spineywood-drive/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=952e4675d79243548fb2936a16b720d3&hash=1793496018DCAF4533391137B2694EFD",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3efb/0049-3309-spineywood-drive/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=952e4675d79243548fb2936a16b720d3&hash=1793496018DCAF4533391137B2694EFD"
           ]
         },
         {
