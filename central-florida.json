@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-02T18:55:15.816Z",
+  "updatedAt": "2026-10-03T17:48:09.031Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-02T18:55:15.816Z",
-  "photoCount": 512,
+  "publicUpdatedAt": "2026-10-03T17:48:09.031Z",
+  "photoCount": 509,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -3675,8 +3675,8 @@
       "slug": "crosswinds",
       "name": "Crosswinds",
       "address": "3614 Roden Road, Haines City, FL 33844",
-      "availableCount": 13,
-      "lowestPrice": 303920,
+      "availableCount": 12,
+      "lowestPrice": 307920,
       "highestPrice": 406490,
       "beds": [
         3,
@@ -3798,8 +3798,8 @@
           "lot": "182",
           "address": "4926 Katrina Drive",
           "plan": "",
-          "price": 303920,
-          "priceLabel": "$303,920",
+          "price": 307920,
+          "priceLabel": "$307,920",
           "beds": 3,
           "homeSlug": "4926-katrina-drive",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/4926-katrina-drive",
@@ -3864,24 +3864,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/e303/0004-5373-willow-creek/elston_ii_ele_h_without_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=7926bcfe09754319973383d26f8b8fb4&hash=B3CB767AB4674721F4B2DBACDC2F47DC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/e303/0004-5373-willow-creek/elston_ii_ele_h_without_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=7926bcfe09754319973383d26f8b8fb4&hash=B3CB767AB4674721F4B2DBACDC2F47DC"
-          ]
-        },
-        {
-          "lot": "166",
-          "address": "5389 Willow Creek",
-          "plan": "",
-          "price": 349900,
-          "priceLabel": "$349,900",
-          "beds": 4,
-          "homeSlug": "5389-willow-creek",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/5389-willow-creek",
-          "baths": "2.5",
-          "sqft": "2,305",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/e303/0008-5389-willow-creek/elston_ii_ele_g_without_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=9389d7af1cca4810b755eb67c1686711&hash=BAE868BE4C3607CB2D8571E93AC76620",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/e303/0008-5389-willow-creek/elston_ii_ele_g_without_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=9389d7af1cca4810b755eb67c1686711&hash=BAE868BE4C3607CB2D8571E93AC76620"
           ]
         },
         {
@@ -4078,7 +4060,7 @@
       "slug": "crosswinds-townhomes",
       "name": "Crosswinds Townhomes",
       "address": "2394 Aveeno Avenue, Haines City, FL 33844",
-      "availableCount": 2,
+      "availableCount": 1,
       "lowestPrice": 253900,
       "highestPrice": 253900,
       "beds": [
@@ -4104,24 +4086,6 @@
           ],
           "incentive": 19090,
           "incentiveLabel": "(19,090)"
-        },
-        {
-          "lot": "998",
-          "address": "2354 Aveeno Avenue",
-          "plan": "",
-          "price": 253900,
-          "priceLabel": "$253,900",
-          "beds": 3,
-          "homeSlug": "2354-aveeno-avenue",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2354-aveeno-avenue",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389340000-crosswinds-th/t20b/0209-2354-aveeno-avenue/_0006_1-web-or-mls-orlando_-_crosswinds_-_2394_aveeno_avenue_haines_city_fl_33844-001.jpg?iar=1&sc=1&thn=1&w=425&rev=ce7605839a104a9a9adf44cf82ccde30&hash=AD1EE6CF677CCCB4687D8A093B5CA988",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389340000-crosswinds-th/t20b/0209-2354-aveeno-avenue/_0006_1-web-or-mls-orlando_-_crosswinds_-_2394_aveeno_avenue_haines_city_fl_33844-001.jpg?iar=1&sc=1&thn=1&w=425&rev=ce7605839a104a9a9adf44cf82ccde30&hash=AD1EE6CF677CCCB4687D8A093B5CA988"
-          ]
         }
       ],
       "models": [
@@ -11917,7 +11881,7 @@
           ]
         },
         {
-          "lot": "15",
+          "lot": "14",
           "address": "2317 Rock Drive",
           "plan": "",
           "price": 334990,
@@ -14806,7 +14770,7 @@
       "slug": "twisted-oaks",
       "name": "Twisted Oaks",
       "address": "3181 Canopy Oak Blvd., Wildwood, FL 34785",
-      "availableCount": 20,
+      "availableCount": 19,
       "lowestPrice": 235990,
       "highestPrice": 436990,
       "beds": [
@@ -14960,24 +14924,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20a/0100-8323-gower-trail/pearson-6_unit-th-stucco-sch1-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=5d6933dce36545828b1137dffcb0d97e&hash=7A38C4850A66F00F296600CBB29591B6",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20a/0100-8323-gower-trail/pearson-6_unit-th-stucco-sch1-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=5d6933dce36545828b1137dffcb0d97e&hash=7A38C4850A66F00F296600CBB29591B6"
-          ]
-        },
-        {
-          "lot": "286",
-          "address": "3043 Biltmore Lane",
-          "plan": "",
-          "price": 274990,
-          "priceLabel": "$274,990",
-          "beds": 3,
-          "homeSlug": "3043-biltmore-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/3043-biltmore-lane",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974480000-twisted-oaks---sumter-40s-exp/3eab/0067-3043-biltmore-lane/allex-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2b1031a1e32c4a3ea829c5cec93b8eef&hash=B024C03528FF67EB816399A860BDA264",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974480000-twisted-oaks---sumter-40s-exp/3eab/0067-3043-biltmore-lane/allex-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2b1031a1e32c4a3ea829c5cec93b8eef&hash=B024C03528FF67EB816399A860BDA264"
           ]
         },
         {
