@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T17:50:24.576Z",
+  "updatedAt": "2026-10-04T18:05:33.121Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
@@ -20560,35 +20560,6 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/4ehb/30-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08350.jpg?as=1&w=494&rev=7c39c8d381df438787940c601171e451&hash=4BF714EBB8F7E027C4B8F6C31FC39249",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/4ehb/31-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08362.jpg?as=1&w=494&rev=aaa3ba5ba453421188b430e7f792acb9&hash=464B7A0E877366EF360FD0A35A5C2C33",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/4ehb/33-web-or-mls-1383_fountain_vw_st__ormond_beach__fl_32174-18990_dsc08327.jpg?as=1&w=494&rev=f6fd76a79430410faafca1ed463a5d8b&hash=318BBFA8390248EC57CB3B21E4DBC61E"
-          ]
-        },
-        {
-          "slug": "3efb",
-          "name": "Robie",
-          "startingLabel": "Starting in the $387s",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/gardenside-at-ormond-station/floor-plans/3efb",
-          "beds": 5,
-          "baths": "3",
-          "sqft": "2,447",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1-1-robieexterior-elevationh.jpg?as=1&w=494&rev=da8b58b690314026b40a7318c61de05b&hash=120AF10D16682E32EF32483BB39979CE",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1-1-robieexterior-elevationh.jpg?as=1&w=494&rev=da8b58b690314026b40a7318c61de05b&hash=120AF10D16682E32EF32483BB39979CE",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---05.jpg?as=1&w=494&rev=20bc229ba9ea42dd9ac371b50d62093a&hash=ABB1EFD613E9D38A6EF17ADB6ECC364D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---07.jpg?as=1&w=494&rev=0c337d4eb6294c6a8fc74672eb1dd02c&hash=2BFFEC612BF559CA329E1FFD77441C44",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---10.jpg?as=1&w=494&rev=0bb0b361423a433f87b8e78d7f1ad6fd&hash=746887FBD06AC56872D84CBA7CFD4632",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---12.jpg?as=1&w=494&rev=3606e5b99de44eb5bb9e06ce2b886bf3&hash=57619728406303DBDC54C237059EC5BC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---13.jpg?as=1&w=494&rev=18ee7fa9b3e941f2971e0b76b6de9107&hash=861B82477D16D6C30C0611AFEEEBAE3F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---15.jpg?as=1&w=494&rev=2c4c68f128b347e4ba93d554cab15459&hash=3F0BD80CAED734AD1CDE070CBA16D6B7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---19.jpg?as=1&w=494&rev=514ee073a0f34f178f9a0febd452ada5&hash=D41E6186C798E92B17C0C9C806FEE67B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---22.jpg?as=1&w=494&rev=3071d09f6b3c4e3ea0c30625551a51f3&hash=9742C10D8F49AECBB24260076E4E70D4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---25.jpg?as=1&w=494&rev=d801052ee493477a908cb50edd7452b7&hash=88BF8B7DA99E2D700E9B8E46F4F1462D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---26.jpg?as=1&w=494&rev=45cbdf0cf597413c85fcad7ba60c3b50&hash=CCAF400402F5EFE6A96C125C6591B1D9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---27.jpg?as=1&w=494&rev=10ce5a4150df4527a75cffb5c979414f&hash=6E6645CCDD91555A34A320709203A3B0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---29.jpg?as=1&w=494&rev=d546f767bf8c42f7bbf7a6b04d779707&hash=C3149AFFAC3F031F21EF80703B191E8F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---31.jpg?as=1&w=494&rev=aab41ca4f32a40a89134a5d9ffedbead&hash=B6417D593103DF1878D2C3747FEB6138",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1508-park-side-avenue--kissimmee--fl-34744-robbie---32.jpg?as=1&w=494&rev=4c28fa474e534491bc48f8021c46b3e6&hash=F8966835857FB7EB41E9F8EF9ADEAF43"
           ]
         }
       ]
@@ -42530,27 +42501,14 @@
           "priceLabel": "$356,070",
           "beds": 5,
           "homeSlug": "4390-sw-67th-ln",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/qmis/4390-sw-67th-ln",
+          "sourceUrl": "",
           "baths": "3",
           "sqft": "2,605",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/hayden-k-stone-carriage-gen3-elev_ind_door_updated.jpg?as=1&w=1280&rev=4d8d0196ad75463f91a533acc1494d8e&hash=183CF3EE5AAA9BEAB378D4D08E173A76",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/hayden-k-stone-carriage-gen3-elev_ind_door_updated.jpg?iar=1&sc=1&thn=1&w=425&rev=4d8d0196ad75463f91a533acc1494d8e&hash=29E888D164103C3FC21892CB89A8E06B",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/hayden-k-stone-carriage-gen3-elev_ind_door_updated.jpg?as=1&w=1280&rev=4d8d0196ad75463f91a533acc1494d8e&hash=183CF3EE5AAA9BEAB378D4D08E173A76",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/1_hayden_living_room.png?as=1&w=1280&rev=cfd00f6eb6f04f4ba0fce89763b66fcf&hash=98DBD5B4501367EB6F4D9C21BD16FFD2",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/2_hayden_dining_room.png?as=1&w=1280&rev=1f5956fe300e48d6980844f460a2d175&hash=FC35564EEEA9674A4A04F08E39A7AA1F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/3_hayden_kitchen.png?as=1&w=1280&rev=b018183a0a284effa8d1c2ec30cf53fa&hash=E3E9281F5AB14DCEDCE388AC8B0191A2",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/4_hayden_flex_room.png?as=1&w=1280&rev=5f1ed664e26c4ee2a90417a67d244dee&hash=B8A086F982455B7CAEA9082461223693",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/5_hayden_bedroom2.png?as=1&w=1280&rev=17e7a9ef4b144d4aa344abd1c887ccea&hash=FA8932BB2ED8D87B1440D16ED54742F4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/6_hayden_bathroom2.png?as=1&w=1280&rev=5e4ae19333fa4c1eabc39d466f619172&hash=9A8C890918CFD174C40806C13D716F7F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/7_hayden_upstairs_loft.png?as=1&w=1280&rev=5843236e4be14fb48fd421ed54bba8e5&hash=A6D23B1F3A04464F5206F3E34BFFA5AC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/8_hayden_owners_suite.png?as=1&w=1280&rev=081576f479694e66b6b0b21023e0454c&hash=C75F518C563CA3859610ED353BA731CE",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/9_hayden_owners_ensuite_bathroom.png?as=1&w=1280&rev=e932b0f4d530481cbb5a5d3d4272fc4a&hash=6B653C229D117BC6D9448EA4EF0AB120",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/10_hayden_bedroom4.png?as=1&w=1280&rev=42499f1ccc4c4d36b9c0460a9b2c5f2b&hash=E94A6C6646BAB82363F637671EEB9AFF",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/11_hayden_bedroom5.png?as=1&w=1280&rev=59c8e0b3af14477f9d7954b426ffabab&hash=EA233347CF9D8F866C0745F1A942CB9A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/12_hayden_bathroom3.png?as=1&w=1280&rev=79f59bbb74cc41a58478171c18ee431a&hash=1498EF3070ED5768A78ED4446A144854",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/13_hayden_bedroom3.png?as=1&w=1280&rev=a2c3d45e08b64ef4b70f320afb0afd7c&hash=1A7377395DEA953439C53234EEB2629A"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/hayden-k-stone-carriage-gen3-elev_ind_door_updated.jpg?iar=1&sc=1&thn=1&w=425&rev=4d8d0196ad75463f91a533acc1494d8e&hash=29E888D164103C3FC21892CB89A8E06B"
           ]
         },
         {
@@ -43166,6 +43124,21 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ebb/cali-c-stone-siding-carriage-gen3-elev_ind.jpg?as=1&w=494&rev=15cd14f29d404159a5c40bb9f0f3b09b&hash=3A2BA8D59B06445B2855448384FBAED8",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ebb/cali-d-stone-carriage-gen3-elev_ind.jpg?as=1&w=494&rev=5322d31f4a954f51af46e32d6a83028f&hash=C8207FC71955D5140371BE11C69153BA",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ebb/cali-d-stone-siding-carriage-gen3-elev_ind.jpg?as=1&w=494&rev=dd403ee9f7de41dca679e52a59cc8b0a&hash=F77C239D9D73C1223B0257F909B615D0"
+          ]
+        },
+        {
+          "slug": "2795",
+          "name": "Camden",
+          "startingLabel": "Starting in the $416s",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/floor-plans/2795",
+          "beds": 4,
+          "baths": "3.5",
+          "sqft": "2,836",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2795/camden_twisted_oaks_web.png?as=1&w=425&rev=8669d2da155640f7a4c9b5dc44f1dd64&hash=D4A876C187A0A73BFAE685DF5B482945",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2795/camden_twisted_oaks_web.png?as=1&w=425&rev=8669d2da155640f7a4c9b5dc44f1dd64&hash=D4A876C187A0A73BFAE685DF5B482945"
           ]
         },
         {

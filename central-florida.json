@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-03T17:48:09.031Z",
+  "updatedAt": "2026-10-04T18:02:53.828Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-03T17:48:09.031Z",
+  "publicUpdatedAt": "2026-10-04T18:02:53.828Z",
   "photoCount": 509,
   "communities": [
     {
@@ -6855,21 +6855,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/4ehb/1_1_haydenexterior_g_.jpg?as=1&w=425&rev=068a4a8aa991452ca15ebe94c652d66c&hash=4A9758BDF53FCC7AB619B77491942BAC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/4ehb/1_1_haydenexterior_g_.jpg?as=1&w=425&rev=068a4a8aa991452ca15ebe94c652d66c&hash=4A9758BDF53FCC7AB619B77491942BAC"
-          ]
-        },
-        {
-          "slug": "3efb",
-          "name": "Robie",
-          "startingLabel": "Starting in the $387s",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/gardenside-at-ormond-station/floor-plans/3efb",
-          "beds": 5,
-          "baths": "3",
-          "sqft": "2,447",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1-1-robieexterior-elevationh.jpg?as=1&w=425&rev=da8b58b690314026b40a7318c61de05b&hash=CEA9159B467B8E774C35C007614DDAF1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1-1-robieexterior-elevationh.jpg?as=1&w=425&rev=da8b58b690314026b40a7318c61de05b&hash=CEA9159B467B8E774C35C007614DDAF1"
           ]
         }
       ]

@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-03T17:41:27.290Z",
+  "updatedAt": "2026-10-04T17:55:22.793Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-03T17:41:27.290Z",
+  "publicUpdatedAt": "2026-10-04T17:55:22.793Z",
   "photoCount": 101,
   "communities": [
     {
@@ -2520,7 +2520,7 @@
           "priceLabel": "$356,070",
           "beds": 5,
           "homeSlug": "4390-sw-67th-ln",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/qmis/4390-sw-67th-ln",
+          "sourceUrl": "",
           "baths": "3",
           "sqft": "2,605",
           "story": "2",
@@ -2830,6 +2830,21 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ebb/cali_-_d_ocs_-_no_address.png?as=1&w=425&rev=de44af85b0ba4360b2c538ddf77b3f06&hash=AEF399567A3AB4C6F7935051677D212B",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ebb/cali_-_d_ocs_-_no_address.png?as=1&w=425&rev=de44af85b0ba4360b2c538ddf77b3f06&hash=AEF399567A3AB4C6F7935051677D212B"
+          ]
+        },
+        {
+          "slug": "2795",
+          "name": "Camden",
+          "startingLabel": "Starting in the $416s",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/floor-plans/2795",
+          "beds": 4,
+          "baths": "3.5",
+          "sqft": "2,836",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2795/camden_twisted_oaks_web.png?as=1&w=425&rev=8669d2da155640f7a4c9b5dc44f1dd64&hash=D4A876C187A0A73BFAE685DF5B482945",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/974990000-winding-oaks-60s-drh/2795/camden_twisted_oaks_web.png?as=1&w=425&rev=8669d2da155640f7a4c9b5dc44f1dd64&hash=D4A876C187A0A73BFAE685DF5B482945"
           ]
         },
         {
