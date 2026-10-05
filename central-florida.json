@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-04T18:02:53.828Z",
+  "updatedAt": "2026-10-05T21:24:52.060Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-04T18:02:53.828Z",
-  "photoCount": 509,
+  "publicUpdatedAt": "2026-10-05T21:24:52.060Z",
+  "photoCount": 492,
   "communities": [
     {
       "slug": "annabelle-estates",
       "name": "Annabelle Estates",
       "address": "4206 Lester Drive, Lake Wales, FL 33859",
-      "availableCount": 10,
+      "availableCount": 8,
       "lowestPrice": 224990,
       "highestPrice": 335600,
       "beds": [
@@ -19,26 +19,6 @@
         5
       ],
       "lots": [
-        {
-          "lot": "90",
-          "address": "4706 Tony Street",
-          "plan": "",
-          "price": 224990,
-          "priceLabel": "$224,990",
-          "beds": 3,
-          "homeSlug": "4706-tony-street",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4706-tony-street",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20b/0014-4706-tony-street/_0014_1_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=c014a5b3cb3147b3a379ea77dc46f1e1&hash=DFBE8AC02F6BEE45E10FC076182BBFE4",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20b/0014-4706-tony-street/_0014_1_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=c014a5b3cb3147b3a379ea77dc46f1e1&hash=DFBE8AC02F6BEE45E10FC076182BBFE4"
-          ],
-          "incentive": 19000,
-          "incentiveLabel": "(19,000)"
-        },
         {
           "lot": "14",
           "address": "4254 Lester Drive",
@@ -55,24 +35,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/4eab/0014-4254-lester-drive/aria_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=28422f3e6037441a93946e3779de626f&hash=74C850091C9C33704C45D0377E6CF41F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/4eab/0014-4254-lester-drive/aria_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=28422f3e6037441a93946e3779de626f&hash=74C850091C9C33704C45D0377E6CF41F"
-          ]
-        },
-        {
-          "lot": "16",
-          "address": "4262 Lester Drive",
-          "plan": "",
-          "price": 317780,
-          "priceLabel": "$317,780",
-          "beds": 4,
-          "homeSlug": "4262-lester-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4262-lester-drive",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/4ebb/0016-4262-lester-drive/cali_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ee6cb6a47bd048d2810aa5b78e9e89d4&hash=6F8E1A49ABAB43CB5B4D459A05F9ACC1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/4ebb/0016-4262-lester-drive/cali_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ee6cb6a47bd048d2810aa5b78e9e89d4&hash=6F8E1A49ABAB43CB5B4D459A05F9ACC1"
           ]
         },
         {
@@ -130,6 +92,24 @@
           ]
         },
         {
+          "lot": "90",
+          "address": "4706 Tony Street",
+          "plan": "",
+          "price": 224990,
+          "priceLabel": "$224,990",
+          "beds": 3,
+          "homeSlug": "4706-tony-street",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4706-tony-street",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20b/0014-4706-tony-street/_0014_1_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=c014a5b3cb3147b3a379ea77dc46f1e1&hash=DFBE8AC02F6BEE45E10FC076182BBFE4",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20b/0014-4706-tony-street/_0014_1_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=c014a5b3cb3147b3a379ea77dc46f1e1&hash=DFBE8AC02F6BEE45E10FC076182BBFE4"
+          ]
+        },
+        {
           "lot": "91",
           "address": "4710 Tony Street",
           "plan": "",
@@ -181,24 +161,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20b/0019-4715-tony-street/_0013_2_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=0496885b15f142b59bdfac114432fd71&hash=CC4E65E06524440563E6703E73C6EC19",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20b/0019-4715-tony-street/_0013_2_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=0496885b15f142b59bdfac114432fd71&hash=CC4E65E06524440563E6703E73C6EC19"
-          ]
-        },
-        {
-          "lot": "94",
-          "address": "4719 Tony Street",
-          "plan": "",
-          "price": 229990,
-          "priceLabel": "$229,990",
-          "beds": 3,
-          "homeSlug": "4719-tony-street",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4719-tony-street",
-          "baths": "2.5",
-          "sqft": "1,463",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20a/0018-4719-tony-street/_0013_2_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=aa1cf2d8704c40bd84f0b61a2496b9e5&hash=5BCBDA96001DFCFFA2687416891B9DA8",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389780000-annabelle-estates-th/t20a/0018-4719-tony-street/_0013_2_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=aa1cf2d8704c40bd84f0b61a2496b9e5&hash=5BCBDA96001DFCFFA2687416891B9DA8"
           ]
         }
       ],
@@ -359,7 +321,7 @@
       "slug": "archers-mill",
       "name": "Archers Mill",
       "address": "325 East Merimont Lane, Ormond Beach, FL 32174",
-      "availableCount": 13,
+      "availableCount": 12,
       "lowestPrice": 380000,
       "highestPrice": 505997,
       "beds": [
@@ -493,24 +455,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34549-archers-mill/345490000-archers-mill-65s/2383/0151-3042-kingsman-trail/1_1_destin_elevationl2.jpg?iar=1&sc=1&thn=1&w=425&rev=0518ff06992e4bdaa9d94ed4b1d7f8dc&hash=0246A357EF97C495182660BFCFAA02B1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34549-archers-mill/345490000-archers-mill-65s/2383/0151-3042-kingsman-trail/1_1_destin_elevationl2.jpg?iar=1&sc=1&thn=1&w=425&rev=0518ff06992e4bdaa9d94ed4b1d7f8dc&hash=0246A357EF97C495182660BFCFAA02B1"
-          ]
-        },
-        {
-          "lot": "55",
-          "address": "3025 Kingsman Trail",
-          "plan": "",
-          "price": 450000,
-          "priceLabel": "$450,000",
-          "beds": 5,
-          "homeSlug": "3025-kingsman-trail",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/archers-mill/qmis/3025-kingsman-trail",
-          "baths": "4.5",
-          "sqft": "3,314",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34549-archers-mill/345480000-archers-mill-55s/2905/0178-3025-kingsman-trail/2_summerlin_s_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=28d78e6b6f2c414b9f31075b2de802aa&hash=578B9AA9BC8CEE0E970779C993554D0D",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34549-archers-mill/345480000-archers-mill-55s/2905/0178-3025-kingsman-trail/2_summerlin_s_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=28d78e6b6f2c414b9f31075b2de802aa&hash=578B9AA9BC8CEE0E970779C993554D0D"
           ]
         },
         {
@@ -1185,26 +1129,6 @@
       ],
       "lots": [
         {
-          "lot": "64",
-          "address": "239 Skyfield Court",
-          "plan": "",
-          "price": 316790,
-          "priceLabel": "$316,790",
-          "beds": 4,
-          "homeSlug": "239-skyfield-court",
-          "sourceUrl": "https://www.drhorton.com/florida/lake-county/lady-lake/boulevard-oaks/qmis/239-skyfield-court",
-          "baths": "2",
-          "sqft": "1,498",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78221-boulevard-oaks/782210000-boulevard-oaks/e407/5005-239-skyfield-court/freeport_ii_b_boulevard_oaks_only.jpg?iar=1&sc=1&thn=1&w=425&rev=c717feeef84a401c8737e7b84088dc74&hash=1ECFCEEEB16F6CC6FE7C8D0C4D355AF1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78221-boulevard-oaks/782210000-boulevard-oaks/e407/5005-239-skyfield-court/freeport_ii_b_boulevard_oaks_only.jpg?iar=1&sc=1&thn=1&w=425&rev=c717feeef84a401c8737e7b84088dc74&hash=1ECFCEEEB16F6CC6FE7C8D0C4D355AF1"
-          ],
-          "incentive": 3200,
-          "incentiveLabel": "(3,200)"
-        },
-        {
           "lot": "71",
           "address": "211 Skyfield Court",
           "plan": "",
@@ -1220,6 +1144,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78221-boulevard-oaks/782210000-boulevard-oaks/e406/5012-211-skyfield-court/archer_ii_a_boulevard_oaks_only.jpg?iar=1&sc=1&thn=1&w=425&rev=20517445a1ec419a86385c60a446796c&hash=F12AB1A7BADE829C5C36FA944DA04624",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78221-boulevard-oaks/782210000-boulevard-oaks/e406/5012-211-skyfield-court/archer_ii_a_boulevard_oaks_only.jpg?iar=1&sc=1&thn=1&w=425&rev=20517445a1ec419a86385c60a446796c&hash=F12AB1A7BADE829C5C36FA944DA04624"
+          ]
+        },
+        {
+          "lot": "64",
+          "address": "239 Skyfield Court",
+          "plan": "",
+          "price": 316790,
+          "priceLabel": "$316,790",
+          "beds": 4,
+          "homeSlug": "239-skyfield-court",
+          "sourceUrl": "https://www.drhorton.com/florida/lake-county/lady-lake/boulevard-oaks/qmis/239-skyfield-court",
+          "baths": "2",
+          "sqft": "1,498",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78221-boulevard-oaks/782210000-boulevard-oaks/e407/5005-239-skyfield-court/freeport_ii_b_boulevard_oaks_only.jpg?iar=1&sc=1&thn=1&w=425&rev=c717feeef84a401c8737e7b84088dc74&hash=1ECFCEEEB16F6CC6FE7C8D0C4D355AF1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78221-boulevard-oaks/782210000-boulevard-oaks/e407/5005-239-skyfield-court/freeport_ii_b_boulevard_oaks_only.jpg?iar=1&sc=1&thn=1&w=425&rev=c717feeef84a401c8737e7b84088dc74&hash=1ECFCEEEB16F6CC6FE7C8D0C4D355AF1"
           ]
         }
       ],
@@ -1253,6 +1195,11 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78221-boulevard-oaks/782210000-boulevard-oaks/e405/_0000_dundee_-_modern_ele_b_cs1_revised.jpg?as=1&w=425&rev=cddce1fb5682406d97209775560a1e5b&hash=D92A1C75C50B6F0122879485681D19E2"
           ]
+        },
+        {
+          "slug": "e410",
+          "name": "Fletcher",
+          "sourceUrl": "https://www.drhorton.com/florida/lake-county/lady-lake/boulevard-oaks/floor-plans/e410"
         },
         {
           "slug": "e407",
@@ -1575,34 +1522,11 @@
       "slug": "brentwood-townhomes",
       "name": "Brentwood",
       "address": "2259 Tongass Bend, Davenport, FL 33837",
-      "availableCount": 1,
-      "lowestPrice": 299465,
-      "highestPrice": 299465,
-      "beds": [
-        3
-      ],
-      "lots": [
-        {
-          "lot": "71",
-          "address": "2525 Olympic Court",
-          "plan": "",
-          "price": 299465,
-          "priceLabel": "$299,465",
-          "beds": 3,
-          "homeSlug": "2525-olympic-court",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/brentwood-townhomes/qmis/2525-olympic-court",
-          "baths": "2.5",
-          "sqft": "1,673",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38919-brentwood/389190000-brentwood-th/1673/0288-2525-olympic-court/exterior_3.jpg?iar=1&sc=1&thn=1&w=425&rev=7caba28a59a74c1d9f7210999c807c2f&hash=97B1F1A2C0B54123E0DF8C17F854D5E0",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38919-brentwood/389190000-brentwood-th/1673/0288-2525-olympic-court/exterior_3.jpg?iar=1&sc=1&thn=1&w=425&rev=7caba28a59a74c1d9f7210999c807c2f&hash=97B1F1A2C0B54123E0DF8C17F854D5E0"
-          ],
-          "incentive": 3025,
-          "incentiveLabel": "(3,025)"
-        }
-      ],
+      "availableCount": 0,
+      "lowestPrice": null,
+      "highestPrice": null,
+      "beds": [],
+      "lots": [],
       "models": [
         {
           "slug": "1673",
@@ -1994,7 +1918,7 @@
       "slug": "buena-lago",
       "name": "Buena Lago",
       "address": "3928 Magenta Place, Saint Cloud, FL 34772",
-      "availableCount": 18,
+      "availableCount": 17,
       "lowestPrice": 380000,
       "highestPrice": 738646,
       "beds": [
@@ -2021,24 +1945,6 @@
           ],
           "incentive": 10695,
           "incentiveLabel": "(10,695)"
-        },
-        {
-          "lot": "286",
-          "address": "3476 Malawi Trail",
-          "plan": "",
-          "price": 440000,
-          "priceLabel": "$440,000",
-          "beds": 5,
-          "homeSlug": "3476-malawi-trail",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3476-malawi-trail",
-          "baths": "3",
-          "sqft": "2,601",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0422-3476-malawi-trail/1_1_haydenexterior_h2.jpg?iar=1&sc=1&thn=1&w=425&rev=2aefaa17e0cb47abbc5dae6251c96824&hash=1E6EE6EC6F8457164783A1B3C7765B80",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0422-3476-malawi-trail/1_1_haydenexterior_h2.jpg?iar=1&sc=1&thn=1&w=425&rev=2aefaa17e0cb47abbc5dae6251c96824&hash=1E6EE6EC6F8457164783A1B3C7765B80"
-          ]
         },
         {
           "lot": "278",
@@ -2426,7 +2332,7 @@
       "slug": "campbell-crossing",
       "name": "Campbell Crossing",
       "address": "971 Commons Way, Port Orange, FL 32129",
-      "availableCount": 11,
+      "availableCount": 10,
       "lowestPrice": 318990,
       "highestPrice": 404990,
       "beds": [
@@ -2507,24 +2413,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3efb/0031-1041-commons-way/1_1_robie_elevationg1.jpg?iar=1&sc=1&thn=1&w=425&rev=a42702d5e0e74d8790b132b07ef1df6a&hash=D469316A066312066FFE4CC8EE92C240",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3efb/0031-1041-commons-way/1_1_robie_elevationg1.jpg?iar=1&sc=1&thn=1&w=425&rev=a42702d5e0e74d8790b132b07ef1df6a&hash=D469316A066312066FFE4CC8EE92C240"
-          ]
-        },
-        {
-          "lot": "35",
-          "address": "1049 Commons Way",
-          "plan": "",
-          "price": 362990,
-          "priceLabel": "$362,990",
-          "beds": 4,
-          "homeSlug": "1049-commons-way",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/qmis/1049-commons-way",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/0035-1049-commons-way/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=924d8dbd8f4c447faf5831a860228517&hash=EAAE7CB51CDE8EDFFA329163B734AE45",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/0035-1049-commons-way/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=924d8dbd8f4c447faf5831a860228517&hash=EAAE7CB51CDE8EDFFA329163B734AE45"
           ]
         },
         {
@@ -3675,7 +3563,7 @@
       "slug": "crosswinds",
       "name": "Crosswinds",
       "address": "3614 Roden Road, Haines City, FL 33844",
-      "availableCount": 12,
+      "availableCount": 11,
       "lowestPrice": 307920,
       "highestPrice": 406490,
       "beds": [
@@ -3684,26 +3572,6 @@
         5
       ],
       "lots": [
-        {
-          "lot": "323",
-          "address": "3565 Roden Road",
-          "plan": "",
-          "price": 370250,
-          "priceLabel": "$370,250",
-          "beds": 4,
-          "homeSlug": "3565-roden-road",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/3565-roden-road",
-          "baths": "3",
-          "sqft": "2,215",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/e409/0060-3565-roden-road/riviera_ele_a_ns.jpg?iar=1&sc=1&thn=1&w=425&rev=1de5890cc74c41b58b08280d8bfa93e7&hash=3AF1C53C4F73E414F666C071EEB7B260",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/e409/0060-3565-roden-road/riviera_ele_a_ns.jpg?iar=1&sc=1&thn=1&w=425&rev=1de5890cc74c41b58b08280d8bfa93e7&hash=3AF1C53C4F73E414F666C071EEB7B260"
-          ],
-          "incentive": 3740,
-          "incentiveLabel": "(3,740)"
-        },
         {
           "lot": "543",
           "address": "2482 Aveeno Avenue",
@@ -3795,6 +3663,24 @@
           ]
         },
         {
+          "lot": "323",
+          "address": "3565 Roden Road",
+          "plan": "",
+          "price": 370250,
+          "priceLabel": "$370,250",
+          "beds": 4,
+          "homeSlug": "3565-roden-road",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/3565-roden-road",
+          "baths": "3",
+          "sqft": "2,215",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/e409/0060-3565-roden-road/riviera_ele_a_ns.jpg?iar=1&sc=1&thn=1&w=425&rev=1de5890cc74c41b58b08280d8bfa93e7&hash=3AF1C53C4F73E414F666C071EEB7B260",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/e409/0060-3565-roden-road/riviera_ele_a_ns.jpg?iar=1&sc=1&thn=1&w=425&rev=1de5890cc74c41b58b08280d8bfa93e7&hash=3AF1C53C4F73E414F666C071EEB7B260"
+          ]
+        },
+        {
           "lot": "182",
           "address": "4926 Katrina Drive",
           "plan": "",
@@ -3828,24 +3714,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/4eab/0005-4973-katrina-drive/aria_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=596823c442a6437ab0a7cac6e02aa028&hash=3D2595B271D878B12870A675165021F3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/4eab/0005-4973-katrina-drive/aria_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=596823c442a6437ab0a7cac6e02aa028&hash=3D2595B271D878B12870A675165021F3"
-          ]
-        },
-        {
-          "lot": "161",
-          "address": "5369 Willow Creek",
-          "plan": "",
-          "price": 370250,
-          "priceLabel": "$370,250",
-          "beds": 5,
-          "homeSlug": "5369-willow-creek",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/5369-willow-creek",
-          "baths": "3",
-          "sqft": "2,447",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/3efb/0003-5369-willow-creek/cropped_0004_robie_g.jpg?iar=1&sc=1&thn=1&w=425&rev=d57c1bb319444508b53e7eedfea066c7&hash=FDEC1B3727AA17A3B140E896A0B76E79",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/3efb/0003-5369-willow-creek/cropped_0004_robie_g.jpg?iar=1&sc=1&thn=1&w=425&rev=d57c1bb319444508b53e7eedfea066c7&hash=FDEC1B3727AA17A3B140E896A0B76E79"
           ]
         },
         {
@@ -4083,9 +3951,7 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20b/0211-2346-aveeno-avenue/_0006_1-web-or-mls-orlando_-_crosswinds_-_2394_aveeno_avenue_haines_city_fl_33844-001.jpg?iar=1&sc=1&thn=1&w=425&rev=4562ef3410d74a02bb3281293051cd32&hash=81F744ACD1880CC8D93EBFAA86394C94",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20b/0211-2346-aveeno-avenue/_0006_1-web-or-mls-orlando_-_crosswinds_-_2394_aveeno_avenue_haines_city_fl_33844-001.jpg?iar=1&sc=1&thn=1&w=425&rev=4562ef3410d74a02bb3281293051cd32&hash=81F744ACD1880CC8D93EBFAA86394C94"
-          ],
-          "incentive": 19090,
-          "incentiveLabel": "(19,090)"
+          ]
         }
       ],
       "models": [
@@ -5847,7 +5713,7 @@
       "slug": "fountain-view",
       "name": "Fountain View",
       "address": "1383 Fountain View St, Ormond Beach, FL 32174",
-      "availableCount": 15,
+      "availableCount": 13,
       "lowestPrice": 315000,
       "highestPrice": 417990,
       "beds": [
@@ -5910,24 +5776,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e406/0152-1492-morning-walk-drive/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=63cbae49ddee4e8b9f593b25985d40af&hash=8ED176EB023679B0CAAB960D07515199",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e406/0152-1492-morning-walk-drive/1_exterior_archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=63cbae49ddee4e8b9f593b25985d40af&hash=8ED176EB023679B0CAAB960D07515199"
-          ]
-        },
-        {
-          "lot": "167",
-          "address": "1476 Morning Walk Drive",
-          "plan": "",
-          "price": 334997,
-          "priceLabel": "$334,997",
-          "beds": 4,
-          "homeSlug": "1476-morning-walk-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1476-morning-walk-drive",
-          "baths": "2",
-          "sqft": "1,498",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/1_1_freeportii_exteriorb.jpg?iar=1&sc=1&thn=1&w=425&rev=e3c47c73fe5f40ce82f0abab500eca4a&hash=0C89C09DD85175CF21C9361CE9B8A10C",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/e407/0148-1476-morning-walk-drive/1_1_freeportii_exteriorb.jpg?iar=1&sc=1&thn=1&w=425&rev=e3c47c73fe5f40ce82f0abab500eca4a&hash=0C89C09DD85175CF21C9361CE9B8A10C"
           ]
         },
         {
@@ -6072,24 +5920,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/0020-1504-morning-walk-drive/1_1_madisonexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=27c72eb5744940bf9772627f8544a72a&hash=45E15CEEFFB554731F9BC41A915B8E22",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/0020-1504-morning-walk-drive/1_1_madisonexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=27c72eb5744940bf9772627f8544a72a&hash=45E15CEEFFB554731F9BC41A915B8E22"
-          ]
-        },
-        {
-          "lot": "195",
-          "address": "1487 Morning Walk Drive",
-          "plan": "",
-          "price": 415990,
-          "priceLabel": "$415,990",
-          "beds": 5,
-          "homeSlug": "1487-morning-walk-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1487-morning-walk-drive",
-          "baths": "3",
-          "sqft": "2,601",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0173-1487-morning-walk-drive/1_1_hayden_g.jpg?iar=1&sc=1&thn=1&w=425&rev=ed03a3fb20764333ae8aa0a6944e7788&hash=B79B942F5762A412E7C6C78AD5D0BB01",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0173-1487-morning-walk-drive/1_1_hayden_g.jpg?iar=1&sc=1&thn=1&w=425&rev=ed03a3fb20764333ae8aa0a6944e7788&hash=B79B942F5762A412E7C6C78AD5D0BB01"
           ]
         },
         {
@@ -6856,6 +6686,21 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34567-ormond-station/345670000-gardenside--ormond-station-50/4ehb/1_1_haydenexterior_g_.jpg?as=1&w=425&rev=068a4a8aa991452ca15ebe94c652d66c&hash=4A9758BDF53FCC7AB619B77491942BAC"
           ]
+        },
+        {
+          "slug": "3efb",
+          "name": "Robie",
+          "startingLabel": "Starting in the $387s",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/gardenside-at-ormond-station/floor-plans/3efb",
+          "beds": 5,
+          "baths": "3",
+          "sqft": "2,447",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1-1-robieexterior-elevationh.jpg?as=1&w=425&rev=da8b58b690314026b40a7318c61de05b&hash=CEA9159B467B8E774C35C007614DDAF1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345670000-gardenside--ormond-station-50/3efb/1-1-robieexterior-elevationh.jpg?as=1&w=425&rev=da8b58b690314026b40a7318c61de05b&hash=CEA9159B467B8E774C35C007614DDAF1"
+          ]
         }
       ]
     },
@@ -6920,69 +6765,13 @@
       "slug": "halifax-at-plantation",
       "name": "Halifax Plantation Villas",
       "address": "2745 Kinsale Lane, Ormond Beach, FL 32174",
-      "availableCount": 5,
-      "lowestPrice": 286997,
+      "availableCount": 2,
+      "lowestPrice": 296870,
       "highestPrice": 300025,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "65",
-          "address": "2520 Kinsale Lane",
-          "plan": "",
-          "price": 286997,
-          "priceLabel": "$286,997",
-          "beds": 3,
-          "homeSlug": "2520-kinsale-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/halifax-at-plantation/qmis/2520-kinsale-lane",
-          "baths": "2",
-          "sqft": "1,564",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34508-halifax-plantation-section-o/345340000-halifax-plantation-villas/v30b/0065-2520-kinsale-lane/1-web-or-mls-1-web-or-mls-2745_kinsale_ln__ormond_beach__fl_32174_dsc07563.jpg?iar=1&sc=1&thn=1&w=425&rev=8669fe5b023040d58003e21653ab42ad&hash=3C93BCC8463A9353369664B33D354162",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34508-halifax-plantation-section-o/345340000-halifax-plantation-villas/v30b/0065-2520-kinsale-lane/1-web-or-mls-1-web-or-mls-2745_kinsale_ln__ormond_beach__fl_32174_dsc07563.jpg?iar=1&sc=1&thn=1&w=425&rev=8669fe5b023040d58003e21653ab42ad&hash=3C93BCC8463A9353369664B33D354162"
-          ],
-          "incentive": 20993,
-          "incentiveLabel": "(20,993)"
-        },
-        {
-          "lot": "66",
-          "address": "2516 Kinsale Lane",
-          "plan": "",
-          "price": 286997,
-          "priceLabel": "$286,997",
-          "beds": 3,
-          "homeSlug": "2516-kinsale-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/halifax-at-plantation/qmis/2516-kinsale-lane",
-          "baths": "2",
-          "sqft": "1,564",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34508-halifax-plantation-section-o/345340000-halifax-plantation-villas/v30a/0066-2516-kinsale-lane/1-web-or-mls-1-web-or-mls-2745_kinsale_ln__ormond_beach__fl_32174_dsc07563.jpg?iar=1&sc=1&thn=1&w=425&rev=81292df049d1475092d6c491907dbae4&hash=E5CA48BE6B05482E01446E4A973BC25A",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34508-halifax-plantation-section-o/345340000-halifax-plantation-villas/v30a/0066-2516-kinsale-lane/1-web-or-mls-1-web-or-mls-2745_kinsale_ln__ormond_beach__fl_32174_dsc07563.jpg?iar=1&sc=1&thn=1&w=425&rev=81292df049d1475092d6c491907dbae4&hash=E5CA48BE6B05482E01446E4A973BC25A"
-          ]
-        },
-        {
-          "lot": "72",
-          "address": "2535 Kinsale Lane",
-          "plan": "",
-          "price": 289995,
-          "priceLabel": "$289,995",
-          "beds": 3,
-          "homeSlug": "2535-kinsale-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/halifax-at-plantation/qmis/2535-kinsale-lane",
-          "baths": "2",
-          "sqft": "1,564",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34508-halifax-plantation-section-o/345340000-halifax-plantation-villas/v30a/0072-2535-kinsale-lane/1-web-or-mls-1-web-or-mls-2745_kinsale_ln__ormond_beach__fl_32174_dsc07563.jpg?iar=1&sc=1&thn=1&w=425&rev=49b6b9fa3ddf480ca42c9f24ceb6c689&hash=C48ED9678134D3C4B38EDD8D33A63FEF",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34508-halifax-plantation-section-o/345340000-halifax-plantation-villas/v30a/0072-2535-kinsale-lane/1-web-or-mls-1-web-or-mls-2745_kinsale_ln__ormond_beach__fl_32174_dsc07563.jpg?iar=1&sc=1&thn=1&w=425&rev=49b6b9fa3ddf480ca42c9f24ceb6c689&hash=C48ED9678134D3C4B38EDD8D33A63FEF"
-          ]
-        },
         {
           "lot": "115",
           "address": "2490 Calico Circle",
@@ -7057,8 +6846,8 @@
       "slug": "hamilton-bluff",
       "name": "Hamilton Bluff",
       "address": "1607 Plateau Crossing, Haines City, FL 33844",
-      "availableCount": 8,
-      "lowestPrice": 287990,
+      "availableCount": 7,
+      "lowestPrice": 288990,
       "highestPrice": 370250,
       "beds": [
         3,
@@ -7066,26 +6855,6 @@
         5
       ],
       "lots": [
-        {
-          "lot": "02",
-          "address": "1775 Grandiose Drive",
-          "plan": "",
-          "price": 356885,
-          "priceLabel": "$356,885",
-          "beds": 5,
-          "homeSlug": "1775-grandiose-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1775-grandiose-drive",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0073-1775-grandiose-drive/lakeside_g_.jpg?iar=1&sc=1&thn=1&w=425&rev=5fca9bd8ee524db98ec26d33d7f0ade7&hash=661B429DC303B9F2BF69321306F32591",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0073-1775-grandiose-drive/lakeside_g_.jpg?iar=1&sc=1&thn=1&w=425&rev=5fca9bd8ee524db98ec26d33d7f0ade7&hash=661B429DC303B9F2BF69321306F32591"
-          ],
-          "incentive": 3605,
-          "incentiveLabel": "(3,605)"
-        },
         {
           "lot": "52",
           "address": "1175 Cumberland Trail Drive",
@@ -7177,21 +6946,21 @@
           ]
         },
         {
-          "lot": "20",
-          "address": "1770 Grandiose Drive",
+          "lot": "02",
+          "address": "1775 Grandiose Drive",
           "plan": "",
-          "price": 287990,
-          "priceLabel": "$287,990",
-          "beds": 3,
-          "homeSlug": "1770-grandiose-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1770-grandiose-drive",
-          "baths": "2",
-          "sqft": "1,504",
+          "price": 356885,
+          "priceLabel": "$356,885",
+          "beds": 5,
+          "homeSlug": "1775-grandiose-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1775-grandiose-drive",
+          "baths": "3",
+          "sqft": "2,077",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/3eab/0019-1770-grandiose-drive/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=9e796e30a9564cec85e4cfd0c7dcfe7f&hash=7A3B3D65052C23AF503C4A688FF17923",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0073-1775-grandiose-drive/lakeside_g_.jpg?iar=1&sc=1&thn=1&w=425&rev=5fca9bd8ee524db98ec26d33d7f0ade7&hash=661B429DC303B9F2BF69321306F32591",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/3eab/0019-1770-grandiose-drive/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=9e796e30a9564cec85e4cfd0c7dcfe7f&hash=7A3B3D65052C23AF503C4A688FF17923"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0073-1775-grandiose-drive/lakeside_g_.jpg?iar=1&sc=1&thn=1&w=425&rev=5fca9bd8ee524db98ec26d33d7f0ade7&hash=661B429DC303B9F2BF69321306F32591"
           ]
         },
         {
@@ -7400,7 +7169,7 @@
       "slug": "harmony-at-lake-eloise",
       "name": "Harmony at Lake Eloise",
       "address": "1651 Hummingbird Road, Winter Haven, FL 33884",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 292900,
       "highestPrice": 428900,
       "beds": [
@@ -7408,26 +7177,6 @@
         4
       ],
       "lots": [
-        {
-          "lot": "26",
-          "address": "1738 Hummingbird Road",
-          "plan": "",
-          "price": 339900,
-          "priceLabel": "$339,900",
-          "beds": 4,
-          "homeSlug": "1738-hummingbird-road",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/1738-hummingbird-road",
-          "baths": "2",
-          "sqft": "1,720",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362170000-harmony-lake-eloise-ph4-50s-rl/3rbb/0004-1738-hummingbird-road/baldwin_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=7da112ebc3b14dcd805ff66a3bd7b73d&hash=9FD19EE8FA9C891E44B7F7CAF3E2F3F6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362170000-harmony-lake-eloise-ph4-50s-rl/3rbb/0004-1738-hummingbird-road/baldwin_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=7da112ebc3b14dcd805ff66a3bd7b73d&hash=9FD19EE8FA9C891E44B7F7CAF3E2F3F6"
-          ],
-          "incentive": 4090,
-          "incentiveLabel": "(4,090)"
-        },
         {
           "lot": "56",
           "address": "1660 Hummingbird Road",
@@ -7462,6 +7211,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362170000-harmony-lake-eloise-ph4-50s-rl/3rab/0001-1726-hummingbird-road/1565__astor_ele_a_cs_1_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f21a401c0fbc4e66acfccb079aa53fb3&hash=384FF27F46B4569385495894FBC0CDAB",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362170000-harmony-lake-eloise-ph4-50s-rl/3rab/0001-1726-hummingbird-road/1565__astor_ele_a_cs_1_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f21a401c0fbc4e66acfccb079aa53fb3&hash=384FF27F46B4569385495894FBC0CDAB"
+          ]
+        },
+        {
+          "lot": "26",
+          "address": "1738 Hummingbird Road",
+          "plan": "",
+          "price": 339900,
+          "priceLabel": "$339,900",
+          "beds": 4,
+          "homeSlug": "1738-hummingbird-road",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/1738-hummingbird-road",
+          "baths": "2",
+          "sqft": "1,720",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362170000-harmony-lake-eloise-ph4-50s-rl/3rbb/0004-1738-hummingbird-road/baldwin_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=7da112ebc3b14dcd805ff66a3bd7b73d&hash=9FD19EE8FA9C891E44B7F7CAF3E2F3F6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362170000-harmony-lake-eloise-ph4-50s-rl/3rbb/0004-1738-hummingbird-road/baldwin_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=7da112ebc3b14dcd805ff66a3bd7b73d&hash=9FD19EE8FA9C891E44B7F7CAF3E2F3F6"
           ]
         },
         {
@@ -7516,6 +7283,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362190000-harmony-on-lake-eloise-ph4-ths/1673/0010-2759-gladiola-road/exterior_3.jpg?iar=1&sc=1&thn=1&w=425&rev=1bba45171d07458e9c7ce4856af5ba71&hash=0E12CD0174C03BDB7ED7AC73F74DD6A8",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362190000-harmony-on-lake-eloise-ph4-ths/1673/0010-2759-gladiola-road/exterior_3.jpg?iar=1&sc=1&thn=1&w=425&rev=1bba45171d07458e9c7ce4856af5ba71&hash=0E12CD0174C03BDB7ED7AC73F74DD6A8"
+          ]
+        },
+        {
+          "lot": "271",
+          "address": "3310 White Indigo Road",
+          "plan": "",
+          "price": 321990,
+          "priceLabel": "$321,990",
+          "beds": 4,
+          "homeSlug": "3310-white-indigo-road",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/3310-white-indigo-road",
+          "baths": "2",
+          "sqft": "1,665",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362150000-harmony-on-lake-eloise-ph4-40s/3emb/0022-3310-white-indigo-road/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=7dfd4892c69741f985b3633f0290daa1&hash=3024A25854988521FCF7F8FD16AB8747",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362150000-harmony-on-lake-eloise-ph4-40s/3emb/0022-3310-white-indigo-road/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=7dfd4892c69741f985b3633f0290daa1&hash=3024A25854988521FCF7F8FD16AB8747"
           ]
         },
         {
@@ -7823,8 +7608,8 @@
       "slug": "harmony-west",
       "name": "Harmony West",
       "address": "6748 Alder Road, Saint Cloud, FL 34773",
-      "availableCount": 16,
-      "lowestPrice": 330156,
+      "availableCount": 12,
+      "lowestPrice": 385990,
       "highestPrice": 445000,
       "beds": [
         3,
@@ -7832,26 +7617,6 @@
         5
       ],
       "lots": [
-        {
-          "lot": "94",
-          "address": "2928 Elio Hammock Drive",
-          "plan": "",
-          "price": 406990,
-          "priceLabel": "$406,990",
-          "beds": 5,
-          "homeSlug": "2928-elio-hammock-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/2928-elio-hammock-drive",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0863-2928-elio-hammock-drive/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6a3a7294fd214cc88c84e2df1e31bf03&hash=235D6C564920F419CC5A6BA3E675E0A4",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0863-2928-elio-hammock-drive/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6a3a7294fd214cc88c84e2df1e31bf03&hash=235D6C564920F419CC5A6BA3E675E0A4"
-          ],
-          "incentive": 5000,
-          "incentiveLabel": "(5,000)"
-        },
         {
           "lot": "336",
           "address": "2895 Common Crane Court",
@@ -7868,60 +7633,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0919-2895-common-crane-court/1_1_lakeside_exterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ba5d1b752fd24e6ba6c08d9b9da48311&hash=20F5ED29DF9CA5E473E016A6ECF0B631",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/e402/0919-2895-common-crane-court/1_1_lakeside_exterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=ba5d1b752fd24e6ba6c08d9b9da48311&hash=20F5ED29DF9CA5E473E016A6ECF0B631"
-          ]
-        },
-        {
-          "lot": "137",
-          "address": "3026 House Finch Road",
-          "plan": "",
-          "price": 346997,
-          "priceLabel": "$346,997",
-          "beds": 3,
-          "homeSlug": "3026-house-finch-road",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3026-house-finch-road",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/385210000-harmony-west-40s/3eab/0139-3026-house-finch-road/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=142dc6669d074452ad95a6500ed33a4b&hash=B77A201F6B1E525C1BB6526DA038F9DA",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/385210000-harmony-west-40s/3eab/0139-3026-house-finch-road/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=142dc6669d074452ad95a6500ed33a4b&hash=B77A201F6B1E525C1BB6526DA038F9DA"
-          ]
-        },
-        {
-          "lot": "251",
-          "address": "3067 House Finch Road",
-          "plan": "",
-          "price": 356685,
-          "priceLabel": "$356,685",
-          "beds": 4,
-          "homeSlug": "3067-house-finch-road",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3067-house-finch-road",
-          "baths": "2",
-          "sqft": "1,560",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/385210000-harmony-west-40s/e312/0191-3067-house-finch-road/cameron_b_web.jpg?iar=1&sc=1&thn=1&w=425&rev=41f4f0fff623412d8fdd96706154dd03&hash=97D982A6943DD680573701B003C9017D",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/385210000-harmony-west-40s/e312/0191-3067-house-finch-road/cameron_b_web.jpg?iar=1&sc=1&thn=1&w=425&rev=41f4f0fff623412d8fdd96706154dd03&hash=97D982A6943DD680573701B003C9017D"
-          ]
-        },
-        {
-          "lot": "169",
-          "address": "3095 Grey Moss Drive",
-          "plan": "",
-          "price": 330156,
-          "priceLabel": "$330,156",
-          "beds": 3,
-          "homeSlug": "3095-grey-moss-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3095-grey-moss-drive",
-          "baths": "2",
-          "sqft": "1,223",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/385210000-harmony-west-40s/e311/0170-3095-grey-moss-drive/1_1_greenbriar_b.jpg?iar=1&sc=1&thn=1&w=425&rev=2610af445e2b47c8a324476def1bbdcf&hash=F51DC770E7F83094524103FBFEDA2DD6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/385210000-harmony-west-40s/e311/0170-3095-grey-moss-drive/1_1_greenbriar_b.jpg?iar=1&sc=1&thn=1&w=425&rev=2610af445e2b47c8a324476def1bbdcf&hash=F51DC770E7F83094524103FBFEDA2DD6"
           ]
         },
         {
@@ -8365,26 +8076,6 @@
       ],
       "lots": [
         {
-          "lot": "431",
-          "address": "5352 Cloudberry Avenue",
-          "plan": "",
-          "price": 449900,
-          "priceLabel": "$449,900",
-          "beds": 4,
-          "homeSlug": "5352-cloudberry-avenue",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5352-cloudberry-avenue",
-          "baths": "3",
-          "sqft": "2,756",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/0017-5352-cloudberry-avenue/coral_ele_g_without_stone_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c501bb130fdb4f8682d2f91e2ebd749c&hash=97BE187FDF87A3FFA63F32DB9B081015",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/0017-5352-cloudberry-avenue/coral_ele_g_without_stone_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c501bb130fdb4f8682d2f91e2ebd749c&hash=97BE187FDF87A3FFA63F32DB9B081015"
-          ],
-          "incentive": 6590,
-          "incentiveLabel": "(6,590)"
-        },
-        {
           "lot": "539",
           "address": "4660 Barberry Avenue",
           "plan": "",
@@ -8490,6 +8181,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362000000-hawthorne-ph-3-40s/3eab/0030-5343-cloudberry-avenue/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=a05d39001ced4499abe9d28e94cb1899&hash=56A973DD3DDB97A5695376BE3044762B",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362000000-hawthorne-ph-3-40s/3eab/0030-5343-cloudberry-avenue/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=a05d39001ced4499abe9d28e94cb1899&hash=56A973DD3DDB97A5695376BE3044762B"
+          ]
+        },
+        {
+          "lot": "431",
+          "address": "5352 Cloudberry Avenue",
+          "plan": "",
+          "price": 449900,
+          "priceLabel": "$449,900",
+          "beds": 4,
+          "homeSlug": "5352-cloudberry-avenue",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5352-cloudberry-avenue",
+          "baths": "3",
+          "sqft": "2,756",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/0017-5352-cloudberry-avenue/coral_ele_g_without_stone_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c501bb130fdb4f8682d2f91e2ebd749c&hash=97BE187FDF87A3FFA63F32DB9B081015",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/0017-5352-cloudberry-avenue/coral_ele_g_without_stone_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c501bb130fdb4f8682d2f91e2ebd749c&hash=97BE187FDF87A3FFA63F32DB9B081015"
           ]
         },
         {
@@ -8806,33 +8515,13 @@
       "slug": "hawthorne-ranch-townhomes",
       "name": "Hawthorne Ranch Townhomes",
       "address": "4374 Butterscotch Circle, Lakeland, FL 33811",
-      "availableCount": 6,
+      "availableCount": 5,
       "lowestPrice": 268280,
       "highestPrice": 276290,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "614",
-          "address": "4355 Butterscotch Circle",
-          "plan": "",
-          "price": 269270,
-          "priceLabel": "$269,270",
-          "beds": 3,
-          "homeSlug": "4355-butterscotch-circle",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch-townhomes/qmis/4355-butterscotch-circle",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362030000-hawthorne-ph3--ths/t20b/0074-4355-butterscotch-circle/hawthorne_pearson.jpg?iar=1&sc=1&thn=1&w=425&rev=ec1d1177150e43cc93e4625b7f14aa04&hash=49DADD13E47639A666A7A37CD7C3E586",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362030000-hawthorne-ph3--ths/t20b/0074-4355-butterscotch-circle/hawthorne_pearson.jpg?iar=1&sc=1&thn=1&w=425&rev=ec1d1177150e43cc93e4625b7f14aa04&hash=49DADD13E47639A666A7A37CD7C3E586"
-          ],
-          "incentive": 2720,
-          "incentiveLabel": "(2,720)"
-        },
         {
           "lot": "669",
           "address": "4280 Butterscotch Circle",
@@ -8870,24 +8559,6 @@
           ]
         },
         {
-          "lot": "665",
-          "address": "4292 Butterscotch Circle",
-          "plan": "",
-          "price": 268280,
-          "priceLabel": "$268,280",
-          "beds": 3,
-          "homeSlug": "4292-butterscotch-circle",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch-townhomes/qmis/4292-butterscotch-circle",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36203-hawthorne/362030000-hawthorne-ph3--ths/t20b/0125-4292-butterscotch-circle/hawthorne_pearson_.jpg?iar=1&sc=1&thn=1&w=425&rev=8d498a569f204bc1bad9fac5d378629d&hash=D20A95EAC9A22FB87B0CBF24FD924C66",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36203-hawthorne/362030000-hawthorne-ph3--ths/t20b/0125-4292-butterscotch-circle/hawthorne_pearson_.jpg?iar=1&sc=1&thn=1&w=425&rev=8d498a569f204bc1bad9fac5d378629d&hash=D20A95EAC9A22FB87B0CBF24FD924C66"
-          ]
-        },
-        {
           "lot": "664",
           "address": "4294 Butterscotch Circle",
           "plan": "",
@@ -8903,6 +8574,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36203-hawthorne/362030000-hawthorne-ph3--ths/t20b/0124-4294-butterscotch-circle/hawthorne_pearson_.jpg?iar=1&sc=1&thn=1&w=425&rev=75393d5b10c84b2f94b342261f73f9e2&hash=9EF42169FAC3044EEE524BA5DAE5C7F3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36203-hawthorne/362030000-hawthorne-ph3--ths/t20b/0124-4294-butterscotch-circle/hawthorne_pearson_.jpg?iar=1&sc=1&thn=1&w=425&rev=75393d5b10c84b2f94b342261f73f9e2&hash=9EF42169FAC3044EEE524BA5DAE5C7F3"
+          ]
+        },
+        {
+          "lot": "614",
+          "address": "4355 Butterscotch Circle",
+          "plan": "",
+          "price": 269270,
+          "priceLabel": "$269,270",
+          "beds": 3,
+          "homeSlug": "4355-butterscotch-circle",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch-townhomes/qmis/4355-butterscotch-circle",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362030000-hawthorne-ph3--ths/t20b/0074-4355-butterscotch-circle/hawthorne_pearson.jpg?iar=1&sc=1&thn=1&w=425&rev=ec1d1177150e43cc93e4625b7f14aa04&hash=49DADD13E47639A666A7A37CD7C3E586",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362030000-hawthorne-ph3--ths/t20b/0074-4355-butterscotch-circle/hawthorne_pearson.jpg?iar=1&sc=1&thn=1&w=425&rev=ec1d1177150e43cc93e4625b7f14aa04&hash=49DADD13E47639A666A7A37CD7C3E586"
           ]
         },
         {
@@ -8961,53 +8650,11 @@
       "slug": "holloway-landing",
       "name": "Holloway Landing",
       "address": "1151 Wild Clover Way, Plant City, FL 33566",
-      "availableCount": 2,
-      "lowestPrice": 310000,
-      "highestPrice": 350000,
-      "beds": [
-        3,
-        4
-      ],
-      "lots": [
-        {
-          "lot": "46",
-          "address": "1140 Wild Clover Way",
-          "plan": "",
-          "price": 310000,
-          "priceLabel": "$310,000",
-          "beds": 3,
-          "homeSlug": "1140-wild-clover-way",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/holloway-landing/qmis/1140-wild-clover-way",
-          "baths": "2",
-          "sqft": "1,328",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e406/0046-1140-wild-clover-way/archer_ele_b_cs_6_without_stone_8-0.jpg?iar=1&sc=1&thn=1&w=425&rev=e22f3f2b4b814e0ba3821949c801c27c&hash=DFE6BB94D47C366830F9838CB7E25636",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e406/0046-1140-wild-clover-way/archer_ele_b_cs_6_without_stone_8-0.jpg?iar=1&sc=1&thn=1&w=425&rev=e22f3f2b4b814e0ba3821949c801c27c&hash=DFE6BB94D47C366830F9838CB7E25636"
-          ],
-          "incentive": 23990,
-          "incentiveLabel": "(23,990)"
-        },
-        {
-          "lot": "45",
-          "address": "1142 Wild Clover Way",
-          "plan": "",
-          "price": 350000,
-          "priceLabel": "$350,000",
-          "beds": 4,
-          "homeSlug": "1142-wild-clover-way",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/holloway-landing/qmis/1142-wild-clover-way",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/3emb/0045-1142-wild-clover-way/north-harper-g-stucco-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4a8ee9cdb3804fc6bf4a919d6fa0e3f7&hash=167968A677DB1B3AF895AD3B8672521B",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/3emb/0045-1142-wild-clover-way/north-harper-g-stucco-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4a8ee9cdb3804fc6bf4a919d6fa0e3f7&hash=167968A677DB1B3AF895AD3B8672521B"
-          ]
-        }
-      ],
+      "availableCount": 0,
+      "lowestPrice": null,
+      "highestPrice": null,
+      "beds": [],
+      "lots": [],
       "models": [
         {
           "slug": "e406",
@@ -9532,9 +9179,9 @@
       "slug": "kindred",
       "name": "Kindred",
       "address": "1848 Southbury Drive, Kissimmee, FL 34744",
-      "availableCount": 21,
+      "availableCount": 20,
       "lowestPrice": 345990,
-      "highestPrice": 481790,
+      "highestPrice": 472770,
       "beds": [
         3,
         4,
@@ -9721,24 +9368,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3emb/0525-1856-howard-mesa-drive/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=d961fd839040472ea17f0598deed97d7&hash=0A72DD840BBB48C2A3A91EF4D9ED4FD0",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3emb/0525-1856-howard-mesa-drive/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=d961fd839040472ea17f0598deed97d7&hash=0A72DD840BBB48C2A3A91EF4D9ED4FD0"
-          ]
-        },
-        {
-          "lot": "104",
-          "address": "1864 Southbury Drive",
-          "plan": "",
-          "price": 481790,
-          "priceLabel": "$481,790",
-          "beds": 5,
-          "homeSlug": "1864-southbury-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1864-southbury-drive",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/e402/0398-1864-southbury-drive/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=855ee801e82645089058d0086fb95886&hash=CF37C52860525C4592D218383240C4A9",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/e402/0398-1864-southbury-drive/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=855ee801e82645089058d0086fb95886&hash=CF37C52860525C4592D218383240C4A9"
           ]
         },
         {
@@ -10585,26 +10214,6 @@
       ],
       "lots": [
         {
-          "lot": "185",
-          "address": "761 Greenway Boulevard",
-          "plan": "",
-          "price": 273900,
-          "priceLabel": "$273,900",
-          "beds": 5,
-          "homeSlug": "761-greenway-boulevard",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lake-wales/leomas-landing-ph2--ph3/qmis/761-greenway-boulevard",
-          "baths": "2",
-          "sqft": "1,708",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38994-leomas-landing-ph2--ph3/389950000-leomas-landing-ph2--ph3-50s/e405/0037-761-greenway-boulevard/dundee_b_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=a890d99d51be40a081f3683b83d4acaf&hash=7598BA8E6ECA8635B198ACFC2CED7216",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38994-leomas-landing-ph2--ph3/389950000-leomas-landing-ph2--ph3-50s/e405/0037-761-greenway-boulevard/dundee_b_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=a890d99d51be40a081f3683b83d4acaf&hash=7598BA8E6ECA8635B198ACFC2CED7216"
-          ],
-          "incentive": 6090,
-          "incentiveLabel": "(6,090)"
-        },
-        {
           "lot": "115",
           "address": "1150 Amber Waves Court",
           "plan": "",
@@ -10620,6 +10229,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38994-leomas-landing-ph2--ph3/389940000-leomas-landing-ph2--ph3-40s/e313/0014-1150-amber-waves-court/alford_ele_c_cs5.jpg?iar=1&sc=1&thn=1&w=425&rev=655ab54bb514400bab8504bf1c2e70bb&hash=81C041448D9D1A11391A7C2FCE9CC6A1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38994-leomas-landing-ph2--ph3/389940000-leomas-landing-ph2--ph3-40s/e313/0014-1150-amber-waves-court/alford_ele_c_cs5.jpg?iar=1&sc=1&thn=1&w=425&rev=655ab54bb514400bab8504bf1c2e70bb&hash=81C041448D9D1A11391A7C2FCE9CC6A1"
+          ]
+        },
+        {
+          "lot": "185",
+          "address": "761 Greenway Boulevard",
+          "plan": "",
+          "price": 273900,
+          "priceLabel": "$273,900",
+          "beds": 5,
+          "homeSlug": "761-greenway-boulevard",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lake-wales/leomas-landing-ph2--ph3/qmis/761-greenway-boulevard",
+          "baths": "2",
+          "sqft": "1,708",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38994-leomas-landing-ph2--ph3/389950000-leomas-landing-ph2--ph3-50s/e405/0037-761-greenway-boulevard/dundee_b_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=a890d99d51be40a081f3683b83d4acaf&hash=7598BA8E6ECA8635B198ACFC2CED7216",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38994-leomas-landing-ph2--ph3/389950000-leomas-landing-ph2--ph3-50s/e405/0037-761-greenway-boulevard/dundee_b_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=a890d99d51be40a081f3683b83d4acaf&hash=7598BA8E6ECA8635B198ACFC2CED7216"
           ]
         }
       ],
@@ -11003,26 +10630,6 @@
       ],
       "lots": [
         {
-          "lot": "147",
-          "address": "1514 Las Palmas Street",
-          "plan": "",
-          "price": 320780,
-          "priceLabel": "$320,780",
-          "beds": 4,
-          "homeSlug": "1514-las-palmas-street",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1514-las-palmas-street",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0147-1514-las-palmas-street/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=48b9bb1473a5458da5cfe4eec3355b63&hash=C8C5072D005F8CD9F2FE0A083E081D07",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0147-1514-las-palmas-street/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=48b9bb1473a5458da5cfe4eec3355b63&hash=C8C5072D005F8CD9F2FE0A083E081D07"
-          ],
-          "incentive": 3210,
-          "incentiveLabel": "(3,210)"
-        },
-        {
           "lot": "146",
           "address": "1510 Las Palmas Street",
           "plan": "",
@@ -11056,6 +10663,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3efb/0143-1511-las-palmas-street/cropped_0000_robie_h_.jpg?iar=1&sc=1&thn=1&w=425&rev=b8ca2b0db80742fb867e2a978f395a62&hash=D792F2111986767E16A228FC6696EF88",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3efb/0143-1511-las-palmas-street/cropped_0000_robie_h_.jpg?iar=1&sc=1&thn=1&w=425&rev=b8ca2b0db80742fb867e2a978f395a62&hash=D792F2111986767E16A228FC6696EF88"
+          ]
+        },
+        {
+          "lot": "147",
+          "address": "1514 Las Palmas Street",
+          "plan": "",
+          "price": 320780,
+          "priceLabel": "$320,780",
+          "beds": 4,
+          "homeSlug": "1514-las-palmas-street",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1514-las-palmas-street",
+          "baths": "2",
+          "sqft": "1,665",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0147-1514-las-palmas-street/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=48b9bb1473a5458da5cfe4eec3355b63&hash=C8C5072D005F8CD9F2FE0A083E081D07",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0147-1514-las-palmas-street/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=48b9bb1473a5458da5cfe4eec3355b63&hash=C8C5072D005F8CD9F2FE0A083E081D07"
           ]
         },
         {
@@ -12140,8 +11765,8 @@
       "slug": "preston-cove",
       "name": "Preston Cove",
       "address": "288 Conway Ave, Saint Cloud, FL 34771",
-      "availableCount": 21,
-      "lowestPrice": 314997,
+      "availableCount": 19,
+      "lowestPrice": 324990,
       "highestPrice": 493990,
       "beds": [
         3,
@@ -12401,42 +12026,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0057-5857-cool-spring-cv/lakeside_g_withstone_web.jpg?iar=1&sc=1&thn=1&w=425&rev=d1a696a6aca247ba94dac39733a856f0&hash=A98132B11754C053D45C1CC541BBAA26",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0057-5857-cool-spring-cv/lakeside_g_withstone_web.jpg?iar=1&sc=1&thn=1&w=425&rev=d1a696a6aca247ba94dac39733a856f0&hash=A98132B11754C053D45C1CC541BBAA26"
-          ]
-        },
-        {
-          "lot": "139",
-          "address": "596 Preston Cove Drive",
-          "plan": "",
-          "price": 320000,
-          "priceLabel": "$320,000",
-          "beds": 3,
-          "homeSlug": "596-preston-cove-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/596-preston-cove-drive",
-          "baths": "2.5",
-          "sqft": "1,553",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385180000-preston-cove-rl-ths/1489/0120-596-preston-cove-drive/1_1_sterling_preston_cove_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=4f5051d3f1d84099804dde2261852f20&hash=FA1D1FC97EBDA39DF9CDBC93814DC145",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385180000-preston-cove-rl-ths/1489/0120-596-preston-cove-drive/1_1_sterling_preston_cove_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=4f5051d3f1d84099804dde2261852f20&hash=FA1D1FC97EBDA39DF9CDBC93814DC145"
-          ]
-        },
-        {
-          "lot": "288",
-          "address": "741 Preston Cove Drive",
-          "plan": "",
-          "price": 314997,
-          "priceLabel": "$314,997",
-          "beds": 3,
-          "homeSlug": "741-preston-cove-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/741-preston-cove-drive",
-          "baths": "2.5",
-          "sqft": "1,463",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385170000-preston-cove-ths/t20b/0030-741-preston-cove-drive/1_1_pearsoninterior_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=d4330370982d49aaa241f2437c1d1ecc&hash=0C160A49781AF6C612BB3A6B37A372C6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385170000-preston-cove-ths/t20b/0030-741-preston-cove-drive/1_1_pearsoninterior_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=d4330370982d49aaa241f2437c1d1ecc&hash=0C160A49781AF6C612BB3A6B37A372C6"
           ]
         },
         {
@@ -12713,7 +12302,7 @@
       "slug": "sagewood",
       "name": "Sagewood",
       "address": "1030 Gull Drive, Apopka, FL 32703",
-      "availableCount": 7,
+      "availableCount": 6,
       "lowestPrice": 474994,
       "highestPrice": 564990,
       "beds": [
@@ -12830,24 +12419,6 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0061-1151-gull-drive/1_1_lakeside_exteriorstone_sagewood_g.jpg?iar=1&sc=1&thn=1&w=425&rev=2fabe3934dd9459a8523e5f80a7e7f8e&hash=C4707DEAFC7E9FB2ED3DE9CC1236123E"
           ]
-        },
-        {
-          "lot": "25",
-          "address": "1162 Gull Drive",
-          "plan": "",
-          "price": 485990,
-          "priceLabel": "$485,990",
-          "beds": 5,
-          "homeSlug": "1162-gull-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1162-gull-drive",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0025-1162-gull-drive/1_1_lakeside_exteriorstone_sagewood_g.jpg?iar=1&sc=1&thn=1&w=425&rev=ce1d220c448048d88ec68340a8d9e6fd&hash=01418BBAEA429100A8BC2250B88F7122",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0025-1162-gull-drive/1_1_lakeside_exteriorstone_sagewood_g.jpg?iar=1&sc=1&thn=1&w=425&rev=ce1d220c448048d88ec68340a8d9e6fd&hash=01418BBAEA429100A8BC2250B88F7122"
-          ]
         }
       ],
       "models": [
@@ -12925,24 +12496,22 @@
       ],
       "lots": [
         {
-          "lot": "09",
-          "address": "1661 Great Osprey Way",
+          "lot": "56",
+          "address": "1626 Great Osprey Way",
           "plan": "",
-          "price": 264990,
-          "priceLabel": "$264,990",
+          "price": 292690,
+          "priceLabel": "$292,690",
           "beds": 3,
-          "homeSlug": "1661-great-osprey-way",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/sandalwood/qmis/1661-great-osprey-way",
+          "homeSlug": "1626-great-osprey-way",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/sandalwood/qmis/1626-great-osprey-way",
           "baths": "2.5",
           "sqft": "1,463",
           "story": "2",
           "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0009-1661-great-osprey-way/1_1_pearson_sandalwood_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d929ecf421614efdb5c2bf6912bbf34e&hash=C56CAE07E960AC4A158D03E3FCBC1E5F",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0056-1626-great-osprey-way/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=e464a15de7eb48008ca6cbc4e4c782bf&hash=B6994D3BE45DC8BFB69C672825B3CBB6",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0009-1661-great-osprey-way/1_1_pearson_sandalwood_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d929ecf421614efdb5c2bf6912bbf34e&hash=C56CAE07E960AC4A158D03E3FCBC1E5F"
-          ],
-          "incentive": 25200,
-          "incentiveLabel": "(25,200)"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0056-1626-great-osprey-way/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=e464a15de7eb48008ca6cbc4e4c782bf&hash=B6994D3BE45DC8BFB69C672825B3CBB6"
+          ]
         },
         {
           "lot": "62",
@@ -13764,15 +13333,6 @@
           ]
         },
         {
-          "slug": "4ehb",
-          "name": "Hayden",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-verde/floor-plans/4ehb",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/974760000-tara-verde/4ehb/hayden-ns-stone-gen3-elev_day.jpg?as=1&w=425&rev=02a7764470294f3591e706d0fbd26ec5&hash=985F74F9BBC87E94C8960E574CA96437",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/974760000-tara-verde/4ehb/hayden-ns-stone-gen3-elev_day.jpg?as=1&w=425&rev=02a7764470294f3591e706d0fbd26ec5&hash=985F74F9BBC87E94C8960E574CA96437"
-          ]
-        },
-        {
           "slug": "e402",
           "name": "Lakeside",
           "startingLabel": "Starting in the $371s",
@@ -14511,7 +14071,7 @@
       "slug": "triumph",
       "name": "Triumph South",
       "address": "8443 Clearway Drive, Wildwood, FL 34785",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 289990,
       "highestPrice": 334070,
       "beds": [
@@ -14520,26 +14080,6 @@
         5
       ],
       "lots": [
-        {
-          "lot": "163",
-          "address": "8399 Clearway Drive",
-          "plan": "",
-          "price": 299990,
-          "priceLabel": "$299,990",
-          "beds": 4,
-          "homeSlug": "8399-clearway-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/triumph/qmis/8399-clearway-drive",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34748-triumph-south/974860000-triumph-south-ph-2/4ebb/0035-8399-clearway-drive/cali-c-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=8423561bb75e4ababa08926e49f1aea8&hash=29018E5DA57496236F192C235F3387E8",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34748-triumph-south/974860000-triumph-south-ph-2/4ebb/0035-8399-clearway-drive/cali-c-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=8423561bb75e4ababa08926e49f1aea8&hash=29018E5DA57496236F192C235F3387E8"
-          ],
-          "incentive": 11305,
-          "incentiveLabel": "(11,305)"
-        },
         {
           "lot": "161",
           "address": "8391 Clearway Drive",
@@ -15432,26 +14972,6 @@
       ],
       "lots": [
         {
-          "lot": "28",
-          "address": "4160 Giorgio Drive",
-          "plan": "",
-          "price": 288900,
-          "priceLabel": "$288,900",
-          "beds": 4,
-          "homeSlug": "4160-giorgio-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/4160-giorgio-drive",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389290000-villamar-40s-ph3-3-6/3emb/0146-4160-giorgio-drive/harper_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=43051644a61240f7a18364c008e1300b&hash=0AC9B14F53BD9C046B3B07C5ABAEC809",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389290000-villamar-40s-ph3-3-6/3emb/0146-4160-giorgio-drive/harper_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=43051644a61240f7a18364c008e1300b&hash=0AC9B14F53BD9C046B3B07C5ABAEC809"
-          ],
-          "incentive": 8090,
-          "incentiveLabel": "(8,090)"
-        },
-        {
           "lot": "252",
           "address": "4049 Giorgio Drive",
           "plan": "",
@@ -15467,6 +14987,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389290000-villamar-40s-ph3-3-6/e302/0252-4049-giorgio-drive/allex_d_cropped_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d72b049c94c44e3ca55ded4ecab888ee&hash=17E18F735DAD0BCCCDFB93B02A812880",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389290000-villamar-40s-ph3-3-6/e302/0252-4049-giorgio-drive/allex_d_cropped_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d72b049c94c44e3ca55ded4ecab888ee&hash=17E18F735DAD0BCCCDFB93B02A812880"
+          ]
+        },
+        {
+          "lot": "28",
+          "address": "4160 Giorgio Drive",
+          "plan": "",
+          "price": 288900,
+          "priceLabel": "$288,900",
+          "beds": 4,
+          "homeSlug": "4160-giorgio-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/4160-giorgio-drive",
+          "baths": "2",
+          "sqft": "1,665",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389290000-villamar-40s-ph3-3-6/3emb/0146-4160-giorgio-drive/harper_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=43051644a61240f7a18364c008e1300b&hash=0AC9B14F53BD9C046B3B07C5ABAEC809",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389290000-villamar-40s-ph3-3-6/3emb/0146-4160-giorgio-drive/harper_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=43051644a61240f7a18364c008e1300b&hash=0AC9B14F53BD9C046B3B07C5ABAEC809"
           ]
         },
         {
@@ -15786,8 +15324,8 @@
       "slug": "waterleigh",
       "name": "Waterleigh",
       "address": "10482 Atwater Bay Dr., Winter Garden, FL 34787",
-      "availableCount": 11,
-      "lowestPrice": 464990,
+      "availableCount": 19,
+      "lowestPrice": 459500,
       "highestPrice": 927281,
       "beds": [
         3,
@@ -15975,6 +15513,150 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382600000-waterleigh-40s/2216/1400-12026-shine-view-lane/bellake_exterior_elevation_l.jpg?iar=1&sc=1&thn=1&w=425&rev=314a15ff46404ee4b75517e6f1b0156e&hash=072413ED8706BCB2CF2B82C7E69A5A3A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382600000-waterleigh-40s/2216/1400-12026-shine-view-lane/bellake_exterior_elevation_l.jpg?iar=1&sc=1&thn=1&w=425&rev=314a15ff46404ee4b75517e6f1b0156e&hash=072413ED8706BCB2CF2B82C7E69A5A3A"
+          ]
+        },
+        {
+          "lot": "171",
+          "address": "12044 Shine View Lane",
+          "plan": "",
+          "price": 502500,
+          "priceLabel": "$502,500",
+          "beds": 3,
+          "homeSlug": "12044-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12044-shine-view-lane",
+          "baths": "2.5",
+          "sqft": "1,817",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1817/0648-12044-shine-view-lane/1_1_waterleighsandhillexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=d91ec1c48fba4ccf9620ee34c1fadecb&hash=17C2D221BF4E2B6760A1B0D6E52007DA",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1817/0648-12044-shine-view-lane/1_1_waterleighsandhillexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=d91ec1c48fba4ccf9620ee34c1fadecb&hash=17C2D221BF4E2B6760A1B0D6E52007DA"
+          ]
+        },
+        {
+          "lot": "170",
+          "address": "12050 Shine View Lane",
+          "plan": "",
+          "price": 464500,
+          "priceLabel": "$464,500",
+          "beds": 3,
+          "homeSlug": "12050-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12050-shine-view-lane",
+          "baths": "2.5",
+          "sqft": "1,567",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1567/0647-12050-shine-view-lane/1_1_1waterleighibisexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=f579223f7fa34a9290b68536b3d0b4dc&hash=0AFF7D817754B98FB83DF85AFD4C7F40",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1567/0647-12050-shine-view-lane/1_1_1waterleighibisexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=f579223f7fa34a9290b68536b3d0b4dc&hash=0AFF7D817754B98FB83DF85AFD4C7F40"
+          ]
+        },
+        {
+          "lot": "169",
+          "address": "12056 Shine View Lane",
+          "plan": "",
+          "price": 464500,
+          "priceLabel": "$464,500",
+          "beds": 3,
+          "homeSlug": "12056-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12056-shine-view-lane",
+          "baths": "2.5",
+          "sqft": "1,567",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1567/0646-12056-shine-view-lane/1_1_1waterleighibisexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=f769b30cf5344783a3dfa45336c5feb7&hash=24607EAA91E695B0D15976D478160AED",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1567/0646-12056-shine-view-lane/1_1_1waterleighibisexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=f769b30cf5344783a3dfa45336c5feb7&hash=24607EAA91E695B0D15976D478160AED"
+          ]
+        },
+        {
+          "lot": "168",
+          "address": "12062 Shine View Lane",
+          "plan": "",
+          "price": 482500,
+          "priceLabel": "$482,500",
+          "beds": 3,
+          "homeSlug": "12062-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12062-shine-view-lane",
+          "baths": "2.5",
+          "sqft": "1,817",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1817/0645-12062-shine-view-lane/1_1_waterleighsandhillexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=2323ed9837624b49a190c2099fbcf92c&hash=C8323D870138EE7B21030A8271BBD3D0",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1817/0645-12062-shine-view-lane/1_1_waterleighsandhillexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=2323ed9837624b49a190c2099fbcf92c&hash=C8323D870138EE7B21030A8271BBD3D0"
+          ]
+        },
+        {
+          "lot": "167",
+          "address": "12068 Shine View Lane",
+          "plan": "",
+          "price": 482500,
+          "priceLabel": "$482,500",
+          "beds": 3,
+          "homeSlug": "12068-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12068-shine-view-lane",
+          "baths": "2.5",
+          "sqft": "1,817",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1817/0644-12068-shine-view-lane/1_1_waterleighsandhillexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=87690cc2d410449b815035357eb0d778&hash=E91C561C9251DF87FCCC7B05E11184E5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1817/0644-12068-shine-view-lane/1_1_waterleighsandhillexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=87690cc2d410449b815035357eb0d778&hash=E91C561C9251DF87FCCC7B05E11184E5"
+          ]
+        },
+        {
+          "lot": "166",
+          "address": "12074 Shine View Lane",
+          "plan": "",
+          "price": 459500,
+          "priceLabel": "$459,500",
+          "beds": 3,
+          "homeSlug": "12074-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12074-shine-view-lane",
+          "baths": "2.5",
+          "sqft": "1,567",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1567/0643-12074-shine-view-lane/1_1_1waterleighibisexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=b0073ea0f8eb4858bc45c1a0f6e41b02&hash=4F33423307AAE8629474CDAE44FCAFDE",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1567/0643-12074-shine-view-lane/1_1_1waterleighibisexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=b0073ea0f8eb4858bc45c1a0f6e41b02&hash=4F33423307AAE8629474CDAE44FCAFDE"
+          ]
+        },
+        {
+          "lot": "165",
+          "address": "12080 Shine View Lane",
+          "plan": "",
+          "price": 459500,
+          "priceLabel": "$459,500",
+          "beds": 3,
+          "homeSlug": "12080-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12080-shine-view-lane",
+          "baths": "2.5",
+          "sqft": "1,567",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1567/0642-12080-shine-view-lane/1_1_1waterleighibisexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=8ff3c1db774b437ebb323f215aeaeee1&hash=52E651A7B6E273A5A1BD779E903D4DF8",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1567/0642-12080-shine-view-lane/1_1_1waterleighibisexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=8ff3c1db774b437ebb323f215aeaeee1&hash=52E651A7B6E273A5A1BD779E903D4DF8"
+          ]
+        },
+        {
+          "lot": "164",
+          "address": "12086 Shine View Lane",
+          "plan": "",
+          "price": 487500,
+          "priceLabel": "$487,500",
+          "beds": 3,
+          "homeSlug": "12086-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12086-shine-view-lane",
+          "baths": "2.5",
+          "sqft": "1,817",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1817/0641-12086-shine-view-lane/1_1_waterleighsandhillexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=e49aa35135bd475280471ff5aceabf03&hash=66BDDE62CEC4549CBE789335DEE425E3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382720000-waterleigh-ths/1817/0641-12086-shine-view-lane/1_1_waterleighsandhillexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=e49aa35135bd475280471ff5aceabf03&hash=66BDDE62CEC4549CBE789335DEE425E3"
           ]
         },
         {
@@ -16848,9 +16530,9 @@
       "slug": "wynnstone",
       "name": "Wynnstone",
       "address": "5787 Mountain Road, Davenport, FL 33837",
-      "availableCount": 4,
+      "availableCount": 3,
       "lowestPrice": 336590,
-      "highestPrice": 442490,
+      "highestPrice": 417490,
       "beds": [
         3,
         5
@@ -16892,24 +16574,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38918-cascades-sf/362060000-wynnstone-40s/3efb/0128-4751-rolling-lake-lane/robie_g.jpg?iar=1&sc=1&thn=1&w=425&rev=bcd74b20761e41b79047dd0f519b2b5b&hash=F6FB3EA89BF6A344BCE7E29C4FF7B0BF",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38918-cascades-sf/362060000-wynnstone-40s/3efb/0128-4751-rolling-lake-lane/robie_g.jpg?iar=1&sc=1&thn=1&w=425&rev=bcd74b20761e41b79047dd0f519b2b5b&hash=F6FB3EA89BF6A344BCE7E29C4FF7B0BF"
-          ]
-        },
-        {
-          "lot": "32",
-          "address": "4791 Rolling Lake Lane",
-          "plan": "",
-          "price": 442490,
-          "priceLabel": "$442,490",
-          "beds": 5,
-          "homeSlug": "4791-rolling-lake-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/qmis/4791-rolling-lake-lane",
-          "baths": "3",
-          "sqft": "2,716",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38918-cascades-sf/362060000-wynnstone-40s/e316/0118-4791-rolling-lake-lane/crosscourt_ele_h_cs_8_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=9b6ec0cbb1a34f0596c52226d02f5183&hash=11A99463D5BB8533E076F36E4FC6A8DA",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38918-cascades-sf/362060000-wynnstone-40s/e316/0118-4791-rolling-lake-lane/crosscourt_ele_h_cs_8_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=9b6ec0cbb1a34f0596c52226d02f5183&hash=11A99463D5BB8533E076F36E4FC6A8DA"
           ]
         },
         {
