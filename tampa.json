@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-05T21:27:24.470Z",
+  "updatedAt": "2026-10-06T19:22:07.749Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-05T21:27:24.470Z",
+  "publicUpdatedAt": "2026-10-06T19:22:07.749Z",
   "photoCount": 166,
   "communities": [
     {
@@ -1014,7 +1014,7 @@
       "name": "Balm Grove",
       "address": "13610 Fenwick Stream Dr, Wimauma, FL 33598",
       "availableCount": 7,
-      "lowestPrice": 315000,
+      "lowestPrice": 316000,
       "highestPrice": 415000,
       "beds": [
         3,
@@ -1026,8 +1026,8 @@
           "lot": "144",
           "address": "15013 Crosshall Stream Dr",
           "plan": "",
-          "price": 350000,
-          "priceLabel": "$350,000",
+          "price": 351000,
+          "priceLabel": "$351,000",
           "beds": 4,
           "homeSlug": "15013-crosshall-stream-dr",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/qmis/15013-crosshall-stream-dr",
@@ -1100,8 +1100,8 @@
           "lot": "76",
           "address": "15016 Crosshall Stream Dr",
           "plan": "",
-          "price": 315000,
-          "priceLabel": "$315,000",
+          "price": 316000,
+          "priceLabel": "$316,000",
           "beds": 3,
           "homeSlug": "15016-crosshall-stream-dr",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/qmis/15016-crosshall-stream-dr",
@@ -1162,7 +1162,7 @@
         {
           "slug": "e406",
           "name": "Archer II",
-          "startingLabel": "Starting in the $318s",
+          "startingLabel": "Starting in the $319s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/floor-plans/e406",
           "beds": 3,
           "baths": "2",
@@ -1177,7 +1177,7 @@
         {
           "slug": "4ebb",
           "name": "Cali",
-          "startingLabel": "Starting in the $347s",
+          "startingLabel": "Starting in the $348s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/floor-plans/4ebb",
           "beds": 4,
           "baths": "2",
@@ -1237,7 +1237,7 @@
         {
           "slug": "e407",
           "name": "Freeport II",
-          "startingLabel": "Starting in the $327s",
+          "startingLabel": "Starting in the $328s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/floor-plans/e407",
           "beds": 4,
           "baths": "2",
@@ -1267,7 +1267,7 @@
         {
           "slug": "4ehb",
           "name": "Hayden",
-          "startingLabel": "Starting in the $386s",
+          "startingLabel": "Starting in the $387s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/floor-plans/4ehb",
           "beds": 5,
           "baths": "3",
@@ -1282,7 +1282,7 @@
         {
           "slug": "e402",
           "name": "Lakeside",
-          "startingLabel": "Starting in the $361s",
+          "startingLabel": "Starting in the $362s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/floor-plans/e402",
           "beds": 5,
           "baths": "3",
@@ -2382,8 +2382,8 @@
           "lot": "190",
           "address": "4329 Hidden Farm Drive",
           "plan": "",
-          "price": 377000,
-          "priceLabel": "$377,000",
+          "price": 379000,
+          "priceLabel": "$379,000",
           "beds": 4,
           "homeSlug": "4329-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4329-hidden-farm-drive",
@@ -2851,7 +2851,7 @@
         {
           "slug": "2045",
           "name": "Lantana",
-          "startingLabel": "Starting in the $372s",
+          "startingLabel": "Starting in the $374s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/2045",
           "beds": 4,
           "baths": "2.5",
@@ -3440,7 +3440,7 @@
         {
           "slug": "e303",
           "name": "Elston II",
-          "startingLabel": "Starting in the $395s",
+          "startingLabel": "Starting in the $380s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers/floor-plans/e303",
           "beds": 4,
           "baths": "2.5",
