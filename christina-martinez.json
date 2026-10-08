@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-07T19:38:58.839Z",
+  "updatedAt": "2026-10-08T19:34:39.254Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-07T19:38:58.839Z",
-  "photoCount": 96,
+  "publicUpdatedAt": "2026-10-08T19:34:39.254Z",
+  "photoCount": 100,
   "communities": [
     {
       "slug": "autumn-glen",
       "name": "Autumn Glen",
       "address": "11466 SE 72nd Avenue, Belleview, FL 34420",
-      "availableCount": 3,
-      "lowestPrice": 281990,
+      "availableCount": 4,
+      "lowestPrice": 285990,
       "highestPrice": 343570,
       "beds": [
         3,
@@ -19,6 +19,24 @@
         5
       ],
       "lots": [
+        {
+          "lot": "69",
+          "address": "7091 SE 112th Lane",
+          "plan": "",
+          "price": 287570,
+          "priceLabel": "$287,570",
+          "beds": 3,
+          "homeSlug": "7091-se-112th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7091-se-112th-lane",
+          "baths": "2",
+          "sqft": "1,672",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4eab/0233-7091-se-112th-lane/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=3f16f19956a54e9ca19ec4feb81942c0&hash=FE24FC60644467DD128D6E7B63F15E36",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4eab/0233-7091-se-112th-lane/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=3f16f19956a54e9ca19ec4feb81942c0&hash=FE24FC60644467DD128D6E7B63F15E36"
+          ]
+        },
         {
           "lot": "65",
           "address": "7127 SE 112th Lane",
@@ -38,21 +56,21 @@
           ]
         },
         {
-          "lot": "80",
-          "address": "7138 SE 112th Lane",
-          "plan": "Cali",
-          "price": 281990,
-          "priceLabel": "$281,990",
+          "lot": "68",
+          "address": "7099 SE 112th Lane",
+          "plan": "",
+          "price": 299570,
+          "priceLabel": "$299,570",
           "beds": 4,
-          "homeSlug": "7138-se-112th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7138-se-112th-lane",
+          "homeSlug": "7099-se-112th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7099-se-112th-lane",
           "baths": "2",
           "sqft": "1,828",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0244-7138-se-112th-lane/cali-c-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=e9507324e89344d5a9261766e82933ef&hash=3FAA44C74EBFD4CF17B8ADA3288446CD",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0232-7099-se-112th-lane/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b31cc2f0c06341cc9d8658d6518f7836&hash=487BEBD5A798A940D07B715E2533E192",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0244-7138-se-112th-lane/cali-c-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=e9507324e89344d5a9261766e82933ef&hash=3FAA44C74EBFD4CF17B8ADA3288446CD"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0232-7099-se-112th-lane/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b31cc2f0c06341cc9d8658d6518f7836&hash=487BEBD5A798A940D07B715E2533E192"
           ]
         },
         {
@@ -721,6 +739,15 @@
           ]
         },
         {
+          "slug": "e410",
+          "name": "Fletcher",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/floor-plans/e410",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e410/fletcher_ele_a.jpg?as=1&w=425&rev=68a6f10aa8bb48a5884fbe2bcdfd388d&hash=BC611D429DD6AA0021D98395002AAE78",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e410/fletcher_ele_a.jpg?as=1&w=425&rev=68a6f10aa8bb48a5884fbe2bcdfd388d&hash=BC611D429DD6AA0021D98395002AAE78"
+          ]
+        },
+        {
           "slug": "e407",
           "name": "Freeport II",
           "startingLabel": "Starting in the $278s",
@@ -801,13 +828,27 @@
       "slug": "marion-oaks-spot-lots",
       "name": "Marion County Spot Lots",
       "address": "272 Marion Oaks Course, Ocala, FL 34473",
-      "availableCount": 7,
+      "availableCount": 11,
       "lowestPrice": 315990,
       "highestPrice": 344070,
       "beds": [
         4
       ],
       "lots": [
+        {
+          "lot": "24",
+          "address": "12801 SW 77th Cir",
+          "plan": "",
+          "price": 344070,
+          "priceLabel": "$344,070",
+          "beds": 4,
+          "homeSlug": "12801-sw-77th-cir",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/12801-sw-77th-cir",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2"
+        },
         {
           "lot": "19",
           "address": "13042 SW 88th Ct",
@@ -842,6 +883,42 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0362-13814-sw-42nd-court-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d23e89d06a1e4152bbdb5e2406379800&hash=B6A691BC325D789821ED568EEB29D07E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0362-13814-sw-42nd-court-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d23e89d06a1e4152bbdb5e2406379800&hash=B6A691BC325D789821ED568EEB29D07E"
+          ]
+        },
+        {
+          "lot": "13",
+          "address": "15692 SW 37th Cir",
+          "plan": "",
+          "price": 336070,
+          "priceLabel": "$336,070",
+          "beds": 4,
+          "homeSlug": "15692-sw-37th-cir",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/15692-sw-37th-cir",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0366-15692-sw-37th-cir/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=353e4298d68341eaae24e744826ab7d6&hash=D8AC2D8EB58E13DC67EACB19FE0DE465",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0366-15692-sw-37th-cir/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=353e4298d68341eaae24e744826ab7d6&hash=D8AC2D8EB58E13DC67EACB19FE0DE465"
+          ]
+        },
+        {
+          "lot": "5",
+          "address": "2469 SW 168th Pl",
+          "plan": "",
+          "price": 336070,
+          "priceLabel": "$336,070",
+          "beds": 4,
+          "homeSlug": "2469-sw-168th-pl",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/2469-sw-168th-pl",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0371-2469-sw-168th-pl/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=253bea11c9fd477cbe867fae085b16d7&hash=BADEDA9F4844816EA6D0799CD25FF1B3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0371-2469-sw-168th-pl/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=253bea11c9fd477cbe867fae085b16d7&hash=BADEDA9F4844816EA6D0799CD25FF1B3"
           ]
         },
         {
@@ -914,6 +991,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0352-569-marion-oaks-blvd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=5988d54a7b70429c8fd7c4444f4bf850&hash=BF58F75EF1A0DC069F59C6C3AAD44485",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0352-569-marion-oaks-blvd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=5988d54a7b70429c8fd7c4444f4bf850&hash=BF58F75EF1A0DC069F59C6C3AAD44485"
+          ]
+        },
+        {
+          "lot": "7",
+          "address": "6862 SW 152nd Lane Rd",
+          "plan": "",
+          "price": 334070,
+          "priceLabel": "$334,070",
+          "beds": 4,
+          "homeSlug": "6862-sw-152nd-lane-rd",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/6862-sw-152nd-lane-rd",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0368-6862-sw-152nd-lane-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2d1609ee6198446aa510bf874e466522&hash=5E06B852995280B0C6AD67B1A12F0F21",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0368-6862-sw-152nd-lane-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2d1609ee6198446aa510bf874e466522&hash=5E06B852995280B0C6AD67B1A12F0F21"
           ]
         },
         {
