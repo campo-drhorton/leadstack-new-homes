@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-08T19:43:26.143Z",
+  "updatedAt": "2026-10-09T19:17:04.811Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-08T19:43:26.143Z",
-  "photoCount": 174,
+  "publicUpdatedAt": "2026-10-09T19:17:04.811Z",
+  "photoCount": 177,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -34,7 +34,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39331-abbott-park-aa/393320000-abbott-park-50s-exp/4ebb/0217-7650-wheat-stone-drive/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=a6c8ccc1f2664fbb8447a1c392b3c3ec&hash=F645C4ECCD3B6612303ABE6A1D831BAC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39331-abbott-park-aa/393320000-abbott-park-50s-exp/4ebb/0217-7650-wheat-stone-drive/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=a6c8ccc1f2664fbb8447a1c392b3c3ec&hash=F645C4ECCD3B6612303ABE6A1D831BAC"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "42",
@@ -52,7 +54,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39331-abbott-park-aa/393320000-abbott-park-50s-exp/4ehb/0216-7662-wheat-stone-drive/fl_tampanorth_drhorton_haydenk_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=8c0e80b5c6d74dd7983ecf51484bad9d&hash=4D56C38F975F4B7E4B3CB6C80B0875EA",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39331-abbott-park-aa/393320000-abbott-park-50s-exp/4ehb/0216-7662-wheat-stone-drive/fl_tampanorth_drhorton_haydenk_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=8c0e80b5c6d74dd7983ecf51484bad9d&hash=4D56C38F975F4B7E4B3CB6C80B0875EA"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         }
       ],
       "models": [
@@ -162,7 +166,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0122-17935-acorn-drop-road/fl_drhorton_tampanorth_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=a1eec060e3da449e891a67355b08a5db&hash=469C46F047997A10584225439712630A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0122-17935-acorn-drop-road/fl_drhorton_tampanorth_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=a1eec060e3da449e891a67355b08a5db&hash=469C46F047997A10584225439712630A"
-          ]
+          ],
+          "incentive": 42990,
+          "incentiveLabel": "(42,990)"
         },
         {
           "lot": "764",
@@ -180,7 +186,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/robie_ii_h_88_no_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=2c3c62b5566e438692ef0f589c130b08&hash=462957216C39CA849E5DD8B5C1A21A5F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/robie_ii_h_88_no_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=2c3c62b5566e438692ef0f589c130b08&hash=462957216C39CA849E5DD8B5C1A21A5F"
-          ]
+          ],
+          "incentive": 42990,
+          "incentiveLabel": "(42,990)"
         },
         {
           "lot": "759",
@@ -216,7 +224,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e302/0132-9849-brave-buck-avenue/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=d21c7929c1bd47ec92cf4f6bb7a1fe63&hash=8843EE087C4BCBE45E70C6E30EAAF986",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e302/0132-9849-brave-buck-avenue/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=d21c7929c1bd47ec92cf4f6bb7a1fe63&hash=8843EE087C4BCBE45E70C6E30EAAF986"
-          ]
+          ],
+          "incentive": 9290,
+          "incentiveLabel": "(9,290)"
         },
         {
           "lot": "758",
@@ -234,7 +244,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e302/0067-9854-brave-buck-avenue/allex_ii_c_angeline_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=7b4d8df0231342188e226b3af6651e00&hash=CED18E9065135D54877480A2D4FE6BA4",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e302/0067-9854-brave-buck-avenue/allex_ii_c_angeline_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=7b4d8df0231342188e226b3af6651e00&hash=CED18E9065135D54877480A2D4FE6BA4"
-          ]
+          ],
+          "incentive": 26340,
+          "incentiveLabel": "(26,340)"
         },
         {
           "lot": "884",
@@ -252,7 +264,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/3emb/0131-9855-brave-buck-avenue/haper_elv_c_angeline_garage_hardware2.jpg?iar=1&sc=1&thn=1&w=425&rev=0b1bbbb2da4b435188f8a3da846f664c&hash=33851695A8926C6BFBFAD80495D4DB71",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/3emb/0131-9855-brave-buck-avenue/haper_elv_c_angeline_garage_hardware2.jpg?iar=1&sc=1&thn=1&w=425&rev=0b1bbbb2da4b435188f8a3da846f664c&hash=33851695A8926C6BFBFAD80495D4DB71"
-          ]
+          ],
+          "incentive": 32990,
+          "incentiveLabel": "(32,990)"
         },
         {
           "lot": "883",
@@ -270,7 +284,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e303/0130-9863-brave-buck-avenue/fl_drhorton_tampanorth_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=654506dae7884b4dae97773d0e0da2a7&hash=37B0E73416BF70FCF5A57515C8F94B57",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e303/0130-9863-brave-buck-avenue/fl_drhorton_tampanorth_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=654506dae7884b4dae97773d0e0da2a7&hash=37B0E73416BF70FCF5A57515C8F94B57"
-          ]
+          ],
+          "incentive": 4990,
+          "incentiveLabel": "(4,990)"
         },
         {
           "lot": "756",
@@ -288,7 +304,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/3emb/0065-9870-brave-buck-avenue/haper_elv_g_angeline_garage_hardware1.jpg?iar=1&sc=1&thn=1&w=425&rev=fdef2e4a63f24bfda9da63d38842415a&hash=00B54AC920A805CA3B723C8347F867FA",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/3emb/0065-9870-brave-buck-avenue/haper_elv_g_angeline_garage_hardware1.jpg?iar=1&sc=1&thn=1&w=425&rev=fdef2e4a63f24bfda9da63d38842415a&hash=00B54AC920A805CA3B723C8347F867FA"
-          ]
+          ],
+          "incentive": 11990,
+          "incentiveLabel": "(11,990)"
         },
         {
           "lot": "882",
@@ -306,7 +324,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e302/0129-9871-brave-buck-avenue/allex_ii_c_angeline_siding_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=45bbc0d1d94b42ea9c2afb2ca9e51d7e&hash=B6692318BAA80CC5F65A1AC8E7B60EAD",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e302/0129-9871-brave-buck-avenue/allex_ii_c_angeline_siding_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=45bbc0d1d94b42ea9c2afb2ca9e51d7e&hash=B6692318BAA80CC5F65A1AC8E7B60EAD"
-          ]
+          ],
+          "incentive": 13340,
+          "incentiveLabel": "(13,340)"
         },
         {
           "lot": "881",
@@ -324,7 +344,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0128-9879-brave-buck-avenue/fl_drhorton_tampanorth_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6410ce359af64a14ad26e0842a049b06&hash=11B8D17131163F101AFE63933DE1E7CD",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0128-9879-brave-buck-avenue/fl_drhorton_tampanorth_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6410ce359af64a14ad26e0842a049b06&hash=11B8D17131163F101AFE63933DE1E7CD"
-          ]
+          ],
+          "incentive": 11990,
+          "incentiveLabel": "(11,990)"
         },
         {
           "lot": "754",
@@ -342,7 +364,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0063-9886-brave-buck-avenue/robie_ii_g_88_no_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=b4e45eae5d6d44359008f21a4c7b3724&hash=FA3F83EC54CEDC1DE4078109A2CDE027",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0063-9886-brave-buck-avenue/robie_ii_g_88_no_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=b4e45eae5d6d44359008f21a4c7b3724&hash=FA3F83EC54CEDC1DE4078109A2CDE027"
-          ]
+          ],
+          "incentive": 10990,
+          "incentiveLabel": "(10,990)"
         }
       ],
       "models": [
@@ -555,7 +579,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0011-11122-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=671b6bb3f1894df7a86d88111f0e5c7a&hash=D73A87B25A5FCE3F55AE516CE147E699",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0011-11122-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=671b6bb3f1894df7a86d88111f0e5c7a&hash=D73A87B25A5FCE3F55AE516CE147E699"
-          ]
+          ],
+          "incentive": 26990,
+          "incentiveLabel": "(26,990)"
         },
         {
           "lot": "312",
@@ -573,7 +599,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0040-11157-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=3957b53beed54b4992bb51ef20362faf&hash=78CE611823A281D4B51495160607D583",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0040-11157-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=3957b53beed54b4992bb51ef20362faf&hash=78CE611823A281D4B51495160607D583"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "313",
@@ -591,7 +619,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0041-11165-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=3b7ea72f2a364225bf4459dd75c2b268&hash=F9AD109DADF771B22C9F7D70006DCF3F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0041-11165-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=3b7ea72f2a364225bf4459dd75c2b268&hash=F9AD109DADF771B22C9F7D70006DCF3F"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "314",
@@ -609,7 +639,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0042-11169-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=81cf6d6a3e6d4a28ac486ab9abdd248c&hash=277011E5B5ACD7A124B07D382AD6C152",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0042-11169-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=81cf6d6a3e6d4a28ac486ab9abdd248c&hash=277011E5B5ACD7A124B07D382AD6C152"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         }
       ],
       "models": [
@@ -703,7 +735,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2795/0032-2034-stratten-drive/fl_tampanorth_drhorton_camdenb_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=bcda8bcebded4fb7bbccac834b994a0b&hash=2071908BA0AD0037313AB6E463D9939A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2795/0032-2034-stratten-drive/fl_tampanorth_drhorton_camdenb_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=bcda8bcebded4fb7bbccac834b994a0b&hash=2071908BA0AD0037313AB6E463D9939A"
-          ]
+          ],
+          "incentive": 60490,
+          "incentiveLabel": "(60,490)"
         },
         {
           "lot": "22",
@@ -721,7 +755,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/e502/0073-2383-hayrick-pass/covington_ele_n.jpg?iar=1&sc=1&thn=1&w=425&rev=421dd0d16a4142459191cc598fc907ba&hash=04EAFD255F06BB18AAFDCE40CBBD8157",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/e502/0073-2383-hayrick-pass/covington_ele_n.jpg?iar=1&sc=1&thn=1&w=425&rev=421dd0d16a4142459191cc598fc907ba&hash=04EAFD255F06BB18AAFDCE40CBBD8157"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "18",
@@ -739,7 +775,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2795/0069-2396-hayrick-pass/camden_b_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=f32a20e0cacf48f4b92cb6ae1aeed35a&hash=03AFFFBF9ECAD5E56B5D7924A5DD6CB7",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2795/0069-2396-hayrick-pass/camden_b_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=f32a20e0cacf48f4b92cb6ae1aeed35a&hash=03AFFFBF9ECAD5E56B5D7924A5DD6CB7"
-          ]
+          ],
+          "incentive": 7490,
+          "incentiveLabel": "(7,490)"
         },
         {
           "lot": "19",
@@ -757,7 +795,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2795/0070-2407-hayrick-pass/camden_d_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2dd4b368134b64b5a973cc2b4be56a&hash=AE90976E87EEA502224A9DD9402D8BEC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2795/0070-2407-hayrick-pass/camden_d_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2dd4b368134b64b5a973cc2b4be56a&hash=AE90976E87EEA502224A9DD9402D8BEC"
-          ]
+          ],
+          "incentive": 1240,
+          "incentiveLabel": "(1,240)"
         },
         {
           "lot": "1",
@@ -775,7 +815,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2045/0058-2490-stratten-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=57f9940e97eb43e59cab6f45070305ef&hash=ABE47C46E059A194DD819C19DE63BDC9",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2045/0058-2490-stratten-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=57f9940e97eb43e59cab6f45070305ef&hash=ABE47C46E059A194DD819C19DE63BDC9"
-          ]
+          ],
+          "incentive": 17740,
+          "incentiveLabel": "(17,740)"
         },
         {
           "lot": "2",
@@ -793,7 +835,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/3129/0059-2504-stratten-drive/fl_tampanorth_drhorton_holdeng.jpg?iar=1&sc=1&thn=1&w=425&rev=0b2fb5cb323143c1a326155ebcf985dc&hash=8E6773545BFBA4E626497C4D5278A8AE",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/3129/0059-2504-stratten-drive/fl_tampanorth_drhorton_holdeng.jpg?iar=1&sc=1&thn=1&w=425&rev=0b2fb5cb323143c1a326155ebcf985dc&hash=8E6773545BFBA4E626497C4D5278A8AE"
-          ]
+          ],
+          "incentive": 3740,
+          "incentiveLabel": "(3,740)"
         },
         {
           "lot": "2",
@@ -811,7 +855,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2767/0051-36225-hillridge-trail/fl_tampanorth_drhorton_coralh.jpg?iar=1&sc=1&thn=1&w=425&rev=e37723a16da6465f89283193236c0adb&hash=D17F0DAA62F19E0BE648AA3F99C8DC69",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2767/0051-36225-hillridge-trail/fl_tampanorth_drhorton_coralh.jpg?iar=1&sc=1&thn=1&w=425&rev=e37723a16da6465f89283193236c0adb&hash=D17F0DAA62F19E0BE648AA3F99C8DC69"
-          ]
+          ],
+          "incentive": 30490,
+          "incentiveLabel": "(30,490)"
         },
         {
           "lot": "1",
@@ -829,7 +875,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2045/0050-36237-hillridge-trail/fl_tampanorth_drhorton_lantanab_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=8cc7644241084227a59bda883152251b&hash=EDFF58C79ADE926D323BED641D3DA323",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2045/0050-36237-hillridge-trail/fl_tampanorth_drhorton_lantanab_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=8cc7644241084227a59bda883152251b&hash=EDFF58C79ADE926D323BED641D3DA323"
-          ]
+          ],
+          "incentive": 31990,
+          "incentiveLabel": "(31,990)"
         },
         {
           "lot": "53",
@@ -847,7 +895,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2767/0004-36283-hillridge-trail/fl_tampanorth_drhorton_coralg.jpg?iar=1&sc=1&thn=1&w=425&rev=aa45285a13154cfcab61ecfe9b728061&hash=3BA96D79D165616416ABF238C6218440",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2767/0004-36283-hillridge-trail/fl_tampanorth_drhorton_coralg.jpg?iar=1&sc=1&thn=1&w=425&rev=aa45285a13154cfcab61ecfe9b728061&hash=3BA96D79D165616416ABF238C6218440"
-          ]
+          ],
+          "incentive": 7490,
+          "incentiveLabel": "(7,490)"
         }
       ],
       "models": [
@@ -1007,7 +1057,7 @@
       "slug": "balm-grove",
       "name": "Balm Grove",
       "address": "13610 Fenwick Stream Dr, Wimauma, FL 33598",
-      "availableCount": 8,
+      "availableCount": 6,
       "lowestPrice": 315000,
       "highestPrice": 415000,
       "beds": [
@@ -1032,7 +1082,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394730000-balm-grove-60s-exp/5emb/0013-13614-new-jade-ave/fl_tampannorth_drhorton_madisonl.jpg?iar=1&sc=1&thn=1&w=425&rev=9482cf6496e04a798ebd1a1d57647952&hash=B4A7C387C7119137E097BB763A9953C7",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394730000-balm-grove-60s-exp/5emb/0013-13614-new-jade-ave/fl_tampannorth_drhorton_madisonl.jpg?iar=1&sc=1&thn=1&w=425&rev=9482cf6496e04a798ebd1a1d57647952&hash=B4A7C387C7119137E097BB763A9953C7"
-          ]
+          ],
+          "incentive": 9990,
+          "incentiveLabel": "(9,990)"
         },
         {
           "lot": "31",
@@ -1050,7 +1102,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394730000-balm-grove-60s-exp/5emb/0006-13615-new-jade-ave/fl_tampannorth_drhorton_madisong.jpg?iar=1&sc=1&thn=1&w=425&rev=42ae553c60f04b7092d6c856a0f0f1c8&hash=6A9B953C39E02889829B27556E98854F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394730000-balm-grove-60s-exp/5emb/0006-13615-new-jade-ave/fl_tampannorth_drhorton_madisong.jpg?iar=1&sc=1&thn=1&w=425&rev=42ae553c60f04b7092d6c856a0f0f1c8&hash=6A9B953C39E02889829B27556E98854F"
-          ]
+          ],
+          "incentive": 11990,
+          "incentiveLabel": "(11,990)"
         },
         {
           "lot": "32",
@@ -1086,25 +1140,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e402/0035-15009-crosshall-stream-dr/lakeside_ele_g_cs_-8_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=56c6e05c4e004547821c115c662b896a&hash=71E4D00BD22A84359A0DCEC7DDDF2072",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e402/0035-15009-crosshall-stream-dr/lakeside_ele_g_cs_-8_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=56c6e05c4e004547821c115c662b896a&hash=71E4D00BD22A84359A0DCEC7DDDF2072"
-          ]
-        },
-        {
-          "lot": "144",
-          "address": "15013 Crosshall Stream Dr",
-          "plan": "",
-          "price": 345000,
-          "priceLabel": "$345,000",
-          "beds": 4,
-          "homeSlug": "15013-crosshall-stream-dr",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/qmis/15013-crosshall-stream-dr",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/4ebb/0033-15013-crosshall-stream-dr/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=78710b3121fd419387f74548781a65e5&hash=D17DA63D5C6A373148E2605A5E8217A2",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/4ebb/0033-15013-crosshall-stream-dr/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=78710b3121fd419387f74548781a65e5&hash=D17DA63D5C6A373148E2605A5E8217A2"
-          ]
+          ],
+          "incentive": 1166,
+          "incentiveLabel": "(1,166)"
         },
         {
           "lot": "76",
@@ -1118,25 +1156,9 @@
           "baths": "2",
           "sqft": "1,328",
           "story": "1",
-          "garage": "2"
-        },
-        {
-          "lot": "311",
-          "address": "15028 Coltman Hill Pl",
-          "plan": "",
-          "price": 360000,
-          "priceLabel": "$360,000",
-          "beds": 5,
-          "homeSlug": "15028-coltman-hill-pl",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/qmis/15028-coltman-hill-pl",
-          "baths": "3",
-          "sqft": "2,453",
-          "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/393770000-balm-grove-40s-exp/e304/0013-15028-coltman-hill-pl/fl_tampanorth_drhorton_robieii_g_stone_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=aef617d152f94007b70f518a8553c8b0&hash=ACC77EB46DCEC7911F9D41B89E343008",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/393770000-balm-grove-40s-exp/e304/0013-15028-coltman-hill-pl/fl_tampanorth_drhorton_robieii_g_stone_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=aef617d152f94007b70f518a8553c8b0&hash=ACC77EB46DCEC7911F9D41B89E343008"
-          ]
+          "incentive": 7990,
+          "incentiveLabel": "(7,990)"
         },
         {
           "lot": "56",
@@ -1512,25 +1534,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e312/0001-12019-isle-royale-drive/cameron_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=1aac2938dcea4becb22b1a937ede7e00&hash=380C86489C2A3753E5FD96C2F57B147A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e312/0001-12019-isle-royale-drive/cameron_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=1aac2938dcea4becb22b1a937ede7e00&hash=380C86489C2A3753E5FD96C2F57B147A"
-          ]
-        },
-        {
-          "lot": "2",
-          "address": "12027 Isle Royale Drive",
-          "plan": "",
-          "price": 285000,
-          "priceLabel": "$285,000",
-          "beds": 3,
-          "homeSlug": "12027-isle-royale-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/hudson/brighton-park/qmis/12027-isle-royale-drive",
-          "baths": "2",
-          "sqft": "1,223",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0002-12027-isle-royale-drive/greenbriar_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=7c6a84fd47274908878b60e86e2a599e&hash=CA8904EBEB95173B92B236CF144AB487",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0002-12027-isle-royale-drive/greenbriar_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=7c6a84fd47274908878b60e86e2a599e&hash=CA8904EBEB95173B92B236CF144AB487"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "3",
@@ -1548,7 +1554,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0003-12035-isle-royale-drive/alford_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=8a7ea6b6114549f7a939b76823c1858e&hash=8C23E604C522904FEB9C006FCD8299F9",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0003-12035-isle-royale-drive/alford_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=8a7ea6b6114549f7a939b76823c1858e&hash=8C23E604C522904FEB9C006FCD8299F9"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "4",
@@ -1566,7 +1574,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e312/0004-12043-isle-royale-drive/cameron_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=90d173d8adc7429cbaa7f0c06c8c3616&hash=9A5FF3D89E1025A7CD8810499DB9CECD",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e312/0004-12043-isle-royale-drive/cameron_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=90d173d8adc7429cbaa7f0c06c8c3616&hash=9A5FF3D89E1025A7CD8810499DB9CECD"
-          ]
+          ],
+          "incentive": 21990,
+          "incentiveLabel": "(21,990)"
         },
         {
           "lot": "5",
@@ -1584,7 +1594,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0005-12051-isle-royale-drive/alford_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=b90e2ada601c43ccacee695dbc8ddbdb&hash=768615CE8FA1231078609811018E0E62",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0005-12051-isle-royale-drive/alford_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=b90e2ada601c43ccacee695dbc8ddbdb&hash=768615CE8FA1231078609811018E0E62"
-          ]
+          ],
+          "incentive": 8990,
+          "incentiveLabel": "(8,990)"
         },
         {
           "lot": "6",
@@ -1620,7 +1632,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0007-12067-isle-royale-drive/greenbriar_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=7074d913073f438db8fd8e4acee85ffc&hash=2432B4F1BB6B6C67492D3E7997AEF68C",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0007-12067-isle-royale-drive/greenbriar_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=7074d913073f438db8fd8e4acee85ffc&hash=2432B4F1BB6B6C67492D3E7997AEF68C"
-          ]
+          ],
+          "incentive": 3990,
+          "incentiveLabel": "(3,990)"
         },
         {
           "lot": "8",
@@ -1638,6 +1652,26 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0008-12075-isle-royale-drive/alford_ele_a1.jpg?iar=1&sc=1&thn=1&w=425&rev=b81992a0db20441b9c6fba001c5f64cf&hash=082D06F795E306F5DB89448418B36FED",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0008-12075-isle-royale-drive/alford_ele_a1.jpg?iar=1&sc=1&thn=1&w=425&rev=b81992a0db20441b9c6fba001c5f64cf&hash=082D06F795E306F5DB89448418B36FED"
+          ],
+          "incentive": 25990,
+          "incentiveLabel": "(25,990)"
+        },
+        {
+          "lot": "2",
+          "address": "12027 Isle Royale Drive",
+          "plan": "",
+          "price": 285000,
+          "priceLabel": "$285,000",
+          "beds": 3,
+          "homeSlug": "12027-isle-royale-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/hudson/brighton-park/qmis/12027-isle-royale-drive",
+          "baths": "2",
+          "sqft": "1,223",
+          "story": "1",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0002-12027-isle-royale-drive/greenbriar_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=7c6a84fd47274908878b60e86e2a599e&hash=CA8904EBEB95173B92B236CF144AB487",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0002-12027-isle-royale-drive/greenbriar_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=7c6a84fd47274908878b60e86e2a599e&hash=CA8904EBEB95173B92B236CF144AB487"
           ]
         }
       ],
@@ -1732,7 +1766,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e405/0032-1017-gum-spring-ct/dundee_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=5a36381eb79d4070a7bd3da928be5c22&hash=0BE10F0BAE3F45DFD28298B70FA6FACE",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e405/0032-1017-gum-spring-ct/dundee_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=5a36381eb79d4070a7bd3da928be5c22&hash=0BE10F0BAE3F45DFD28298B70FA6FACE"
-          ]
+          ],
+          "incentive": 15990,
+          "incentiveLabel": "(15,990)"
         },
         {
           "lot": "155",
@@ -1750,7 +1786,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/4ebb/0880-1209-12th-st-se/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=e3c856bbe57e4681897e82a1c2f3f230&hash=ABEB3380A41CDCD0490B6C4E8D87E9B4",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/4ebb/0880-1209-12th-st-se/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=e3c856bbe57e4681897e82a1c2f3f230&hash=ABEB3380A41CDCD0490B6C4E8D87E9B4"
-          ]
+          ],
+          "incentive": 36990,
+          "incentiveLabel": "(36,990)"
         }
       ],
       "models": [
@@ -1920,7 +1958,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e302/0126-6960-flint-creek-drive/allex_ii_c_angeline_siding_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=f5062eade4db4f22902423cc3b4b14d5&hash=633B925D0A1DC25566421F62821E9F67",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e302/0126-6960-flint-creek-drive/allex_ii_c_angeline_siding_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=f5062eade4db4f22902423cc3b4b14d5&hash=633B925D0A1DC25566421F62821E9F67"
-          ]
+          ],
+          "incentive": 340,
+          "incentiveLabel": "(340)"
         },
         {
           "lot": "18",
@@ -1938,7 +1978,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e302/0072-7018-flint-creek-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2334abc9834d13996770ca69d4640b&hash=6F3AB5F61BD344EBB03F779E638F24EC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e302/0072-7018-flint-creek-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2334abc9834d13996770ca69d4640b&hash=6F3AB5F61BD344EBB03F779E638F24EC"
-          ]
+          ],
+          "incentive": 32340,
+          "incentiveLabel": "(32,340)"
         },
         {
           "lot": "19",
@@ -1956,7 +1998,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e303/0073-7026-flint-creek-drive/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=5bf9b600faa7477cba80ff7cc66d1094&hash=9090F5AD5C8F827DCBE30DA14A632781",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e303/0073-7026-flint-creek-drive/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=5bf9b600faa7477cba80ff7cc66d1094&hash=9090F5AD5C8F827DCBE30DA14A632781"
-          ]
+          ],
+          "incentive": 10990,
+          "incentiveLabel": "(10,990)"
         },
         {
           "lot": "41",
@@ -1974,7 +2018,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0128-6984-flint-creek-drive/fl_drhorton_tampanorth_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=3aa03021e0c040128b54ca74dfad82e9&hash=67B447252ADE1ECB9FD1F3D601CA03E8",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0128-6984-flint-creek-drive/fl_drhorton_tampanorth_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=3aa03021e0c040128b54ca74dfad82e9&hash=67B447252ADE1ECB9FD1F3D601CA03E8"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "21",
@@ -1992,7 +2038,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0075-7042-flint-creek-drive/fl_drhorton_tampanorth_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=a557f6bceed1428f89f47c2215520876&hash=476AB6AF0D67A92B327AD5B6CDA0EB47",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0075-7042-flint-creek-drive/fl_drhorton_tampanorth_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=a557f6bceed1428f89f47c2215520876&hash=476AB6AF0D67A92B327AD5B6CDA0EB47"
-          ]
+          ],
+          "incentive": 28990,
+          "incentiveLabel": "(28,990)"
         },
         {
           "lot": "23",
@@ -2010,7 +2058,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0077-7058-flint-creek-drive/fl_tampanorth_drhorton_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=f3fdc8abdf5e4148b6afe830065c8da7&hash=6386ECF1E6B0E62A8584B822D101D784",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0077-7058-flint-creek-drive/fl_tampanorth_drhorton_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=f3fdc8abdf5e4148b6afe830065c8da7&hash=6386ECF1E6B0E62A8584B822D101D784"
-          ]
+          ],
+          "incentive": 9990,
+          "incentiveLabel": "(9,990)"
         },
         {
           "lot": "26",
@@ -2028,7 +2078,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/393990000-deerbrook-50s-drh/2767/0055-6837-flint-creek-drive/fl_drhorton_tampanorth_coral-h.jpg?iar=1&sc=1&thn=1&w=425&rev=8c59225bc2ed4a9baf8b8a2ddd8d1134&hash=E4AAD28C7CF7027DB790127CD38B4EEC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/393990000-deerbrook-50s-drh/2767/0055-6837-flint-creek-drive/fl_drhorton_tampanorth_coral-h.jpg?iar=1&sc=1&thn=1&w=425&rev=8c59225bc2ed4a9baf8b8a2ddd8d1134&hash=E4AAD28C7CF7027DB790127CD38B4EEC"
-          ]
+          ],
+          "incentive": 27870,
+          "incentiveLabel": "(27,870)"
         },
         {
           "lot": "1",
@@ -2046,7 +2098,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/394000000-deerbrook-60s-drh/2795/0001-7540-broad-river-avenue/camden_f_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=5637488943be4b8884fa41dc1c7889a7&hash=565B7FC10D677B8F94A058BB048ACFE3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/394000000-deerbrook-60s-drh/2795/0001-7540-broad-river-avenue/camden_f_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=5637488943be4b8884fa41dc1c7889a7&hash=565B7FC10D677B8F94A058BB048ACFE3"
-          ]
+          ],
+          "incentive": 40490,
+          "incentiveLabel": "(40,490)"
         },
         {
           "lot": "42",
@@ -2064,7 +2118,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/393990000-deerbrook-50s-drh/3129/0181-6645-flint-creek-drive/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f615e15863c84684884ee8137319564f&hash=36825EB325D342D944BFA3DE626602BB",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/393990000-deerbrook-50s-drh/3129/0181-6645-flint-creek-drive/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f615e15863c84684884ee8137319564f&hash=36825EB325D342D944BFA3DE626602BB"
-          ]
+          ],
+          "incentive": 53740,
+          "incentiveLabel": "(53,740)"
         }
       ],
       "models": [
@@ -2324,7 +2380,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/1524-4603-hidden-farm-drive/fl_drhorton_tampanorth_allexii_dwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=a8249f789de04a359daae8d25315a53a&hash=A5AF1A6AF9DD139A46A229BB8889DF8E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/1524-4603-hidden-farm-drive/fl_drhorton_tampanorth_allexii_dwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=a8249f789de04a359daae8d25315a53a&hash=A5AF1A6AF9DD139A46A229BB8889DF8E"
-          ]
+          ],
+          "incentive": 3990,
+          "incentiveLabel": "(3,990)"
         },
         {
           "lot": "350",
@@ -2342,7 +2400,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/1521-4611-hidden-farm-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=8ef2180a66f042ff9332333320269a25&hash=07D6BC69DF9023C7C8568BA48DBD2E7E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/1521-4611-hidden-farm-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=8ef2180a66f042ff9332333320269a25&hash=07D6BC69DF9023C7C8568BA48DBD2E7E"
-          ]
+          ],
+          "incentive": 215,
+          "incentiveLabel": "(215)"
         },
         {
           "lot": "207",
@@ -2360,7 +2420,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/0653-4618-hidden-farm-drive/fl_drhorton_tampanorth_allexii_dwithsidingandstone.jpg?iar=1&sc=1&thn=1&w=425&rev=356167a9871846d59b528fcb4fe002ca&hash=ED50852AE5B0ECEC0313D5E426E0A9DC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/0653-4618-hidden-farm-drive/fl_drhorton_tampanorth_allexii_dwithsidingandstone.jpg?iar=1&sc=1&thn=1&w=425&rev=356167a9871846d59b528fcb4fe002ca&hash=ED50852AE5B0ECEC0313D5E426E0A9DC"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "66",
@@ -2378,7 +2440,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0141-3524-harvest-gardens-loop/fl_drhorton_tampanorth_aria_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=2a3c24f1ea614bea98ca8c27cd689308&hash=FB91AADB2E608E7594BC9FE3C9ECB56D",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0141-3524-harvest-gardens-loop/fl_drhorton_tampanorth_aria_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=2a3c24f1ea614bea98ca8c27cd689308&hash=FB91AADB2E608E7594BC9FE3C9ECB56D"
-          ]
+          ],
+          "incentive": 21990,
+          "incentiveLabel": "(21,990)"
         },
         {
           "lot": "67",
@@ -2396,7 +2460,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0142-3520-harvest-gardens-loop/fl_drhorton_tampanorth_cali_c_stoneandsiding.jpg?iar=1&sc=1&thn=1&w=425&rev=73c8c5189ca746d0b2ca8b929f8a969e&hash=D24B72B21B42D86BFF1F922A0663C018",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0142-3520-harvest-gardens-loop/fl_drhorton_tampanorth_cali_c_stoneandsiding.jpg?iar=1&sc=1&thn=1&w=425&rev=73c8c5189ca746d0b2ca8b929f8a969e&hash=D24B72B21B42D86BFF1F922A0663C018"
-          ]
+          ],
+          "incentive": 8215,
+          "incentiveLabel": "(8,215)"
         },
         {
           "lot": "82",
@@ -2414,7 +2480,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0157-4402-hidden-farm-drive/fl_drhorton_tampanorth_cali_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=ebf3e3e1589a4b4b8346811ce575d9fd&hash=608185D693294AC7AD4CE2DD8058106D",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0157-4402-hidden-farm-drive/fl_drhorton_tampanorth_cali_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=ebf3e3e1589a4b4b8346811ce575d9fd&hash=608185D693294AC7AD4CE2DD8058106D"
-          ]
+          ],
+          "incentive": 2165,
+          "incentiveLabel": "(2,165)"
         },
         {
           "lot": "190",
@@ -2432,7 +2500,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0220-4329-hidden-farm-drive/fl_tampanorth_drhorton_lantana_d.jpg?iar=1&sc=1&thn=1&w=425&rev=0bf0e8b5c4ed4542a033986e4cb14f28&hash=5931F2CFA373518625AB91E9AD8ABBC6",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0220-4329-hidden-farm-drive/fl_tampanorth_drhorton_lantana_d.jpg?iar=1&sc=1&thn=1&w=425&rev=0bf0e8b5c4ed4542a033986e4cb14f28&hash=5931F2CFA373518625AB91E9AD8ABBC6"
-          ]
+          ],
+          "incentive": 4990,
+          "incentiveLabel": "(4,990)"
         },
         {
           "lot": "71",
@@ -2450,7 +2520,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/0146-3512-harvest-gardens-loop/lakeside_g_88_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=b9b25810df1044c99975d0e1d0c80259&hash=46977B02E5CB63470A7484EBD045B58D",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/0146-3512-harvest-gardens-loop/lakeside_g_88_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=b9b25810df1044c99975d0e1d0c80259&hash=46977B02E5CB63470A7484EBD045B58D"
-          ]
+          ],
+          "incentive": 17480,
+          "incentiveLabel": "(17,480)"
         },
         {
           "lot": "80",
@@ -2486,7 +2558,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e303/1523-4605-hidden-farm-drive/fl_drhorton_tampanorth_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=1cbe68466e6d457ebc8a1f868cdafb93&hash=9F0232259483F29EF6D41252C6D68BAD",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e303/1523-4605-hidden-farm-drive/fl_drhorton_tampanorth_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=1cbe68466e6d457ebc8a1f868cdafb93&hash=9F0232259483F29EF6D41252C6D68BAD"
-          ]
+          ],
+          "incentive": 20990,
+          "incentiveLabel": "(20,990)"
         },
         {
           "lot": "206",
@@ -2504,7 +2578,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e303/0652-4616-hidden-farm-drive/fl_drhorton_tampanorth_elstonii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=b99c6cedb8674a4ebbfed52c71139825&hash=082FCBF937DEABF5DD5B9B81058DA352",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e303/0652-4616-hidden-farm-drive/fl_drhorton_tampanorth_elstonii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=b99c6cedb8674a4ebbfed52c71139825&hash=082FCBF937DEABF5DD5B9B81058DA352"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "200",
@@ -2522,7 +2598,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/3efb/0649-4540-hidden-farm-drive/robie_ele_mc.jpg?iar=1&sc=1&thn=1&w=425&rev=eab1585adb3045aa967c18d677f29c17&hash=8627E6EE6EBA7608B4A67D276C5F97C9",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/3efb/0649-4540-hidden-farm-drive/robie_ele_mc.jpg?iar=1&sc=1&thn=1&w=425&rev=eab1585adb3045aa967c18d677f29c17&hash=8627E6EE6EBA7608B4A67D276C5F97C9"
-          ]
+          ],
+          "incentive": 24990,
+          "incentiveLabel": "(24,990)"
         },
         {
           "lot": "351",
@@ -2540,7 +2618,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/3efb/1522-4607-hidden-farm-drive/robie_ele_mc.jpg?iar=1&sc=1&thn=1&w=425&rev=cab256a9347946e6939277896cd3ef7e&hash=78D1955983007CEFB752A8D885CB607E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/3efb/1522-4607-hidden-farm-drive/robie_ele_mc.jpg?iar=1&sc=1&thn=1&w=425&rev=cab256a9347946e6939277896cd3ef7e&hash=78D1955983007CEFB752A8D885CB607E"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "65",
@@ -2558,7 +2638,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0140-3526-harvest-gardens-loop/fl_drhorton_tampanorth_hayden_j_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6018b501f17a4362a964603a2722ac25&hash=D4394188498A7EE40705FEAF49B8894B",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0140-3526-harvest-gardens-loop/fl_drhorton_tampanorth_hayden_j_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6018b501f17a4362a964603a2722ac25&hash=D4394188498A7EE40705FEAF49B8894B"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "81",
@@ -2576,7 +2658,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0156-4332-hidden-farm-drive/fl_drhorton_tampanorth_hayden_k_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=0d09a679aa8841619e9c23d305a87df9&hash=96D8D0D234A42AC0C13AEC03C93FABE0",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0156-4332-hidden-farm-drive/fl_drhorton_tampanorth_hayden_k_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=0d09a679aa8841619e9c23d305a87df9&hash=96D8D0D234A42AC0C13AEC03C93FABE0"
-          ]
+          ],
+          "incentive": 5990,
+          "incentiveLabel": "(5,990)"
         },
         {
           "lot": "28",
@@ -2594,7 +2678,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2767/0114-3513-harvest-gardens-loop/fl_drhorton_tampanorth_coral-h.jpg?iar=1&sc=1&thn=1&w=425&rev=ac869a0f081a49f2969025a33e35a5ae&hash=C347F0535076BD3EC215274E024528E5",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2767/0114-3513-harvest-gardens-loop/fl_drhorton_tampanorth_coral-h.jpg?iar=1&sc=1&thn=1&w=425&rev=ac869a0f081a49f2969025a33e35a5ae&hash=C347F0535076BD3EC215274E024528E5"
-          ]
+          ],
+          "incentive": 19490,
+          "incentiveLabel": "(19,490)"
         },
         {
           "lot": "189",
@@ -2612,7 +2698,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2767/0219-4331-hidden-farm-drive/fl_drhorton_tampanorth_coral-h.jpg?iar=1&sc=1&thn=1&w=425&rev=fa91a1d504044533bce5fca1c4e6a349&hash=EBE35E9EDF39A765066AB1A77757412F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2767/0219-4331-hidden-farm-drive/fl_drhorton_tampanorth_coral-h.jpg?iar=1&sc=1&thn=1&w=425&rev=fa91a1d504044533bce5fca1c4e6a349&hash=EBE35E9EDF39A765066AB1A77757412F"
-          ]
+          ],
+          "incentive": 490,
+          "incentiveLabel": "(490)"
         },
         {
           "lot": "175",
@@ -2630,7 +2718,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2795/0115-3511-hazy-glen-lane/fl_tampanorth_drhorton_camdend.jpg?iar=1&sc=1&thn=1&w=425&rev=ac20773fa8db450daf914e97ea86e9f7&hash=7F8A4D967501D5187C306DC8FC3FFEC0",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2795/0115-3511-hazy-glen-lane/fl_tampanorth_drhorton_camdend.jpg?iar=1&sc=1&thn=1&w=425&rev=ac20773fa8db450daf914e97ea86e9f7&hash=7F8A4D967501D5187C306DC8FC3FFEC0"
-          ]
+          ],
+          "incentive": 32490,
+          "incentiveLabel": "(32,490)"
         },
         {
           "lot": "176",
@@ -2648,7 +2738,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2795/0116-3513-hazy-glen-lane/fl_tampanorth_drhorton_camdenf.jpg?iar=1&sc=1&thn=1&w=425&rev=73569725db4c40f495663c7f55041615&hash=32E2E4EC640E32931BE5DBF5CB97C1EC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2795/0116-3513-hazy-glen-lane/fl_tampanorth_drhorton_camdenf.jpg?iar=1&sc=1&thn=1&w=425&rev=73569725db4c40f495663c7f55041615&hash=32E2E4EC640E32931BE5DBF5CB97C1EC"
-          ]
+          ],
+          "incentive": 14240,
+          "incentiveLabel": "(14,240)"
         },
         {
           "lot": "3",
@@ -2666,7 +2758,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2795/0003-3532-golden-wheat-ln/fl_tampanorth_drhorton_camdend.jpg?iar=1&sc=1&thn=1&w=425&rev=6e213396edd34544a77adc903b7ac9aa&hash=80A6A044016E7274D029A691CEC45605",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2795/0003-3532-golden-wheat-ln/fl_tampanorth_drhorton_camdend.jpg?iar=1&sc=1&thn=1&w=425&rev=6e213396edd34544a77adc903b7ac9aa&hash=80A6A044016E7274D029A691CEC45605"
-          ]
+          ],
+          "incentive": 2490,
+          "incentiveLabel": "(2,490)"
         },
         {
           "lot": "1",
@@ -2684,7 +2778,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2795/0001-3540-golden-wheat-ln/fl_tampanorth_drhorton_camdenb.jpg?iar=1&sc=1&thn=1&w=425&rev=e3716de9376f41b0929cea368442e0ca&hash=8050A34D9F48421A52F4A92F0D97DEF4",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2795/0001-3540-golden-wheat-ln/fl_tampanorth_drhorton_camdenb.jpg?iar=1&sc=1&thn=1&w=425&rev=e3716de9376f41b0929cea368442e0ca&hash=8050A34D9F48421A52F4A92F0D97DEF4"
-          ]
+          ],
+          "incentive": 6490,
+          "incentiveLabel": "(6,490)"
         },
         {
           "lot": "2",
@@ -2720,7 +2816,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/3129/0117-3519-harvest-gardens-loop/fl_drhorton_tampanorth_holden_h.jpg?iar=1&sc=1&thn=1&w=425&rev=3e59954ab59448d0abe726091ec9e55c&hash=CF107A62FF499C218FEB3B0B128C9715",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/3129/0117-3519-harvest-gardens-loop/fl_drhorton_tampanorth_holden_h.jpg?iar=1&sc=1&thn=1&w=425&rev=3e59954ab59448d0abe726091ec9e55c&hash=CF107A62FF499C218FEB3B0B128C9715"
-          ]
+          ],
+          "incentive": 740,
+          "incentiveLabel": "(740)"
         },
         {
           "lot": "156",
@@ -2997,7 +3095,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/2558/0115-1073-chasehill-lane/hawthorne_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=feea604a4db0430b93f3a7c92235f41d&hash=23A537181E36C0D4EDA482B09905D8FF",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/2558/0115-1073-chasehill-lane/hawthorne_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=feea604a4db0430b93f3a7c92235f41d&hash=23A537181E36C0D4EDA482B09905D8FF"
-          ]
+          ],
+          "incentive": 40590,
+          "incentiveLabel": "(40,590)"
         },
         {
           "lot": "8",
@@ -3015,7 +3115,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2767/0073-35600-lowery-trail/coral_h_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=c98659c89d4f4a49b0070da7844a8eb5&hash=3A963019FEED400A9FB3A5A43E6689D1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2767/0073-35600-lowery-trail/coral_h_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=c98659c89d4f4a49b0070da7844a8eb5&hash=3A963019FEED400A9FB3A5A43E6689D1"
-          ]
+          ],
+          "incentive": 5490,
+          "incentiveLabel": "(5,490)"
         },
         {
           "lot": "4",
@@ -3033,7 +3135,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/holden_h_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=bc97057c455c468b8088a5a6eed6c796&hash=BB14E5591E7C074A28A6D320BD45D109",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3129/0125-35611-lowery-trail/holden_h_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=bc97057c455c468b8088a5a6eed6c796&hash=BB14E5591E7C074A28A6D320BD45D109"
-          ]
+          ],
+          "incentive": 2740,
+          "incentiveLabel": "(2,740)"
         },
         {
           "lot": "10",
@@ -3051,7 +3155,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3528/0075-35616-lowery-trail/talbot_h_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=8989fa08545d4ed1927238e5009ed254&hash=7F9A533D4DEBA71B1F82E3C8947B20BA",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3528/0075-35616-lowery-trail/talbot_h_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=8989fa08545d4ed1927238e5009ed254&hash=7F9A533D4DEBA71B1F82E3C8947B20BA"
-          ]
+          ],
+          "incentive": 47275,
+          "incentiveLabel": "(47,275)"
         },
         {
           "lot": "3",
@@ -3087,7 +3193,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2767/0076-35630-lowery-trail/coral_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2689e979a34b32b4d592b32fb3941e&hash=646654E2A3AF1B1666B0E1BBD9E10744",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2767/0076-35630-lowery-trail/coral_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2689e979a34b32b4d592b32fb3941e&hash=646654E2A3AF1B1666B0E1BBD9E10744"
-          ]
+          ],
+          "incentive": 62050,
+          "incentiveLabel": "(62,050)"
         },
         {
           "lot": "12",
@@ -3105,7 +3213,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2045/0077-35638-lowery-trail/lantana_f_stone_g_hw_paver_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=6dc378cda9aa4ecb983b458b695cdd70&hash=8130551203C3EB729D1558186E6575F2",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2045/0077-35638-lowery-trail/lantana_f_stone_g_hw_paver_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=6dc378cda9aa4ecb983b458b695cdd70&hash=8130551203C3EB729D1558186E6575F2"
-          ]
+          ],
+          "incentive": 34150,
+          "incentiveLabel": "(34,150)"
         },
         {
           "lot": "13",
@@ -3123,7 +3233,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2045/0078-35646-lowery-trail/lantana_d_stone_garage_hw_cl_paver_driveway.jpg?iar=1&sc=1&thn=1&w=425&rev=3722bbcc5fd54db5adb56f45450e5ccc&hash=BB44AB43CE51C017EB9370A722970E1C",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2045/0078-35646-lowery-trail/lantana_d_stone_garage_hw_cl_paver_driveway.jpg?iar=1&sc=1&thn=1&w=425&rev=3722bbcc5fd54db5adb56f45450e5ccc&hash=BB44AB43CE51C017EB9370A722970E1C"
-          ]
+          ],
+          "incentive": 10490,
+          "incentiveLabel": "(10,490)"
         }
       ],
       "models": [
@@ -3348,7 +3460,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2045/0101-11117-cotton-vale-place/fl_tampanorth_drhorton_lantanab_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=53c7936a166845c79003d7bb6aa433a9&hash=1C71AD4C14F8A0CF3A067BF57B036116",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2045/0101-11117-cotton-vale-place/fl_tampanorth_drhorton_lantanab_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=53c7936a166845c79003d7bb6aa433a9&hash=1C71AD4C14F8A0CF3A067BF57B036116"
-          ]
+          ],
+          "incentive": 23240,
+          "incentiveLabel": "(23,240)"
         }
       ],
       "models": [
@@ -3460,7 +3574,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/e302/0119-35465-kinsey-point/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f7158953822b4b76a1162c3d6866e1fd&hash=92E507138466ED20F823063328C97219",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/e302/0119-35465-kinsey-point/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f7158953822b4b76a1162c3d6866e1fd&hash=92E507138466ED20F823063328C97219"
-          ]
+          ],
+          "incentive": 345,
+          "incentiveLabel": "(345)"
         },
         {
           "lot": "7",
@@ -3478,7 +3594,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/3emb/0186-35500-kinsey-point/north-harper-c-stucco-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=130f52589aba478db18c33ebf1e85d6d&hash=295AE0A962DAE77C3A6DB7488B18D312",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/3emb/0186-35500-kinsey-point/north-harper-c-stucco-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=130f52589aba478db18c33ebf1e85d6d&hash=295AE0A962DAE77C3A6DB7488B18D312"
-          ]
+          ],
+          "incentive": 5490,
+          "incentiveLabel": "(5,490)"
         }
       ],
       "models": [
@@ -3547,7 +3665,7 @@
     {
       "slug": "pasadena-ridge",
       "name": "Pasadena Ridge",
-      "address": "35231 Flower Patch Dr, Richland, FL 33545",
+      "address": "35231 Flower Patch Dr, Dade City, FL 33545",
       "availableCount": 4,
       "lowestPrice": 350000,
       "highestPrice": 500000,
@@ -3573,25 +3691,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/78414-pasadena-ridge/784170000-pasadena-ridge-50s-trdtn/3129/0031-35290-homebound-gate-drive/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9caa3f4dfd72418bbf0f69f3259599b4&hash=A807137BCB5A5401405B0C69263C39A2",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/78414-pasadena-ridge/784170000-pasadena-ridge-50s-trdtn/3129/0031-35290-homebound-gate-drive/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9caa3f4dfd72418bbf0f69f3259599b4&hash=A807137BCB5A5401405B0C69263C39A2"
-          ]
-        },
-        {
-          "lot": "32",
-          "address": "35302 Homebound Gate Dri",
-          "plan": "",
-          "price": 440000,
-          "priceLabel": "$440,000",
-          "beds": 4,
-          "homeSlug": "35302-homebound-gate-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/pasadena-ridge/qmis/35302-homebound-gate-drive",
-          "baths": "2.5",
-          "sqft": "2,045",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/78414-pasadena-ridge/784170000-pasadena-ridge-50s-trdtn/2045/0032-35302-homebound-gate-drive/fl_tampanorth_drhorton_lantanad.jpg?iar=1&sc=1&thn=1&w=425&rev=9d5141236f9c433c971046e22190c8b5&hash=306A4FDF654C8715C99C53820EB60188",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/78414-pasadena-ridge/784170000-pasadena-ridge-50s-trdtn/2045/0032-35302-homebound-gate-drive/fl_tampanorth_drhorton_lantanad.jpg?iar=1&sc=1&thn=1&w=425&rev=9d5141236f9c433c971046e22190c8b5&hash=306A4FDF654C8715C99C53820EB60188"
-          ]
+          ],
+          "incentive": 14740,
+          "incentiveLabel": "(14,740)"
         },
         {
           "lot": "33",
@@ -3609,7 +3711,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/78414-pasadena-ridge/784140000-pasadena-ridge-40s-exp/e302/0001-35314-homebound-gate-drive/allex_ii_ele_mc_8_8_stone_pasadena_ridge_only.jpg?iar=1&sc=1&thn=1&w=425&rev=3597ee5c6c4a4c2aa27bf189ec69d107&hash=FC6F122324730FA12F0674D04E2B7DCE",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/78414-pasadena-ridge/784140000-pasadena-ridge-40s-exp/e302/0001-35314-homebound-gate-drive/allex_ii_ele_mc_8_8_stone_pasadena_ridge_only.jpg?iar=1&sc=1&thn=1&w=425&rev=3597ee5c6c4a4c2aa27bf189ec69d107&hash=FC6F122324730FA12F0674D04E2B7DCE"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "34",
@@ -3627,6 +3731,26 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/78414-pasadena-ridge/784140000-pasadena-ridge-40s-exp/3efb/0002-35322-homebound-gate-drive/robie_ele_mc.jpg?iar=1&sc=1&thn=1&w=425&rev=8155cd9a326b4a4abc3c950013888d27&hash=52BA014FF5CD8EE9B72BB044890770E0",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/78414-pasadena-ridge/784140000-pasadena-ridge-40s-exp/3efb/0002-35322-homebound-gate-drive/robie_ele_mc.jpg?iar=1&sc=1&thn=1&w=425&rev=8155cd9a326b4a4abc3c950013888d27&hash=52BA014FF5CD8EE9B72BB044890770E0"
+          ],
+          "incentive": 3990,
+          "incentiveLabel": "(3,990)"
+        },
+        {
+          "lot": "32",
+          "address": "35302 Homebound Gate Dri",
+          "plan": "",
+          "price": 440000,
+          "priceLabel": "$440,000",
+          "beds": 4,
+          "homeSlug": "35302-homebound-gate-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/pasadena-ridge/qmis/35302-homebound-gate-drive",
+          "baths": "2.5",
+          "sqft": "2,045",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/78414-pasadena-ridge/784170000-pasadena-ridge-50s-trdtn/2045/0032-35302-homebound-gate-drive/fl_tampanorth_drhorton_lantanad.jpg?iar=1&sc=1&thn=1&w=425&rev=9d5141236f9c433c971046e22190c8b5&hash=306A4FDF654C8715C99C53820EB60188",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/78414-pasadena-ridge/784170000-pasadena-ridge-50s-trdtn/2045/0032-35302-homebound-gate-drive/fl_tampanorth_drhorton_lantanad.jpg?iar=1&sc=1&thn=1&w=425&rev=9d5141236f9c433c971046e22190c8b5&hash=306A4FDF654C8715C99C53820EB60188"
           ]
         }
       ],
@@ -3853,7 +3977,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39419-ruskin-preserve/394190000-ruskin-preserve-40s-exp/e305/0021-1110-spotted-egret-loop/downing_ele_a.jpg?iar=1&sc=1&thn=1&w=425&rev=5d0912bb89f449b19bf9cfe8eb132ca4&hash=1BB38B0CA71DABCAD82219C5C4200488",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39419-ruskin-preserve/394190000-ruskin-preserve-40s-exp/e305/0021-1110-spotted-egret-loop/downing_ele_a.jpg?iar=1&sc=1&thn=1&w=425&rev=5d0912bb89f449b19bf9cfe8eb132ca4&hash=1BB38B0CA71DABCAD82219C5C4200488"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "22",
@@ -3871,7 +3997,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39419-ruskin-preserve/394190000-ruskin-preserve-40s-exp/3emb/0022-1112-spotted-egret-loop/north-harper-g-stucco-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=992eb431321445f2b55e2403132638a5&hash=D1E77D5BECC81F8588F140EA417EF03E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39419-ruskin-preserve/394190000-ruskin-preserve-40s-exp/3emb/0022-1112-spotted-egret-loop/north-harper-g-stucco-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=992eb431321445f2b55e2403132638a5&hash=D1E77D5BECC81F8588F140EA417EF03E"
-          ]
+          ],
+          "incentive": 3990,
+          "incentiveLabel": "(3,990)"
         }
       ],
       "models": [
@@ -3949,7 +4077,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0041-446-whistling-duck-pl/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=089bbf75af2a42809679f38720ed4779&hash=E0F94B364E0CD9C68C08F431C41CF665",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0041-446-whistling-duck-pl/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=089bbf75af2a42809679f38720ed4779&hash=E0F94B364E0CD9C68C08F431C41CF665"
-          ]
+          ],
+          "incentive": 32990,
+          "incentiveLabel": "(32,990)"
         },
         {
           "lot": "99",
@@ -3967,7 +4097,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20a/0055-921-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=5ed398faffca475886c5b48e1ed01e8d&hash=DF6FBB891D07A5FB596BF419EDD7204A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20a/0055-921-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=5ed398faffca475886c5b48e1ed01e8d&hash=DF6FBB891D07A5FB596BF419EDD7204A"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "100",
@@ -3985,7 +4117,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0056-923-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=4bc4a5e6349d448b8af5d2c6a98622c5&hash=CD0818A1BC76307E6A3F270F8C093A76",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0056-923-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=4bc4a5e6349d448b8af5d2c6a98622c5&hash=CD0818A1BC76307E6A3F270F8C093A76"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "101",
@@ -4003,7 +4137,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0057-925-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=0b89cdaadb6a46bda14eff02c4e474f4&hash=39DA87ECC3580E0F0CD5E0D02DF77381",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0057-925-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=0b89cdaadb6a46bda14eff02c4e474f4&hash=39DA87ECC3580E0F0CD5E0D02DF77381"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "102",
@@ -4021,7 +4157,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0058-927-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=8478198a2a5f43d0abb53ec3de781c43&hash=59BEE79B249054395C7D8CFA60297855",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0058-927-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=8478198a2a5f43d0abb53ec3de781c43&hash=59BEE79B249054395C7D8CFA60297855"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "103",
@@ -4039,7 +4177,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0059-929-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=a483fced624c4501b934a1c50d7eb2b5&hash=119601E2931682D1DCF10F28A291FD1E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0059-929-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=a483fced624c4501b934a1c50d7eb2b5&hash=119601E2931682D1DCF10F28A291FD1E"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "104",
@@ -4057,7 +4197,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20a/0060-931-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=e1117b2ee2d943ec9f677b750ffb54ed&hash=C3E0E93D113D4CD360183B183995454F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20a/0060-931-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=e1117b2ee2d943ec9f677b750ffb54ed&hash=C3E0E93D113D4CD360183B183995454F"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         }
       ],
       "models": [
@@ -4098,8 +4240,8 @@
       "name": "Sanctuary at Citrus Park Townhomes",
       "address": "12617 Citrus Park Lane, Tampa, FL 33625",
       "availableCount": 12,
-      "lowestPrice": 390018,
-      "highestPrice": 480018,
+      "lowestPrice": 390001,
+      "highestPrice": 480001,
       "beds": [
         3
       ],
@@ -4108,8 +4250,8 @@
           "lot": "8",
           "address": "12603 Citrus Park Lane",
           "plan": "",
-          "price": 435018,
-          "priceLabel": "$435,018",
+          "price": 435001,
+          "priceLabel": "$435,001",
           "beds": 3,
           "homeSlug": "12603-citrus-park-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/12603-citrus-park-lane",
@@ -4120,14 +4262,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1758/0224-12603-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=a9baac5e394d486298a848f91bc56817&hash=396D687235CB196ECBC18756C4932600",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1758/0224-12603-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=a9baac5e394d486298a848f91bc56817&hash=396D687235CB196ECBC18756C4932600"
-          ]
+          ],
+          "incentive": 41990,
+          "incentiveLabel": "(41,990)"
         },
         {
           "lot": "7",
           "address": "12605 Citrus Park Lane",
           "plan": "",
-          "price": 440018,
-          "priceLabel": "$440,018",
+          "price": 440001,
+          "priceLabel": "$440,001",
           "beds": 3,
           "homeSlug": "12605-citrus-park-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/12605-citrus-park-lane",
@@ -4138,14 +4282,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0223-12605-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=5dff4a3631494f07b0b3395fc2703ce6&hash=19695F636A6E5E1DC483301B1247B45A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0223-12605-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=5dff4a3631494f07b0b3395fc2703ce6&hash=19695F636A6E5E1DC483301B1247B45A"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "6",
           "address": "12607 Citrus Park Lane",
           "plan": "",
-          "price": 400018,
-          "priceLabel": "$400,018",
+          "price": 400001,
+          "priceLabel": "$400,001",
           "beds": 3,
           "homeSlug": "12607-citrus-park-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/12607-citrus-park-lane",
@@ -4156,14 +4302,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0222-12607-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=fd4109993afe42c6b71e5ea93de3b137&hash=C2AF28503D70B18B5465A5A03F9C3318",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0222-12607-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=fd4109993afe42c6b71e5ea93de3b137&hash=C2AF28503D70B18B5465A5A03F9C3318"
-          ]
+          ],
+          "incentive": 36990,
+          "incentiveLabel": "(36,990)"
         },
         {
           "lot": "5",
           "address": "12609 Citrus Park Lane",
           "plan": "",
-          "price": 425018,
-          "priceLabel": "$425,018",
+          "price": 425001,
+          "priceLabel": "$425,001",
           "beds": 3,
           "homeSlug": "12609-citrus-park-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/12609-citrus-park-lane",
@@ -4174,14 +4322,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0221-12609-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=2de30c3452d641c2bda5ae779bd9d19a&hash=1C55D3B1E99B4AB97DD574075EABB0AE",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0221-12609-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=2de30c3452d641c2bda5ae779bd9d19a&hash=1C55D3B1E99B4AB97DD574075EABB0AE"
-          ]
+          ],
+          "incentive": 16990,
+          "incentiveLabel": "(16,990)"
         },
         {
           "lot": "4",
           "address": "12611 Citrus Park Lane",
           "plan": "",
-          "price": 425018,
-          "priceLabel": "$425,018",
+          "price": 425014,
+          "priceLabel": "$425,014",
           "beds": 3,
           "homeSlug": "12611-citrus-park-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/12611-citrus-park-lane",
@@ -4192,14 +4342,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0220-12611-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=f60ad75090ff4f1798dc5d8117be8067&hash=B51CE28BD8851C901666B02E38D6F9A1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0220-12611-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=f60ad75090ff4f1798dc5d8117be8067&hash=B51CE28BD8851C901666B02E38D6F9A1"
-          ]
+          ],
+          "incentive": 14990,
+          "incentiveLabel": "(14,990)"
         },
         {
           "lot": "3",
           "address": "12613 Citrus Park Lane",
           "plan": "",
-          "price": 390018,
-          "priceLabel": "$390,018",
+          "price": 390001,
+          "priceLabel": "$390,001",
           "beds": 3,
           "homeSlug": "12613-citrus-park-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/12613-citrus-park-lane",
@@ -4210,14 +4362,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0219-12613-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=7298cad192cc41b18037717176aadce4&hash=7655D7AEED1123CA6E6E15202FA06019",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0219-12613-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=7298cad192cc41b18037717176aadce4&hash=7655D7AEED1123CA6E6E15202FA06019"
-          ]
+          ],
+          "incentive": 44990,
+          "incentiveLabel": "(44,990)"
         },
         {
           "lot": "6",
           "address": "8023 Wildlife Haven St",
           "plan": "",
-          "price": 480018,
-          "priceLabel": "$480,018",
+          "price": 480001,
+          "priceLabel": "$480,001",
           "beds": 3,
           "homeSlug": "8023-wildlife-haven-street",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/8023-wildlife-haven-street",
@@ -4228,14 +4382,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1758/0116-8023-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=b388371dfc1a45c69eae655167269204&hash=048704134011916BCC247E67C58A26E6",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1758/0116-8023-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=b388371dfc1a45c69eae655167269204&hash=048704134011916BCC247E67C58A26E6"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "5",
           "address": "8025 Wildlife Haven St",
           "plan": "",
-          "price": 448018,
-          "priceLabel": "$448,018",
+          "price": 448001,
+          "priceLabel": "$448,001",
           "beds": 3,
           "homeSlug": "8025-wildlife-haven-street",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/8025-wildlife-haven-street",
@@ -4246,14 +4402,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0115-8025-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=9b534acb552a4735a97e60988d42e9fb&hash=21C2797840C41A06A79B6939794EE7C7",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0115-8025-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=9b534acb552a4735a97e60988d42e9fb&hash=21C2797840C41A06A79B6939794EE7C7"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "4",
           "address": "8027 Wildlife Haven St",
           "plan": "",
-          "price": 453018,
-          "priceLabel": "$453,018",
+          "price": 453001,
+          "priceLabel": "$453,001",
           "beds": 3,
           "homeSlug": "8027-wildlife-haven-street",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/8027-wildlife-haven-street",
@@ -4264,14 +4422,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0114-8027-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=b409f288fa1d4d3bb5e3466e7f018606&hash=3484C34431F427E7F785E408CB6BFE13",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0114-8027-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=b409f288fa1d4d3bb5e3466e7f018606&hash=3484C34431F427E7F785E408CB6BFE13"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "3",
           "address": "8029 Wildlife Haven St",
           "plan": "",
-          "price": 453018,
-          "priceLabel": "$453,018",
+          "price": 453001,
+          "priceLabel": "$453,001",
           "beds": 3,
           "homeSlug": "8029-wildlife-haven-street",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/8029-wildlife-haven-street",
@@ -4282,14 +4442,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0113-8029-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=1b7a9dd8e57a4d40a55777f1ac555c4c&hash=7ABAA918D69D57EB10215CD359342677",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0113-8029-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=1b7a9dd8e57a4d40a55777f1ac555c4c&hash=7ABAA918D69D57EB10215CD359342677"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "2",
           "address": "8031 Wildlife Haven St",
           "plan": "",
-          "price": 450018,
-          "priceLabel": "$450,018",
+          "price": 450001,
+          "priceLabel": "$450,001",
           "beds": 3,
           "homeSlug": "8031-wildlife-haven-street",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/8031-wildlife-haven-street",
@@ -4306,8 +4468,8 @@
           "lot": "1",
           "address": "8033 Wildlife Haven St",
           "plan": "",
-          "price": 477018,
-          "priceLabel": "$477,018",
+          "price": 477001,
+          "priceLabel": "$477,001",
           "beds": 3,
           "homeSlug": "8033-wildlife-haven-street",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/8033-wildlife-haven-street",
@@ -4401,25 +4563,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394030000-sandhill-40s-exp/e303/0017-11936-noble-chase-path/fl_tampanorth_drhortonelstoniih.jpg?iar=1&sc=1&thn=1&w=425&rev=3a5769ecb5ad41c8a203b1e731475dcf&hash=6F294679E958A308E5791333F6FD3BA3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394030000-sandhill-40s-exp/e303/0017-11936-noble-chase-path/fl_tampanorth_drhortonelstoniih.jpg?iar=1&sc=1&thn=1&w=425&rev=3a5769ecb5ad41c8a203b1e731475dcf&hash=6F294679E958A308E5791333F6FD3BA3"
-          ]
-        },
-        {
-          "lot": "24",
-          "address": "11952 Fallow Down Dr",
-          "plan": "",
-          "price": 316990,
-          "priceLabel": "$316,990",
-          "beds": 3,
-          "homeSlug": "11952-fallow-down-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/sandhill/qmis/11952-fallow-down-drive",
-          "baths": "2",
-          "sqft": "1,672",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394040000-sandhill-50s-exp/4eab/0024-11952-fallow-down-drive/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=7206782324e4406995beb0bb72059478&hash=21C78BF8AA260C689D813EB25609BE84",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394040000-sandhill-50s-exp/4eab/0024-11952-fallow-down-drive/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=7206782324e4406995beb0bb72059478&hash=21C78BF8AA260C689D813EB25609BE84"
-          ]
+          ],
+          "incentive": 6990,
+          "incentiveLabel": "(6,990)"
         },
         {
           "lot": "1",
@@ -4437,7 +4583,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394030000-sandhill-40s-exp/e302/0018-11952-noble-chase-path/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=878246588cad4d19bbcbb6be795455e4&hash=C25C256CCD67D903B35506C3F8B4CFE2",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394030000-sandhill-40s-exp/e302/0018-11952-noble-chase-path/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=878246588cad4d19bbcbb6be795455e4&hash=C25C256CCD67D903B35506C3F8B4CFE2"
-          ]
+          ],
+          "incentive": 19990,
+          "incentiveLabel": "(19,990)"
         },
         {
           "lot": "24",
@@ -4455,7 +4603,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394040000-sandhill-50s-exp/e402/0056-11955-fallow-down-drive/lakeside_ele_h.jpg?iar=1&sc=1&thn=1&w=425&rev=28f7c747335e42ae9e536b376fbb501b&hash=5BD52455F15D93E51A98C3E0D9A9B16A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394040000-sandhill-50s-exp/e402/0056-11955-fallow-down-drive/lakeside_ele_h.jpg?iar=1&sc=1&thn=1&w=425&rev=28f7c747335e42ae9e536b376fbb501b&hash=5BD52455F15D93E51A98C3E0D9A9B16A"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "25",
@@ -4473,6 +4623,26 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394040000-sandhill-50s-exp/4ehb/0025-11964-fallow-down-drive/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=0c07058972bf4d7ea9f1c08c679f5a21&hash=F22B5329A181D175B87B625C11CBA211",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394040000-sandhill-50s-exp/4ehb/0025-11964-fallow-down-drive/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=0c07058972bf4d7ea9f1c08c679f5a21&hash=F22B5329A181D175B87B625C11CBA211"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
+        },
+        {
+          "lot": "24",
+          "address": "11952 Fallow Down Dr",
+          "plan": "",
+          "price": 316990,
+          "priceLabel": "$316,990",
+          "beds": 3,
+          "homeSlug": "11952-fallow-down-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/sandhill/qmis/11952-fallow-down-drive",
+          "baths": "2",
+          "sqft": "1,672",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394040000-sandhill-50s-exp/4eab/0024-11952-fallow-down-drive/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=7206782324e4406995beb0bb72059478&hash=21C78BF8AA260C689D813EB25609BE84",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394040000-sandhill-50s-exp/4eab/0024-11952-fallow-down-drive/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=7206782324e4406995beb0bb72059478&hash=21C78BF8AA260C689D813EB25609BE84"
           ]
         }
       ],
@@ -4618,9 +4788,9 @@
       "slug": "skyway-point",
       "name": "Skyway Point",
       "address": "6601 S Richard Ave, Tampa, FL 33616",
-      "availableCount": 5,
+      "availableCount": 4,
       "lowestPrice": 440000,
-      "highestPrice": 480000,
+      "highestPrice": 462000,
       "beds": [
         3
       ],
@@ -4641,7 +4811,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39478-skyway-point/394780000-skyway-point/t20b/0002-6603-s-richard-ave/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=38646600be674511a8bfbfbadbdf4032&hash=CDF12641C0649CED23919665CBF73420",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39478-skyway-point/394780000-skyway-point/t20b/0002-6603-s-richard-ave/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=38646600be674511a8bfbfbadbdf4032&hash=CDF12641C0649CED23919665CBF73420"
-          ]
+          ],
+          "incentive": 2990,
+          "incentiveLabel": "(2,990)"
         },
         {
           "lot": "3",
@@ -4659,7 +4831,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39478-skyway-point/394780000-skyway-point/t20b/0003-6605-s-richard-ave/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=9b9145fbcf504f959f91a517317d03db&hash=AD591C2D26B182BD23385C6BF6112C9C",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39478-skyway-point/394780000-skyway-point/t20b/0003-6605-s-richard-ave/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=9b9145fbcf504f959f91a517317d03db&hash=AD591C2D26B182BD23385C6BF6112C9C"
-          ]
+          ],
+          "incentive": 22990,
+          "incentiveLabel": "(22,990)"
         },
         {
           "lot": "4",
@@ -4677,7 +4851,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39478-skyway-point/394780000-skyway-point/t20b/0004-6607-s-richard-ave/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=8a2cc721b00f4e17be080c4598839160&hash=A78582C47BEC0D49C79A8E8DF1BB7254",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39478-skyway-point/394780000-skyway-point/t20b/0004-6607-s-richard-ave/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=8a2cc721b00f4e17be080c4598839160&hash=A78582C47BEC0D49C79A8E8DF1BB7254"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "5",
@@ -4695,25 +4871,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39478-skyway-point/394780000-skyway-point/t20b/0005-6609-s-richard-ave/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=20ab1bfb6f1e45c7b8e741931eab5877&hash=ED83AAE51B284C396DDA664AA814B422",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39478-skyway-point/394780000-skyway-point/t20b/0005-6609-s-richard-ave/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=20ab1bfb6f1e45c7b8e741931eab5877&hash=ED83AAE51B284C396DDA664AA814B422"
-          ]
-        },
-        {
-          "lot": "6",
-          "address": "6611 S Richard Ave",
-          "plan": "",
-          "price": 480000,
-          "priceLabel": "$480,000",
-          "beds": 3,
-          "homeSlug": "6611-s-richard-ave",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/skyway-point/qmis/6611-s-richard-ave",
-          "baths": "2.5",
-          "sqft": "1,463",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39478-skyway-point/394780000-skyway-point/t20a/0006-6611-s-richard-ave/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=3bbe2d9f917449c8a6a77759135fe5c9&hash=E1BAF46AB894CEC53FCB3E2568CAA6CA",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39478-skyway-point/394780000-skyway-point/t20a/0006-6611-s-richard-ave/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=3bbe2d9f917449c8a6a77759135fe5c9&hash=E1BAF46AB894CEC53FCB3E2568CAA6CA"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         }
       ],
       "models": [
@@ -4753,9 +4913,9 @@
       "slug": "summit-view",
       "name": "Summit View",
       "address": "35387 Brick Church Loop, Dade City, FL 33525",
-      "availableCount": 13,
+      "availableCount": 15,
       "lowestPrice": 290000,
-      "highestPrice": 398000,
+      "highestPrice": 400000,
       "beds": [
         3,
         4,
@@ -4778,7 +4938,29 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/e502/0055-13202-balsam-cone-drive/convington_ele_g.jpg?iar=1&sc=1&thn=1&w=425&rev=20758bc7c6f04fa0ade93b53c824e38e&hash=B55F89C205D3FBECB3C0CB93F728071E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/e502/0055-13202-balsam-cone-drive/convington_ele_g.jpg?iar=1&sc=1&thn=1&w=425&rev=20758bc7c6f04fa0ade93b53c824e38e&hash=B55F89C205D3FBECB3C0CB93F728071E"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
+        },
+        {
+          "lot": "241",
+          "address": "13219 Balsam Cone Drive",
+          "plan": "",
+          "price": 390000,
+          "priceLabel": "$390,000",
+          "beds": 4,
+          "homeSlug": "13219-balsam-cone-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/13219-balsam-cone-drive",
+          "baths": "3",
+          "sqft": "2,336",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/e501/0053-13219-balsam-cone-drive/390_tpa_n_denham_elevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6da9eea9a9ad47eba1f22c49633dbaab&hash=AB25C7567D76ED5C191E764CACB363DB",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/e501/0053-13219-balsam-cone-drive/390_tpa_n_denham_elevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6da9eea9a9ad47eba1f22c49633dbaab&hash=AB25C7567D76ED5C191E764CACB363DB"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "244",
@@ -4796,7 +4978,29 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/5emb/0056-13224-balsam-cone-drive/fl_tampannorth_drhorton_madisonl.jpg?iar=1&sc=1&thn=1&w=425&rev=5bb415a832f24450b1e880ad5ec59ccc&hash=6AD2C18FCD10EC2C0582BA6E7A2487BE",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/5emb/0056-13224-balsam-cone-drive/fl_tampannorth_drhorton_madisonl.jpg?iar=1&sc=1&thn=1&w=425&rev=5bb415a832f24450b1e880ad5ec59ccc&hash=6AD2C18FCD10EC2C0582BA6E7A2487BE"
-          ]
+          ],
+          "incentive": 2990,
+          "incentiveLabel": "(2,990)"
+        },
+        {
+          "lot": "245",
+          "address": "13236 Balsam Cone Drive",
+          "plan": "",
+          "price": 400000,
+          "priceLabel": "$400,000",
+          "beds": 5,
+          "homeSlug": "13236-balsam-cone-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/13236-balsam-cone-drive",
+          "baths": "3",
+          "sqft": "2,490",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/e502/0057-13236-balsam-cone-drive/convington_ele_h_c.jpg?iar=1&sc=1&thn=1&w=425&rev=bb4944b82bcf47d8b29a3b5fe8965262&hash=2236E982D67A703E49D06E4ECDB1E39C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/e502/0057-13236-balsam-cone-drive/convington_ele_h_c.jpg?iar=1&sc=1&thn=1&w=425&rev=bb4944b82bcf47d8b29a3b5fe8965262&hash=2236E982D67A703E49D06E4ECDB1E39C"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "203",
@@ -4814,7 +5018,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0127-13417-castle-peak-circle/fl_drhorton_tampanorth_calid.jpg?iar=1&sc=1&thn=1&w=425&rev=d6011983d27d414bbc05a45ef1206340&hash=9CFBD346CEB84D5D00F2528210F44C44",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0127-13417-castle-peak-circle/fl_drhorton_tampanorth_calid.jpg?iar=1&sc=1&thn=1&w=425&rev=d6011983d27d414bbc05a45ef1206340&hash=9CFBD346CEB84D5D00F2528210F44C44"
-          ]
+          ],
+          "incentive": 10355,
+          "incentiveLabel": "(10,355)"
         },
         {
           "lot": "202",
@@ -4850,7 +5056,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/393690000-summit-view-40s-exp/e303/0088-13454-summit-peak-court/fl_tampanorth_drhorton_elstonii_h_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=3ff49bc6d0434260b853582e79cc3223&hash=B1B1156723973EA8F5295409297D5437",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/393690000-summit-view-40s-exp/e303/0088-13454-summit-peak-court/fl_tampanorth_drhorton_elstonii_h_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=3ff49bc6d0434260b853582e79cc3223&hash=B1B1156723973EA8F5295409297D5437"
-          ]
+          ],
+          "incentive": 4990,
+          "incentiveLabel": "(4,990)"
         },
         {
           "lot": "395",
@@ -4868,7 +5076,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/393690000-summit-view-40s-exp/e304/0087-13468-summit-peak-court/fl_tampanorth_drhorton_robieii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=d428ebf44e874de1a4e38cde1fb1f552&hash=3414C22B95AAD153BE2CCFE41844735A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/393690000-summit-view-40s-exp/e304/0087-13468-summit-peak-court/fl_tampanorth_drhorton_robieii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=d428ebf44e874de1a4e38cde1fb1f552&hash=3414C22B95AAD153BE2CCFE41844735A"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "394",
@@ -4886,7 +5096,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/393690000-summit-view-40s-exp/e302/0086-13476-summit-peak-court/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b11c72d14de14a3e914f0ea0a3fe716b&hash=086C811516C8960D884E55C5AB194C96",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/393690000-summit-view-40s-exp/e302/0086-13476-summit-peak-court/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b11c72d14de14a3e914f0ea0a3fe716b&hash=086C811516C8960D884E55C5AB194C96"
-          ]
+          ],
+          "incentive": 17345,
+          "incentiveLabel": "(17,345)"
         },
         {
           "lot": "187",
@@ -4904,7 +5116,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0111-35569-brick-church-loop/fl_drhorton_tampanorth_calid.jpg?iar=1&sc=1&thn=1&w=425&rev=ba4bbbfc25264f9c8ca763c0d9e183aa&hash=3A25CFF7F9380800A0D5A91C105C237C",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0111-35569-brick-church-loop/fl_drhorton_tampanorth_calid.jpg?iar=1&sc=1&thn=1&w=425&rev=ba4bbbfc25264f9c8ca763c0d9e183aa&hash=3A25CFF7F9380800A0D5A91C105C237C"
-          ]
+          ],
+          "incentive": 6990,
+          "incentiveLabel": "(6,990)"
         },
         {
           "lot": "186",
@@ -4922,7 +5136,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/e303/0110-35577-brick-church-loop/fl_tampanorth_drhorton_elstonii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=7a1eb9115cff45c0b42e944aac9132f9&hash=10D3B5A89226C096A524247C0699826C",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/e303/0110-35577-brick-church-loop/fl_tampanorth_drhorton_elstonii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=7a1eb9115cff45c0b42e944aac9132f9&hash=10D3B5A89226C096A524247C0699826C"
-          ]
+          ],
+          "incentive": 41990,
+          "incentiveLabel": "(41,990)"
         },
         {
           "lot": "185",
@@ -4940,25 +5156,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0166-35603-brick-church-loop/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=fc903c1dc5cd4186948c7a4c04f2bb9b&hash=BA6D4FF09244E5A34D4339D33738543D",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0166-35603-brick-church-loop/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=fc903c1dc5cd4186948c7a4c04f2bb9b&hash=BA6D4FF09244E5A34D4339D33738543D"
-          ]
-        },
-        {
-          "lot": "183",
-          "address": "35623 Brick Church Lp",
-          "plan": "",
-          "price": 374000,
-          "priceLabel": "$374,000",
-          "beds": 5,
-          "homeSlug": "35623-brick-church-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35623-brick-church-loop",
-          "baths": "3",
-          "sqft": "2,605",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0164-35623-brick-church-loop/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=bf3b0306ed414701bd447ab40233886e&hash=1580640EC5D92AF185728D6AADB0095E",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0164-35623-brick-church-loop/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=bf3b0306ed414701bd447ab40233886e&hash=1580640EC5D92AF185728D6AADB0095E"
-          ]
+          ],
+          "incentive": 3990,
+          "incentiveLabel": "(3,990)"
         },
         {
           "lot": "182",
@@ -4976,7 +5176,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0163-35637-brick-church-loop/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=6452ba63a6104c439767d18c69af5b88&hash=8C21B6DA9AEF62B693513828097B9AC2",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0163-35637-brick-church-loop/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=6452ba63a6104c439767d18c69af5b88&hash=8C21B6DA9AEF62B693513828097B9AC2"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "181",
@@ -4994,6 +5196,26 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0162-35649-brick-church-loop/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=04f3b5c3ca154f0da01ebcc4a0aebd55&hash=24646A1747C7DD59EE75AD2955466C9C",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0162-35649-brick-church-loop/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=04f3b5c3ca154f0da01ebcc4a0aebd55&hash=24646A1747C7DD59EE75AD2955466C9C"
+          ],
+          "incentive": 665,
+          "incentiveLabel": "(665)"
+        },
+        {
+          "lot": "183",
+          "address": "35623 Brick Church Lp",
+          "plan": "",
+          "price": 374000,
+          "priceLabel": "$374,000",
+          "beds": 5,
+          "homeSlug": "35623-brick-church-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35623-brick-church-loop",
+          "baths": "3",
+          "sqft": "2,605",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0164-35623-brick-church-loop/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=bf3b0306ed414701bd447ab40233886e&hash=1580640EC5D92AF185728D6AADB0095E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0164-35623-brick-church-loop/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=bf3b0306ed414701bd447ab40233886e&hash=1580640EC5D92AF185728D6AADB0095E"
           ]
         }
       ],
@@ -5124,31 +5346,13 @@
       "slug": "towns-at-woodsdale",
       "name": "Towns at Woodsdale",
       "address": "31302 Ancient Sage Road, Wesley Chapel, FL 33545",
-      "availableCount": 4,
-      "lowestPrice": 280000,
+      "availableCount": 8,
+      "lowestPrice": 270000,
       "highestPrice": 311990,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "1",
-          "address": "31302 Ancient Sage Rd",
-          "plan": "",
-          "price": 311990,
-          "priceLabel": "$311,990",
-          "beds": 3,
-          "homeSlug": "31302-ancient-sage-road",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31302-ancient-sage-road",
-          "baths": "2.5",
-          "sqft": "1,463",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0001-31302-ancient-sage-road/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=da7fd791c27443589df933ab161fdf7c&hash=AB1C6ADC6263F69F723C80B9EFE39618",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0001-31302-ancient-sage-road/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=da7fd791c27443589df933ab161fdf7c&hash=AB1C6ADC6263F69F723C80B9EFE39618"
-          ]
-        },
         {
           "lot": "203",
           "address": "31207 Midnight Sun Way",
@@ -5165,7 +5369,105 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0149-31207-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=0e0d2b3fc5a1457e83f42ea8cae3a0cf&hash=5EFF5F1908A040640EB9213EE663C653",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0149-31207-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=0e0d2b3fc5a1457e83f42ea8cae3a0cf&hash=5EFF5F1908A040640EB9213EE663C653"
-          ]
+          ],
+          "incentive": 4990,
+          "incentiveLabel": "(4,990)"
+        },
+        {
+          "lot": "131",
+          "address": "31210 Paper Birch St",
+          "plan": "",
+          "price": 304000,
+          "priceLabel": "$304,000",
+          "beds": 3,
+          "homeSlug": "31210-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31210-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0077-31210-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=c354474323854c2488ba064e727524c3&hash=01E5FEF1B855A8995A4F733ACC5091B8",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0077-31210-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=c354474323854c2488ba064e727524c3&hash=01E5FEF1B855A8995A4F733ACC5091B8"
+          ],
+          "incentive": 2990,
+          "incentiveLabel": "(2,990)"
+        },
+        {
+          "lot": "200",
+          "address": "31221 Midnight Sun Way",
+          "plan": "",
+          "price": 290000,
+          "priceLabel": "$290,000",
+          "beds": 3,
+          "homeSlug": "31221-midnight-sun-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31221-midnight-sun-way",
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0146-31221-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=07a12cef438d420ea78ad73f95e16f57&hash=75D77B2E23FA3999718DACDC01202822",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0146-31221-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=07a12cef438d420ea78ad73f95e16f57&hash=75D77B2E23FA3999718DACDC01202822"
+          ],
+          "incentive": 16990,
+          "incentiveLabel": "(16,990)"
+        },
+        {
+          "lot": "198",
+          "address": "31229 Midnight Sun Way",
+          "plan": "",
+          "price": 270000,
+          "priceLabel": "$270,000",
+          "beds": 3,
+          "homeSlug": "31229-midnight-sun-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31229-midnight-sun-way",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0144-31229-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=f7b84166ff8e4a999928405ad20d5203&hash=7B97B300971A14EA5E70E8174465712B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0144-31229-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=f7b84166ff8e4a999928405ad20d5203&hash=7B97B300971A14EA5E70E8174465712B"
+          ],
+          "incentive": 14990,
+          "incentiveLabel": "(14,990)"
+        },
+        {
+          "lot": "194",
+          "address": "31245 Midnight Sun Way",
+          "plan": "",
+          "price": 288000,
+          "priceLabel": "$288,000",
+          "beds": 3,
+          "homeSlug": "31245-midnight-sun-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31245-midnight-sun-way",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0140-31245-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=88834f5c074b4f3fb591d84fee9302f2&hash=9FDC19D6BDEA6F2EB658F2933916CCE8",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0140-31245-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=88834f5c074b4f3fb591d84fee9302f2&hash=9FDC19D6BDEA6F2EB658F2933916CCE8"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
+        },
+        {
+          "lot": "193",
+          "address": "31249 Midnight Sun Way",
+          "plan": "",
+          "price": 305000,
+          "priceLabel": "$305,000",
+          "beds": 3,
+          "homeSlug": "31249-midnight-sun-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31249-midnight-sun-way",
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "86",
@@ -5186,21 +5488,21 @@
           ]
         },
         {
-          "lot": "200",
-          "address": "31221 Midnight Sun Way",
+          "lot": "1",
+          "address": "31302 Ancient Sage Rd",
           "plan": "",
-          "price": 290000,
-          "priceLabel": "$290,000",
+          "price": 311990,
+          "priceLabel": "$311,990",
           "beds": 3,
-          "homeSlug": "31221-midnight-sun-way",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31221-midnight-sun-way",
+          "homeSlug": "31302-ancient-sage-road",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31302-ancient-sage-road",
           "baths": "2.5",
           "sqft": "1,463",
           "story": "2",
           "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0146-31221-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=07a12cef438d420ea78ad73f95e16f57&hash=75D77B2E23FA3999718DACDC01202822",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0001-31302-ancient-sage-road/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=da7fd791c27443589df933ab161fdf7c&hash=AB1C6ADC6263F69F723C80B9EFE39618",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0146-31221-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=07a12cef438d420ea78ad73f95e16f57&hash=75D77B2E23FA3999718DACDC01202822"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0001-31302-ancient-sage-road/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=da7fd791c27443589df933ab161fdf7c&hash=AB1C6ADC6263F69F723C80B9EFE39618"
           ]
         }
       ],
@@ -5307,6 +5609,26 @@
       ],
       "lots": [
         {
+          "lot": "30",
+          "address": "4709 Silver Current Ave",
+          "plan": "",
+          "price": 475000,
+          "priceLabel": "$475,000",
+          "beds": 5,
+          "homeSlug": "4709-silver-current-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4709-silver-current-ave",
+          "baths": "3",
+          "sqft": "2,605",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394520000-waterstone-40ft-product/4ehb/0008-4709-silver-current-ave/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=af72d6c58f87400a83bda69d63eaff41&hash=526ABA1772B6D9CF45AD4FFEFD01CAD6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394520000-waterstone-40ft-product/4ehb/0008-4709-silver-current-ave/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=af72d6c58f87400a83bda69d63eaff41&hash=526ABA1772B6D9CF45AD4FFEFD01CAD6"
+          ],
+          "incentive": 7990,
+          "incentiveLabel": "(7,990)"
+        },
+        {
           "lot": "27",
           "address": "4723 Silver Current Ave",
           "plan": "",
@@ -5325,24 +5647,6 @@
           ],
           "incentive": 48990,
           "incentiveLabel": "(48,990)"
-        },
-        {
-          "lot": "30",
-          "address": "4709 Silver Current Ave",
-          "plan": "",
-          "price": 475000,
-          "priceLabel": "$475,000",
-          "beds": 5,
-          "homeSlug": "4709-silver-current-ave",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4709-silver-current-ave",
-          "baths": "3",
-          "sqft": "2,605",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394520000-waterstone-40ft-product/4ehb/0008-4709-silver-current-ave/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=af72d6c58f87400a83bda69d63eaff41&hash=526ABA1772B6D9CF45AD4FFEFD01CAD6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394520000-waterstone-40ft-product/4ehb/0008-4709-silver-current-ave/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=af72d6c58f87400a83bda69d63eaff41&hash=526ABA1772B6D9CF45AD4FFEFD01CAD6"
-          ]
         }
       ],
       "models": [
@@ -5465,7 +5769,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0257-17318-spanish-oak-loop/fl_tampanorth_drhorton_westwood_greenscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=3500e8fd805b451f98ff30515676b39f&hash=A9A85B00A657BC5546C18D2B411B4AFE",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0257-17318-spanish-oak-loop/fl_tampanorth_drhorton_westwood_greenscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=3500e8fd805b451f98ff30515676b39f&hash=A9A85B00A657BC5546C18D2B411B4AFE"
-          ]
+          ],
+          "incentive": 17990,
+          "incentiveLabel": "(17,990)"
         },
         {
           "lot": "164",
@@ -5519,7 +5825,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0259-17326-spanish-oak-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=8a9d1318318448008a5ae4a86b862a6d&hash=1DB1D02412CEB04200313CB2D50E1B24",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0259-17326-spanish-oak-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=8a9d1318318448008a5ae4a86b862a6d&hash=1DB1D02412CEB04200313CB2D50E1B24"
-          ]
+          ],
+          "incentive": 7990,
+          "incentiveLabel": "(7,990)"
         },
         {
           "lot": "258",
@@ -5537,7 +5845,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0258-17322-spanish-oak-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=ddfc1903ca874a5f9609274793fcf9b8&hash=08A843B70D8D502DCD039DAB9A57F132",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0258-17322-spanish-oak-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=ddfc1903ca874a5f9609274793fcf9b8&hash=08A843B70D8D502DCD039DAB9A57F132"
-          ]
+          ],
+          "incentive": 2990,
+          "incentiveLabel": "(2,990)"
         },
         {
           "lot": "260",
@@ -5555,7 +5865,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0260-17330-spanish-oak-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=2903c83be0b849af963edef4eccf84dc&hash=97EB5A7521E45EC37CAB14A723140633",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0260-17330-spanish-oak-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=2903c83be0b849af963edef4eccf84dc&hash=97EB5A7521E45EC37CAB14A723140633"
-          ]
+          ],
+          "incentive": 2990,
+          "incentiveLabel": "(2,990)"
         },
         {
           "lot": "256",
@@ -5573,7 +5885,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1759/0256-17314-spanish-oak-loop/fl_tampanorth_drhorton_westwood_greenscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=112517a130ad4c59b51688c7ece25938&hash=70F2F5099C4873C122B84F49AA73EAA0",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1759/0256-17314-spanish-oak-loop/fl_tampanorth_drhorton_westwood_greenscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=112517a130ad4c59b51688c7ece25938&hash=70F2F5099C4873C122B84F49AA73EAA0"
-          ]
+          ],
+          "incentive": 21990,
+          "incentiveLabel": "(21,990)"
         },
         {
           "lot": "261",
@@ -5591,7 +5905,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1759/0261-17334-spanish-oak-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=25d11ff24f534a00b875d94cd1ed5a5f&hash=4AEBC93F05FABC267C088E5E2488A0E5",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1759/0261-17334-spanish-oak-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=25d11ff24f534a00b875d94cd1ed5a5f&hash=4AEBC93F05FABC267C088E5E2488A0E5"
-          ]
+          ],
+          "incentive": 11990,
+          "incentiveLabel": "(11,990)"
         }
       ],
       "models": [
@@ -5661,7 +5977,7 @@
       "slug": "woodcreek",
       "name": "Woodcreek",
       "address": "2412 Sterling Forest Court, Wesley Chapel, FL 33543",
-      "availableCount": 16,
+      "availableCount": 17,
       "lowestPrice": 450000,
       "highestPrice": 645000,
       "beds": [
@@ -5685,7 +6001,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2767/0125-2371-sterling-forest-court/fl_tampanorth_drhorton_coral_h_gableaccent_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=8d8679551a744264b9e6bf7b9daf18d3&hash=F8B67792E8DEC581756CD21BDF1B18C0",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2767/0125-2371-sterling-forest-court/fl_tampanorth_drhorton_coral_h_gableaccent_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=8d8679551a744264b9e6bf7b9daf18d3&hash=F8B67792E8DEC581756CD21BDF1B18C0"
-          ]
+          ],
+          "incentive": 9790,
+          "incentiveLabel": "(9,790)"
         },
         {
           "lot": "7",
@@ -5703,7 +6021,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/3129/0124-2383-sterling-forest-court/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=61f87079b9b04d70a1d0de8110c51cc9&hash=0E3144FBEA473C173F5E093E7BAEBA1C",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/3129/0124-2383-sterling-forest-court/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=61f87079b9b04d70a1d0de8110c51cc9&hash=0E3144FBEA473C173F5E093E7BAEBA1C"
-          ]
+          ],
+          "incentive": 1040,
+          "incentiveLabel": "(1,040)"
         },
         {
           "lot": "6",
@@ -5721,7 +6041,249 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2924/0123-2391-sterling-forest-court/fl_tampanorth_drhorton_hemingwayh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9aff27d23fa546b2b3ff0c7693fe4e5f&hash=E27AFD1685F1DB45A81AA5F8E1F3ECB5",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2924/0123-2391-sterling-forest-court/fl_tampanorth_drhorton_hemingwayh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9aff27d23fa546b2b3ff0c7693fe4e5f&hash=E27AFD1685F1DB45A81AA5F8E1F3ECB5"
-          ]
+          ],
+          "incentive": 6140,
+          "incentiveLabel": "(6,140)"
+        },
+        {
+          "lot": "8",
+          "address": "32340 Weathered Oak Dr",
+          "plan": "",
+          "price": 455000,
+          "priceLabel": "$455,000",
+          "beds": 5,
+          "homeSlug": "32340-weathered-oak-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32340-weathered-oak-drive",
+          "baths": "3",
+          "sqft": "2,453",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e304/0225-32340-weathered-oak-drive/fl_tampanorth_drhorton_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=5e487d49e99e40f085430966855a2526&hash=E720C9BE37ADBA993E1A91D2428903B7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e304/0225-32340-weathered-oak-drive/fl_tampanorth_drhorton_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=5e487d49e99e40f085430966855a2526&hash=E720C9BE37ADBA993E1A91D2428903B7"
+          ],
+          "incentive": 14990,
+          "incentiveLabel": "(14,990)"
+        },
+        {
+          "lot": "13",
+          "address": "32370 Weathered Oak Dr",
+          "plan": "",
+          "price": 450000,
+          "priceLabel": "$450,000",
+          "beds": 5,
+          "homeSlug": "32370-weathered-oak-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32370-weathered-oak-drive",
+          "baths": "3",
+          "sqft": "2,453",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e304/0230-32370-weathered-oak-drive/fl_tampanorth_drhorton_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=068adea7b0734669a8180ab1de1a01b3&hash=7938908973DA6E063F4B09DDDA208B8D",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e304/0230-32370-weathered-oak-drive/fl_tampanorth_drhorton_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=068adea7b0734669a8180ab1de1a01b3&hash=7938908973DA6E063F4B09DDDA208B8D"
+          ],
+          "incentive": 18990,
+          "incentiveLabel": "(18,990)"
+        },
+        {
+          "lot": "17",
+          "address": "32527 Duluth Dr",
+          "plan": "",
+          "price": 485000,
+          "priceLabel": "$485,000",
+          "beds": 4,
+          "homeSlug": "32527-duluth-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32527-duluth-drive",
+          "baths": "2.5",
+          "sqft": "2,045",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0177-32527-duluth-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=196b4f26af8a4cfca223fe4eb9a1e461&hash=CCB0791ED5AB37D02B125852DF0C7EC6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0177-32527-duluth-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=196b4f26af8a4cfca223fe4eb9a1e461&hash=CCB0791ED5AB37D02B125852DF0C7EC6"
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
+        },
+        {
+          "lot": "5",
+          "address": "32645 Duluth Dr",
+          "plan": "",
+          "price": 595000,
+          "priceLabel": "$595,000",
+          "beds": 4,
+          "homeSlug": "32645-duluth-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32645-duluth-drive",
+          "baths": "3.5",
+          "sqft": "2,794",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0088-32645-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=322a7df5d6854b368e9b63d3dc0e15ce&hash=B50E67BBE3C37DFE1915DDC73BE10F93",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0088-32645-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=322a7df5d6854b368e9b63d3dc0e15ce&hash=B50E67BBE3C37DFE1915DDC73BE10F93"
+          ],
+          "incentive": 20490,
+          "incentiveLabel": "(20,490)"
+        },
+        {
+          "lot": "4",
+          "address": "32661 Duluth Dr",
+          "plan": "",
+          "price": 645000,
+          "priceLabel": "$645,000",
+          "beds": 4,
+          "homeSlug": "32661-duluth-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32661-duluth-drive",
+          "baths": "3.5",
+          "sqft": "3,278",
+          "story": "2",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/3278/0087-32661-duluth-drive/fl_tampanorth_drhorton_jordynii_h_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b5c1f89a6b5d473d83b13636c4e4e0e6&hash=5860B481F3D0779A561C468B788436F5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/3278/0087-32661-duluth-drive/fl_tampanorth_drhorton_jordynii_h_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b5c1f89a6b5d473d83b13636c4e4e0e6&hash=5860B481F3D0779A561C468B788436F5"
+          ],
+          "incentive": 5490,
+          "incentiveLabel": "(5,490)"
+        },
+        {
+          "lot": "6",
+          "address": "32668 Duluth Dr",
+          "plan": "",
+          "price": 585000,
+          "priceLabel": "$585,000",
+          "beds": 4,
+          "homeSlug": "32668-duluth-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32668-duluth-drive",
+          "baths": "3.5",
+          "sqft": "2,794",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0092-32668-duluth-drive/fl_tampanorth_drhorton_camdend_shingle_-no-gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=19708e4b359f4f109d4fc23bf90106e2&hash=A81F13556040452E25C49EF361691179",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0092-32668-duluth-drive/fl_tampanorth_drhorton_camdend_shingle_-no-gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=19708e4b359f4f109d4fc23bf90106e2&hash=A81F13556040452E25C49EF361691179"
+          ],
+          "incentive": 30490,
+          "incentiveLabel": "(30,490)"
+        },
+        {
+          "lot": "5",
+          "address": "32680 Duluth Dr",
+          "plan": "",
+          "price": 600000,
+          "priceLabel": "$600,000",
+          "beds": 4,
+          "homeSlug": "32680-duluth-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32680-duluth-drive",
+          "baths": "3.5",
+          "sqft": "2,794",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0091-32680-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa2ce72ffdf040f58dc035ae3edd5b9d&hash=A2C7981FC6A5EF7BCCC298DC39A54188",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0091-32680-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa2ce72ffdf040f58dc035ae3edd5b9d&hash=A2C7981FC6A5EF7BCCC298DC39A54188"
+          ],
+          "incentive": 32240,
+          "incentiveLabel": "(32,240)"
+        },
+        {
+          "lot": "2",
+          "address": "32693 Duluth Dr",
+          "plan": "",
+          "price": 540000,
+          "priceLabel": "$540,000",
+          "beds": 4,
+          "homeSlug": "32693-duluth-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32693-duluth-drive",
+          "baths": "3.5",
+          "sqft": "2,794",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0080-32693-duluth-drive/fl_tampanorth_drhorton_camdend_shingle_gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b32f714b00594d62b3a16278874c6bfd&hash=F439FC7E9882AF0AAFDD01B71A43B1FD",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0080-32693-duluth-drive/fl_tampanorth_drhorton_camdend_shingle_gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b32f714b00594d62b3a16278874c6bfd&hash=F439FC7E9882AF0AAFDD01B71A43B1FD"
+          ],
+          "incentive": 74490,
+          "incentiveLabel": "(74,490)"
+        },
+        {
+          "lot": "13",
+          "address": "32736 Weathered Oak Dr",
+          "plan": "",
+          "price": 477000,
+          "priceLabel": "$477,000",
+          "beds": 4,
+          "homeSlug": "32736-weathered-oak-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32736-weathered-oak-drive",
+          "baths": "2.5",
+          "sqft": "2,045",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0173-32736-weathered-oak-drive/fl_tampanorth_drhorton_lantanad_shinglenocl_-_copy.jpg?iar=1&sc=1&thn=1&w=425&rev=aea060acca7e4ddea8793d6a0d5adc2c&hash=1376B9B037E003FB9BE4D95E02C9E6EC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0173-32736-weathered-oak-drive/fl_tampanorth_drhorton_lantanad_shinglenocl_-_copy.jpg?iar=1&sc=1&thn=1&w=425&rev=aea060acca7e4ddea8793d6a0d5adc2c&hash=1376B9B037E003FB9BE4D95E02C9E6EC"
+          ],
+          "incentive": 2990,
+          "incentiveLabel": "(2,990)"
+        },
+        {
+          "lot": "14",
+          "address": "32744 Weathered Oak Dr",
+          "plan": "",
+          "price": 540000,
+          "priceLabel": "$540,000",
+          "beds": 5,
+          "homeSlug": "32744-weathered-oak-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32744-weathered-oak-drive",
+          "baths": "3",
+          "sqft": "2,934",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2924/0174-32744-weathered-oak-drive/fl_tampanorth_drhorton_hemingwayh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=5b1cf95280d0426c9b5baa9335ccb4d0&hash=C8985549F51C52B2FDA045E08D62A7AD",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2924/0174-32744-weathered-oak-drive/fl_tampanorth_drhorton_hemingwayh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=5b1cf95280d0426c9b5baa9335ccb4d0&hash=C8985549F51C52B2FDA045E08D62A7AD"
+          ],
+          "incentive": 20740,
+          "incentiveLabel": "(20,740)"
+        },
+        {
+          "lot": "8",
+          "address": "32765 Weathered Oak Dr",
+          "plan": "",
+          "price": 550000,
+          "priceLabel": "$550,000",
+          "beds": 4,
+          "homeSlug": "32765-weathered-oak-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32765-weathered-oak-drive",
+          "baths": "3",
+          "sqft": "2,756",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2767/0133-32765-weathered-oak-drive/fl_tampanorth_drhorton_coral_h_gableaccent_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=476af18604044371b366de08e934ba2f&hash=7908FE083C068F62E9AB6544DB56E86A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2767/0133-32765-weathered-oak-drive/fl_tampanorth_drhorton_coral_h_gableaccent_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=476af18604044371b366de08e934ba2f&hash=7908FE083C068F62E9AB6544DB56E86A"
+          ],
+          "incentive": 21490,
+          "incentiveLabel": "(21,490)"
+        },
+        {
+          "lot": "16",
+          "address": "32900 Winterwood Blvd",
+          "plan": "",
+          "price": 465000,
+          "priceLabel": "$465,000",
+          "beds": 4,
+          "homeSlug": "32900-winterwood-boulevard",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32900-winterwood-boulevard",
+          "baths": "2.5",
+          "sqft": "2,305",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e303/0301-32900-winterwood-boulevard/fl_tampanorth_drhorton_elstonii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=a19ccc39f3354f66a8e6d166aee10678&hash=A7CEFE3CEC47D557AB7DDFB695E2A2BA",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e303/0301-32900-winterwood-boulevard/fl_tampanorth_drhorton_elstonii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=a19ccc39f3354f66a8e6d166aee10678&hash=A7CEFE3CEC47D557AB7DDFB695E2A2BA"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "7",
@@ -5742,150 +6304,6 @@
           ]
         },
         {
-          "lot": "8",
-          "address": "32340 Weathered Oak Dr",
-          "plan": "",
-          "price": 455000,
-          "priceLabel": "$455,000",
-          "beds": 5,
-          "homeSlug": "32340-weathered-oak-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32340-weathered-oak-drive",
-          "baths": "3",
-          "sqft": "2,453",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e304/0225-32340-weathered-oak-drive/fl_tampanorth_drhorton_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=5e487d49e99e40f085430966855a2526&hash=E720C9BE37ADBA993E1A91D2428903B7",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e304/0225-32340-weathered-oak-drive/fl_tampanorth_drhorton_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=5e487d49e99e40f085430966855a2526&hash=E720C9BE37ADBA993E1A91D2428903B7"
-          ]
-        },
-        {
-          "lot": "13",
-          "address": "32370 Weathered Oak Dr",
-          "plan": "",
-          "price": 450000,
-          "priceLabel": "$450,000",
-          "beds": 5,
-          "homeSlug": "32370-weathered-oak-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32370-weathered-oak-drive",
-          "baths": "3",
-          "sqft": "2,453",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e304/0230-32370-weathered-oak-drive/fl_tampanorth_drhorton_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=068adea7b0734669a8180ab1de1a01b3&hash=7938908973DA6E063F4B09DDDA208B8D",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e304/0230-32370-weathered-oak-drive/fl_tampanorth_drhorton_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=068adea7b0734669a8180ab1de1a01b3&hash=7938908973DA6E063F4B09DDDA208B8D"
-          ]
-        },
-        {
-          "lot": "17",
-          "address": "32527 Duluth Dr",
-          "plan": "",
-          "price": 485000,
-          "priceLabel": "$485,000",
-          "beds": 4,
-          "homeSlug": "32527-duluth-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32527-duluth-drive",
-          "baths": "2.5",
-          "sqft": "2,045",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0177-32527-duluth-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=196b4f26af8a4cfca223fe4eb9a1e461&hash=CCB0791ED5AB37D02B125852DF0C7EC6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0177-32527-duluth-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=196b4f26af8a4cfca223fe4eb9a1e461&hash=CCB0791ED5AB37D02B125852DF0C7EC6"
-          ]
-        },
-        {
-          "lot": "5",
-          "address": "32645 Duluth Dr",
-          "plan": "",
-          "price": 595000,
-          "priceLabel": "$595,000",
-          "beds": 4,
-          "homeSlug": "32645-duluth-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32645-duluth-drive",
-          "baths": "3.5",
-          "sqft": "2,794",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0088-32645-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=322a7df5d6854b368e9b63d3dc0e15ce&hash=B50E67BBE3C37DFE1915DDC73BE10F93",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0088-32645-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=322a7df5d6854b368e9b63d3dc0e15ce&hash=B50E67BBE3C37DFE1915DDC73BE10F93"
-          ]
-        },
-        {
-          "lot": "4",
-          "address": "32661 Duluth Dr",
-          "plan": "",
-          "price": 645000,
-          "priceLabel": "$645,000",
-          "beds": 4,
-          "homeSlug": "32661-duluth-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32661-duluth-drive",
-          "baths": "3.5",
-          "sqft": "3,278",
-          "story": "2",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/3278/0087-32661-duluth-drive/fl_tampanorth_drhorton_jordynii_h_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b5c1f89a6b5d473d83b13636c4e4e0e6&hash=5860B481F3D0779A561C468B788436F5",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/3278/0087-32661-duluth-drive/fl_tampanorth_drhorton_jordynii_h_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b5c1f89a6b5d473d83b13636c4e4e0e6&hash=5860B481F3D0779A561C468B788436F5"
-          ]
-        },
-        {
-          "lot": "6",
-          "address": "32668 Duluth Dr",
-          "plan": "",
-          "price": 585000,
-          "priceLabel": "$585,000",
-          "beds": 4,
-          "homeSlug": "32668-duluth-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32668-duluth-drive",
-          "baths": "3.5",
-          "sqft": "2,794",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0092-32668-duluth-drive/fl_tampanorth_drhorton_camdend_shingle_-no-gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=19708e4b359f4f109d4fc23bf90106e2&hash=A81F13556040452E25C49EF361691179",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0092-32668-duluth-drive/fl_tampanorth_drhorton_camdend_shingle_-no-gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=19708e4b359f4f109d4fc23bf90106e2&hash=A81F13556040452E25C49EF361691179"
-          ]
-        },
-        {
-          "lot": "5",
-          "address": "32680 Duluth Dr",
-          "plan": "",
-          "price": 600000,
-          "priceLabel": "$600,000",
-          "beds": 4,
-          "homeSlug": "32680-duluth-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32680-duluth-drive",
-          "baths": "3.5",
-          "sqft": "2,794",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0091-32680-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa2ce72ffdf040f58dc035ae3edd5b9d&hash=A2C7981FC6A5EF7BCCC298DC39A54188",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0091-32680-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa2ce72ffdf040f58dc035ae3edd5b9d&hash=A2C7981FC6A5EF7BCCC298DC39A54188"
-          ]
-        },
-        {
-          "lot": "2",
-          "address": "32693 Duluth Dr",
-          "plan": "",
-          "price": 540000,
-          "priceLabel": "$540,000",
-          "beds": 4,
-          "homeSlug": "32693-duluth-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32693-duluth-drive",
-          "baths": "3.5",
-          "sqft": "2,794",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0080-32693-duluth-drive/fl_tampanorth_drhorton_camdend_shingle_gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b32f714b00594d62b3a16278874c6bfd&hash=F439FC7E9882AF0AAFDD01B71A43B1FD",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0080-32693-duluth-drive/fl_tampanorth_drhorton_camdend_shingle_gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b32f714b00594d62b3a16278874c6bfd&hash=F439FC7E9882AF0AAFDD01B71A43B1FD"
-          ]
-        },
-        {
           "lot": "12",
           "address": "32727 Weathered Oak Dr",
           "plan": "",
@@ -5901,60 +6319,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2767/0137-32727-weathered-oak-drive/fl_tampanorth_drhorton_coral_h_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f64ced7ab42e480c93ae3a7ca74b7ffd&hash=77DAAD30B4E9C95FB37E80D615311274",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2767/0137-32727-weathered-oak-drive/fl_tampanorth_drhorton_coral_h_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f64ced7ab42e480c93ae3a7ca74b7ffd&hash=77DAAD30B4E9C95FB37E80D615311274"
-          ]
-        },
-        {
-          "lot": "13",
-          "address": "32736 Weathered Oak Dr",
-          "plan": "",
-          "price": 477000,
-          "priceLabel": "$477,000",
-          "beds": 4,
-          "homeSlug": "32736-weathered-oak-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32736-weathered-oak-drive",
-          "baths": "2.5",
-          "sqft": "2,045",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0173-32736-weathered-oak-drive/fl_tampanorth_drhorton_lantanad_shinglenocl_-_copy.jpg?iar=1&sc=1&thn=1&w=425&rev=aea060acca7e4ddea8793d6a0d5adc2c&hash=1376B9B037E003FB9BE4D95E02C9E6EC",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0173-32736-weathered-oak-drive/fl_tampanorth_drhorton_lantanad_shinglenocl_-_copy.jpg?iar=1&sc=1&thn=1&w=425&rev=aea060acca7e4ddea8793d6a0d5adc2c&hash=1376B9B037E003FB9BE4D95E02C9E6EC"
-          ]
-        },
-        {
-          "lot": "14",
-          "address": "32744 Weathered Oak Dr",
-          "plan": "",
-          "price": 540000,
-          "priceLabel": "$540,000",
-          "beds": 5,
-          "homeSlug": "32744-weathered-oak-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32744-weathered-oak-drive",
-          "baths": "3",
-          "sqft": "2,934",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2924/0174-32744-weathered-oak-drive/fl_tampanorth_drhorton_hemingwayh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=5b1cf95280d0426c9b5baa9335ccb4d0&hash=C8985549F51C52B2FDA045E08D62A7AD",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2924/0174-32744-weathered-oak-drive/fl_tampanorth_drhorton_hemingwayh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=5b1cf95280d0426c9b5baa9335ccb4d0&hash=C8985549F51C52B2FDA045E08D62A7AD"
-          ]
-        },
-        {
-          "lot": "8",
-          "address": "32765 Weathered Oak Dr",
-          "plan": "",
-          "price": 550000,
-          "priceLabel": "$550,000",
-          "beds": 4,
-          "homeSlug": "32765-weathered-oak-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32765-weathered-oak-drive",
-          "baths": "3",
-          "sqft": "2,756",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2767/0133-32765-weathered-oak-drive/fl_tampanorth_drhorton_coral_h_gableaccent_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=476af18604044371b366de08e934ba2f&hash=7908FE083C068F62E9AB6544DB56E86A",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2767/0133-32765-weathered-oak-drive/fl_tampanorth_drhorton_coral_h_gableaccent_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=476af18604044371b366de08e934ba2f&hash=7908FE083C068F62E9AB6544DB56E86A"
           ]
         }
       ],
@@ -6183,7 +6547,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0016-32559-midsummer-night-lane/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=2c03190e105542378d925b5da5818639&hash=B19E53646AA8A34BAC6B845412F602A2",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0016-32559-midsummer-night-lane/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=2c03190e105542378d925b5da5818639&hash=B19E53646AA8A34BAC6B845412F602A2"
-          ]
+          ],
+          "incentive": 36990,
+          "incentiveLabel": "(36,990)"
         },
         {
           "lot": "19",
@@ -6201,7 +6567,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0019-32575-midsummer-night-lane/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=7b46c5df023c45fb966ad72072f09623&hash=E9C78687E5DC6196EFB71A2A25A4ED1B",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0019-32575-midsummer-night-lane/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=7b46c5df023c45fb966ad72072f09623&hash=E9C78687E5DC6196EFB71A2A25A4ED1B"
-          ]
+          ],
+          "incentive": 27990,
+          "incentiveLabel": "(27,990)"
         },
         {
           "lot": "22",
@@ -6219,7 +6587,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0022-32589-midsummer-night-lane/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=0c091cc1c86d4e9aab3e521bfc916d21&hash=F6C1AAA9FD3083B8CA8160C3824256B8",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0022-32589-midsummer-night-lane/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=0c091cc1c86d4e9aab3e521bfc916d21&hash=F6C1AAA9FD3083B8CA8160C3824256B8"
-          ]
+          ],
+          "incentive": 3990,
+          "incentiveLabel": "(3,990)"
         },
         {
           "lot": "23",
@@ -6237,7 +6607,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0023-32595-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=47627a5ed45044e9ab245db77dad5273&hash=9F8AE2CB1F1FF221D782390752779D4A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0023-32595-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=47627a5ed45044e9ab245db77dad5273&hash=9F8AE2CB1F1FF221D782390752779D4A"
-          ]
+          ],
+          "incentive": 34990,
+          "incentiveLabel": "(34,990)"
         },
         {
           "lot": "24",
@@ -6255,7 +6627,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0024-32597-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=2f6eab03aab34676a8ec5fe06549ffb9&hash=734DC5FC3DBFA264689DCA3A86552D1D",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0024-32597-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=2f6eab03aab34676a8ec5fe06549ffb9&hash=734DC5FC3DBFA264689DCA3A86552D1D"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "25",
@@ -6273,7 +6647,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0025-32603-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=65f3260f6f274893be123ab5c189f741&hash=DA1592905F544305B40A5C579D6D4384",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0025-32603-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=65f3260f6f274893be123ab5c189f741&hash=DA1592905F544305B40A5C579D6D4384"
-          ]
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
         },
         {
           "lot": "26",
