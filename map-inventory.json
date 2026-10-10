@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T19:17:04.893Z",
+  "updatedAt": "2026-10-10T18:14:21.388Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
@@ -253,7 +253,7 @@
       "slug": "angeline",
       "name": "Angeline",
       "address": "17430 Pleasantview Blvd, Land O Lakes, FL 34638",
-      "availableCount": 11,
+      "availableCount": 10,
       "lowestPrice": 330000,
       "highestPrice": 420000,
       "beds": [
@@ -290,39 +290,6 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0122-17935-acorn-drop-road/10_robie_patio.jpg?as=1&w=1280&rev=eecfb8d3c50e493e96cd9508b9fe32c7&hash=9AD5EF34B11F9A12DB5269D4245E1F08",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0122-17935-acorn-drop-road/34-custom-berry_bay_ave-s1605-034.jpg?as=1&w=1280&rev=680fcc3c17ae4e4897b0bdabb74024a2&hash=F9950E0B19CE8C634CA99E40DD2E20AE",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0122-17935-acorn-drop-road/35-custom-berry_bay_ave-s1605-035.jpg?as=1&w=1280&rev=b69c9a76fad24d4a8189fa17071c4578&hash=6BAA18B4A498AD10F37DFC757A0DB0A8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/mostrecent_robieii_blacklines-patio.jpg?as=1&w=1280&rev=09faac9984ec456d9484c3937b427989&hash=77E198322E9CA39341A5266007C3D1FA"
-          ],
-          "incentive": 42990,
-          "incentiveLabel": "(42,990)"
-        },
-        {
-          "lot": "764",
-          "address": "17946 Acorn Drop Rd",
-          "plan": "",
-          "price": 375000,
-          "priceLabel": "$375,000",
-          "beds": 5,
-          "homeSlug": "17946-acorn-drop-road",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/17946-acorn-drop-road",
-          "baths": "3",
-          "sqft": "2,453",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/robie_ii_h_88_no_stone_no_cl_garage_hw.jpg?as=1&w=1280&rev=2c3c62b5566e438692ef0f589c130b08&hash=5E9EB18ACA34FE6B49E51032CD20ADE2",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/robie_ii_h_88_no_stone_no_cl_garage_hw.jpg?as=1&w=1280&rev=2c3c62b5566e438692ef0f589c130b08&hash=5E9EB18ACA34FE6B49E51032CD20ADE2",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/1-custom-berry_bay_ave-s1605-005.jpg?as=1&w=1280&rev=d767a22485444751b8dd9b0ea2662422&hash=407C10D3120676AB2FDB36E8D3EF1F88",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/2_robie_kitchen_2.jpg?as=1&w=1280&rev=c23f08c294504df6b3d9675a5f4481c2&hash=078011B10104FED31D785C07B0A31823",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/3_robie_living.jpg?as=1&w=1280&rev=efba82d1179f4b4cb67dc3dd36060580&hash=21669DF6F05090BEA1F8649AB0DEDC74",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/4_-custom-berry_bay_ave-s1605-019.jpg?as=1&w=1280&rev=314c672b51a946b6a119004c5bf96448&hash=42116973993F483FECBD61263BA13DAB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/5_robie_loft.jpg?as=1&w=1280&rev=35af0fc233804b9baae1287c91343788&hash=89E24085DC336C8C73DB3B2FCADE3FB0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/6_robie_primary_bedroom.jpg?as=1&w=1280&rev=d94c622ef17a4a3799813a1b66d65a61&hash=8FA7686A1E3DA76F2CE0D0D92C1CDBD2",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/7_robie_primary_bathroom.jpg?as=1&w=1280&rev=05a72e9914ea4d6da351bd86f67c282d&hash=CF2D310F25AB8D4F7B0938C693FE4FE9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/8_robie_bedroom_2.jpg?as=1&w=1280&rev=0d235669caf34ac3b7da9909441c0dce&hash=5571CF0DA1BACD855F4B08140FC72EF7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/9_robie_bathroom.jpg?as=1&w=1280&rev=40895848dc734c169b49813ae5648034&hash=070DA36414CF4E5BD2B56174ACE36EC8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/10_robie_patio.jpg?as=1&w=1280&rev=7152f7d984c44de6a5f1ee7d504fe7fc&hash=CF3E04F29862DE76D6B9690B7309655F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/34-custom-berry_bay_ave-s1605-034.jpg?as=1&w=1280&rev=d451e95119f14b6cb34e7a5c24820c3a&hash=F93D2782F29814051BE05C3262CC09A8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/35-custom-berry_bay_ave-s1605-035.jpg?as=1&w=1280&rev=c0a24260e39d403a83a84e31e1a3f432&hash=36A41D9D5BE7A501AAD7059B2B7F7EE0",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/mostrecent_robieii_blacklines-patio.jpg?as=1&w=1280&rev=09faac9984ec456d9484c3937b427989&hash=77E198322E9CA39341A5266007C3D1FA"
           ],
           "incentive": 42990,
@@ -1884,7 +1851,7 @@
       "slug": "two-rivers---archer",
       "name": "Archer at Two Rivers",
       "address": "2274 Stratten Dr, Zephyrhills, FL 33541",
-      "availableCount": 9,
+      "availableCount": 8,
       "lowestPrice": 395000,
       "highestPrice": 580000,
       "beds": [
@@ -2094,26 +2061,6 @@
           ],
           "incentive": 1240,
           "incentiveLabel": "(1,240)"
-        },
-        {
-          "lot": "1",
-          "address": "2490 Stratten Drive",
-          "plan": "",
-          "price": 425000,
-          "priceLabel": "$425,000",
-          "beds": 4,
-          "homeSlug": "2490-stratten-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/qmis/2490-stratten-drive",
-          "baths": "2.5",
-          "sqft": "2,045",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2045/0058-2490-stratten-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=57f9940e97eb43e59cab6f45070305ef&hash=ABE47C46E059A194DD819C19DE63BDC9",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2045/0058-2490-stratten-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=57f9940e97eb43e59cab6f45070305ef&hash=ABE47C46E059A194DD819C19DE63BDC9"
-          ],
-          "incentive": 17740,
-          "incentiveLabel": "(17,740)"
         },
         {
           "lot": "2",
@@ -10401,7 +10348,7 @@
           "priceLabel": "$293,070",
           "beds": 4,
           "homeSlug": "1415-w-st-elizabeth-pl",
-          "sourceUrl": "",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/citrus-springs/citrus-county-spot-lots/qmis/1415-w-st-elizabeth-pl",
           "baths": "2",
           "sqft": "1,828",
           "story": "1",
@@ -12421,9 +12368,9 @@
       "slug": "crosswinds-townhomes",
       "name": "Crosswinds Townhomes",
       "address": "2394 Aveeno Avenue, Haines City, FL 33844",
-      "availableCount": 1,
+      "availableCount": 2,
       "lowestPrice": 253900,
-      "highestPrice": 253900,
+      "highestPrice": 272990,
       "beds": [
         3
       ],
@@ -12472,6 +12419,24 @@
           ],
           "incentive": 19090,
           "incentiveLabel": "(19,090)"
+        },
+        {
+          "lot": "999",
+          "address": "2350 Aveeno Avenue",
+          "plan": "",
+          "price": 272990,
+          "priceLabel": "$272,990",
+          "beds": 3,
+          "homeSlug": "2350-aveeno-avenue",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2350-aveeno-avenue",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20b/0210-2350-aveeno-avenue/_0006_1-web-or-mls-orlando_-_crosswinds_-_2394_aveeno_avenue_haines_city_fl_33844-001.jpg?iar=1&sc=1&thn=1&w=425&rev=4aca09a5d0484dd08ee6722116ef7161&hash=5BD1D5FD2A67840BC6F3A2D2F8396D81",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20b/0210-2350-aveeno-avenue/_0006_1-web-or-mls-orlando_-_crosswinds_-_2394_aveeno_avenue_haines_city_fl_33844-001.jpg?iar=1&sc=1&thn=1&w=425&rev=4aca09a5d0484dd08ee6722116ef7161&hash=5BD1D5FD2A67840BC6F3A2D2F8396D81"
+          ]
         }
       ],
       "models": [
@@ -15868,7 +15833,7 @@
       "slug": "farm-at-varrea",
       "name": "Farm at Varrea",
       "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
-      "availableCount": 24,
+      "availableCount": 25,
       "lowestPrice": 323000,
       "highestPrice": 500000,
       "beds": [
@@ -16788,6 +16753,24 @@
           ],
           "incentive": 740,
           "incentiveLabel": "(740)"
+        },
+        {
+          "lot": "23",
+          "address": "3503 Harvest Gardens Lp",
+          "plan": "",
+          "price": 347000,
+          "priceLabel": "$347,000",
+          "beds": 4,
+          "homeSlug": "3503-harvest-gardens-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3503-harvest-gardens-loop",
+          "baths": "2.5",
+          "sqft": "2,045",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0109-3503-harvest-gardens-loop/fl_tampanorth_drhorton_lantana_b.jpg?iar=1&sc=1&thn=1&w=425&rev=cfb3f95d24e9471fb9268c400ef2ddf1&hash=FA343DDC758AA83942344FA05909574E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0109-3503-harvest-gardens-loop/fl_tampanorth_drhorton_lantana_b.jpg?iar=1&sc=1&thn=1&w=425&rev=cfb3f95d24e9471fb9268c400ef2ddf1&hash=FA343DDC758AA83942344FA05909574E"
+          ]
         },
         {
           "lot": "156",
@@ -27149,9 +27132,9 @@
       "slug": "lakes-of-mount-dora",
       "name": "Lakes of Mount Dora",
       "address": "3980 Kennebunk Loop, Mount Dora, FL 32757",
-      "availableCount": 8,
+      "availableCount": 7,
       "lowestPrice": 398990,
-      "highestPrice": 614990,
+      "highestPrice": 496990,
       "beds": [
         3,
         4
@@ -27306,26 +27289,6 @@
           ],
           "incentive": 9000,
           "incentiveLabel": "(9,000)"
-        },
-        {
-          "lot": "964",
-          "address": "2265 Hamden Way",
-          "plan": "",
-          "price": 614990,
-          "priceLabel": "$614,990",
-          "beds": 4,
-          "homeSlug": "2265-hamden-way",
-          "sourceUrl": "https://www.drhorton.com/florida/lake-county/mount-dora/lakes-of-mount-dora/qmis/2265-hamden-way",
-          "baths": "3.5",
-          "sqft": "2,836",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78210-lakes-of-mount-dora/782160000-lakes-of-mount-dora-ph-4c/2795/0048-2265-hamden-way/_0000_camden_ele_d_cs_1_with_paver_driveway.jpg?as=1&w=1280&rev=cbc2b3d7e14049febd833b62d5836629&hash=9DAAEEF481E847B9A0431D0F225BC3A5",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78210-lakes-of-mount-dora/782160000-lakes-of-mount-dora-ph-4c/2795/0048-2265-hamden-way/_0000_camden_ele_d_cs_1_with_paver_driveway.jpg?as=1&w=1280&rev=cbc2b3d7e14049febd833b62d5836629&hash=9DAAEEF481E847B9A0431D0F225BC3A5",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78210-lakes-of-mount-dora/782160000-lakes-of-mount-dora-ph-4c/2795/camden_camden_ele_d.jpg?as=1&w=1280&rev=a918516565194222bb3d7f5f1e7bac9d&hash=F9B9ADEBBA5928BC1A733905D6EC057C",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78210-lakes-of-mount-dora/782120000-lakes-of-mount-dora-70/2795/camden_floorplan_cropped.jpg?as=1&w=1280&rev=b0d4575550fc429ea4a93dd1a9012859&hash=C443DA7BD7A91D6CDCB73243ACC272C8"
-          ]
         },
         {
           "lot": "947",
@@ -35485,8 +35448,8 @@
           "lot": "202",
           "address": "5291 SW 41st Court",
           "plan": "Hayden",
-          "price": 358070,
-          "priceLabel": "$358,070",
+          "price": 361630,
+          "priceLabel": "$361,630",
           "beds": 5,
           "homeSlug": "5291-sw-41st-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/5291-sw-41st-court",
@@ -45802,8 +45765,8 @@
       "slug": "villamar",
       "name": "Villamar",
       "address": "5515 Taverna Loop, Winter Haven, FL 33884",
-      "availableCount": 6,
-      "lowestPrice": 265290,
+      "availableCount": 5,
+      "lowestPrice": 276970,
       "highestPrice": 321225,
       "beds": [
         3,
@@ -45906,52 +45869,6 @@
           ],
           "incentive": 8090,
           "incentiveLabel": "(8,090)"
-        },
-        {
-          "lot": "92",
-          "address": "5580 Taverna Loop",
-          "plan": "",
-          "price": 265290,
-          "priceLabel": "$265,290",
-          "beds": 3,
-          "homeSlug": "5580-taverna-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/5580-taverna-loop",
-          "baths": "2",
-          "sqft": "1,302",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/downing_b_cropped.jpg?as=1&w=1280&rev=bd78cd6c4b594385b0f921849171d676&hash=7832AF7B6E75C21356E6CFE0341DE494",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/downing_b_cropped.jpg?as=1&w=1280&rev=bd78cd6c4b594385b0f921849171d676&hash=7832AF7B6E75C21356E6CFE0341DE494",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/1_entry.jpg?as=1&w=1280&rev=df568f9f96524d4c9ca8102e06519bcd&hash=F9D511EF2975BBC0C308B339B60B8A80",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/2_living_room.jpg?as=1&w=1280&rev=189863fd9fdb4740aa7f41495974648a&hash=227868153B9E2C106E0712019873B109",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/3_living_room.jpg?as=1&w=1280&rev=ef40ccb3d7814181878b98cfb6cc559c&hash=1E87C6519F086C4D33911205CBC4C052",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/4_livinig_room.jpg?as=1&w=1280&rev=71eac7f6ffbc48868404637c345dacd9&hash=8AF83660144DD80AA9AC8B4361723ECC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/5_kitchen.jpg?as=1&w=1280&rev=0f6a0e8dc3904c28ba230366b44e16f7&hash=92C9703AE5FAE35775F7DB9ED4711010",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/6_kitchen.jpg?as=1&w=1280&rev=c144dba9774247108fca115fa94ded80&hash=17051EA3C1E0BCBAE480F01B5C51D727",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/7_kitchen.jpg?as=1&w=1280&rev=f0c8358d68384d799f37738c746eef34&hash=197AA5F3B8C996CECB7AB00257F31C13",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/8_kitchen.jpg?as=1&w=1280&rev=b5dbe86715e84122ae0a2036a9673265&hash=66F0F46E0E6247E67D9B8AC96D9B39A7",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/9_kitchen.jpg?as=1&w=1280&rev=ca44bf3a6908449dab3f550a32628b39&hash=CF563135D454E17CDE0ED5F971B38F54",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/10_kitchen.jpg?as=1&w=1280&rev=f51e0b98ef02412e921456b9316c7e42&hash=755ACB8BD1985400B461F5F18D9D562E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/11_primary_bedroom.jpg?as=1&w=1280&rev=649f39524376404e8680d67b53bf980a&hash=BC76214EAF0F004B1C29BCDD31377459",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/12_primary_bedroom.jpg?as=1&w=1280&rev=e4fd9e5fa1c54059a9c714994072d842&hash=0A5F18BD6DCBAA3FBB61360969F9DA75",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/13_primary_bedroom.jpg?as=1&w=1280&rev=4bea2b824c9a416e9b6f6a9482bb6242&hash=878BD56AE5FB959537E3085F7E0587D0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/14_primary_bathroom.jpg?as=1&w=1280&rev=8a5f372b595f4f009e3c9a73ff4af3e1&hash=997AECE28245D69E49FC37E17D7E0EDE",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/15_primary_bathroom.jpg?as=1&w=1280&rev=532c3b3dad864f13b7eb2c67e973acce&hash=47D89FABC5CD73B32D3979AEA2A0EB24",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/16_primary_bathroom.jpg?as=1&w=1280&rev=73ebbb9edaad4e54babc1359db23cb4b&hash=7F0F715182A28E2A0BDD8EA9997D391E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/17_guest_bedroom.jpg?as=1&w=1280&rev=fd6fee9585e94d4eb61da61e70ffb879&hash=21493E1C2242E328AC31299F057E26FE",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/18_guest_bedroom.jpg?as=1&w=1280&rev=0c278c9c64b744a9b02721d9b441bf6a&hash=2D8562D8AE1897DA9BFE6B293D951E2D",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/19_guest_bathroom.jpg?as=1&w=1280&rev=936a4e0e89334f3e8196960a120045e0&hash=D09EFD2FB922C8D0010499579A3A98EB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/20_guest_bathroom.jpg?as=1&w=1280&rev=fa2a458131144665b075d7db9e128c62&hash=F5604E137D48DE289E68BD3CADE33B04",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/21_guest_bedrooom.jpg?as=1&w=1280&rev=838b8eb4c239484b9686f53f552057e9&hash=E501B077D503FADC11E9DC9753FE2EE8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/22_guest_bedroom.jpg?as=1&w=1280&rev=f1c0438cee5644e2a0e619491baf2a5c&hash=9E6C5A96CDF62367E66A0D4DA178C1D4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/23_laundry_room.jpg?as=1&w=1280&rev=4ea60f6b486a4d18819fac6fa21d53eb&hash=01783050277B37B0DA40955C49BCB2FC",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/24_back_patio.jpg?as=1&w=1280&rev=1c721e33760549f5b8478ed840b471cd&hash=BFC2F022972FA128A47A7B542E770084",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/downing__ele_b_cs6_revised.jpg?as=1&w=1280&rev=fa0d979f6d6e48109f8a26201c3f18d8&hash=001C1FEB6F5AD5EBA34FFF7B25547DE6",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/downing_ii_cropped.jpg?as=1&w=1280&rev=365a56e6559b4021a29bce6f82bdf3c3&hash=B5856D962C470322C8EF4B03A211C02A"
-          ],
-          "incentive": 4700,
-          "incentiveLabel": "(4,700)"
         },
         {
           "lot": "93",

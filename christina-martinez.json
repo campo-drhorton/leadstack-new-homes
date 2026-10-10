@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T19:09:11.673Z",
+  "updatedAt": "2026-10-10T18:07:19.558Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-09T19:09:11.673Z",
+  "publicUpdatedAt": "2026-10-10T18:07:19.558Z",
   "photoCount": 100,
   "communities": [
     {
@@ -238,7 +238,7 @@
           "priceLabel": "$293,070",
           "beds": 4,
           "homeSlug": "1415-w-st-elizabeth-pl",
-          "sourceUrl": "",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/citrus-springs/citrus-county-spot-lots/qmis/1415-w-st-elizabeth-pl",
           "baths": "2",
           "sqft": "1,828",
           "story": "1",
@@ -2385,8 +2385,8 @@
           "lot": "202",
           "address": "5291 SW 41st Court",
           "plan": "Hayden",
-          "price": 358070,
-          "priceLabel": "$358,070",
+          "price": 361630,
+          "priceLabel": "$361,630",
           "beds": 5,
           "homeSlug": "5291-sw-41st-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/5291-sw-41st-court",

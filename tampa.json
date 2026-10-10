@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-09T19:17:04.811Z",
+  "updatedAt": "2026-10-10T18:14:21.279Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-09T19:17:04.811Z",
-  "photoCount": 177,
+  "publicUpdatedAt": "2026-10-10T18:14:21.279Z",
+  "photoCount": 176,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -141,7 +141,7 @@
       "slug": "angeline",
       "name": "Angeline",
       "address": "17430 Pleasantview Blvd, Land O Lakes, FL 34638",
-      "availableCount": 11,
+      "availableCount": 10,
       "lowestPrice": 330000,
       "highestPrice": 420000,
       "beds": [
@@ -166,26 +166,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0122-17935-acorn-drop-road/fl_drhorton_tampanorth_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=a1eec060e3da449e891a67355b08a5db&hash=469C46F047997A10584225439712630A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0122-17935-acorn-drop-road/fl_drhorton_tampanorth_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=a1eec060e3da449e891a67355b08a5db&hash=469C46F047997A10584225439712630A"
-          ],
-          "incentive": 42990,
-          "incentiveLabel": "(42,990)"
-        },
-        {
-          "lot": "764",
-          "address": "17946 Acorn Drop Rd",
-          "plan": "",
-          "price": 375000,
-          "priceLabel": "$375,000",
-          "beds": 5,
-          "homeSlug": "17946-acorn-drop-road",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/17946-acorn-drop-road",
-          "baths": "3",
-          "sqft": "2,453",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/robie_ii_h_88_no_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=2c3c62b5566e438692ef0f589c130b08&hash=462957216C39CA849E5DD8B5C1A21A5F",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0073-17946-acorn-drop-road/robie_ii_h_88_no_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=2c3c62b5566e438692ef0f589c130b08&hash=462957216C39CA849E5DD8B5C1A21A5F"
           ],
           "incentive": 42990,
           "incentiveLabel": "(42,990)"
@@ -711,7 +691,7 @@
       "slug": "two-rivers---archer",
       "name": "Archer at Two Rivers",
       "address": "2274 Stratten Dr, Zephyrhills, FL 33541",
-      "availableCount": 9,
+      "availableCount": 8,
       "lowestPrice": 395000,
       "highestPrice": 580000,
       "beds": [
@@ -798,26 +778,6 @@
           ],
           "incentive": 1240,
           "incentiveLabel": "(1,240)"
-        },
-        {
-          "lot": "1",
-          "address": "2490 Stratten Drive",
-          "plan": "",
-          "price": 425000,
-          "priceLabel": "$425,000",
-          "beds": 4,
-          "homeSlug": "2490-stratten-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/qmis/2490-stratten-drive",
-          "baths": "2.5",
-          "sqft": "2,045",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2045/0058-2490-stratten-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=57f9940e97eb43e59cab6f45070305ef&hash=ABE47C46E059A194DD819C19DE63BDC9",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2045/0058-2490-stratten-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=57f9940e97eb43e59cab6f45070305ef&hash=ABE47C46E059A194DD819C19DE63BDC9"
-          ],
-          "incentive": 17740,
-          "incentiveLabel": "(17,740)"
         },
         {
           "lot": "2",
@@ -2355,7 +2315,7 @@
       "slug": "farm-at-varrea",
       "name": "Farm at Varrea",
       "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
-      "availableCount": 24,
+      "availableCount": 25,
       "lowestPrice": 323000,
       "highestPrice": 500000,
       "beds": [
@@ -2819,6 +2779,24 @@
           ],
           "incentive": 740,
           "incentiveLabel": "(740)"
+        },
+        {
+          "lot": "23",
+          "address": "3503 Harvest Gardens Lp",
+          "plan": "",
+          "price": 347000,
+          "priceLabel": "$347,000",
+          "beds": 4,
+          "homeSlug": "3503-harvest-gardens-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3503-harvest-gardens-loop",
+          "baths": "2.5",
+          "sqft": "2,045",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0109-3503-harvest-gardens-loop/fl_tampanorth_drhorton_lantana_b.jpg?iar=1&sc=1&thn=1&w=425&rev=cfb3f95d24e9471fb9268c400ef2ddf1&hash=FA343DDC758AA83942344FA05909574E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0109-3503-harvest-gardens-loop/fl_tampanorth_drhorton_lantana_b.jpg?iar=1&sc=1&thn=1&w=425&rev=cfb3f95d24e9471fb9268c400ef2ddf1&hash=FA343DDC758AA83942344FA05909574E"
+          ]
         },
         {
           "lot": "156",

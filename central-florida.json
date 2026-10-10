@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T19:14:53.293Z",
+  "updatedAt": "2026-10-10T18:12:21.270Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-09T19:14:53.293Z",
+  "publicUpdatedAt": "2026-10-10T18:12:21.270Z",
   "photoCount": 511,
   "communities": [
     {
@@ -4183,9 +4183,9 @@
       "slug": "crosswinds-townhomes",
       "name": "Crosswinds Townhomes",
       "address": "2394 Aveeno Avenue, Haines City, FL 33844",
-      "availableCount": 1,
+      "availableCount": 2,
       "lowestPrice": 253900,
-      "highestPrice": 253900,
+      "highestPrice": 272990,
       "beds": [
         3
       ],
@@ -4209,6 +4209,24 @@
           ],
           "incentive": 19090,
           "incentiveLabel": "(19,090)"
+        },
+        {
+          "lot": "999",
+          "address": "2350 Aveeno Avenue",
+          "plan": "",
+          "price": 272990,
+          "priceLabel": "$272,990",
+          "beds": 3,
+          "homeSlug": "2350-aveeno-avenue",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2350-aveeno-avenue",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20b/0210-2350-aveeno-avenue/_0006_1-web-or-mls-orlando_-_crosswinds_-_2394_aveeno_avenue_haines_city_fl_33844-001.jpg?iar=1&sc=1&thn=1&w=425&rev=4aca09a5d0484dd08ee6722116ef7161&hash=5BD1D5FD2A67840BC6F3A2D2F8396D81",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20b/0210-2350-aveeno-avenue/_0006_1-web-or-mls-orlando_-_crosswinds_-_2394_aveeno_avenue_haines_city_fl_33844-001.jpg?iar=1&sc=1&thn=1&w=425&rev=4aca09a5d0484dd08ee6722116ef7161&hash=5BD1D5FD2A67840BC6F3A2D2F8396D81"
+          ]
         }
       ],
       "models": [
@@ -4909,7 +4927,7 @@
       "slug": "farm-at-varrea",
       "name": "Farm at Varrea",
       "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
-      "availableCount": 24,
+      "availableCount": 25,
       "lowestPrice": 323000,
       "highestPrice": 500000,
       "beds": [
@@ -5373,6 +5391,24 @@
           ],
           "incentive": 740,
           "incentiveLabel": "(740)"
+        },
+        {
+          "lot": "23",
+          "address": "3503 Harvest Gardens Lp",
+          "plan": "",
+          "price": 347000,
+          "priceLabel": "$347,000",
+          "beds": 4,
+          "homeSlug": "3503-harvest-gardens-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3503-harvest-gardens-loop",
+          "baths": "2.5",
+          "sqft": "2,045",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0109-3503-harvest-gardens-loop/fl_tampanorth_drhorton_lantana_b.jpg?iar=1&sc=1&thn=1&w=425&rev=cfb3f95d24e9471fb9268c400ef2ddf1&hash=FA343DDC758AA83942344FA05909574E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0109-3503-harvest-gardens-loop/fl_tampanorth_drhorton_lantana_b.jpg?iar=1&sc=1&thn=1&w=425&rev=cfb3f95d24e9471fb9268c400ef2ddf1&hash=FA343DDC758AA83942344FA05909574E"
+          ]
         },
         {
           "lot": "156",
@@ -10420,9 +10456,9 @@
       "slug": "lakes-of-mount-dora",
       "name": "Lakes of Mount Dora",
       "address": "3980 Kennebunk Loop, Mount Dora, FL 32757",
-      "availableCount": 8,
+      "availableCount": 7,
       "lowestPrice": 398990,
-      "highestPrice": 614990,
+      "highestPrice": 496990,
       "beds": [
         3,
         4
@@ -10503,24 +10539,6 @@
           ],
           "incentive": 9000,
           "incentiveLabel": "(9,000)"
-        },
-        {
-          "lot": "964",
-          "address": "2265 Hamden Way",
-          "plan": "",
-          "price": 614990,
-          "priceLabel": "$614,990",
-          "beds": 4,
-          "homeSlug": "2265-hamden-way",
-          "sourceUrl": "https://www.drhorton.com/florida/lake-county/mount-dora/lakes-of-mount-dora/qmis/2265-hamden-way",
-          "baths": "3.5",
-          "sqft": "2,836",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78210-lakes-of-mount-dora/782160000-lakes-of-mount-dora-ph-4c/2795/0048-2265-hamden-way/_0000_camden_ele_d_cs_1_with_paver_driveway.jpg?iar=1&sc=1&thn=1&w=425&rev=cbc2b3d7e14049febd833b62d5836629&hash=128F179BDB4B83C65A8C806E0C3401D1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78210-lakes-of-mount-dora/782160000-lakes-of-mount-dora-ph-4c/2795/0048-2265-hamden-way/_0000_camden_ele_d_cs_1_with_paver_driveway.jpg?iar=1&sc=1&thn=1&w=425&rev=cbc2b3d7e14049febd833b62d5836629&hash=128F179BDB4B83C65A8C806E0C3401D1"
-          ]
         },
         {
           "lot": "947",
@@ -15668,8 +15686,8 @@
       "slug": "villamar",
       "name": "Villamar",
       "address": "5515 Taverna Loop, Winter Haven, FL 33884",
-      "availableCount": 6,
-      "lowestPrice": 265290,
+      "availableCount": 5,
+      "lowestPrice": 276970,
       "highestPrice": 321225,
       "beds": [
         3,
@@ -15715,26 +15733,6 @@
           ],
           "incentive": 8090,
           "incentiveLabel": "(8,090)"
-        },
-        {
-          "lot": "92",
-          "address": "5580 Taverna Loop",
-          "plan": "",
-          "price": 265290,
-          "priceLabel": "$265,290",
-          "beds": 3,
-          "homeSlug": "5580-taverna-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/5580-taverna-loop",
-          "baths": "2",
-          "sqft": "1,302",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/downing_b_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=bd78cd6c4b594385b0f921849171d676&hash=88EBC69C3225A73CECD0EAF5AB2AE0D2",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e306/0006-5580-taverna-loop/downing_b_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=bd78cd6c4b594385b0f921849171d676&hash=88EBC69C3225A73CECD0EAF5AB2AE0D2"
-          ],
-          "incentive": 4700,
-          "incentiveLabel": "(4,700)"
         },
         {
           "lot": "93",
