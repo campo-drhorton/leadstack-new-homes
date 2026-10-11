@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:14:21.388Z",
+  "updatedAt": "2026-10-11T18:38:58.416Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
@@ -43637,6 +43637,16 @@
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39395-towns-at-woodsdale/393950000-towns-at-woodsdale-villas/1565/21fl_tampanorth_siesta_2ndbath1.jpg?as=1&w=494&rev=b36348cff4134f63a9392f63c16ef86d&hash=47CA7A523814A6D1E873C015DF81A973",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39395-towns-at-woodsdale/393950000-towns-at-woodsdale-villas/1565/22fl_tampanorth_siesta_2ndbed2.jpg?as=1&w=494&rev=659a0efa5b914563a96281b5fa660ab1&hash=A6E8CDD7AB1460DC383682978CD3CB2D",
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39395-towns-at-woodsdale/393950000-towns-at-woodsdale-villas/1565/23fl_tampanorth_siesta_washerdryer1.jpg?as=1&w=494&rev=249bd8f93a3b402896b98dc3574c8332&hash=FF4B9C2976B878EDDAB3C92F74A91E96"
+          ]
+        },
+        {
+          "slug": "x440",
+          "name": "Mirada Villas",
+          "startingLabel": "Homes from the $280s",
+          "sourceUrl": "https://www.drhorton.com/maryland/washington-dc-area/frederick/summervale/floor-plans/x440",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39317-mirada/394710000-mirada-villas-phase-3/6fl_tampanorth_siesta_kitchen2.jpg?as=1&w=425&rev=9583139a637e416ca7b15644aedd40de&hash=D87BE21BAD2BFA735D46BF01108500A1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39317-mirada/394710000-mirada-villas-phase-3/6fl_tampanorth_siesta_kitchen2.jpg?as=1&w=425&rev=9583139a637e416ca7b15644aedd40de&hash=D87BE21BAD2BFA735D46BF01108500A1"
           ]
         }
       ]
