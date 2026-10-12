@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-11T18:31:56.253Z",
+  "updatedAt": "2026-10-12T21:55:47.104Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-11T18:31:56.253Z",
-  "photoCount": 100,
+  "publicUpdatedAt": "2026-10-12T21:55:47.104Z",
+  "photoCount": 97,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -850,7 +850,7 @@
       "slug": "marion-oaks-spot-lots",
       "name": "Marion County Spot Lots",
       "address": "272 Marion Oaks Course, Ocala, FL 34473",
-      "availableCount": 11,
+      "availableCount": 10,
       "lowestPrice": 315990,
       "highestPrice": 344070,
       "beds": [
@@ -999,24 +999,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0364-2982-sw-165th-street-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bbecd7796bdc4e1d91cb1d645d7a64b6&hash=A629C0334C8AF4128F9682C578692B16",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0364-2982-sw-165th-street-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bbecd7796bdc4e1d91cb1d645d7a64b6&hash=A629C0334C8AF4128F9682C578692B16"
-          ]
-        },
-        {
-          "lot": "1",
-          "address": "4652 SW 132nd St",
-          "plan": "",
-          "price": 344070,
-          "priceLabel": "$344,070",
-          "beds": 4,
-          "homeSlug": "4652-sw-132nd-st",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/4652-sw-132nd-st",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0356-4652-sw-132nd-st/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=3420ee22b39244518f55222cbb51b763&hash=A8E823AEFFF060F6F7668158FED61623",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0356-4652-sw-132nd-st/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=3420ee22b39244518f55222cbb51b763&hash=A8E823AEFFF060F6F7668158FED61623"
           ]
         },
         {
@@ -1301,51 +1283,13 @@
       "slug": "mockingbird-reserve-at-winding-oaks",
       "name": "Mockingbird Reserve at Winding Oaks",
       "address": "4542 SW 71st Lane Road, Ocala, FL 34474",
-      "availableCount": 7,
+      "availableCount": 5,
       "lowestPrice": 244990,
-      "highestPrice": 332990,
+      "highestPrice": 289990,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "65",
-          "address": "4588 SW 71st Lane Road",
-          "plan": "Delray",
-          "price": 332990,
-          "priceLabel": "$332,990",
-          "beds": 3,
-          "homeSlug": "4588-sw-71st-lane-road",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/4588-sw-71st-lane-road",
-          "baths": "2",
-          "sqft": "2,034",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4db/0023-4588-sw-71st-lane-road/delray_ele_b_cs9_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=7e7370cdea364441899dac1c48b9f2b7&hash=EFC6A6447558DB77E0A29BD21EBB4919",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4db/0023-4588-sw-71st-lane-road/delray_ele_b_cs9_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=7e7370cdea364441899dac1c48b9f2b7&hash=EFC6A6447558DB77E0A29BD21EBB4919"
-          ],
-          "incentive": 20000,
-          "incentiveLabel": "(20,000)"
-        },
-        {
-          "lot": "64",
-          "address": "4582 SW 71st Lane Road",
-          "plan": "Clifton",
-          "price": 286990,
-          "priceLabel": "$286,990",
-          "beds": 3,
-          "homeSlug": "4582-sw-71st-lane-road",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/4582-sw-71st-lane-road",
-          "baths": "2",
-          "sqft": "1,816",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4cb/0022-4582-sw-71st-lane-road/mwdo_4582_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=4ab733f67d66488680de24664b8185c3&hash=5699BF8D13A6327D46AA6C8FC500CA9F",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4cb/0022-4582-sw-71st-lane-road/mwdo_4582_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=4ab733f67d66488680de24664b8185c3&hash=5699BF8D13A6327D46AA6C8FC500CA9F"
-          ]
-        },
         {
           "lot": "48",
           "address": "4603 SW 71st Lane Road",
