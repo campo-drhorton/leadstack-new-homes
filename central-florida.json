@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-12T22:01:11.514Z",
+  "updatedAt": "2026-10-13T20:05:21.437Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-12T22:01:11.514Z",
-  "photoCount": 481,
+  "publicUpdatedAt": "2026-10-13T20:05:21.437Z",
+  "photoCount": 482,
   "communities": [
     {
       "slug": "annabelle-estates",
       "name": "Annabelle Estates",
       "address": "4206 Lester Drive, Lake Wales, FL 33859",
-      "availableCount": 2,
+      "availableCount": 3,
       "lowestPrice": 269240,
-      "highestPrice": 332990,
+      "highestPrice": 356490,
       "beds": [
         4,
         5
@@ -37,6 +37,24 @@
           ],
           "incentive": 6000,
           "incentiveLabel": "(6,000)"
+        },
+        {
+          "lot": "10",
+          "address": "4238 Lester Drive",
+          "plan": "",
+          "price": 356490,
+          "priceLabel": "$356,490",
+          "beds": 5,
+          "homeSlug": "4238-lester-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4238-lester-drive",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e402/0010-4238-lester-drive/lakeside_ele_h_op-multi-gen_cs12_without_stone_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=9eeb88a8a6ea4f8e8119d4396bcef0e9&hash=DE39AC9E5B3EF7AEAAC2E5DC22178191",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e402/0010-4238-lester-drive/lakeside_ele_h_op-multi-gen_cs12_without_stone_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=9eeb88a8a6ea4f8e8119d4396bcef0e9&hash=DE39AC9E5B3EF7AEAAC2E5DC22178191"
+          ]
         },
         {
           "lot": "45",
@@ -753,12 +771,13 @@
       "slug": "avalon-woods",
       "name": "Avalon Woods",
       "address": "1617 NW 248th Way, Newberry, FL 32669",
-      "availableCount": 12,
+      "availableCount": 16,
       "lowestPrice": 269990,
       "highestPrice": 368070,
       "beds": [
         3,
-        4
+        4,
+        5
       ],
       "lots": [
         {
@@ -894,6 +913,42 @@
           ]
         },
         {
+          "lot": "652",
+          "address": "24248 NW 10th PLACE",
+          "plan": "",
+          "price": 364070,
+          "priceLabel": "$364,070",
+          "beds": 5,
+          "homeSlug": "24248-nw-10th-place",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24248-nw-10th-place",
+          "baths": "3",
+          "sqft": "2,516",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ehb/0148-24248-nw-10th-place/hayden-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f2bf7a04eb2b429fbed35270e1783d68&hash=4B2EDADE99C31D081ABAF61E2BBB9FD3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ehb/0148-24248-nw-10th-place/hayden-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f2bf7a04eb2b429fbed35270e1783d68&hash=4B2EDADE99C31D081ABAF61E2BBB9FD3"
+          ]
+        },
+        {
+          "lot": "651",
+          "address": "24260 NW 10th PLACE",
+          "plan": "",
+          "price": 328070,
+          "priceLabel": "$328,070",
+          "beds": 4,
+          "homeSlug": "24260-nw-10th-place",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24260-nw-10th-place",
+          "baths": "2",
+          "sqft": "1,744",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0126-24260-nw-10th-place/cali-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=1a157122723e4e3ca5078456391c980c&hash=45A8893DC041B9C4504811A189A6D27A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0126-24260-nw-10th-place/cali-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=1a157122723e4e3ca5078456391c980c&hash=45A8893DC041B9C4504811A189A6D27A"
+          ]
+        },
+        {
           "lot": "516",
           "address": "24274 NW 13Th Blvd",
           "plan": "",
@@ -981,6 +1036,42 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0107-24324-nw-10th-rd/allex-bs-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=ca8c59f978294766bad6a210031b6ada&hash=72F89E5486246CD2853AD6992390B380",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0107-24324-nw-10th-rd/allex-bs-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=ca8c59f978294766bad6a210031b6ada&hash=72F89E5486246CD2853AD6992390B380"
+          ]
+        },
+        {
+          "lot": "641",
+          "address": "24506 NW 10Th Road",
+          "plan": "",
+          "price": 288070,
+          "priceLabel": "$288,070",
+          "beds": 3,
+          "homeSlug": "24506-nw-10th-road",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24506-nw-10th-road",
+          "baths": "2",
+          "sqft": "1,453",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0169-24506-nw-10th-road/allex-bs-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=8f09c25693ed42eebf3cd44e834413a2&hash=F90096F2EB93581E606EA2F1E1377B70",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0169-24506-nw-10th-road/allex-bs-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=8f09c25693ed42eebf3cd44e834413a2&hash=F90096F2EB93581E606EA2F1E1377B70"
+          ]
+        },
+        {
+          "lot": "640",
+          "address": "24522 NW 10Th Road",
+          "plan": "",
+          "price": 310070,
+          "priceLabel": "$310,070",
+          "beds": 4,
+          "homeSlug": "24522-nw-10th-road",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24522-nw-10th-road",
+          "baths": "2.5",
+          "sqft": "2,176",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eeb/0168-24522-nw-10th-road/elston-as-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=a876e7fd2e2245a09d5a950cd30d8dbb&hash=504265C16666AF44CAE4F292210A011A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eeb/0168-24522-nw-10th-road/elston-as-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=a876e7fd2e2245a09d5a950cd30d8dbb&hash=504265C16666AF44CAE4F292210A011A"
           ]
         }
       ],
@@ -6035,8 +6126,8 @@
           "lot": "172",
           "address": "1496 Morning Walk Drive",
           "plan": "",
-          "price": 368870,
-          "priceLabel": "$368,870",
+          "price": 366990,
+          "priceLabel": "$366,990",
           "beds": 4,
           "homeSlug": "1496-morning-walk-drive",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1496-morning-walk-drive",
@@ -8287,12 +8378,12 @@
           "sqft": "2,756",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/0017-5352-cloudberry-avenue/coral_ele_g_without_stone_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c501bb130fdb4f8682d2f91e2ebd749c&hash=97BE187FDF87A3FFA63F32DB9B081015",
+          "incentive": 6590,
+          "incentiveLabel": "(6,590)",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/0017-5352-cloudberry-avenue/coral_ele_g_without_stone_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c501bb130fdb4f8682d2f91e2ebd749c&hash=97BE187FDF87A3FFA63F32DB9B081015"
           ],
-          "incentive": 6590,
-          "incentiveLabel": "(6,590)"
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/0017-5352-cloudberry-avenue/coral_ele_g_without_stone_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c501bb130fdb4f8682d2f91e2ebd749c&hash=97BE187FDF87A3FFA63F32DB9B081015"
         },
         {
           "lot": "435",
@@ -8480,10 +8571,10 @@
           "sqft": "2,756",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/coral_ele_g_with_stone_cropped.jpg?as=1&w=425&rev=1e199426764f446fa2c612b36ea89603&hash=84BA8B6C7EEE2D4851FC0876783E4B48",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/coral_ele_g_with_stone_cropped.jpg?as=1&w=425&rev=1e199426764f446fa2c612b36ea89603&hash=84BA8B6C7EEE2D4851FC0876783E4B48"
-          ]
+          ],
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/coral_ele_g_with_stone_cropped.jpg?as=1&w=425&rev=1e199426764f446fa2c612b36ea89603&hash=84BA8B6C7EEE2D4851FC0876783E4B48"
         },
         {
           "slug": "e502",
@@ -9312,7 +9403,7 @@
       "slug": "kindred",
       "name": "Kindred",
       "address": "1848 Southbury Drive, Kissimmee, FL 34744",
-      "availableCount": 21,
+      "availableCount": 20,
       "lowestPrice": 345990,
       "highestPrice": 462997,
       "beds": [
@@ -9380,26 +9471,6 @@
           ],
           "incentive": 14000,
           "incentiveLabel": "(14,000)"
-        },
-        {
-          "lot": "451",
-          "address": "1856 Howard Mesa Drive",
-          "plan": "",
-          "price": 415000,
-          "priceLabel": "$415,000",
-          "beds": 4,
-          "homeSlug": "1856-howard-mesa-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1856-howard-mesa-drive",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3emb/0525-1856-howard-mesa-drive/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=d961fd839040472ea17f0598deed97d7&hash=0A72DD840BBB48C2A3A91EF4D9ED4FD0",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3emb/0525-1856-howard-mesa-drive/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=d961fd839040472ea17f0598deed97d7&hash=0A72DD840BBB48C2A3A91EF4D9ED4FD0"
-          ],
-          "incentive": 11990,
-          "incentiveLabel": "(11,990)"
         },
         {
           "lot": "455",
@@ -9888,9 +9959,9 @@
           "sqft": "2,447",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/1_1_robie_elevationg1.jpg?as=1&w=425&rev=26e2ded2e51b4ff1aef055373d76fac0&hash=1F342F96CCCDE801392147FF94826760",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/1_1_kindred_robie_stone_g2.jpg?as=1&w=425&rev=08268fa46f5c41f5a39727cd976a2b4d&hash=B0F5839CC7074566C00897ED401F0197",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/1_1_robie_elevationg1.jpg?as=1&w=425&rev=26e2ded2e51b4ff1aef055373d76fac0&hash=1F342F96CCCDE801392147FF94826760"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/1_1_kindred_robie_stone_g2.jpg?as=1&w=425&rev=08268fa46f5c41f5a39727cd976a2b4d&hash=B0F5839CC7074566C00897ED401F0197"
           ]
         },
         {
@@ -11541,7 +11612,7 @@
       "slug": "poinciana-enclave",
       "name": "Poinciana Enclave",
       "address": "2004 Aster Way, Poinciana, FL 34759",
-      "availableCount": 18,
+      "availableCount": 17,
       "lowestPrice": 300000,
       "highestPrice": 383860,
       "beds": [
@@ -11692,24 +11763,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0202-1806-superior-place/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=e4d2cf3be11b47a1a79fe3a239ee02a7&hash=1F8FDDBDF96FBAF598B4869F73F01769",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0202-1806-superior-place/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=e4d2cf3be11b47a1a79fe3a239ee02a7&hash=1F8FDDBDF96FBAF598B4869F73F01769"
-          ]
-        },
-        {
-          "lot": "11",
-          "address": "300 Begonia Ct",
-          "plan": "",
-          "price": 340530,
-          "priceLabel": "$340,530",
-          "beds": 4,
-          "homeSlug": "300-begonia-ct",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/qmis/300-begonia-ct",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0222-300-begonia-ct/1_1_cali_elevation_d3.jpg?iar=1&sc=1&thn=1&w=425&rev=0e9ff00ca5cb4fd38c36447ce1f49fce&hash=9EC45CACE76D6A1DCB4AC62C776BD57C",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/4ebb/0222-300-begonia-ct/1_1_cali_elevation_d3.jpg?iar=1&sc=1&thn=1&w=425&rev=0e9ff00ca5cb4fd38c36447ce1f49fce&hash=9EC45CACE76D6A1DCB4AC62C776BD57C"
           ]
         },
         {
@@ -13432,7 +13485,7 @@
           "priceLabel": "$266,070",
           "beds": 3,
           "homeSlug": "13834-nw-11th-ln",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-verde/qmis/13834-nw-11th-ln",
+          "sourceUrl": "",
           "baths": "2.5",
           "sqft": "1,458",
           "story": "2",
@@ -13560,7 +13613,7 @@
       "address": "4746 SW 69th Street, Gainesville, FL 32608",
       "availableCount": 9,
       "lowestPrice": 264990,
-      "highestPrice": 298070,
+      "highestPrice": 293070,
       "beds": [
         3
       ],
@@ -13647,8 +13700,8 @@
           "lot": "207",
           "address": "4807 SW 69th STREET",
           "plan": "",
-          "price": 288070,
-          "priceLabel": "$288,070",
+          "price": 283070,
+          "priceLabel": "$283,070",
           "beds": 3,
           "homeSlug": "4807-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4807-sw-69th-street",
@@ -13665,8 +13718,8 @@
           "lot": "206",
           "address": "4811 SW 69th STREET",
           "plan": "",
-          "price": 288070,
-          "priceLabel": "$288,070",
+          "price": 283070,
+          "priceLabel": "$283,070",
           "beds": 3,
           "homeSlug": "4811-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4811-sw-69th-street",
@@ -13683,8 +13736,8 @@
           "lot": "205",
           "address": "4815 SW 69th STREET",
           "plan": "",
-          "price": 288070,
-          "priceLabel": "$288,070",
+          "price": 283070,
+          "priceLabel": "$283,070",
           "beds": 3,
           "homeSlug": "4815-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4815-sw-69th-street",
@@ -13701,8 +13754,8 @@
           "lot": "204",
           "address": "4819 SW 69th STREET",
           "plan": "",
-          "price": 288070,
-          "priceLabel": "$288,070",
+          "price": 283070,
+          "priceLabel": "$283,070",
           "beds": 3,
           "homeSlug": "4819-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4819-sw-69th-street",
@@ -13719,8 +13772,8 @@
           "lot": "203",
           "address": "4823 SW 69th STREET",
           "plan": "",
-          "price": 298070,
-          "priceLabel": "$298,070",
+          "price": 293070,
+          "priceLabel": "$293,070",
           "beds": 3,
           "homeSlug": "4823-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4823-sw-69th-street",
@@ -13967,33 +14020,13 @@
       "slug": "towns-at-summit",
       "name": "Towns at Summit",
       "address": "1728 Sugarwood Loop, DeLand, FL 32724",
-      "availableCount": 7,
+      "availableCount": 6,
       "lowestPrice": 298690,
       "highestPrice": 321990,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "97",
-          "address": "1692 Sugarwood Loop",
-          "plan": "",
-          "price": 310850,
-          "priceLabel": "$310,850",
-          "beds": 3,
-          "homeSlug": "1692-sugarwood-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/deland/towns-at-summit/qmis/1692-sugarwood-loop",
-          "baths": "2.5",
-          "sqft": "1,673",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34531-towns-at-summit/345310000-towns-at-summit/1673/0097-1692-sugarwood-loop/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=f29b1ce6d3484a129fa2dcba19dbd699&hash=6ED920A997F1D7F26F2410E9392FC6EA",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34531-towns-at-summit/345310000-towns-at-summit/1673/0097-1692-sugarwood-loop/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=f29b1ce6d3484a129fa2dcba19dbd699&hash=6ED920A997F1D7F26F2410E9392FC6EA"
-          ],
-          "incentive": 3140,
-          "incentiveLabel": "(3,140)"
-        },
         {
           "lot": "84",
           "address": "1640 Sugarwood Loop",
@@ -15520,7 +15553,7 @@
       "slug": "waterleigh",
       "name": "Waterleigh",
       "address": "10482 Atwater Bay Dr., Winter Garden, FL 34787",
-      "availableCount": 15,
+      "availableCount": 14,
       "lowestPrice": 454990,
       "highestPrice": 917281,
       "beds": [
@@ -15529,26 +15562,6 @@
         5
       ],
       "lots": [
-        {
-          "lot": "118",
-          "address": "11259 Hollow Bay Drive",
-          "plan": "",
-          "price": 855000,
-          "priceLabel": "$855,000",
-          "beds": 4,
-          "homeSlug": "11259-hollow-bay-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11259-hollow-bay-drive",
-          "baths": "3.5",
-          "sqft": "3,327",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3327/1049-11259-hollow-bay-drive/1_1_seacliff_exterior_k.jpg?iar=1&sc=1&thn=1&w=425&rev=8687d5d7d5a3467bb76a825faf3f109f&hash=CA2FCED6D1E5450B47C5481B4D7C5282",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3327/1049-11259-hollow-bay-drive/1_1_seacliff_exterior_k.jpg?iar=1&sc=1&thn=1&w=425&rev=8687d5d7d5a3467bb76a825faf3f109f&hash=CA2FCED6D1E5450B47C5481B4D7C5282"
-          ],
-          "incentive": 41291,
-          "incentiveLabel": "(41,291)"
-        },
         {
           "lot": "284",
           "address": "11815 Shine View Lane",

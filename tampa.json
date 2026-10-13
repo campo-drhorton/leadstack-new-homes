@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-12T22:03:09.438Z",
+  "updatedAt": "2026-10-13T20:07:56.825Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-12T22:03:09.438Z",
+  "publicUpdatedAt": "2026-10-13T20:07:56.825Z",
   "photoCount": 158,
   "communities": [
     {
@@ -1677,7 +1677,7 @@
         {
           "slug": "4ebb",
           "name": "Cali",
-          "startingLabel": "Starting in the $353s",
+          "startingLabel": "Starting in the $354s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/brookside/floor-plans/4ebb",
           "beds": 4,
           "baths": "2",
@@ -1707,7 +1707,7 @@
         {
           "slug": "5emb",
           "name": "Madison",
-          "startingLabel": "Starting in the $376s",
+          "startingLabel": "Starting in the $377s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/brookside/floor-plans/5emb",
           "beds": 4,
           "baths": "3",
@@ -3797,7 +3797,7 @@
       "name": "Ruskin Preserve Townhomes",
       "address": "421 Warm Heron Pl, Ruskin, FL 33570",
       "availableCount": 7,
-      "lowestPrice": 255000,
+      "lowestPrice": 240000,
       "highestPrice": 285000,
       "beds": [
         3
@@ -3807,8 +3807,8 @@
           "lot": "85",
           "address": "446 Whistling Duck Pl",
           "plan": "",
-          "price": 255000,
-          "priceLabel": "$255,000",
+          "price": 240000,
+          "priceLabel": "$240,000",
           "beds": 3,
           "homeSlug": "446-whistling-duck-pl",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/qmis/446-whistling-duck-pl",
@@ -3820,8 +3820,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0041-446-whistling-duck-pl/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=089bbf75af2a42809679f38720ed4779&hash=E0F94B364E0CD9C68C08F431C41CF665"
           ],
-          "incentive": 17990,
-          "incentiveLabel": "(17,990)"
+          "incentive": 32990,
+          "incentiveLabel": "(32,990)"
         },
         {
           "lot": "99",
@@ -3948,7 +3948,7 @@
         {
           "slug": "t20a",
           "name": "Pearson A",
-          "startingLabel": "Starting in the $291s",
+          "startingLabel": "Starting in the $281s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/floor-plans/t20a",
           "beds": 3,
           "baths": "2.5",
@@ -3963,7 +3963,7 @@
         {
           "slug": "t20b",
           "name": "Pearson B",
-          "startingLabel": "Starting in the $280s",
+          "startingLabel": "Starting in the $270s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/floor-plans/t20b",
           "beds": 3,
           "baths": "2.5",
@@ -5514,7 +5514,7 @@
         {
           "slug": "1674",
           "name": "Glen",
-          "startingLabel": "Starting in the $343s",
+          "startingLabel": "Starting in the $328s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/floor-plans/1674",
           "beds": 3,
           "baths": "2.5",
@@ -5921,7 +5921,7 @@
         {
           "slug": "2795",
           "name": "Camden",
-          "startingLabel": "Starting in the $559s",
+          "startingLabel": "Starting in the $549s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/floor-plans/2795",
           "beds": 4,
           "baths": "3.5",
