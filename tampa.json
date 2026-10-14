@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-13T20:07:56.825Z",
+  "updatedAt": "2026-10-14T18:22:03.696Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-13T20:07:56.825Z",
-  "photoCount": 158,
+  "publicUpdatedAt": "2026-10-14T18:22:03.696Z",
+  "photoCount": 168,
   "communities": [
     {
       "slug": "abbott-park-aa",
       "name": "Abbott Park",
       "address": "8029 Sail Clover Lane, Zephyrhills, FL 33540",
       "availableCount": 2,
-      "lowestPrice": 330000,
+      "lowestPrice": 310000,
       "highestPrice": 370000,
       "beds": [
         4,
@@ -22,8 +22,8 @@
           "lot": "43",
           "address": "7650 Wheat Stone Dr",
           "plan": "",
-          "price": 330000,
-          "priceLabel": "$330,000",
+          "price": 310000,
+          "priceLabel": "$310,000",
           "beds": 4,
           "homeSlug": "7650-wheat-stone-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/abbott-park-aa/qmis/7650-wheat-stone-drive",
@@ -35,8 +35,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39331-abbott-park-aa/393320000-abbott-park-50s-exp/4ebb/0217-7650-wheat-stone-drive/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=a6c8ccc1f2664fbb8447a1c392b3c3ec&hash=F645C4ECCD3B6612303ABE6A1D831BAC"
           ],
-          "incentive": 990,
-          "incentiveLabel": "(990)"
+          "incentive": 20990,
+          "incentiveLabel": "(20,990)"
         },
         {
           "lot": "42",
@@ -536,13 +536,53 @@
       "slug": "angeline-townhomes",
       "name": "Angeline Townhomes",
       "address": "10998 Crescent Deer Dr, Land O Lakes, FL 34638",
-      "availableCount": 4,
+      "availableCount": 7,
       "lowestPrice": 260000,
       "highestPrice": 305000,
       "beds": [
         3
       ],
       "lots": [
+        {
+          "lot": "303",
+          "address": "11111 Treasure Swale Way",
+          "plan": "",
+          "price": 305000,
+          "priceLabel": "$305,000",
+          "beds": 3,
+          "homeSlug": "11111-treasure-swale-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11111-treasure-swale-way",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0031-11111-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=9dc97a9f3539411b85bab4ca329eb0a0&hash=C854C094F4472D918AE0E142DA2CF251",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0031-11111-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=9dc97a9f3539411b85bab4ca329eb0a0&hash=C854C094F4472D918AE0E142DA2CF251"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
+        },
+        {
+          "lot": "304",
+          "address": "11115 Treasure Swale Way",
+          "plan": "",
+          "price": 300000,
+          "priceLabel": "$300,000",
+          "beds": 3,
+          "homeSlug": "11115-treasure-swale-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11115-treasure-swale-way",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0032-11115-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=9066950a27d846c08e4c6494a3a04ca4&hash=36C48478ACBE3E19EBE6FEC1A68E0B57",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0032-11115-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=9066950a27d846c08e4c6494a3a04ca4&hash=36C48478ACBE3E19EBE6FEC1A68E0B57"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
+        },
         {
           "lot": "283",
           "address": "11122 Treasure Swale Way",
@@ -562,6 +602,26 @@
           ],
           "incentive": 26990,
           "incentiveLabel": "(26,990)"
+        },
+        {
+          "lot": "306",
+          "address": "11125 Treasure Swale Way",
+          "plan": "",
+          "price": 300000,
+          "priceLabel": "$300,000",
+          "beds": 3,
+          "homeSlug": "11125-treasure-swale-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11125-treasure-swale-way",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0034-11125-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=de1d01eba277453b88362c7a017cee1e&hash=AEEAAF4D848C5A3FE21FC3CC9509E3AB",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0034-11125-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=de1d01eba277453b88362c7a017cee1e&hash=AEEAAF4D848C5A3FE21FC3CC9509E3AB"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "312",
@@ -607,8 +667,8 @@
           "lot": "314",
           "address": "11169 Treasure Swale Way",
           "plan": "",
-          "price": 300000,
-          "priceLabel": "$300,000",
+          "price": 280000,
+          "priceLabel": "$280,000",
           "beds": 3,
           "homeSlug": "11169-treasure-swale-way",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11169-treasure-swale-way",
@@ -620,8 +680,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0042-11169-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=81cf6d6a3e6d4a28ac486ab9abdd248c&hash=277011E5B5ACD7A124B07D382AD6C152"
           ],
-          "incentive": 1990,
-          "incentiveLabel": "(1,990)"
+          "incentive": 21990,
+          "incentiveLabel": "(21,990)"
         }
       ],
       "models": [
@@ -691,7 +751,7 @@
       "slug": "two-rivers---archer",
       "name": "Archer at Two Rivers",
       "address": "2274 Stratten Dr, Zephyrhills, FL 33541",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 395000,
       "highestPrice": 580000,
       "beds": [
@@ -763,8 +823,8 @@
           "lot": "2",
           "address": "2504 Stratten Drive",
           "plan": "",
-          "price": 510000,
-          "priceLabel": "$510,000",
+          "price": 500000,
+          "priceLabel": "$500,000",
           "beds": 4,
           "homeSlug": "2504-stratten-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/qmis/2504-stratten-drive",
@@ -776,8 +836,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/3129/0059-2504-stratten-drive/fl_tampanorth_drhorton_holdeng.jpg?iar=1&sc=1&thn=1&w=425&rev=0b2fb5cb323143c1a326155ebcf985dc&hash=8E6773545BFBA4E626497C4D5278A8AE"
           ],
-          "incentive": 3740,
-          "incentiveLabel": "(3,740)"
+          "incentive": 13740,
+          "incentiveLabel": "(13,740)"
         },
         {
           "lot": "2",
@@ -838,6 +898,26 @@
           ],
           "incentive": 7490,
           "incentiveLabel": "(7,490)"
+        },
+        {
+          "lot": "52",
+          "address": "36295 Hillridge Trail",
+          "plan": "",
+          "price": 548000,
+          "priceLabel": "$548,000",
+          "beds": 4,
+          "homeSlug": "36295-hillridge-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/qmis/36295-hillridge-trail",
+          "baths": "3",
+          "sqft": "3,313",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/3129/0003-36295-hillridge-trail/holden_g_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=601915fd3ff046aaaaa4e68145b04f56&hash=DD00CE6335A5A5ECE68131668CDE80A4",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/3129/0003-36295-hillridge-trail/holden_g_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=601915fd3ff046aaaaa4e68145b04f56&hash=DD00CE6335A5A5ECE68131668CDE80A4"
+          ],
+          "incentive": 740,
+          "incentiveLabel": "(740)"
         }
       ],
       "models": [
@@ -1415,7 +1495,7 @@
       "slug": "brighton-park",
       "name": "Brighton Park",
       "address": "13141 Teton Ridge Ave, Hudson, FL 34669",
-      "availableCount": 6,
+      "availableCount": 5,
       "lowestPrice": 275000,
       "highestPrice": 305000,
       "beds": [
@@ -1483,24 +1563,6 @@
           ],
           "incentive": 21990,
           "incentiveLabel": "(21,990)"
-        },
-        {
-          "lot": "6",
-          "address": "12059 Isle Royale Drive",
-          "plan": "",
-          "price": 298000,
-          "priceLabel": "$298,000",
-          "beds": 4,
-          "homeSlug": "12059-isle-royale-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/hudson/brighton-park/qmis/12059-isle-royale-drive",
-          "baths": "2",
-          "sqft": "1,560",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e312/0006-12059-isle-royale-drive/cameron_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=80d733a5d92a4cc490892605ce7cf91f&hash=CAD60B46606F1F257357BC3B129F9FE1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e312/0006-12059-isle-royale-drive/cameron_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=80d733a5d92a4cc490892605ce7cf91f&hash=CAD60B46606F1F257357BC3B129F9FE1"
-          ]
         },
         {
           "lot": "8",
@@ -1755,7 +1817,7 @@
       "slug": "deerbrook",
       "name": "Deerbrook",
       "address": "7103 Beaverhead Lane, Land O Lakes, FL 34638",
-      "availableCount": 9,
+      "availableCount": 8,
       "lowestPrice": 310000,
       "highestPrice": 520000,
       "beds": [
@@ -1805,26 +1867,6 @@
           "incentiveLabel": "(32,340)"
         },
         {
-          "lot": "19",
-          "address": "7026 Flint Creek Dr",
-          "plan": "",
-          "price": 400000,
-          "priceLabel": "$400,000",
-          "beds": 4,
-          "homeSlug": "7026-flint-creek-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/7026-flint-creek-drive",
-          "baths": "2.5",
-          "sqft": "2,305",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e303/0073-7026-flint-creek-drive/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=5bf9b600faa7477cba80ff7cc66d1094&hash=9090F5AD5C8F827DCBE30DA14A632781",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e303/0073-7026-flint-creek-drive/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=5bf9b600faa7477cba80ff7cc66d1094&hash=9090F5AD5C8F827DCBE30DA14A632781"
-          ],
-          "incentive": 10990,
-          "incentiveLabel": "(10,990)"
-        },
-        {
           "lot": "41",
           "address": "6984 Flint Creek Dr",
           "plan": "",
@@ -1848,8 +1890,8 @@
           "lot": "21",
           "address": "7042 Flint Creek Dr",
           "plan": "",
-          "price": 385000,
-          "priceLabel": "$385,000",
+          "price": 380000,
+          "priceLabel": "$380,000",
           "beds": 5,
           "homeSlug": "7042-flint-creek-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/7042-flint-creek-drive",
@@ -1861,8 +1903,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0075-7042-flint-creek-drive/fl_drhorton_tampanorth_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=a557f6bceed1428f89f47c2215520876&hash=476AB6AF0D67A92B327AD5B6CDA0EB47"
           ],
-          "incentive": 28990,
-          "incentiveLabel": "(28,990)"
+          "incentive": 33990,
+          "incentiveLabel": "(33,990)"
         },
         {
           "lot": "23",
@@ -1928,8 +1970,8 @@
           "lot": "42",
           "address": "6645 Flint Creek Dr",
           "plan": "",
-          "price": 485000,
-          "priceLabel": "$485,000",
+          "price": 470000,
+          "priceLabel": "$470,000",
           "beds": 4,
           "homeSlug": "6645-flint-creek-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/6645-flint-creek-drive",
@@ -1941,8 +1983,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/393990000-deerbrook-50s-drh/3129/0181-6645-flint-creek-drive/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f615e15863c84684884ee8137319564f&hash=36825EB325D342D944BFA3DE626602BB"
           ],
-          "incentive": 53740,
-          "incentiveLabel": "(53,740)"
+          "incentive": 68740,
+          "incentiveLabel": "(68,740)"
         }
       ],
       "models": [
@@ -2177,9 +2219,9 @@
       "slug": "farm-at-varrea",
       "name": "Farm at Varrea",
       "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
-      "availableCount": 21,
-      "lowestPrice": 323000,
-      "highestPrice": 500000,
+      "availableCount": 22,
+      "lowestPrice": 310000,
+      "highestPrice": 498000,
       "beds": [
         3,
         4,
@@ -2190,8 +2232,8 @@
           "lot": "353",
           "address": "4603 Hidden Farm Drive",
           "plan": "",
-          "price": 325000,
-          "priceLabel": "$325,000",
+          "price": 310000,
+          "priceLabel": "$310,000",
           "beds": 3,
           "homeSlug": "4603-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4603-hidden-farm-drive",
@@ -2203,8 +2245,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/1524-4603-hidden-farm-drive/fl_drhorton_tampanorth_allexii_dwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=a8249f789de04a359daae8d25315a53a&hash=A5AF1A6AF9DD139A46A229BB8889DF8E"
           ],
-          "incentive": 3990,
-          "incentiveLabel": "(3,990)"
+          "incentive": 18990,
+          "incentiveLabel": "(18,990)"
         },
         {
           "lot": "350",
@@ -2250,8 +2292,8 @@
           "lot": "66",
           "address": "3524 Harvest Gardens Loop",
           "plan": "",
-          "price": 325000,
-          "priceLabel": "$325,000",
+          "price": 320000,
+          "priceLabel": "$320,000",
           "beds": 3,
           "homeSlug": "3524-harvest-gardens-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3524-harvest-gardens-loop",
@@ -2263,8 +2305,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0141-3524-harvest-gardens-loop/fl_drhorton_tampanorth_aria_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=2a3c24f1ea614bea98ca8c27cd689308&hash=FB91AADB2E608E7594BC9FE3C9ECB56D"
           ],
-          "incentive": 21990,
-          "incentiveLabel": "(21,990)"
+          "incentive": 26990,
+          "incentiveLabel": "(26,990)"
         },
         {
           "lot": "67",
@@ -2327,11 +2369,31 @@
           "incentiveLabel": "(4,990)"
         },
         {
+          "lot": "155",
+          "address": "4409 Hidden Farm Drive",
+          "plan": "",
+          "price": 388000,
+          "priceLabel": "$388,000",
+          "beds": 4,
+          "homeSlug": "4409-hidden-farm-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4409-hidden-farm-drive",
+          "baths": "2.5",
+          "sqft": "2,045",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0215-4409-hidden-farm-drive/fl_tampanorth_drhorton_lantana_d.jpg?iar=1&sc=1&thn=1&w=425&rev=2e4eaf62f1a34744b8bf631b770cb793&hash=B26A0ECB2B9CD6026CA3CC975042F596",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0215-4409-hidden-farm-drive/fl_tampanorth_drhorton_lantana_d.jpg?iar=1&sc=1&thn=1&w=425&rev=2e4eaf62f1a34744b8bf631b770cb793&hash=B26A0ECB2B9CD6026CA3CC975042F596"
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
+        },
+        {
           "lot": "80",
           "address": "4330 Hidden Farm Dr",
           "plan": "",
-          "price": 365000,
-          "priceLabel": "$365,000",
+          "price": 360000,
+          "priceLabel": "$360,000",
           "beds": 5,
           "homeSlug": "4330-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4330-hidden-farm-drive",
@@ -2342,7 +2404,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/0155-4330-hidden-farm-drive/lakeside_g_88_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=a05fd7dc4123428eacb7c7ba0cad2c04&hash=89D3D94AE6CD42D40EBA6B463E1BA94B",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/0155-4330-hidden-farm-drive/lakeside_g_88_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=a05fd7dc4123428eacb7c7ba0cad2c04&hash=89D3D94AE6CD42D40EBA6B463E1BA94B"
-          ]
+          ],
+          "incentive": 4990,
+          "incentiveLabel": "(4,990)"
         },
         {
           "lot": "352",
@@ -2428,8 +2492,8 @@
           "lot": "65",
           "address": "3526 Harvest Gardens Loop",
           "plan": "",
-          "price": 402000,
-          "priceLabel": "$402,000",
+          "price": 400000,
+          "priceLabel": "$400,000",
           "beds": 5,
           "homeSlug": "3526-harvest-gardens-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3526-harvest-gardens-loop",
@@ -2441,8 +2505,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0140-3526-harvest-gardens-loop/fl_drhorton_tampanorth_hayden_j_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6018b501f17a4362a964603a2722ac25&hash=D4394188498A7EE40705FEAF49B8894B"
           ],
-          "incentive": 990,
-          "incentiveLabel": "(990)"
+          "incentive": 2990,
+          "incentiveLabel": "(2,990)"
         },
         {
           "lot": "28",
@@ -2488,8 +2552,8 @@
           "lot": "176",
           "address": "3513 Hazy Glen Lane",
           "plan": "",
-          "price": 500000,
-          "priceLabel": "$500,000",
+          "price": 480000,
+          "priceLabel": "$480,000",
           "beds": 4,
           "homeSlug": "3513-hazy-glen-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3513-hazy-glen-lane",
@@ -2501,8 +2565,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2795/0116-3513-hazy-glen-lane/fl_tampanorth_drhorton_camdenf.jpg?iar=1&sc=1&thn=1&w=425&rev=73569725db4c40f495663c7f55041615&hash=32E2E4EC640E32931BE5DBF5CB97C1EC"
           ],
-          "incentive": 14240,
-          "incentiveLabel": "(14,240)"
+          "incentive": 34240,
+          "incentiveLabel": "(34,240)"
         },
         {
           "lot": "3",
@@ -2834,8 +2898,8 @@
       "name": "Hammock at Two Rivers",
       "address": "1383 Chasehill Lane, Zephyrhills, FL 33541",
       "availableCount": 7,
-      "lowestPrice": 450000,
-      "highestPrice": 560000,
+      "lowestPrice": 435000,
+      "highestPrice": 550000,
       "beds": [
         4,
         5
@@ -2905,8 +2969,8 @@
           "lot": "10",
           "address": "35616 Lowery Trail",
           "plan": "",
-          "price": 560000,
-          "priceLabel": "$560,000",
+          "price": 550000,
+          "priceLabel": "$550,000",
           "beds": 5,
           "homeSlug": "35616-lowery-trail",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/hammock-at-two-rivers/qmis/35616-lowery-trail",
@@ -2918,8 +2982,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/3528/0075-35616-lowery-trail/talbot_h_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=8989fa08545d4ed1927238e5009ed254&hash=7F9A533D4DEBA71B1F82E3C8947B20BA"
           ],
-          "incentive": 47275,
-          "incentiveLabel": "(47,275)"
+          "incentive": 57275,
+          "incentiveLabel": "(57,275)"
         },
         {
           "lot": "3",
@@ -2963,8 +3027,8 @@
           "lot": "13",
           "address": "35646 Lowery Trail",
           "plan": "",
-          "price": 450000,
-          "priceLabel": "$450,000",
+          "price": 435000,
+          "priceLabel": "$435,000",
           "beds": 4,
           "homeSlug": "35646-lowery-trail",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/hammock-at-two-rivers/qmis/35646-lowery-trail",
@@ -2976,8 +3040,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2045/0078-35646-lowery-trail/lantana_d_stone_garage_hw_cl_paver_driveway.jpg?iar=1&sc=1&thn=1&w=425&rev=3722bbcc5fd54db5adb56f45450e5ccc&hash=BB44AB43CE51C017EB9370A722970E1C"
           ],
-          "incentive": 10490,
-          "incentiveLabel": "(10,490)"
+          "incentive": 25490,
+          "incentiveLabel": "(25,490)"
         }
       ],
       "models": [
@@ -3107,11 +3171,34 @@
       "slug": "holloway-landing",
       "name": "Holloway Landing",
       "address": "1151 Wild Clover Way, Plant City, FL 33566",
-      "availableCount": 0,
-      "lowestPrice": null,
-      "highestPrice": null,
-      "beds": [],
-      "lots": [],
+      "availableCount": 1,
+      "lowestPrice": 350000,
+      "highestPrice": 350000,
+      "beds": [
+        4
+      ],
+      "lots": [
+        {
+          "lot": "36",
+          "address": "1117 Arrowhead Vine Ct",
+          "plan": "",
+          "price": 350000,
+          "priceLabel": "$350,000",
+          "beds": 4,
+          "homeSlug": "1117-arrowhead-vine-ct",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/holloway-landing/qmis/1117-arrowhead-vine-ct",
+          "baths": "2",
+          "sqft": "1,498",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e407/0036-1117-arrowhead-vine-ct/freepoart_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=17daf55d5f5d4c48b3b0606bed71def2&hash=2A39790155C02E2F538683621ED44514",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e407/0036-1117-arrowhead-vine-ct/freepoart_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=17daf55d5f5d4c48b3b0606bed71def2&hash=2A39790155C02E2F538683621ED44514"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
+        }
+      ],
       "models": [
         {
           "slug": "e406",
@@ -3294,7 +3381,7 @@
       "address": "35871 Sunflower Hill Drive, Zephyrhills, FL 33541",
       "availableCount": 2,
       "lowestPrice": 348000,
-      "highestPrice": 365000,
+      "highestPrice": 355000,
       "beds": [
         3,
         4
@@ -3324,8 +3411,8 @@
           "lot": "7",
           "address": "35500 Kinsey Point",
           "plan": "",
-          "price": 365000,
-          "priceLabel": "$365,000",
+          "price": 355000,
+          "priceLabel": "$355,000",
           "beds": 4,
           "homeSlug": "35500-kinsey-point",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers/qmis/35500-kinsey-point",
@@ -3337,8 +3424,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/3emb/0186-35500-kinsey-point/north-harper-c-stucco-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=130f52589aba478db18c33ebf1e85d6d&hash=295AE0A962DAE77C3A6DB7488B18D312"
           ],
-          "incentive": 5490,
-          "incentiveLabel": "(5,490)"
+          "incentive": 15490,
+          "incentiveLabel": "(15,490)"
         }
       ],
       "models": [
@@ -3796,13 +3883,113 @@
       "slug": "ruskin-preserve-townhomes",
       "name": "Ruskin Preserve Townhomes",
       "address": "421 Warm Heron Pl, Ruskin, FL 33570",
-      "availableCount": 7,
+      "availableCount": 13,
       "lowestPrice": 240000,
       "highestPrice": 285000,
       "beds": [
         3
       ],
       "lots": [
+        {
+          "lot": "129",
+          "address": "1037 Spotted Egret Loop",
+          "plan": "",
+          "price": 285000,
+          "priceLabel": "$285,000",
+          "beds": 3,
+          "homeSlug": "1037-spotted-egret-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/qmis/1037-spotted-egret-loop",
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20a/0085-1037-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=e718baf8ddaa4d838ff7c7cf97dd5148&hash=D9C8DFB09F51056D00794F0E87263DF7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20a/0085-1037-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=e718baf8ddaa4d838ff7c7cf97dd5148&hash=D9C8DFB09F51056D00794F0E87263DF7"
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
+        },
+        {
+          "lot": "130",
+          "address": "1039 Spotted Egret Loop",
+          "plan": "",
+          "price": 272000,
+          "priceLabel": "$272,000",
+          "beds": 3,
+          "homeSlug": "1039-spotted-egret-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/qmis/1039-spotted-egret-loop",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0086-1039-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=f146cf492566445a8c1d1628df35c7a6&hash=531A45AB513A05F1BB0ADCE1BE4E3647",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0086-1039-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=f146cf492566445a8c1d1628df35c7a6&hash=531A45AB513A05F1BB0ADCE1BE4E3647"
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
+        },
+        {
+          "lot": "131",
+          "address": "1041 Spotted Egret Loop",
+          "plan": "",
+          "price": 272000,
+          "priceLabel": "$272,000",
+          "beds": 3,
+          "homeSlug": "1041-spotted-egret-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/qmis/1041-spotted-egret-loop",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0087-1041-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=1bb7f62daf5c49a9a99c37e1cdfc1eeb&hash=AB8886D0753A4FCF674B2AFD5E057667",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0087-1041-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=1bb7f62daf5c49a9a99c37e1cdfc1eeb&hash=AB8886D0753A4FCF674B2AFD5E057667"
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
+        },
+        {
+          "lot": "132",
+          "address": "1043 Spotted Egret Loop",
+          "plan": "",
+          "price": 272000,
+          "priceLabel": "$272,000",
+          "beds": 3,
+          "homeSlug": "1043-spotted-egret-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/qmis/1043-spotted-egret-loop",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0088-1043-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=b176073b9c134ca3a75f115f310e71ea&hash=A40A5014AB36E99C626811D313933CCF",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0088-1043-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=b176073b9c134ca3a75f115f310e71ea&hash=A40A5014AB36E99C626811D313933CCF"
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
+        },
+        {
+          "lot": "134",
+          "address": "1047 Spotted Egret Loop",
+          "plan": "",
+          "price": 285000,
+          "priceLabel": "$285,000",
+          "beds": 3,
+          "homeSlug": "1047-spotted-egret-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/qmis/1047-spotted-egret-loop",
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20a/0090-1047-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=a42a313867354c8daec1f609b0d367f5&hash=04A486ED952280B2C74329327F77BB2C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20a/0090-1047-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=a42a313867354c8daec1f609b0d367f5&hash=04A486ED952280B2C74329327F77BB2C"
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
+        },
         {
           "lot": "85",
           "address": "446 Whistling Duck Pl",
@@ -3942,6 +4129,24 @@
           ],
           "incentive": 990,
           "incentiveLabel": "(990)"
+        },
+        {
+          "lot": "133",
+          "address": "1045 Spotted Egret Loop",
+          "plan": "",
+          "price": 272000,
+          "priceLabel": "$272,000",
+          "beds": 3,
+          "homeSlug": "1045-spotted-egret-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/qmis/1045-spotted-egret-loop",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0089-1045-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=7a7d1ba1bb5b4b508591f604504d1a71&hash=3EF5A1AED031744277C4409BF4EE5946",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0089-1045-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=7a7d1ba1bb5b4b508591f604504d1a71&hash=3EF5A1AED031744277C4409BF4EE5946"
+          ]
         }
       ],
       "models": [
@@ -3992,8 +4197,8 @@
           "lot": "7",
           "address": "12605 Citrus Park Lane",
           "plan": "",
-          "price": 440001,
-          "priceLabel": "$440,001",
+          "price": 425001,
+          "priceLabel": "$425,001",
           "beds": 3,
           "homeSlug": "12605-citrus-park-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/12605-citrus-park-lane",
@@ -4005,8 +4210,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0223-12605-citrus-park-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=5dff4a3631494f07b0b3395fc2703ce6&hash=19695F636A6E5E1DC483301B1247B45A"
           ],
-          "incentive": 1990,
-          "incentiveLabel": "(1,990)"
+          "incentive": 16990,
+          "incentiveLabel": "(16,990)"
         },
         {
           "lot": "6",
@@ -4112,8 +4317,8 @@
           "lot": "5",
           "address": "8025 Wildlife Haven St",
           "plan": "",
-          "price": 448001,
-          "priceLabel": "$448,001",
+          "price": 445001,
+          "priceLabel": "$445,001",
           "beds": 3,
           "homeSlug": "8025-wildlife-haven-street",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/8025-wildlife-haven-street",
@@ -4125,15 +4330,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0115-8025-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=9b534acb552a4735a97e60988d42e9fb&hash=21C2797840C41A06A79B6939794EE7C7"
           ],
-          "incentive": 990,
-          "incentiveLabel": "(990)"
+          "incentive": 3990,
+          "incentiveLabel": "(3,990)"
         },
         {
           "lot": "4",
           "address": "8027 Wildlife Haven St",
           "plan": "",
-          "price": 453001,
-          "priceLabel": "$453,001",
+          "price": 450001,
+          "priceLabel": "$450,001",
           "beds": 3,
           "homeSlug": "8027-wildlife-haven-street",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/8027-wildlife-haven-street",
@@ -4145,8 +4350,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1673/0114-8027-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=b409f288fa1d4d3bb5e3466e7f018606&hash=3484C34431F427E7F785E408CB6BFE13"
           ],
-          "incentive": 990,
-          "incentiveLabel": "(990)"
+          "incentive": 3990,
+          "incentiveLabel": "(3,990)"
         },
         {
           "lot": "3",
@@ -4190,8 +4395,8 @@
           "lot": "1",
           "address": "8033 Wildlife Haven St",
           "plan": "",
-          "price": 477001,
-          "priceLabel": "$477,001",
+          "price": 480001,
+          "priceLabel": "$480,001",
           "beds": 3,
           "homeSlug": "8033-wildlife-haven-street",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/8033-wildlife-haven-street",
@@ -4254,8 +4459,8 @@
           "lot": "16",
           "address": "11928 Noble Chase Path",
           "plan": "",
-          "price": 350000,
-          "priceLabel": "$350,000",
+          "price": 340000,
+          "priceLabel": "$340,000",
           "beds": 5,
           "homeSlug": "11928-noble-chase-path",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/sandhill/qmis/11928-noble-chase-path",
@@ -4266,7 +4471,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394030000-sandhill-40s-exp/e304/0016-11928-noble-chase-path/robie_h_no_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6e29308fe3fb43b7883bb01e84b2204c&hash=1131CAF4DAAA95C88A9D83E14F36DCDF",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39403-sandhill/394030000-sandhill-40s-exp/e304/0016-11928-noble-chase-path/robie_h_no_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6e29308fe3fb43b7883bb01e84b2204c&hash=1131CAF4DAAA95C88A9D83E14F36DCDF"
-          ]
+          ],
+          "incentive": 8990,
+          "incentiveLabel": "(8,990)"
         },
         {
           "lot": "24",
@@ -4646,8 +4853,8 @@
           "lot": "244",
           "address": "13224 Balsam Cone Dr",
           "plan": "",
-          "price": 375000,
-          "priceLabel": "$375,000",
+          "price": 355000,
+          "priceLabel": "$355,000",
           "beds": 4,
           "homeSlug": "13224-balsam-cone-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/13224-balsam-cone-drive",
@@ -4659,8 +4866,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/5emb/0056-13224-balsam-cone-drive/fl_tampannorth_drhorton_madisonl.jpg?iar=1&sc=1&thn=1&w=425&rev=5bb415a832f24450b1e880ad5ec59ccc&hash=6AD2C18FCD10EC2C0582BA6E7A2487BE"
           ],
-          "incentive": 2990,
-          "incentiveLabel": "(2,990)"
+          "incentive": 22990,
+          "incentiveLabel": "(22,990)"
         },
         {
           "lot": "245",
@@ -4686,8 +4893,8 @@
           "lot": "202",
           "address": "13429 Castle Peak Cir",
           "plan": "",
-          "price": 382000,
-          "priceLabel": "$382,000",
+          "price": 380000,
+          "priceLabel": "$380,000",
           "beds": 5,
           "homeSlug": "13429-castle-peak-circle",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/13429-castle-peak-circle",
@@ -4698,7 +4905,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0126-13429-castle-peak-circle/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=1267fe2763134e47b00b905b3a7baf87&hash=CA61132ABF66111B682ED30A514E1ECB",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0126-13429-castle-peak-circle/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=1267fe2763134e47b00b905b3a7baf87&hash=CA61132ABF66111B682ED30A514E1ECB"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "396",
@@ -4804,8 +5013,8 @@
           "lot": "183",
           "address": "35623 Brick Church Lp",
           "plan": "",
-          "price": 374000,
-          "priceLabel": "$374,000",
+          "price": 360000,
+          "priceLabel": "$360,000",
           "beds": 5,
           "homeSlug": "35623-brick-church-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35623-brick-church-loop",
@@ -4947,7 +5156,7 @@
       "name": "Towns at Woodsdale",
       "address": "31302 Ancient Sage Road, Wesley Chapel, FL 33545",
       "availableCount": 8,
-      "lowestPrice": 270000,
+      "lowestPrice": 260000,
       "highestPrice": 311990,
       "beds": [
         3
@@ -4957,8 +5166,8 @@
           "lot": "203",
           "address": "31207 Midnight Sun Way",
           "plan": "",
-          "price": 280000,
-          "priceLabel": "$280,000",
+          "price": 260000,
+          "priceLabel": "$260,000",
           "beds": 3,
           "homeSlug": "31207-midnight-sun-way",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31207-midnight-sun-way",
@@ -4970,8 +5179,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0149-31207-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=0e0d2b3fc5a1457e83f42ea8cae3a0cf&hash=5EFF5F1908A040640EB9213EE663C653"
           ],
-          "incentive": 4990,
-          "incentiveLabel": "(4,990)"
+          "incentive": 24990,
+          "incentiveLabel": "(24,990)"
         },
         {
           "lot": "131",
@@ -5201,8 +5410,8 @@
       "name": "Waterstone",
       "address": "4703 Silver Current Ave, Tampa, FL 33617",
       "availableCount": 2,
-      "lowestPrice": 425000,
-      "highestPrice": 475000,
+      "lowestPrice": 440000,
+      "highestPrice": 470000,
       "beds": [
         4,
         5
@@ -5212,8 +5421,8 @@
           "lot": "30",
           "address": "4709 Silver Current Ave",
           "plan": "",
-          "price": 475000,
-          "priceLabel": "$475,000",
+          "price": 470000,
+          "priceLabel": "$470,000",
           "beds": 5,
           "homeSlug": "4709-silver-current-ave",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4709-silver-current-ave",
@@ -5225,15 +5434,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394520000-waterstone-40ft-product/4ehb/0008-4709-silver-current-ave/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=af72d6c58f87400a83bda69d63eaff41&hash=526ABA1772B6D9CF45AD4FFEFD01CAD6"
           ],
-          "incentive": 7990,
-          "incentiveLabel": "(7,990)"
+          "incentive": 12990,
+          "incentiveLabel": "(12,990)"
         },
         {
           "lot": "27",
           "address": "4723 Silver Current Ave",
           "plan": "",
-          "price": 425000,
-          "priceLabel": "$425,000",
+          "price": 440000,
+          "priceLabel": "$440,000",
           "beds": 4,
           "homeSlug": "4723-silver-current-ave",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4723-silver-current-ave",
@@ -5245,8 +5454,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394510000-waterstone-30ft-product/e303/0020-4723-silver-current-ave/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=adc0469db3ab493d8cbd89b316df1e7f&hash=B841D86E4E6C2D9555C3657C4D87EB59"
           ],
-          "incentive": 48990,
-          "incentiveLabel": "(48,990)"
+          "incentive": 33990,
+          "incentiveLabel": "(33,990)"
         }
       ],
       "models": [
@@ -5348,7 +5557,7 @@
       "address": "Westwood",
       "availableCount": 8,
       "lowestPrice": 320000,
-      "highestPrice": 380000,
+      "highestPrice": 365000,
       "beds": [
         3
       ],
@@ -5473,8 +5682,8 @@
           "lot": "256",
           "address": "17314 Spanish Oak Lp",
           "plan": "",
-          "price": 365000,
-          "priceLabel": "$365,000",
+          "price": 350000,
+          "priceLabel": "$350,000",
           "beds": 3,
           "homeSlug": "17314-spanish-oak-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/17314-spanish-oak-loop",
@@ -5493,8 +5702,8 @@
           "lot": "261",
           "address": "17334 Spanish Oak Loop",
           "plan": "",
-          "price": 380000,
-          "priceLabel": "$380,000",
+          "price": 365000,
+          "priceLabel": "$365,000",
           "beds": 3,
           "homeSlug": "17334-spanish-oak-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/17334-spanish-oak-loop",
@@ -5559,7 +5768,7 @@
         {
           "slug": "1759",
           "name": "Vale",
-          "startingLabel": "Starting in the $367s",
+          "startingLabel": "Starting in the $352s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/floor-plans/1759",
           "beds": 3,
           "baths": "2.5",
@@ -5769,8 +5978,8 @@
           "lot": "5",
           "address": "32680 Duluth Dr",
           "plan": "",
-          "price": 590000,
-          "priceLabel": "$590,000",
+          "price": 570000,
+          "priceLabel": "$570,000",
           "beds": 4,
           "homeSlug": "32680-duluth-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32680-duluth-drive",
@@ -5782,8 +5991,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0091-32680-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa2ce72ffdf040f58dc035ae3edd5b9d&hash=A2C7981FC6A5EF7BCCC298DC39A54188"
           ],
-          "incentive": 32240,
-          "incentiveLabel": "(32,240)"
+          "incentive": 52240,
+          "incentiveLabel": "(52,240)"
         },
         {
           "lot": "2",
@@ -5809,8 +6018,8 @@
           "lot": "13",
           "address": "32736 Weathered Oak Dr",
           "plan": "",
-          "price": 477000,
-          "priceLabel": "$477,000",
+          "price": 475000,
+          "priceLabel": "$475,000",
           "beds": 4,
           "homeSlug": "32736-weathered-oak-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32736-weathered-oak-drive",
@@ -5822,8 +6031,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0173-32736-weathered-oak-drive/fl_tampanorth_drhorton_lantanad_shinglenocl_-_copy.jpg?iar=1&sc=1&thn=1&w=425&rev=aea060acca7e4ddea8793d6a0d5adc2c&hash=1376B9B037E003FB9BE4D95E02C9E6EC"
           ],
-          "incentive": 2990,
-          "incentiveLabel": "(2,990)"
+          "incentive": 4990,
+          "incentiveLabel": "(4,990)"
         },
         {
           "lot": "14",
@@ -5849,8 +6058,8 @@
           "lot": "8",
           "address": "32765 Weathered Oak Dr",
           "plan": "",
-          "price": 550000,
-          "priceLabel": "$550,000",
+          "price": 540000,
+          "priceLabel": "$540,000",
           "beds": 4,
           "homeSlug": "32765-weathered-oak-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32765-weathered-oak-drive",
@@ -5862,15 +6071,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2767/0133-32765-weathered-oak-drive/fl_tampanorth_drhorton_coral_h_gableaccent_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=476af18604044371b366de08e934ba2f&hash=7908FE083C068F62E9AB6544DB56E86A"
           ],
-          "incentive": 21490,
-          "incentiveLabel": "(21,490)"
+          "incentive": 31490,
+          "incentiveLabel": "(31,490)"
         },
         {
           "lot": "7",
           "address": "32336 Weathered Oak Dr",
           "plan": "",
-          "price": 457000,
-          "priceLabel": "$457,000",
+          "price": 455000,
+          "priceLabel": "$455,000",
           "beds": 4,
           "homeSlug": "32336-weathered-oak-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32336-weathered-oak-drive",
@@ -6135,8 +6344,8 @@
           "lot": "19",
           "address": "32575 Midsummer Night Ln",
           "plan": "",
-          "price": 310000,
-          "priceLabel": "$310,000",
+          "price": 305000,
+          "priceLabel": "$305,000",
           "beds": 3,
           "homeSlug": "32575-midsummer-night-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek-townhomes/qmis/32575-midsummer-night-lane",
@@ -6148,8 +6357,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0019-32575-midsummer-night-lane/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=7b46c5df023c45fb966ad72072f09623&hash=E9C78687E5DC6196EFB71A2A25A4ED1B"
           ],
-          "incentive": 27990,
-          "incentiveLabel": "(27,990)"
+          "incentive": 32990,
+          "incentiveLabel": "(32,990)"
         },
         {
           "lot": "22",
