@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-14T18:22:03.696Z",
+  "updatedAt": "2026-10-15T18:03:59.388Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-14T18:22:03.696Z",
-  "photoCount": 168,
+  "publicUpdatedAt": "2026-10-15T18:03:59.388Z",
+  "photoCount": 171,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -60,21 +60,6 @@
         }
       ],
       "models": [
-        {
-          "slug": "e407",
-          "name": "Freeport II",
-          "startingLabel": "Starting in the $306s",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/abbott-park-aa/floor-plans/e407",
-          "beds": 4,
-          "baths": "2",
-          "sqft": "1,498",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39331-abbott-park-aa/393320000-abbott-park-50s-exp/e407/fl_west_florida_drh_express_series_freeport_a_stone.jpg?as=1&w=425&rev=57b4e22c5ed74b2f92032b19974a6192&hash=FF1055062F6BF1BB26D9C051DD3A06A9",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39331-abbott-park-aa/393320000-abbott-park-50s-exp/e407/fl_west_florida_drh_express_series_freeport_a_stone.jpg?as=1&w=425&rev=57b4e22c5ed74b2f92032b19974a6192&hash=FF1055062F6BF1BB26D9C051DD3A06A9"
-          ]
-        },
         {
           "slug": "4ebb",
           "name": "Cali",
@@ -3883,8 +3868,8 @@
       "slug": "ruskin-preserve-townhomes",
       "name": "Ruskin Preserve Townhomes",
       "address": "421 Warm Heron Pl, Ruskin, FL 33570",
-      "availableCount": 13,
-      "lowestPrice": 240000,
+      "availableCount": 12,
+      "lowestPrice": 272000,
       "highestPrice": 285000,
       "beds": [
         3
@@ -3989,26 +3974,6 @@
           ],
           "incentive": 990,
           "incentiveLabel": "(990)"
-        },
-        {
-          "lot": "85",
-          "address": "446 Whistling Duck Pl",
-          "plan": "",
-          "price": 240000,
-          "priceLabel": "$240,000",
-          "beds": 3,
-          "homeSlug": "446-whistling-duck-pl",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/qmis/446-whistling-duck-pl",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0041-446-whistling-duck-pl/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=089bbf75af2a42809679f38720ed4779&hash=E0F94B364E0CD9C68C08F431C41CF665",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0041-446-whistling-duck-pl/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=089bbf75af2a42809679f38720ed4779&hash=E0F94B364E0CD9C68C08F431C41CF665"
-          ],
-          "incentive": 32990,
-          "incentiveLabel": "(32,990)"
         },
         {
           "lot": "99",
@@ -4801,7 +4766,7 @@
       "slug": "summit-view",
       "name": "Summit View",
       "address": "35387 Brick Church Loop, Dade City, FL 33525",
-      "availableCount": 11,
+      "availableCount": 12,
       "lowestPrice": 315000,
       "highestPrice": 400000,
       "beds": [
@@ -5008,6 +4973,24 @@
           ],
           "incentive": 990,
           "incentiveLabel": "(990)"
+        },
+        {
+          "lot": "6",
+          "address": "35100 Valley Ridge Rd",
+          "plan": "",
+          "price": 335294,
+          "priceLabel": "$335,294",
+          "beds": 4,
+          "homeSlug": "35100-valley-ridge-road",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35100-valley-ridge-road",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0004-35100-valley-ridge-road/fl_drhorton_tampanorth_calic.jpg?iar=1&sc=1&thn=1&w=425&rev=f87471bd58a0411eae9e37bbcdf136a2&hash=7F1B269C2B5F67BB4B7E71CA6CFBE435",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0004-35100-valley-ridge-road/fl_drhorton_tampanorth_calic.jpg?iar=1&sc=1&thn=1&w=425&rev=f87471bd58a0411eae9e37bbcdf136a2&hash=7F1B269C2B5F67BB4B7E71CA6CFBE435"
+          ]
         },
         {
           "lot": "183",
@@ -5409,10 +5392,11 @@
       "slug": "waterstone",
       "name": "Waterstone",
       "address": "4703 Silver Current Ave, Tampa, FL 33617",
-      "availableCount": 2,
-      "lowestPrice": 440000,
+      "availableCount": 4,
+      "lowestPrice": 420000,
       "highestPrice": 470000,
       "beds": [
+        3,
         4,
         5
       ],
@@ -5456,6 +5440,46 @@
           ],
           "incentive": 33990,
           "incentiveLabel": "(33,990)"
+        },
+        {
+          "lot": "18",
+          "address": "4724 Silver Current Ave",
+          "plan": "",
+          "price": 470000,
+          "priceLabel": "$470,000",
+          "beds": 5,
+          "homeSlug": "4724-silver-current-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4724-silver-current-ave",
+          "baths": "3",
+          "sqft": "2,453",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394510000-waterstone-30ft-product/e304/0014-4724-silver-current-ave/fl_tampanorth_drhorton_robieii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9c0194ea8e5c4c60a501ebff8cd531e4&hash=24E0FD23186EAF09400FDE4DE6676DC6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394510000-waterstone-30ft-product/e304/0014-4724-silver-current-ave/fl_tampanorth_drhorton_robieii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9c0194ea8e5c4c60a501ebff8cd531e4&hash=24E0FD23186EAF09400FDE4DE6676DC6"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
+        },
+        {
+          "lot": "21",
+          "address": "8304 Riverbend Rise Ln",
+          "plan": "",
+          "price": 420000,
+          "priceLabel": "$420,000",
+          "beds": 3,
+          "homeSlug": "8304-riverbend-rise-ln",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/8304-riverbend-rise-ln",
+          "baths": "2",
+          "sqft": "1,560",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394510000-waterstone-30ft-product/e302/0015-8304-riverbend-rise-ln/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa3c7cbbca2b43c0af5668329844d043&hash=C239EBF3A864012962B691CB6843C9DD",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394510000-waterstone-30ft-product/e302/0015-8304-riverbend-rise-ln/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa3c7cbbca2b43c0af5668329844d043&hash=C239EBF3A864012962B691CB6843C9DD"
+          ],
+          "incentive": 290,
+          "incentiveLabel": "(290)"
         }
       ],
       "models": [
@@ -5786,10 +5810,11 @@
       "slug": "woodcreek",
       "name": "Woodcreek",
       "address": "2412 Sterling Forest Court, Wesley Chapel, FL 33543",
-      "availableCount": 16,
-      "lowestPrice": 450000,
+      "availableCount": 17,
+      "lowestPrice": 400000,
       "highestPrice": 645000,
       "beds": [
+        3,
         4,
         5
       ],
@@ -5853,6 +5878,26 @@
           ],
           "incentive": 6140,
           "incentiveLabel": "(6,140)"
+        },
+        {
+          "lot": "7",
+          "address": "32336 Weathered Oak Dr",
+          "plan": "",
+          "price": 455000,
+          "priceLabel": "$455,000",
+          "beds": 4,
+          "homeSlug": "32336-weathered-oak-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32336-weathered-oak-drive",
+          "baths": "2.5",
+          "sqft": "2,305",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e303/0224-32336-weathered-oak-drive/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=6f2b3f6494ae4f1aad3f79c438d62d88&hash=2320B9AFA7FB0B8B1D61488D5073B7D8",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e303/0224-32336-weathered-oak-drive/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=6f2b3f6494ae4f1aad3f79c438d62d88&hash=2320B9AFA7FB0B8B1D61488D5073B7D8"
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "8",
@@ -6075,22 +6120,24 @@
           "incentiveLabel": "(31,490)"
         },
         {
-          "lot": "7",
-          "address": "32336 Weathered Oak Dr",
+          "lot": "19",
+          "address": "32924 Winterwood Boulevard",
           "plan": "",
-          "price": 455000,
-          "priceLabel": "$455,000",
-          "beds": 4,
-          "homeSlug": "32336-weathered-oak-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32336-weathered-oak-drive",
-          "baths": "2.5",
-          "sqft": "2,305",
-          "story": "2",
+          "price": 400000,
+          "priceLabel": "$400,000",
+          "beds": 3,
+          "homeSlug": "32924-winterwood-boulevard",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32924-winterwood-boulevard",
+          "baths": "2",
+          "sqft": "1,560",
+          "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e303/0224-32336-weathered-oak-drive/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=6f2b3f6494ae4f1aad3f79c438d62d88&hash=2320B9AFA7FB0B8B1D61488D5073B7D8",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e302/0304-32924-winterwood-boulevard/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=ed98b425ce1e4c128e344fcd2a118b0a&hash=BC5E58985AFBC956FC4C033D72CED182",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e303/0224-32336-weathered-oak-drive/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=6f2b3f6494ae4f1aad3f79c438d62d88&hash=2320B9AFA7FB0B8B1D61488D5073B7D8"
-          ]
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e302/0304-32924-winterwood-boulevard/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=ed98b425ce1e4c128e344fcd2a118b0a&hash=BC5E58985AFBC956FC4C033D72CED182"
+          ],
+          "incentive": 290,
+          "incentiveLabel": "(290)"
         },
         {
           "lot": "12",
@@ -6341,6 +6388,24 @@
           "incentiveLabel": "(36,990)"
         },
         {
+          "lot": "13",
+          "address": "32566 Midsummer Night Ln",
+          "plan": "",
+          "price": 298490,
+          "priceLabel": "$298,490",
+          "beds": 3,
+          "homeSlug": "32566-midsummer-night-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek-townhomes/qmis/32566-midsummer-night-lane",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/t20b/0041-32566-midsummer-night-lane/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=4734c29499fa4a5695ac1787be888267&hash=E350C1E9DC0C0D87245764CAEB1F5BCF",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/t20b/0041-32566-midsummer-night-lane/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=4734c29499fa4a5695ac1787be888267&hash=E350C1E9DC0C0D87245764CAEB1F5BCF"
+          ]
+        },
+        {
           "lot": "19",
           "address": "32575 Midsummer Night Ln",
           "plan": "",
@@ -6456,24 +6521,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0026-32609-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=379872dcfe984828a72f6a15b1a4208e&hash=6B8A1EA199FE3F6739B9ABC24D550784",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0026-32609-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=379872dcfe984828a72f6a15b1a4208e&hash=6B8A1EA199FE3F6739B9ABC24D550784"
-          ]
-        },
-        {
-          "lot": "13",
-          "address": "32566 Midsummer Night Ln",
-          "plan": "",
-          "price": 298490,
-          "priceLabel": "$298,490",
-          "beds": 3,
-          "homeSlug": "32566-midsummer-night-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek-townhomes/qmis/32566-midsummer-night-lane",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/t20b/0041-32566-midsummer-night-lane/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=4734c29499fa4a5695ac1787be888267&hash=E350C1E9DC0C0D87245764CAEB1F5BCF",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/t20b/0041-32566-midsummer-night-lane/pearson_townhomes_ele_f_6_unit_1.jpg?iar=1&sc=1&thn=1&w=425&rev=4734c29499fa4a5695ac1787be888267&hash=E350C1E9DC0C0D87245764CAEB1F5BCF"
           ]
         },
         {
