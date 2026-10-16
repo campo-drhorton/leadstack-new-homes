@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-15T17:56:33.888Z",
+  "updatedAt": "2026-10-16T17:45:05.978Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-15T17:56:33.888Z",
-  "photoCount": 99,
+  "publicUpdatedAt": "2026-10-16T17:45:05.978Z",
+  "photoCount": 100,
   "communities": [
     {
       "slug": "autumn-glen",
       "name": "Autumn Glen",
       "address": "11466 SE 72nd Avenue, Belleview, FL 34420",
-      "availableCount": 4,
+      "availableCount": 5,
       "lowestPrice": 285990,
-      "highestPrice": 343570,
+      "highestPrice": 347570,
       "beds": [
         3,
         4,
@@ -73,6 +73,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0232-7099-se-112th-lane/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b31cc2f0c06341cc9d8658d6518f7836&hash=487BEBD5A798A940D07B715E2533E192",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0232-7099-se-112th-lane/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b31cc2f0c06341cc9d8658d6518f7836&hash=487BEBD5A798A940D07B715E2533E192"
+          ]
+        },
+        {
+          "lot": "70",
+          "address": "7079 SE 112th Lane",
+          "plan": "",
+          "price": 347570,
+          "priceLabel": "$347,570",
+          "beds": 5,
+          "homeSlug": "7079-se-112th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7079-se-112th-lane",
+          "baths": "3",
+          "sqft": "2,605",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0234-7079-se-112th-lane/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=0644c7ca29ee49bc8ee5377cd0186210&hash=62C2969AF6E5B7CA60779F81EAD2FAD7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0234-7079-se-112th-lane/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=0644c7ca29ee49bc8ee5377cd0186210&hash=62C2969AF6E5B7CA60779F81EAD2FAD7"
           ]
         },
         {

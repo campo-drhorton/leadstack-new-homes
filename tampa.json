@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-15T18:03:59.388Z",
+  "updatedAt": "2026-10-16T17:52:52.244Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-15T18:03:59.388Z",
-  "photoCount": 171,
+  "publicUpdatedAt": "2026-10-16T17:52:52.244Z",
+  "photoCount": 192,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -126,7 +126,7 @@
       "slug": "angeline",
       "name": "Angeline",
       "address": "17430 Pleasantview Blvd, Land O Lakes, FL 34638",
-      "availableCount": 10,
+      "availableCount": 11,
       "lowestPrice": 330000,
       "highestPrice": 420000,
       "beds": [
@@ -332,6 +332,24 @@
           ],
           "incentive": 10990,
           "incentiveLabel": "(10,990)"
+        },
+        {
+          "lot": "892",
+          "address": "9777 Brave Buck Ave",
+          "plan": "",
+          "price": 374000,
+          "priceLabel": "$374,000",
+          "beds": 4,
+          "homeSlug": "9777-brave-buck-avenue",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/9777-brave-buck-avenue",
+          "baths": "2",
+          "sqft": "1,665",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/3emb/0139-9777-brave-buck-avenue/haper_elv_c_angeline_garage_hardware2.jpg?iar=1&sc=1&thn=1&w=425&rev=52d4ed2636ee4839b41ea9da78acfc98&hash=C2A4E527FE20EF82326E56EFF414D92B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/3emb/0139-9777-brave-buck-avenue/haper_elv_c_angeline_garage_hardware2.jpg?iar=1&sc=1&thn=1&w=425&rev=52d4ed2636ee4839b41ea9da78acfc98&hash=C2A4E527FE20EF82326E56EFF414D92B"
+          ]
         }
       ],
       "models": [
@@ -521,9 +539,9 @@
       "slug": "angeline-townhomes",
       "name": "Angeline Townhomes",
       "address": "10998 Crescent Deer Dr, Land O Lakes, FL 34638",
-      "availableCount": 7,
+      "availableCount": 9,
       "lowestPrice": 260000,
-      "highestPrice": 305000,
+      "highestPrice": 307000,
       "beds": [
         3
       ],
@@ -667,6 +685,42 @@
           ],
           "incentive": 21990,
           "incentiveLabel": "(21,990)"
+        },
+        {
+          "lot": "305",
+          "address": "11121 Treasure Swale Way",
+          "plan": "",
+          "price": 307000,
+          "priceLabel": "$307,000",
+          "beds": 3,
+          "homeSlug": "11121-treasure-swale-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11121-treasure-swale-way",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0033-11121-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=40a34ee076844d3ea72ebfc6ebc0b283&hash=EE4763571EB40231AFDE55CEC5B3B171",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0033-11121-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=40a34ee076844d3ea72ebfc6ebc0b283&hash=EE4763571EB40231AFDE55CEC5B3B171"
+          ]
+        },
+        {
+          "lot": "307",
+          "address": "11129 Treasure Swale Way",
+          "plan": "",
+          "price": 307000,
+          "priceLabel": "$307,000",
+          "beds": 3,
+          "homeSlug": "11129-treasure-swale-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11129-treasure-swale-way",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0035-11129-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=7c28384f16e7400aa34b2e215eb3f164&hash=56FACFFC0279738BC990E725BADB7129",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0035-11129-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=7c28384f16e7400aa34b2e215eb3f164&hash=56FACFFC0279738BC990E725BADB7129"
+          ]
         }
       ],
       "models": [
@@ -1955,8 +2009,8 @@
           "lot": "42",
           "address": "6645 Flint Creek Dr",
           "plan": "",
-          "price": 470000,
-          "priceLabel": "$470,000",
+          "price": 471700,
+          "priceLabel": "$471,700",
           "beds": 4,
           "homeSlug": "6645-flint-creek-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/6645-flint-creek-drive",
@@ -2374,26 +2428,6 @@
           "incentiveLabel": "(990)"
         },
         {
-          "lot": "80",
-          "address": "4330 Hidden Farm Dr",
-          "plan": "",
-          "price": 360000,
-          "priceLabel": "$360,000",
-          "beds": 5,
-          "homeSlug": "4330-hidden-farm-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4330-hidden-farm-drive",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/0155-4330-hidden-farm-drive/lakeside_g_88_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=a05fd7dc4123428eacb7c7ba0cad2c04&hash=89D3D94AE6CD42D40EBA6B463E1BA94B",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/0155-4330-hidden-farm-drive/lakeside_g_88_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=a05fd7dc4123428eacb7c7ba0cad2c04&hash=89D3D94AE6CD42D40EBA6B463E1BA94B"
-          ],
-          "incentive": 4990,
-          "incentiveLabel": "(4,990)"
-        },
-        {
           "lot": "352",
           "address": "4605 Hidden Farm Drive",
           "plan": "",
@@ -2492,26 +2526,6 @@
           ],
           "incentive": 2990,
           "incentiveLabel": "(2,990)"
-        },
-        {
-          "lot": "28",
-          "address": "3513 Harvest Gardens Loop",
-          "plan": "",
-          "price": 420000,
-          "priceLabel": "$420,000",
-          "beds": 4,
-          "homeSlug": "3513-harvest-gardens-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3513-harvest-gardens-loop",
-          "baths": "3",
-          "sqft": "2,756",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2767/0114-3513-harvest-gardens-loop/fl_drhorton_tampanorth_coral-h.jpg?iar=1&sc=1&thn=1&w=425&rev=ac869a0f081a49f2969025a33e35a5ae&hash=C347F0535076BD3EC215274E024528E5",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2767/0114-3513-harvest-gardens-loop/fl_drhorton_tampanorth_coral-h.jpg?iar=1&sc=1&thn=1&w=425&rev=ac869a0f081a49f2969025a33e35a5ae&hash=C347F0535076BD3EC215274E024528E5"
-          ],
-          "incentive": 19490,
-          "incentiveLabel": "(19,490)"
         },
         {
           "lot": "189",
@@ -2630,6 +2644,42 @@
           ],
           "incentive": 740,
           "incentiveLabel": "(740)"
+        },
+        {
+          "lot": "208",
+          "address": "4620 Hidden Farm Drive",
+          "plan": "",
+          "price": 374000,
+          "priceLabel": "$374,000",
+          "beds": 4,
+          "homeSlug": "4620-hidden-farm-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4620-hidden-farm-drive",
+          "baths": "2.5",
+          "sqft": "2,305",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e303/0654-4620-hidden-farm-drive/fl_drhorton_tampanorth_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6ce424f283d8464ba91eae7567bd0686&hash=9C7A2EB9BDCFAC38C9B2D9AEA8F6A433",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e303/0654-4620-hidden-farm-drive/fl_drhorton_tampanorth_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6ce424f283d8464ba91eae7567bd0686&hash=9C7A2EB9BDCFAC38C9B2D9AEA8F6A433"
+          ]
+        },
+        {
+          "lot": "166",
+          "address": "3518 Hazy Glen Lane",
+          "plan": "",
+          "price": 439990,
+          "priceLabel": "$439,990",
+          "beds": 4,
+          "homeSlug": "3518-hazy-glen-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3518-hazy-glen-lane",
+          "baths": "3",
+          "sqft": "2,537",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2558/0106-3518-hazy-glen-lane/fl_tampanorth_drhorton_hawthorne_b.jpg?iar=1&sc=1&thn=1&w=425&rev=aa0e02a811d44e08b8e66c60140006b7&hash=F46C6510299FAF997F72D0CC4028EA6A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2558/0106-3518-hazy-glen-lane/fl_tampanorth_drhorton_hawthorne_b.jpg?iar=1&sc=1&thn=1&w=425&rev=aa0e02a811d44e08b8e66c60140006b7&hash=F46C6510299FAF997F72D0CC4028EA6A"
+          ]
         },
         {
           "lot": "156",
@@ -2882,9 +2932,9 @@
       "slug": "hammock-at-two-rivers",
       "name": "Hammock at Two Rivers",
       "address": "1383 Chasehill Lane, Zephyrhills, FL 33541",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 435000,
-      "highestPrice": 550000,
+      "highestPrice": 642290,
       "beds": [
         4,
         5
@@ -3027,6 +3077,24 @@
           ],
           "incentive": 25490,
           "incentiveLabel": "(25,490)"
+        },
+        {
+          "lot": "9",
+          "address": "1145 Chasehill Lane",
+          "plan": "",
+          "price": 642290,
+          "priceLabel": "$642,290",
+          "beds": 5,
+          "homeSlug": "1145-chasehill-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/hammock-at-two-rivers/qmis/1145-chasehill-lane",
+          "baths": "4.5",
+          "sqft": "3,975",
+          "story": "2",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/3975/0130-1145-chasehill-lane/torino_h_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=9374800129cb41d3b936c4ce731bc4ea&hash=9289320753B502E448829C41A0C1367B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394410000-hammock-at-two-rivers-60s-emd/3975/0130-1145-chasehill-lane/torino_h_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=9374800129cb41d3b936c4ce731bc4ea&hash=9289320753B502E448829C41A0C1367B"
+          ]
         }
       ],
       "models": [
@@ -3364,9 +3432,9 @@
       "slug": "two-rivers",
       "name": "Northwater at Two Rivers",
       "address": "35871 Sunflower Hill Drive, Zephyrhills, FL 33541",
-      "availableCount": 2,
+      "availableCount": 3,
       "lowestPrice": 348000,
-      "highestPrice": 355000,
+      "highestPrice": 384000,
       "beds": [
         3,
         4
@@ -3411,6 +3479,24 @@
           ],
           "incentive": 15490,
           "incentiveLabel": "(15,490)"
+        },
+        {
+          "lot": "2",
+          "address": "35458 Kinsey Point",
+          "plan": "",
+          "price": 384000,
+          "priceLabel": "$384,000",
+          "beds": 4,
+          "homeSlug": "35458-kinsey-point",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers/qmis/35458-kinsey-point",
+          "baths": "2.5",
+          "sqft": "1,866",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/e315/0181-35458-kinsey-point/crestview_elev_b__8_0_no_stone_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b74eb34d100b43ba9245ff0a2dc9fb32&hash=DEBD8B47DEBB093D33EB987CCC41C70C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/e315/0181-35458-kinsey-point/crestview_elev_b__8_0_no_stone_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b74eb34d100b43ba9245ff0a2dc9fb32&hash=DEBD8B47DEBB093D33EB987CCC41C70C"
+          ]
         }
       ],
       "models": [
@@ -3869,7 +3955,7 @@
       "name": "Ruskin Preserve Townhomes",
       "address": "421 Warm Heron Pl, Ruskin, FL 33570",
       "availableCount": 12,
-      "lowestPrice": 272000,
+      "lowestPrice": 250000,
       "highestPrice": 285000,
       "beds": [
         3
@@ -3999,8 +4085,8 @@
           "lot": "100",
           "address": "923 Spotted Egret Loop",
           "plan": "",
-          "price": 272000,
-          "priceLabel": "$272,000",
+          "price": 250000,
+          "priceLabel": "$250,000",
           "beds": 3,
           "homeSlug": "923-spotted-egret-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/qmis/923-spotted-egret-loop",
@@ -4012,8 +4098,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0056-923-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=4bc4a5e6349d448b8af5d2c6a98622c5&hash=CD0818A1BC76307E6A3F270F8C093A76"
           ],
-          "incentive": 990,
-          "incentiveLabel": "(990)"
+          "incentive": 22990,
+          "incentiveLabel": "(22,990)"
         },
         {
           "lot": "101",
@@ -5138,9 +5224,9 @@
       "slug": "towns-at-woodsdale",
       "name": "Towns at Woodsdale",
       "address": "31302 Ancient Sage Road, Wesley Chapel, FL 33545",
-      "availableCount": 8,
+      "availableCount": 24,
       "lowestPrice": 260000,
-      "highestPrice": 311990,
+      "highestPrice": 330000,
       "beds": [
         3
       ],
@@ -5262,6 +5348,78 @@
           "incentiveLabel": "(1,990)"
         },
         {
+          "lot": "90",
+          "address": "31197 Paper Birch St",
+          "plan": "",
+          "price": 330000,
+          "priceLabel": "$330,000",
+          "beds": 3,
+          "homeSlug": "31197-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31197-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,758",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1759/0036-31197-paper-birch-street/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=f0cb7377c1524e8ab183a35d35a0c5a1&hash=159C3C9A178BE6613BE6A182F1728B55",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1759/0036-31197-paper-birch-street/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=f0cb7377c1524e8ab183a35d35a0c5a1&hash=159C3C9A178BE6613BE6A182F1728B55"
+          ]
+        },
+        {
+          "lot": "89",
+          "address": "31201 Paper Birch St",
+          "plan": "",
+          "price": 305000,
+          "priceLabel": "$305,000",
+          "beds": 3,
+          "homeSlug": "31201-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31201-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1674/0035-31201-paper-birch-street/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=385157ac5eca45879f564ef25190eb9a&hash=235E9383BB6668474E9218B2F14A2A54",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1674/0035-31201-paper-birch-street/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=385157ac5eca45879f564ef25190eb9a&hash=235E9383BB6668474E9218B2F14A2A54"
+          ]
+        },
+        {
+          "lot": "88",
+          "address": "31205 Paper Birch St",
+          "plan": "",
+          "price": 310000,
+          "priceLabel": "$310,000",
+          "beds": 3,
+          "homeSlug": "31205-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31205-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1674/0034-31205-paper-birch-street/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=699fbaaac0e34d98a1ced98a3effe964&hash=9F5957203407D3AB06D23B73978D22DC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1674/0034-31205-paper-birch-street/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=699fbaaac0e34d98a1ced98a3effe964&hash=9F5957203407D3AB06D23B73978D22DC"
+          ]
+        },
+        {
+          "lot": "87",
+          "address": "31209 Paper Birch St",
+          "plan": "",
+          "price": 310000,
+          "priceLabel": "$310,000",
+          "beds": 3,
+          "homeSlug": "31209-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31209-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1674/0033-31209-paper-birch-street/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=84ed9cc06dd44e569f1ef843374124d7&hash=3A5E6060644173AE3C478A309F8CC722",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1674/0033-31209-paper-birch-street/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=84ed9cc06dd44e569f1ef843374124d7&hash=3A5E6060644173AE3C478A309F8CC722"
+          ]
+        },
+        {
           "lot": "86",
           "address": "31213 Paper Birch St",
           "plan": "",
@@ -5277,6 +5435,222 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1674/0032-31213-paper-birch-street/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=603db7276dcc4c08ba7e6da538aa2424&hash=8A589956118F7B3B625B305066C9991C",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1674/0032-31213-paper-birch-street/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=603db7276dcc4c08ba7e6da538aa2424&hash=8A589956118F7B3B625B305066C9991C"
+          ]
+        },
+        {
+          "lot": "132",
+          "address": "31214 Paper Birch St",
+          "plan": "",
+          "price": 290000,
+          "priceLabel": "$290,000",
+          "beds": 3,
+          "homeSlug": "31214-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31214-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0078-31214-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=9e283bb14caa4c7b90ced3f6e51dc431&hash=D2206EF096EB994CEB02E8324DA63E1F",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0078-31214-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=9e283bb14caa4c7b90ced3f6e51dc431&hash=D2206EF096EB994CEB02E8324DA63E1F"
+          ]
+        },
+        {
+          "lot": "85",
+          "address": "31217 Paper Birch St",
+          "plan": "",
+          "price": 330000,
+          "priceLabel": "$330,000",
+          "beds": 3,
+          "homeSlug": "31217-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31217-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,758",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1759/0031-31217-paper-birch-street/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=32f04a1a35db4a708a486441f3c73209&hash=4B0B4FEB61AA92573333D938EAB5550A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/1759/0031-31217-paper-birch-street/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=32f04a1a35db4a708a486441f3c73209&hash=4B0B4FEB61AA92573333D938EAB5550A"
+          ]
+        },
+        {
+          "lot": "133",
+          "address": "31218 Paper Birch St",
+          "plan": "",
+          "price": 285000,
+          "priceLabel": "$285,000",
+          "beds": 3,
+          "homeSlug": "31218-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31218-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0079-31218-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=cf5b45f5c3e64ba495eeea6f09eb36aa&hash=8258508E04811164118CA0DCB9E5AD9B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0079-31218-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=cf5b45f5c3e64ba495eeea6f09eb36aa&hash=8258508E04811164118CA0DCB9E5AD9B"
+          ]
+        },
+        {
+          "lot": "134",
+          "address": "31222 Paper Birch St",
+          "plan": "",
+          "price": 290000,
+          "priceLabel": "$290,000",
+          "beds": 3,
+          "homeSlug": "31222-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31222-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0080-31222-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=795f48d3f95e4d8aabc5818109635f3a&hash=CE7B0BE1AA1458CAE1BD09A85F4F3490",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0080-31222-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=795f48d3f95e4d8aabc5818109635f3a&hash=CE7B0BE1AA1458CAE1BD09A85F4F3490"
+          ]
+        },
+        {
+          "lot": "199",
+          "address": "31225 Midnight Sun Way",
+          "plan": "",
+          "price": 290000,
+          "priceLabel": "$290,000",
+          "beds": 3,
+          "homeSlug": "31225-midnight-sun-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31225-midnight-sun-way",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0145-31225-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d5accd8f7b85441a8c44f8af85c22d78&hash=8A03FDF98492B16C9F7984FDC63A3DA2",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0145-31225-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d5accd8f7b85441a8c44f8af85c22d78&hash=8A03FDF98492B16C9F7984FDC63A3DA2"
+          ]
+        },
+        {
+          "lot": "135",
+          "address": "31226 Paper Birch St",
+          "plan": "",
+          "price": 290000,
+          "priceLabel": "$290,000",
+          "beds": 3,
+          "homeSlug": "31226-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31226-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0081-31226-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=4ce59623dea34619a7be69f181b5f8d5&hash=99B421EA77E944B4F21E722A7F49161D",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0081-31226-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=4ce59623dea34619a7be69f181b5f8d5&hash=99B421EA77E944B4F21E722A7F49161D"
+          ]
+        },
+        {
+          "lot": "136",
+          "address": "31230 Paper Birch St",
+          "plan": "",
+          "price": 285000,
+          "priceLabel": "$285,000",
+          "beds": 3,
+          "homeSlug": "31230-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31230-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0082-31230-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=c7c7613ea187450688e91617424d182e&hash=229653850AF91734CFAA2021B54CC3E7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0082-31230-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=c7c7613ea187450688e91617424d182e&hash=229653850AF91734CFAA2021B54CC3E7"
+          ]
+        },
+        {
+          "lot": "197",
+          "address": "31233 Midnight Sun Way",
+          "plan": "",
+          "price": 290000,
+          "priceLabel": "$290,000",
+          "beds": 3,
+          "homeSlug": "31233-midnight-sun-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31233-midnight-sun-way",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0143-31233-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=2c80c5ad40d54747a3ec9561d7c2a6e9&hash=0C975147FF2F80AF9496E819E52002AC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0143-31233-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=2c80c5ad40d54747a3ec9561d7c2a6e9&hash=0C975147FF2F80AF9496E819E52002AC"
+          ]
+        },
+        {
+          "lot": "137",
+          "address": "31234 Paper Birch St",
+          "plan": "",
+          "price": 290000,
+          "priceLabel": "$290,000",
+          "beds": 3,
+          "homeSlug": "31234-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31234-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0083-31234-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=e826fb6844164a068ea8073d7ecdb937&hash=B894A3FF24685B30C4ABA218BE78FD4D",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0083-31234-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=e826fb6844164a068ea8073d7ecdb937&hash=B894A3FF24685B30C4ABA218BE78FD4D"
+          ]
+        },
+        {
+          "lot": "196",
+          "address": "31237 Midnight Sun Way",
+          "plan": "",
+          "price": 290000,
+          "priceLabel": "$290,000",
+          "beds": 3,
+          "homeSlug": "31237-midnight-sun-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31237-midnight-sun-way",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0142-31237-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=b97ac25cffc340f290d93ade660c2c67&hash=46C0F5822311F0EBFBC5003C58827139",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0142-31237-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=b97ac25cffc340f290d93ade660c2c67&hash=46C0F5822311F0EBFBC5003C58827139"
+          ]
+        },
+        {
+          "lot": "138",
+          "address": "31238 Paper Birch St",
+          "plan": "",
+          "price": 307000,
+          "priceLabel": "$307,000",
+          "beds": 3,
+          "homeSlug": "31238-paper-birch-street",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31238-paper-birch-street",
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0084-31238-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=eaf399a27db74b5a925960859774dce1&hash=FEF5C66EE2002338BE0E81F0DD3AE372",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20a/0084-31238-paper-birch-street/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=eaf399a27db74b5a925960859774dce1&hash=FEF5C66EE2002338BE0E81F0DD3AE372"
+          ]
+        },
+        {
+          "lot": "195",
+          "address": "31241 Midnight Sun Way",
+          "plan": "",
+          "price": 285000,
+          "priceLabel": "$285,000",
+          "beds": 3,
+          "homeSlug": "31241-midnight-sun-way",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31241-midnight-sun-way",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0141-31241-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d80a22463e95413098c9524536524d5d&hash=1ED9F4010DD1BCB302332B13E21B3CE9",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0141-31241-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d80a22463e95413098c9524536524d5d&hash=1ED9F4010DD1BCB302332B13E21B3CE9"
           ]
         },
         {
