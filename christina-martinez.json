@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T17:45:05.978Z",
+  "updatedAt": "2026-10-17T16:45:08.098Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-16T17:45:05.978Z",
+  "publicUpdatedAt": "2026-10-17T16:45:08.098Z",
   "photoCount": 100,
   "communities": [
     {
@@ -2286,7 +2286,7 @@
       "address": "5405 SW 44th Court Rd, Ocala, FL 34474",
       "availableCount": 8,
       "lowestPrice": 287990,
-      "highestPrice": 420990,
+      "highestPrice": 422955,
       "beds": [
         3,
         4,
@@ -2437,8 +2437,8 @@
           "lot": "126",
           "address": "4225 SW 52Nd Lane Rd",
           "plan": "Holden",
-          "price": 420990,
-          "priceLabel": "$420,990",
+          "price": 422955,
+          "priceLabel": "$422,955",
           "beds": 4,
           "homeSlug": "4225-sw-52nd-lane-rd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/4225-sw-52nd-lane-rd",

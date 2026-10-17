@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T17:52:52.244Z",
+  "updatedAt": "2026-10-17T16:52:03.709Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-16T17:52:52.244Z",
+  "publicUpdatedAt": "2026-10-17T16:52:03.709Z",
   "photoCount": 192,
   "communities": [
     {
@@ -1743,36 +1743,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e407/freepoart_b_no_stone_8_0_no_cl.jpg?as=1&w=425&rev=e85a460ecd4b430685e9671348ca24a0&hash=3D01D0B99AA80E5C6D48637CC308D2D7",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e407/freepoart_b_no_stone_8_0_no_cl.jpg?as=1&w=425&rev=e85a460ecd4b430685e9671348ca24a0&hash=3D01D0B99AA80E5C6D48637CC308D2D7"
-          ]
-        },
-        {
-          "slug": "3emb",
-          "name": "Harper",
-          "startingLabel": "Starting in the $322s",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/brookside/floor-plans/3emb",
-          "beds": 4,
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/3emb/north-harper-c-stucco-gen3-elev_ind.jpg?as=1&w=425&rev=39a8b76a0aa64e2ab9b10ee54678b6b4&hash=565A144C00765D55217851B4D5AAF204",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/3emb/north-harper-c-stucco-gen3-elev_ind.jpg?as=1&w=425&rev=39a8b76a0aa64e2ab9b10ee54678b6b4&hash=565A144C00765D55217851B4D5AAF204"
-          ]
-        },
-        {
-          "slug": "e405",
-          "name": "Dundee",
-          "startingLabel": "Starting in the $328s",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/brookside/floor-plans/e405",
-          "beds": 5,
-          "baths": "2",
-          "sqft": "1,708",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e405/dundee_ele_a.jpg?as=1&w=425&rev=41c245816f5f45fc992e166cda67af3b&hash=19AF26FC92257DD3680779DFC7576556",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e405/dundee_ele_a.jpg?as=1&w=425&rev=41c245816f5f45fc992e166cda67af3b&hash=19AF26FC92257DD3680779DFC7576556"
           ]
         },
         {
@@ -4308,8 +4278,8 @@
           "lot": "4",
           "address": "12611 Citrus Park Lane",
           "plan": "",
-          "price": 425014,
-          "priceLabel": "$425,014",
+          "price": 425013,
+          "priceLabel": "$425,013",
           "beds": 3,
           "homeSlug": "12611-citrus-park-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/12611-citrus-park-lane",
@@ -5767,8 +5737,8 @@
       "name": "Waterstone",
       "address": "4703 Silver Current Ave, Tampa, FL 33617",
       "availableCount": 4,
-      "lowestPrice": 420000,
-      "highestPrice": 470000,
+      "lowestPrice": 445000,
+      "highestPrice": 495000,
       "beds": [
         3,
         4,
@@ -5779,8 +5749,8 @@
           "lot": "30",
           "address": "4709 Silver Current Ave",
           "plan": "",
-          "price": 470000,
-          "priceLabel": "$470,000",
+          "price": 495000,
+          "priceLabel": "$495,000",
           "beds": 5,
           "homeSlug": "4709-silver-current-ave",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4709-silver-current-ave",
@@ -5799,8 +5769,8 @@
           "lot": "27",
           "address": "4723 Silver Current Ave",
           "plan": "",
-          "price": 440000,
-          "priceLabel": "$440,000",
+          "price": 465000,
+          "priceLabel": "$465,000",
           "beds": 4,
           "homeSlug": "4723-silver-current-ave",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4723-silver-current-ave",
@@ -5819,8 +5789,8 @@
           "lot": "18",
           "address": "4724 Silver Current Ave",
           "plan": "",
-          "price": 470000,
-          "priceLabel": "$470,000",
+          "price": 495000,
+          "priceLabel": "$495,000",
           "beds": 5,
           "homeSlug": "4724-silver-current-ave",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4724-silver-current-ave",
@@ -5839,8 +5809,8 @@
           "lot": "21",
           "address": "8304 Riverbend Rise Ln",
           "plan": "",
-          "price": 420000,
-          "priceLabel": "$420,000",
+          "price": 445000,
+          "priceLabel": "$445,000",
           "beds": 3,
           "homeSlug": "8304-riverbend-rise-ln",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/8304-riverbend-rise-ln",
@@ -5860,7 +5830,7 @@
         {
           "slug": "e302",
           "name": "Allex II",
-          "startingLabel": "Starting in the $407s",
+          "startingLabel": "Starting in the $432s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/e302",
           "beds": 3,
           "baths": "2",
@@ -5875,7 +5845,7 @@
         {
           "slug": "e315",
           "name": "Crestview",
-          "startingLabel": "Starting in the $434s",
+          "startingLabel": "Starting in the $459s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/e315",
           "beds": 4,
           "baths": "2.5",
@@ -5890,7 +5860,7 @@
         {
           "slug": "e303",
           "name": "Elston II",
-          "startingLabel": "Starting in the $461s",
+          "startingLabel": "Starting in the $486s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/e303",
           "beds": 4,
           "baths": "2.5",
@@ -5905,7 +5875,7 @@
         {
           "slug": "3emb",
           "name": "Harper",
-          "startingLabel": "Starting in the $418s",
+          "startingLabel": "Starting in the $443s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/3emb",
           "beds": 4,
           "baths": "2",
@@ -5920,7 +5890,7 @@
         {
           "slug": "4ehb",
           "name": "Hayden",
-          "startingLabel": "Starting in the $471s",
+          "startingLabel": "Starting in the $496s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/4ehb",
           "beds": 5,
           "baths": "3",
@@ -5935,7 +5905,7 @@
         {
           "slug": "e304",
           "name": "Robie II",
-          "startingLabel": "Starting in the $468s",
+          "startingLabel": "Starting in the $493s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/e304",
           "beds": 5,
           "baths": "3",

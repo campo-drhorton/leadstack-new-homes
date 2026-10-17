@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T17:52:52.316Z",
+  "updatedAt": "2026-10-17T16:52:03.840Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
@@ -7111,68 +7111,6 @@
           ]
         },
         {
-          "slug": "3emb",
-          "name": "Harper",
-          "startingLabel": "Starting in the $322s",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/brookside/floor-plans/3emb",
-          "beds": 4,
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/3emb/north-harper-c-stucco-gen3-elev_ind.jpg?as=1&w=494&rev=39a8b76a0aa64e2ab9b10ee54678b6b4&hash=22A385787D9745F8EFA9B22E01AD9EBB",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/3emb/north-harper-c-stucco-gen3-elev_ind.jpg?as=1&w=494&rev=39a8b76a0aa64e2ab9b10ee54678b6b4&hash=22A385787D9745F8EFA9B22E01AD9EBB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/3emb/north-harper-g-stucco-gen3-elev_ind.jpg?as=1&w=494&rev=d0344c19032a4c5bae28caed9dd64088&hash=E6356F07CBE40FE4BF2AE353738275FA",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/8-custom-berry_bay_ave-s2102-008.jpg?as=1&w=494&rev=1931088b597d42dc8474ebc2bab57c2e&hash=9058D5BF4003701D83EBEE1F3C1304E4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/9-custom-berry_bay_ave-s2102-009.jpg?as=1&w=494&rev=8a1767d4b3ac444bab9e4df9ab15f964&hash=47A2F65A21721498CFB93EB10AA2CD98",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/10-custom-berry_bay_ave-s2102-010.jpg?as=1&w=494&rev=d932597281464ecbb8663153708a7962&hash=48DE050313C945E8A0A6695A124589AB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/11-custom-berry_bay_ave-s2102-011.jpg?as=1&w=494&rev=d8017bf5c4c8450fabb8fa70507763c4&hash=B0B981DD30C65423A1AEEF86416366BB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/12-custom-berry_bay_ave-s2102-012.jpg?as=1&w=494&rev=1738f39cd59a4360b57760813c733267&hash=B8399BEF0BB83235A735EF225DDB80F4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/13-custom-berry_bay_ave-s2102-013.jpg?as=1&w=494&rev=c6588076983a46a193a92226c6cbe85c&hash=43E7E39483321F4691201574B178A0C3",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/14-custom-berry_bay_ave-s2102-014.jpg?as=1&w=494&rev=1475e34782e64d929e22efab7ebf634a&hash=4B05EDE09416FD43F2679D33A4DE188B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/15-custom-berry_bay_ave-s2102-015.jpg?as=1&w=494&rev=f3ab6bff2ec641d9af37c7830840cc28&hash=AC6D3386F02BA74BC64F663F4774EF2F",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/16-custom-berry_bay_ave-s2102-016.jpg?as=1&w=494&rev=2d2f5f107c9942a7af3b026dd59c5b8c&hash=45CB5C5E856E017913BFE01FA4C158A1",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/17-custom-berry_bay_ave-s2102-017.jpg?as=1&w=494&rev=d6759a307c3a4ddd80c0af1d043ac339&hash=FBEEC199F82AC456EE0E7A2D28B454D6",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/18-custom-berry_bay_ave-s2102-018.jpg?as=1&w=494&rev=b74898d91ccd446485dc4ae8c0c92b85&hash=ED719BE5E1E67EC0655E6F51BFDB0C5E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/19-custom-berry_bay_ave-s2102-019.jpg?as=1&w=494&rev=576004363c934ccfa95e7a80ec0780a9&hash=280C5DA62BECD7F28806872898514886",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/20-custom-berry_bay_ave-s2102-020.jpg?as=1&w=494&rev=b58fe9a829634c389e010146848b3fba&hash=9700B5895201C95F925F7526182B5884",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/21-custom-berry_bay_ave-s2102-021.jpg?as=1&w=494&rev=c610c65cd22f42ef95da64a27c2b8ffc&hash=B0B4CB8A48CF89A889CCA16FE747B0A0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/22-custom-berry_bay_ave-s2102-022.jpg?as=1&w=494&rev=7ed85f7899504148b39d8073d9bfa981&hash=59861CB7305D19FD35B046613A4BFF1B",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/23-custom-berry_bay_ave-s2102-023.jpg?as=1&w=494&rev=d9cd1d3645924d3bb9f3d1558568551f&hash=250FB4C4B68030DA5A4B08FD71AC8975",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/24-custom-berry_bay_ave-s2102-024.jpg?as=1&w=494&rev=ff261d69be784b4ca082bdc92cb201f9&hash=1D96501F105B8074A0D57193E0104AB9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/25-custom-berry_bay_ave-s2102-025.jpg?as=1&w=494&rev=3cfff14575e649b792f194b68fc6668b&hash=D44E257DB9C79FD54136261262567BB5",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/26-custom-berry_bay_ave-s2102-026.jpg?as=1&w=494&rev=ac41a13f447d40f2843b65585a737dcb&hash=E7BC3D918310BF15C8CF400C0D8DAD61",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/27-custom-berry_bay_ave-s2102-027.jpg?as=1&w=494&rev=70348beb3c784ab69cd851d7cecde38a&hash=BBA625FEF90F1AA08D5B9D50FC37097E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/28-custom-berry_bay_ave-s2102-028.jpg?as=1&w=494&rev=4748e5b834144119bc01cd330ca1a0d9&hash=BD9A4C4C2B8C3BB5D3BF7624DEBF3D1A",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/29-custom-berry_bay_ave-s2102-029.jpg?as=1&w=494&rev=3c724ef273224c258f9d138e41edbd01&hash=E573DE20EEEC0DF536B0DA102A730339",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/30-custom-berry_bay_ave-s2102-030.jpg?as=1&w=494&rev=24d12f2f88514e1999f8a83786ae79ca&hash=AD3472E4C8D5C879BB1DFF083F3002C9",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/31-custom-berry_bay_ave-s2102-031.jpg?as=1&w=494&rev=b24a6b2a85464838adc6080f43837184&hash=C81628971FAE7BB6BEA75187449797A8",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/32-custom-berry_bay_ave-s2102-032.jpg?as=1&w=494&rev=75a528d14f2a49e3a6888ceb86f22bcb&hash=4F60359B354ACA7DC3B36854DD7B27C0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/33-custom-berry_bay_ave-s2102-033.jpg?as=1&w=494&rev=3aca6b70746c4828bae54de0487473e5&hash=A36316EB32A7804DA46DB548E915675E",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/34-custom-berry_bay_ave-s2102-034.jpg?as=1&w=494&rev=0ad7db361a144818ae736b849c309611&hash=72BCE10E3C697D886C6ABE972D37D328",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/35-custom-berry_bay_ave-s2102-035.jpg?as=1&w=494&rev=5e83487b4ce644bdb166573297855e8c&hash=7A86EA924C52962E4684AD6331583BE0",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/3emb/37-custom-berry_bay_ave-s2102-037.jpg?as=1&w=494&rev=49187e1212d34dccae086142470c6681&hash=EF0B2437D87CE5B830BFEA1CA6F45FEB"
-          ]
-        },
-        {
-          "slug": "e405",
-          "name": "Dundee",
-          "startingLabel": "Starting in the $328s",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/brookside/floor-plans/e405",
-          "beds": 5,
-          "baths": "2",
-          "sqft": "1,708",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e405/dundee_ele_a.jpg?as=1&w=494&rev=41c245816f5f45fc992e166cda67af3b&hash=A11E9845A751E429468631E92A9705CB",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e405/dundee_ele_a.jpg?as=1&w=494&rev=41c245816f5f45fc992e166cda67af3b&hash=A11E9845A751E429468631E92A9705CB",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e405/dundee_ele_b.jpg?as=1&w=494&rev=a65ecf664c734d72ae17fe42acb43c6e&hash=6244E0863F272E3C022C3729F07824F4",
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e405/dundee_ele_c.jpg?as=1&w=494&rev=0d1eaace592f470a8e56b013c100f776&hash=86DF743E7F45B3AAB4C9A20DB6EC868F"
-          ]
-        },
-        {
           "slug": "4ebb",
           "name": "Cali",
           "startingLabel": "Starting in the $354s",
@@ -11815,7 +11753,11 @@
           "baths": "2.5",
           "sqft": "1,866",
           "story": "2",
-          "garage": "2"
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/e315/_0001_1_exterior.jpg?as=1&w=425&rev=58c658761afc4cffae8092e2955aa486&hash=FD20CE00A8656EBACDA035F2DB38CED0",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/e315/_0001_1_exterior.jpg?as=1&w=425&rev=58c658761afc4cffae8092e2955aa486&hash=FD20CE00A8656EBACDA035F2DB38CED0"
+          ]
         },
         {
           "slug": "e303",
@@ -18889,6 +18831,15 @@
           ]
         },
         {
+          "slug": "e315",
+          "name": "Crestview",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/floor-plans/e315",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362200000-fox-branch-ranch-ph1--2-40s/e315/crestview_a_stone.jpg?as=1&w=425&rev=9ddc4433cde5433db9c0541c3a477139&hash=5C1BB768DCC8C342380CB39D5F58EB88",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362200000-fox-branch-ranch-ph1--2-40s/e315/crestview_a_stone.jpg?as=1&w=425&rev=9ddc4433cde5433db9c0541c3a477139&hash=5C1BB768DCC8C342380CB39D5F58EB88"
+          ]
+        },
+        {
           "slug": "e303",
           "name": "Elston II",
           "startingLabel": "Starting in the $345s",
@@ -19697,7 +19648,7 @@
       "slug": "hamilton-bluff",
       "name": "Hamilton Bluff",
       "address": "1607 Plateau Crossing, Haines City, FL 33844",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 284990,
       "highestPrice": 368250,
       "beds": [
@@ -19958,6 +19909,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/3eab/0019-1770-grandiose-drive/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=9e796e30a9564cec85e4cfd0c7dcfe7f&hash=7A3B3D65052C23AF503C4A688FF17923",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/3eab/0019-1770-grandiose-drive/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=9e796e30a9564cec85e4cfd0c7dcfe7f&hash=7A3B3D65052C23AF503C4A688FF17923"
+          ]
+        },
+        {
+          "lot": "22",
+          "address": "1778 Grandiose Drive",
+          "plan": "",
+          "price": 364990,
+          "priceLabel": "$364,990",
+          "beds": 5,
+          "homeSlug": "1778-grandiose-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1778-grandiose-drive",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0019-1778-grandiose-drive/lakeside_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=d154a076c5784d18b19badf79356cf45&hash=ABDD4D9E21D4ACE5C487EAA5BB3CF994",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0019-1778-grandiose-drive/lakeside_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=d154a076c5784d18b19badf79356cf45&hash=ABDD4D9E21D4ACE5C487EAA5BB3CF994"
           ]
         },
         {
@@ -34348,7 +34317,7 @@
       "address": "5405 SW 44th Court Rd, Ocala, FL 34474",
       "availableCount": 8,
       "lowestPrice": 287990,
-      "highestPrice": 420990,
+      "highestPrice": 422955,
       "beds": [
         3,
         4,
@@ -34584,8 +34553,8 @@
           "lot": "126",
           "address": "4225 SW 52Nd Lane Rd",
           "plan": "Holden",
-          "price": 420990,
-          "priceLabel": "$420,990",
+          "price": 422955,
+          "priceLabel": "$422,955",
           "beds": 4,
           "homeSlug": "4225-sw-52nd-lane-rd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/4225-sw-52nd-lane-rd",
@@ -36334,8 +36303,8 @@
           "lot": "4",
           "address": "12611 Citrus Park Lane",
           "plan": "",
-          "price": 425014,
-          "priceLabel": "$425,014",
+          "price": 425013,
+          "priceLabel": "$425,013",
           "beds": 3,
           "homeSlug": "12611-citrus-park-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/12611-citrus-park-lane",
@@ -46425,8 +46394,8 @@
       "name": "Waterstone",
       "address": "4703 Silver Current Ave, Tampa, FL 33617",
       "availableCount": 4,
-      "lowestPrice": 420000,
-      "highestPrice": 470000,
+      "lowestPrice": 445000,
+      "highestPrice": 495000,
       "beds": [
         3,
         4,
@@ -46437,8 +46406,8 @@
           "lot": "30",
           "address": "4709 Silver Current Ave",
           "plan": "",
-          "price": 470000,
-          "priceLabel": "$470,000",
+          "price": 495000,
+          "priceLabel": "$495,000",
           "beds": 5,
           "homeSlug": "4709-silver-current-ave",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4709-silver-current-ave",
@@ -46479,8 +46448,8 @@
           "lot": "27",
           "address": "4723 Silver Current Ave",
           "plan": "",
-          "price": 440000,
-          "priceLabel": "$440,000",
+          "price": 465000,
+          "priceLabel": "$465,000",
           "beds": 4,
           "homeSlug": "4723-silver-current-ave",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4723-silver-current-ave",
@@ -46534,8 +46503,8 @@
           "lot": "18",
           "address": "4724 Silver Current Ave",
           "plan": "",
-          "price": 470000,
-          "priceLabel": "$470,000",
+          "price": 495000,
+          "priceLabel": "$495,000",
           "beds": 5,
           "homeSlug": "4724-silver-current-ave",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4724-silver-current-ave",
@@ -46554,8 +46523,8 @@
           "lot": "21",
           "address": "8304 Riverbend Rise Ln",
           "plan": "",
-          "price": 420000,
-          "priceLabel": "$420,000",
+          "price": 445000,
+          "priceLabel": "$445,000",
           "beds": 3,
           "homeSlug": "8304-riverbend-rise-ln",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/8304-riverbend-rise-ln",
@@ -46575,7 +46544,7 @@
         {
           "slug": "e302",
           "name": "Allex II",
-          "startingLabel": "Starting in the $407s",
+          "startingLabel": "Starting in the $432s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/e302",
           "beds": 3,
           "baths": "2",
@@ -46628,7 +46597,7 @@
         {
           "slug": "e315",
           "name": "Crestview",
-          "startingLabel": "Starting in the $434s",
+          "startingLabel": "Starting in the $459s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/e315",
           "beds": 4,
           "baths": "2.5",
@@ -46644,7 +46613,7 @@
         {
           "slug": "e303",
           "name": "Elston II",
-          "startingLabel": "Starting in the $461s",
+          "startingLabel": "Starting in the $486s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/e303",
           "beds": 4,
           "baths": "2.5",
@@ -46699,7 +46668,7 @@
         {
           "slug": "3emb",
           "name": "Harper",
-          "startingLabel": "Starting in the $418s",
+          "startingLabel": "Starting in the $443s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/3emb",
           "beds": 4,
           "baths": "2",
@@ -46738,7 +46707,7 @@
         {
           "slug": "4ehb",
           "name": "Hayden",
-          "startingLabel": "Starting in the $471s",
+          "startingLabel": "Starting in the $496s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/4ehb",
           "beds": 5,
           "baths": "3",
@@ -46777,7 +46746,7 @@
         {
           "slug": "e304",
           "name": "Robie II",
-          "startingLabel": "Starting in the $468s",
+          "startingLabel": "Starting in the $493s",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/floor-plans/e304",
           "beds": 5,
           "baths": "3",

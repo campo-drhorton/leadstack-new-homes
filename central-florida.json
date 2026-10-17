@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-16T17:50:38.234Z",
+  "updatedAt": "2026-10-17T16:50:12.432Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-16T17:50:38.234Z",
-  "photoCount": 521,
+  "publicUpdatedAt": "2026-10-17T16:50:12.432Z",
+  "photoCount": 522,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -4178,7 +4178,11 @@
           "baths": "2.5",
           "sqft": "1,866",
           "story": "2",
-          "garage": "2"
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/e315/_0001_1_exterior.jpg?as=1&w=425&rev=58c658761afc4cffae8092e2955aa486&hash=FD20CE00A8656EBACDA035F2DB38CED0",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/e315/_0001_1_exterior.jpg?as=1&w=425&rev=58c658761afc4cffae8092e2955aa486&hash=FD20CE00A8656EBACDA035F2DB38CED0"
+          ]
         },
         {
           "slug": "e303",
@@ -4280,9 +4284,9 @@
           "sqft": "2,447",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/3efb/robie_g_stone_cropped.jpg?as=1&w=425&rev=0b61ed770bf246e3b696df469dc3c789&hash=8081D32CAB761D6C11CACA67ED3D37FB",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/3efb/cropped_0003_robie_g.jpg?as=1&w=425&rev=bf012da2fda34b00b6c87c134790f52d&hash=BCD1CF96B97E370EA6C098BCAF2223CC",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/3efb/robie_g_stone_cropped.jpg?as=1&w=425&rev=0b61ed770bf246e3b696df469dc3c789&hash=8081D32CAB761D6C11CACA67ED3D37FB"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389330000-crosswinds-sf-40s/3efb/cropped_0003_robie_g.jpg?as=1&w=425&rev=bf012da2fda34b00b6c87c134790f52d&hash=BCD1CF96B97E370EA6C098BCAF2223CC"
           ]
         }
       ]
@@ -6895,6 +6899,15 @@
           ]
         },
         {
+          "slug": "e315",
+          "name": "Crestview",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/floor-plans/e315",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362200000-fox-branch-ranch-ph1--2-40s/e315/crestview_a_stone.jpg?as=1&w=425&rev=9ddc4433cde5433db9c0541c3a477139&hash=5C1BB768DCC8C342380CB39D5F58EB88",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362200000-fox-branch-ranch-ph1--2-40s/e315/crestview_a_stone.jpg?as=1&w=425&rev=9ddc4433cde5433db9c0541c3a477139&hash=5C1BB768DCC8C342380CB39D5F58EB88"
+          ]
+        },
+        {
           "slug": "e303",
           "name": "Elston II",
           "startingLabel": "Starting in the $345s",
@@ -7401,7 +7414,7 @@
       "slug": "hamilton-bluff",
       "name": "Hamilton Bluff",
       "address": "1607 Plateau Crossing, Haines City, FL 33844",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 284990,
       "highestPrice": 368250,
       "beds": [
@@ -7520,6 +7533,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/3eab/0019-1770-grandiose-drive/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=9e796e30a9564cec85e4cfd0c7dcfe7f&hash=7A3B3D65052C23AF503C4A688FF17923",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/3eab/0019-1770-grandiose-drive/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=9e796e30a9564cec85e4cfd0c7dcfe7f&hash=7A3B3D65052C23AF503C4A688FF17923"
+          ]
+        },
+        {
+          "lot": "22",
+          "address": "1778 Grandiose Drive",
+          "plan": "",
+          "price": 364990,
+          "priceLabel": "$364,990",
+          "beds": 5,
+          "homeSlug": "1778-grandiose-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1778-grandiose-drive",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0019-1778-grandiose-drive/lakeside_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=d154a076c5784d18b19badf79356cf45&hash=ABDD4D9E21D4ACE5C487EAA5BB3CF994",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0019-1778-grandiose-drive/lakeside_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=d154a076c5784d18b19badf79356cf45&hash=ABDD4D9E21D4ACE5C487EAA5BB3CF994"
           ]
         },
         {
