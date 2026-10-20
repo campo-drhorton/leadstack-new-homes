@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-19T19:34:10.942Z",
+  "updatedAt": "2026-10-20T18:11:42.602Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-19T19:34:10.942Z",
-  "photoCount": 96,
+  "publicUpdatedAt": "2026-10-20T18:11:42.602Z",
+  "photoCount": 99,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -360,7 +360,7 @@
           "priceLabel": "$249,990",
           "beds": 3,
           "homeSlug": "7845-sw-46th-court",
-          "sourceUrl": "",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7845-sw-46th-court",
           "baths": "2",
           "sqft": "1,223",
           "story": "1",
@@ -1073,7 +1073,7 @@
       "slug": "mcginley-landing",
       "name": "McGinley Landing",
       "address": "13226 SW 56th Court Road, Ocala, FL 34473",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 270965,
       "highestPrice": 314965,
       "beds": [
@@ -1101,6 +1101,24 @@
           ],
           "incentive": 4975,
           "incentiveLabel": "(4,975)"
+        },
+        {
+          "lot": "124",
+          "address": "5681 SW 130th Lane",
+          "plan": "",
+          "price": 314965,
+          "priceLabel": "$314,965",
+          "beds": 5,
+          "homeSlug": "5681-sw-130th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mcginley-landing/qmis/5681-sw-130th-lane",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e402/0124-5681-sw-130th-lane/lakeside-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=297323f5b59e488f9c12525585a172c4&hash=57A0E2ACF83B65FE16E5D8C9630A1571",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e402/0124-5681-sw-130th-lane/lakeside-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=297323f5b59e488f9c12525585a172c4&hash=57A0E2ACF83B65FE16E5D8C9630A1571"
+          ]
         },
         {
           "lot": "120",
@@ -1490,7 +1508,7 @@
       "slug": "ocala-crossings-south",
       "name": "Ocala Crossings South",
       "address": "8717 SW 46th Terrace, Ocala, FL 34476",
-      "availableCount": 12,
+      "availableCount": 13,
       "lowestPrice": 267990,
       "highestPrice": 343070,
       "beds": [
@@ -1703,6 +1721,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3eeb/0196-9062-sw-47th-ct/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=fd89a63d94dc4ecc9e0c8461fc5bee33&hash=E752BE65DE0FC0034DA1C4062143C39F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3eeb/0196-9062-sw-47th-ct/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=fd89a63d94dc4ecc9e0c8461fc5bee33&hash=E752BE65DE0FC0034DA1C4062143C39F"
+          ]
+        },
+        {
+          "lot": "9",
+          "address": "9097 SW 47th Ct",
+          "plan": "Hayden",
+          "price": 328070,
+          "priceLabel": "$328,070",
+          "beds": 5,
+          "homeSlug": "9097-sw-47th-ct",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-crossings-south/qmis/9097-sw-47th-ct",
+          "baths": "3",
+          "sqft": "2,447",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3efb/0206-9097-sw-47th-ct/robie-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4c5216ee2e954eeb878d9e8200a661ab&hash=2BBBAE9FAF3349815AB37EF72276678B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3efb/0206-9097-sw-47th-ct/robie-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4c5216ee2e954eeb878d9e8200a661ab&hash=2BBBAE9FAF3349815AB37EF72276678B"
           ]
         },
         {
@@ -2204,7 +2240,7 @@
       "slug": "ridge-at-heat-brook",
       "name": "Ridge at Heath Brook",
       "address": "5405 SW 44th Court Rd, Ocala, FL 34474",
-      "availableCount": 9,
+      "availableCount": 10,
       "lowestPrice": 287990,
       "highestPrice": 422955,
       "beds": [
@@ -2387,6 +2423,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ebb/0160-5201-sw-40th-circle/cali-d-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=cc488876bd0f42beb7f53aa3c3f5c5c4&hash=1CDA9F239FFC8B58FC535D955D953661",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4ebb/0160-5201-sw-40th-circle/cali-d-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=cc488876bd0f42beb7f53aa3c3f5c5c4&hash=1CDA9F239FFC8B58FC535D955D953661"
+          ]
+        },
+        {
+          "lot": "378",
+          "address": "5253 SW 40Th Cir",
+          "plan": "",
+          "price": 355990,
+          "priceLabel": "$355,990",
+          "beds": 4,
+          "homeSlug": "5253-sw-40th-cir",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/5253-sw-40th-cir",
+          "baths": "2.5",
+          "sqft": "2,045",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2045/0133-5253-sw-40th-cir/fl_west-florida_drhorton_lantana_f-newcolors.jpg?iar=1&sc=1&thn=1&w=425&rev=127d7b7daf3a4a5d98c68c0da0ee5fe5&hash=9B11BC4B086AAD8C64C1CAD52AD484FA",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2045/0133-5253-sw-40th-cir/fl_west-florida_drhorton_lantana_f-newcolors.jpg?iar=1&sc=1&thn=1&w=425&rev=127d7b7daf3a4a5d98c68c0da0ee5fe5&hash=9B11BC4B086AAD8C64C1CAD52AD484FA"
           ]
         }
       ],

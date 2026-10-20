@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-19T19:39:48.839Z",
+  "updatedAt": "2026-10-20T18:17:37.461Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-19T19:39:48.839Z",
-  "photoCount": 503,
+  "publicUpdatedAt": "2026-10-20T18:17:37.461Z",
+  "photoCount": 518,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -5841,9 +5841,9 @@
       "slug": "fletcher-trace",
       "name": "Fletcher Trace",
       "address": "11163 NW 167th Terrace, Alachua, FL 32615",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 229990,
-      "highestPrice": 317990,
+      "highestPrice": 356070,
       "beds": [
         3,
         4,
@@ -5982,6 +5982,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0012-11267-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=e083e6d639654376908acc029e420854&hash=D34A579194AA3A860A91C869B446EE2F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0012-11267-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=e083e6d639654376908acc029e420854&hash=D34A579194AA3A860A91C869B446EE2F"
+          ]
+        },
+        {
+          "lot": "17",
+          "address": "16664 NW 110th CT",
+          "plan": "",
+          "price": 356070,
+          "priceLabel": "$356,070",
+          "beds": 5,
+          "homeSlug": "16664-nw-110th-ct",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/16664-nw-110th-ct",
+          "baths": "3",
+          "sqft": "2,014",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/974890000-fletcher-trace-50s/e402/0017-16664-nw-110th-ct/lakeside-bs-fletchertrace_traditionalschemes-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2d1402f58f474252a999974af6669112&hash=F0531B17A3B33D1C69B32CFDC15C53E5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/974890000-fletcher-trace-50s/e402/0017-16664-nw-110th-ct/lakeside-bs-fletchertrace_traditionalschemes-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2d1402f58f474252a999974af6669112&hash=F0531B17A3B33D1C69B32CFDC15C53E5"
           ]
         }
       ],
@@ -8001,7 +8019,7 @@
       "slug": "harmony-west",
       "name": "Harmony West",
       "address": "6748 Alder Road, Saint Cloud, FL 34773",
-      "availableCount": 13,
+      "availableCount": 14,
       "lowestPrice": 385990,
       "highestPrice": 456994,
       "beds": [
@@ -8249,6 +8267,24 @@
           ],
           "incentive": 9223,
           "incentiveLabel": "(9,223)"
+        },
+        {
+          "lot": "203",
+          "address": "3138 Grey Moss Drive",
+          "plan": "",
+          "price": 406685,
+          "priceLabel": "$406,685",
+          "beds": 4,
+          "homeSlug": "3138-grey-moss-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3138-grey-moss-drive",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0871-3138-grey-moss-drive/1_1_caliexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=37c5e793902e43efa08ecf2b711d6fba&hash=70A8B416F9C7743DDDB5DB6F92FE8527",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0871-3138-grey-moss-drive/1_1_caliexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=37c5e793902e43efa08ecf2b711d6fba&hash=70A8B416F9C7743DDDB5DB6F92FE8527"
+          ]
         },
         {
           "lot": "222",
@@ -10673,7 +10709,7 @@
       "address": "713 Greenway Boulevard, Lake Wales, FL 33859",
       "availableCount": 4,
       "lowestPrice": 242990,
-      "highestPrice": 281990,
+      "highestPrice": 277990,
       "beds": [
         4,
         5
@@ -10739,8 +10775,8 @@
           "lot": "155",
           "address": "730 Greenway Boulevard",
           "plan": "",
-          "price": 281990,
-          "priceLabel": "$281,990",
+          "price": 277990,
+          "priceLabel": "$277,990",
           "beds": 5,
           "homeSlug": "730-greenway-boulevard",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lake-wales/leomas-landing-ph2--ph3/qmis/730-greenway-boulevard",
@@ -12223,7 +12259,7 @@
       "slug": "preston-cove",
       "name": "Preston Cove",
       "address": "288 Conway Ave, Saint Cloud, FL 34771",
-      "availableCount": 20,
+      "availableCount": 23,
       "lowestPrice": 324990,
       "highestPrice": 493990,
       "beds": [
@@ -12311,6 +12347,46 @@
           ],
           "incentive": 4495,
           "incentiveLabel": "(4,495)"
+        },
+        {
+          "lot": "470",
+          "address": "5768 Springer St",
+          "plan": "",
+          "price": 434490,
+          "priceLabel": "$434,490",
+          "beds": 4,
+          "homeSlug": "5768-springer-st",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5768-springer-st",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4ebb/0087-5768-springer-st/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=854b69bae28141b5b09fb8a6e8e680a8&hash=16E8D2C0C8285DFBE6B0525DE0AF2F88",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4ebb/0087-5768-springer-st/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=854b69bae28141b5b09fb8a6e8e680a8&hash=16E8D2C0C8285DFBE6B0525DE0AF2F88"
+          ],
+          "incentive": 4000,
+          "incentiveLabel": "(4,000)"
+        },
+        {
+          "lot": "471",
+          "address": "5774 Springer St",
+          "plan": "",
+          "price": 454990,
+          "priceLabel": "$454,990",
+          "beds": 5,
+          "homeSlug": "5774-springer-st",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5774-springer-st",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0088-5774-springer-st/1_1_lakeside_exterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=f1e3c6ff4ef146acaf2990b697f37367&hash=2F82F5E1D2ECD49DEB2B75F8BB18FDFF",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0088-5774-springer-st/1_1_lakeside_exterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=f1e3c6ff4ef146acaf2990b697f37367&hash=2F82F5E1D2ECD49DEB2B75F8BB18FDFF"
+          ],
+          "incentive": 5000,
+          "incentiveLabel": "(5,000)"
         },
         {
           "lot": "472",
@@ -12471,6 +12547,26 @@
           ],
           "incentive": 14000,
           "incentiveLabel": "(14,000)"
+        },
+        {
+          "lot": "458",
+          "address": "842 Preston Cove Dr",
+          "plan": "",
+          "price": 449990,
+          "priceLabel": "$449,990",
+          "beds": 5,
+          "homeSlug": "842-preston-cove-dr",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/842-preston-cove-dr",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0077-842-preston-cove-dr/1_1_lakeside_h.jpg?iar=1&sc=1&thn=1&w=425&rev=b4356798fdfd407496ed703c606aeff0&hash=65B9132E6855CEF799875BF5C869D72D",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0077-842-preston-cove-dr/1_1_lakeside_h.jpg?iar=1&sc=1&thn=1&w=425&rev=b4356798fdfd407496ed703c606aeff0&hash=65B9132E6855CEF799875BF5C869D72D"
+          ],
+          "incentive": 5000,
+          "incentiveLabel": "(5,000)"
         },
         {
           "lot": "476",
@@ -12808,7 +12904,7 @@
       "slug": "sagewood",
       "name": "Sagewood",
       "address": "1030 Gull Drive, Apopka, FL 32703",
-      "availableCount": 9,
+      "availableCount": 12,
       "lowestPrice": 459994,
       "highestPrice": 560990,
       "beds": [
@@ -12917,6 +13013,46 @@
           "incentiveLabel": "(12,993)"
         },
         {
+          "lot": "67",
+          "address": "1115 Gull Drive",
+          "plan": "",
+          "price": 493990,
+          "priceLabel": "$493,990",
+          "beds": 4,
+          "homeSlug": "1115-gull-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1115-gull-drive",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0067-1115-gull-drive/1_1_cali_sagewood_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=9bb0b7befc3c4d2fab7dd14885a44669&hash=9EF915CE2601882BE2B73A370406B08A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0067-1115-gull-drive/1_1_cali_sagewood_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=9bb0b7befc3c4d2fab7dd14885a44669&hash=9EF915CE2601882BE2B73A370406B08A"
+          ],
+          "incentive": 4000,
+          "incentiveLabel": "(4,000)"
+        },
+        {
+          "lot": "65",
+          "address": "1127 Gull Drive",
+          "plan": "",
+          "price": 491990,
+          "priceLabel": "$491,990",
+          "beds": 4,
+          "homeSlug": "1127-gull-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1127-gull-drive",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0065-1127-gull-drive/1_1_cali_elevation_c_with_stone_sagewood.jpg?iar=1&sc=1&thn=1&w=425&rev=cba3f3e5703b48e39ce47db8ca660586&hash=200AD0A9442ACACB3ED6B2FA05106942",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0065-1127-gull-drive/1_1_cali_elevation_c_with_stone_sagewood.jpg?iar=1&sc=1&thn=1&w=425&rev=cba3f3e5703b48e39ce47db8ca660586&hash=200AD0A9442ACACB3ED6B2FA05106942"
+          ],
+          "incentive": 4000,
+          "incentiveLabel": "(4,000)"
+        },
+        {
           "lot": "21",
           "address": "1138 Gull Drive",
           "plan": "",
@@ -12995,6 +13131,26 @@
           ],
           "incentive": 5000,
           "incentiveLabel": "(5,000)"
+        },
+        {
+          "lot": "49",
+          "address": "1315 Gull Drive",
+          "plan": "",
+          "price": 487400,
+          "priceLabel": "$487,400",
+          "beds": 5,
+          "homeSlug": "1315-gull-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1315-gull-drive",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0049-1315-gull-drive/1_1_lakeside_sagewood_h.jpg?iar=1&sc=1&thn=1&w=425&rev=669cd21e66aa4ddea4674f81e37e541f&hash=74F1CE8FD78C40E2BDFBDF36AB9DB725",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0049-1315-gull-drive/1_1_lakeside_sagewood_h.jpg?iar=1&sc=1&thn=1&w=425&rev=669cd21e66aa4ddea4674f81e37e541f&hash=74F1CE8FD78C40E2BDFBDF36AB9DB725"
+          ],
+          "incentive": 9335,
+          "incentiveLabel": "(9,335)"
         }
       ],
       "models": [
@@ -13544,6 +13700,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/4ehb/hayden_k_ocs.png?as=1&w=425&rev=1bf4993add1e43bbb07f8b165b7099ba&hash=30D7F280383A0DB22837DCC3A839B7AE",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/4ehb/hayden_k_ocs.png?as=1&w=425&rev=1bf4993add1e43bbb07f8b165b7099ba&hash=30D7F280383A0DB22837DCC3A839B7AE"
+          ]
+        },
+        {
+          "slug": "2443",
+          "name": "Twisted Oaks",
+          "startingLabel": "Homes from the $228s",
+          "sourceUrl": "https://www.drhorton.com/mississippi/north-mississippi/olive-branch/villages-at-southbranch/floor-plans/2443",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974580000-twisted-oaks-sumter-50s-fre/delray_e_-_jb_ranch_6107_sw_93rd_loop.png?as=1&w=425&rev=739386c98efb4d688e557ff36ca5f4e6&hash=E7319AAD691259A45758AC89F4881470",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974580000-twisted-oaks-sumter-50s-fre/delray_e_-_jb_ranch_6107_sw_93rd_loop.png?as=1&w=425&rev=739386c98efb4d688e557ff36ca5f4e6&hash=E7319AAD691259A45758AC89F4881470"
           ]
         }
       ]
@@ -16054,9 +16220,9 @@
       "slug": "waterleigh",
       "name": "Waterleigh",
       "address": "10482 Atwater Bay Dr., Winter Garden, FL 34787",
-      "availableCount": 18,
+      "availableCount": 24,
       "lowestPrice": 454990,
-      "highestPrice": 897341,
+      "highestPrice": 939076,
       "beds": [
         3,
         4,
@@ -16124,6 +16290,26 @@
           "incentiveLabel": "(40,000)"
         },
         {
+          "lot": "280",
+          "address": "11839 Shine View Lane",
+          "plan": "",
+          "price": 926901,
+          "priceLabel": "$926,901",
+          "beds": 5,
+          "homeSlug": "11839-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11839-shine-view-lane",
+          "baths": "4.5",
+          "sqft": "3,225",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1119-11839-shine-view-lane/torrey_waterleigh_j_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=31988551d6da48a2a4ec23451c858d78&hash=2A0BDC026F3AB8F0D164B710773A2C83",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1119-11839-shine-view-lane/torrey_waterleigh_j_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=31988551d6da48a2a4ec23451c858d78&hash=2A0BDC026F3AB8F0D164B710773A2C83"
+          ],
+          "incentive": 30000,
+          "incentiveLabel": "(30,000)"
+        },
+        {
           "lot": "277",
           "address": "11857 Shine View Lane",
           "plan": "",
@@ -16164,6 +16350,26 @@
           "incentiveLabel": "(30,000)"
         },
         {
+          "lot": "274",
+          "address": "11875 Shine View Lane",
+          "plan": "",
+          "price": 882191,
+          "priceLabel": "$882,191",
+          "beds": 5,
+          "homeSlug": "11875-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11875-shine-view-lane",
+          "baths": "4.5",
+          "sqft": "3,225",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1113-11875-shine-view-lane/torrey_waterleigh_kweb_.jpg?iar=1&sc=1&thn=1&w=425&rev=23ec223121044821af16bfbf98b0c83c&hash=2118DEDC42B952B4DE505EAF821C1424",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1113-11875-shine-view-lane/torrey_waterleigh_kweb_.jpg?iar=1&sc=1&thn=1&w=425&rev=23ec223121044821af16bfbf98b0c83c&hash=2118DEDC42B952B4DE505EAF821C1424"
+          ],
+          "incentive": 20000,
+          "incentiveLabel": "(20,000)"
+        },
+        {
           "lot": "273",
           "address": "11881 Shine View Lane",
           "plan": "",
@@ -16182,6 +16388,26 @@
           ],
           "incentive": 20000,
           "incentiveLabel": "(20,000)"
+        },
+        {
+          "lot": "272",
+          "address": "11887 Shine View Lane",
+          "plan": "",
+          "price": 847841,
+          "priceLabel": "$847,841",
+          "beds": 5,
+          "homeSlug": "11887-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11887-shine-view-lane",
+          "baths": "4.5",
+          "sqft": "3,225",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1111-11887-shine-view-lane/torrey_waterleigh_j_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=4b1c2336c0e04cbb915d4d7a1668a286&hash=EE4328CE87A7FCB5E7AEC74C41605B00",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1111-11887-shine-view-lane/torrey_waterleigh_j_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=4b1c2336c0e04cbb915d4d7a1668a286&hash=EE4328CE87A7FCB5E7AEC74C41605B00"
+          ],
+          "incentive": 30000,
+          "incentiveLabel": "(30,000)"
         },
         {
           "lot": "271",
@@ -16224,6 +16450,46 @@
           "incentiveLabel": "(20,000)"
         },
         {
+          "lot": "265",
+          "address": "11929 Shine View Lane",
+          "plan": "",
+          "price": 893021,
+          "priceLabel": "$893,021",
+          "beds": 4,
+          "homeSlug": "11929-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11929-shine-view-lane",
+          "baths": "3.5",
+          "sqft": "3,327",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3327/1104-11929-shine-view-lane/1_1_seacliff_exterior_k.jpg?iar=1&sc=1&thn=1&w=425&rev=62e34faa4e7e4e92be5e1290d59665f8&hash=1B98BAD95E31AFF8EEF14B4B5475297B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3327/1104-11929-shine-view-lane/1_1_seacliff_exterior_k.jpg?iar=1&sc=1&thn=1&w=425&rev=62e34faa4e7e4e92be5e1290d59665f8&hash=1B98BAD95E31AFF8EEF14B4B5475297B"
+          ],
+          "incentive": 20000,
+          "incentiveLabel": "(20,000)"
+        },
+        {
+          "lot": "264",
+          "address": "11935 Shine View Lane",
+          "plan": "",
+          "price": 927666,
+          "priceLabel": "$927,666",
+          "beds": 5,
+          "homeSlug": "11935-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11935-shine-view-lane",
+          "baths": "4.5",
+          "sqft": "3,225",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1103-11935-shine-view-lane/1_1_torreyexterior_elevationl.jpg?iar=1&sc=1&thn=1&w=425&rev=a974a9c83f6d43009bd6bbcab17dc7fd&hash=B495FAEF959588E539BE6BE066DFFD39",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1103-11935-shine-view-lane/1_1_torreyexterior_elevationl.jpg?iar=1&sc=1&thn=1&w=425&rev=a974a9c83f6d43009bd6bbcab17dc7fd&hash=B495FAEF959588E539BE6BE066DFFD39"
+          ],
+          "incentive": 20000,
+          "incentiveLabel": "(20,000)"
+        },
+        {
           "lot": "208",
           "address": "16534 Barbours Creek Way",
           "plan": "",
@@ -16242,6 +16508,24 @@
           ],
           "incentive": 15510,
           "incentiveLabel": "(15,510)"
+        },
+        {
+          "lot": "279",
+          "address": "11845 Shine View Lane",
+          "plan": "",
+          "price": 939076,
+          "priceLabel": "$939,076",
+          "beds": 4,
+          "homeSlug": "11845-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11845-shine-view-lane",
+          "baths": "3.5",
+          "sqft": "3,327",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3327/1118-11845-shine-view-lane/seacliff_waterleigh_j_web.jpg?iar=1&sc=1&thn=1&w=425&rev=41b9eff1953a4c218b7323f76d98058a&hash=F10D02AE0F4B9AE976F002B5E154851A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3327/1118-11845-shine-view-lane/seacliff_waterleigh_j_web.jpg?iar=1&sc=1&thn=1&w=425&rev=41b9eff1953a4c218b7323f76d98058a&hash=F10D02AE0F4B9AE976F002B5E154851A"
+          ]
         },
         {
           "lot": "270",
@@ -16561,15 +16845,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20b/1_adeline_exterior.jpg?as=1&w=425&rev=ecd67376f57240baa96c359d4d3a1e17&hash=66619E63B8D80F8F7ECC7A8E08306360",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20b/1_adeline_exterior.jpg?as=1&w=425&rev=ecd67376f57240baa96c359d4d3a1e17&hash=66619E63B8D80F8F7ECC7A8E08306360"
-          ]
-        },
-        {
-          "slug": "t20a",
-          "name": "Pearson -End Unit ADELINE",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/waywater/floor-plans/t20a",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20a/2_adeline_exterior.jpg?as=1&w=425&rev=2bbb031d14cb4c94bab43f6e48402761&hash=A873CF66D4650C338E9F762678C68655",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20a/2_adeline_exterior.jpg?as=1&w=425&rev=2bbb031d14cb4c94bab43f6e48402761&hash=A873CF66D4650C338E9F762678C68655"
           ]
         }
       ]
@@ -17427,10 +17702,10 @@
           "sqft": "1,866",
           "story": "2",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38918-cascades-sf/362060000-wynnstone-40s/e315/_0001_1866_e315_crestview_ele_b_8-8_inch_with_stone_cs_c4.jpg?as=1&w=425&rev=d7397cefb8f742cc9431b814f032bc4a&hash=C7D76FBCBB924D6E1C1E5FF33D1BCDF9",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38918-cascades-sf/362060000-wynnstone-40s/e315/_0001_1866_e315_crestview_ele_b_8-8_inch_with_stone_cs_c4.jpg?as=1&w=425&rev=d7397cefb8f742cc9431b814f032bc4a&hash=C7D76FBCBB924D6E1C1E5FF33D1BCDF9"
-          ]
+          ],
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38918-cascades-sf/362060000-wynnstone-40s/e315/_0001_1866_e315_crestview_ele_b_8-8_inch_with_stone_cs_c4.jpg?as=1&w=425&rev=d7397cefb8f742cc9431b814f032bc4a&hash=C7D76FBCBB924D6E1C1E5FF33D1BCDF9"
         },
         {
           "slug": "e316",
@@ -17513,7 +17788,7 @@
       "slug": "wynwood",
       "name": "Wynwood",
       "address": "2180 Greenwood Oak Drive, Ocoee, FL 34761",
-      "availableCount": 10,
+      "availableCount": 11,
       "lowestPrice": 409997,
       "highestPrice": 505000,
       "beds": [
@@ -17681,6 +17956,26 @@
           ],
           "incentive": 22990,
           "incentiveLabel": "(22,990)"
+        },
+        {
+          "lot": "280",
+          "address": "3420 Spineywood Drive",
+          "plan": "",
+          "price": 441990,
+          "priceLabel": "$441,990",
+          "beds": 4,
+          "homeSlug": "3420-spineywood-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/qmis/3420-spineywood-drive",
+          "baths": "2",
+          "sqft": "1,665",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3emb/0080-3420-spineywood-drive/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=a0445d364fe14a119f28fc55ad92bd7c&hash=CB1B8696C41784802B143CB6557D4357",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3emb/0080-3420-spineywood-drive/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=a0445d364fe14a119f28fc55ad92bd7c&hash=CB1B8696C41784802B143CB6557D4357"
+          ],
+          "incentive": 5000,
+          "incentiveLabel": "(5,000)"
         },
         {
           "lot": "278",
