@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-21T18:19:10.737Z",
+  "updatedAt": "2026-10-22T18:13:20.732Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-21T18:19:10.737Z",
-  "photoCount": 98,
+  "publicUpdatedAt": "2026-10-22T18:13:20.732Z",
+  "photoCount": 100,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -324,9 +324,9 @@
       "slug": "derby-creek",
       "name": "Derby Creek",
       "address": "7665 SW 46th Court, Ocala, FL 34474",
-      "availableCount": 2,
+      "availableCount": 4,
       "lowestPrice": 249990,
-      "highestPrice": 259990,
+      "highestPrice": 271965,
       "beds": [
         3,
         4
@@ -365,12 +365,48 @@
           "sqft": "1,223",
           "story": "1",
           "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e311/0020-7845-sw-46th-court/1223_e311_greenbriar_ele_b_cs3_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=db25590c561f4b2eafc6665065d89b93&hash=521760E49C7CA625E7D1C9DC4CA11EE7",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e311/0020-7845-sw-46th-court/1223_e311_greenbriar_ele_b_cs3_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=826f9e3d987c44559a3462ce336f789c&hash=EE5A14847F54C812E640AAE68E98DE7A",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e311/0020-7845-sw-46th-court/1223_e311_greenbriar_ele_b_cs3_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=db25590c561f4b2eafc6665065d89b93&hash=521760E49C7CA625E7D1C9DC4CA11EE7"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e311/0020-7845-sw-46th-court/1223_e311_greenbriar_ele_b_cs3_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=826f9e3d987c44559a3462ce336f789c&hash=EE5A14847F54C812E640AAE68E98DE7A"
           ],
           "incentive": 10975,
           "incentiveLabel": "(10,975)"
+        },
+        {
+          "lot": "19",
+          "address": "7837 SW 46th Court",
+          "plan": "",
+          "price": 270965,
+          "priceLabel": "$270,965",
+          "beds": 4,
+          "homeSlug": "7837-sw-46th-court",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7837-sw-46th-court",
+          "baths": "2",
+          "sqft": "1,560",
+          "story": "1",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0019-7837-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=2259c60f751a41e58bc7ea97f74975c1&hash=FE23E29B120B39671E0E23F8ED16238A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0019-7837-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=2259c60f751a41e58bc7ea97f74975c1&hash=FE23E29B120B39671E0E23F8ED16238A"
+          ]
+        },
+        {
+          "lot": "21",
+          "address": "7853 SW 46th Court",
+          "plan": "",
+          "price": 271965,
+          "priceLabel": "$271,965",
+          "beds": 4,
+          "homeSlug": "7853-sw-46th-court",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7853-sw-46th-court",
+          "baths": "2",
+          "sqft": "1,560",
+          "story": "1",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0021-7853-sw-46th-court/1560_e312_cameron_ele_c_cs6_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=99cac8c93fe44c939509437060f6f48c&hash=FFEAD8B5E8F75DF95FB9A3535BCAF495",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0021-7853-sw-46th-court/1560_e312_cameron_ele_c_cs6_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=99cac8c93fe44c939509437060f6f48c&hash=FFEAD8B5E8F75DF95FB9A3535BCAF495"
+          ]
         }
       ],
       "models": [
