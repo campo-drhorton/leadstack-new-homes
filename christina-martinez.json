@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-22T18:13:20.732Z",
+  "updatedAt": "2026-10-23T18:02:12.203Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-22T18:13:20.732Z",
+  "publicUpdatedAt": "2026-10-23T18:02:12.203Z",
   "photoCount": 100,
   "communities": [
     {
       "slug": "autumn-glen",
       "name": "Autumn Glen",
       "address": "11466 SE 72nd Avenue, Belleview, FL 34420",
-      "availableCount": 5,
-      "lowestPrice": 285990,
+      "availableCount": 6,
+      "lowestPrice": 283570,
       "highestPrice": 347570,
       "beds": [
         3,
@@ -58,6 +58,24 @@
           ]
         },
         {
+          "lot": "78",
+          "address": "7118 SE 112th Lane",
+          "plan": "",
+          "price": 283570,
+          "priceLabel": "$283,570",
+          "beds": 3,
+          "homeSlug": "7118-se-112th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7118-se-112th-lane",
+          "baths": "2",
+          "sqft": "1,672",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4eab/0242-7118-se-112th-lane/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=c64910c73b08474d9c83f26f57c4e4db&hash=3C419F774D997A9A5B95E629A59D8BD3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4eab/0242-7118-se-112th-lane/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=c64910c73b08474d9c83f26f57c4e4db&hash=3C419F774D997A9A5B95E629A59D8BD3"
+          ]
+        },
+        {
           "lot": "68",
           "address": "7099 SE 112th Lane",
           "plan": "",
@@ -76,6 +94,24 @@
           ]
         },
         {
+          "lot": "79",
+          "address": "7126 SE 112th Lane",
+          "plan": "",
+          "price": 295570,
+          "priceLabel": "$295,570",
+          "beds": 4,
+          "homeSlug": "7126-se-112th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7126-se-112th-lane",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0243-7126-se-112th-lane/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=3aa78235b4b3498190b6a96e4275248f&hash=D170921F55632CC29A23BFF1B6F3F37F",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ebb/0243-7126-se-112th-lane/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=3aa78235b4b3498190b6a96e4275248f&hash=D170921F55632CC29A23BFF1B6F3F37F"
+          ]
+        },
+        {
           "lot": "70",
           "address": "7079 SE 112th Lane",
           "plan": "",
@@ -91,24 +127,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0234-7079-se-112th-lane/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=0644c7ca29ee49bc8ee5377cd0186210&hash=62C2969AF6E5B7CA60779F81EAD2FAD7",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0234-7079-se-112th-lane/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=0644c7ca29ee49bc8ee5377cd0186210&hash=62C2969AF6E5B7CA60779F81EAD2FAD7"
-          ]
-        },
-        {
-          "lot": "66",
-          "address": "7119 SE 112th Lane",
-          "plan": "",
-          "price": 343570,
-          "priceLabel": "$343,570",
-          "beds": 5,
-          "homeSlug": "7119-se-112th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7119-se-112th-lane",
-          "baths": "3",
-          "sqft": "2,605",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0230-7119-se-112th-lane/hayden-h-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=38b78412be7a4829836f835af8396dbe&hash=03B3179490E778BB1ED4E608B2D78EB5",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4ehb/0230-7119-se-112th-lane/hayden-h-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=38b78412be7a4829836f835af8396dbe&hash=03B3179490E778BB1ED4E608B2D78EB5"
           ]
         }
       ],
@@ -324,34 +342,14 @@
       "slug": "derby-creek",
       "name": "Derby Creek",
       "address": "7665 SW 46th Court, Ocala, FL 34474",
-      "availableCount": 4,
+      "availableCount": 3,
       "lowestPrice": 249990,
-      "highestPrice": 271965,
+      "highestPrice": 272070,
       "beds": [
         3,
         4
       ],
       "lots": [
-        {
-          "lot": "57",
-          "address": "7820 SW 46th Court",
-          "plan": "Cameron",
-          "price": 259990,
-          "priceLabel": "$259,990",
-          "beds": 4,
-          "homeSlug": "7820-sw-46th-court",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7820-sw-46th-court",
-          "baths": "2",
-          "sqft": "1,560",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0057-7820-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=b4fda115b1d943d18a98f2d67395e638&hash=C54EF400BDE8EDCEFB7D2AB7B20BBDD3",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0057-7820-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=b4fda115b1d943d18a98f2d67395e638&hash=C54EF400BDE8EDCEFB7D2AB7B20BBDD3"
-          ],
-          "incentive": 10975,
-          "incentiveLabel": "(10,975)"
-        },
         {
           "lot": "20",
           "address": "7845 SW 46th Court",
@@ -376,8 +374,8 @@
           "lot": "19",
           "address": "7837 SW 46th Court",
           "plan": "",
-          "price": 270965,
-          "priceLabel": "$270,965",
+          "price": 271070,
+          "priceLabel": "$271,070",
           "beds": 4,
           "homeSlug": "7837-sw-46th-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7837-sw-46th-court",
@@ -394,8 +392,8 @@
           "lot": "21",
           "address": "7853 SW 46th Court",
           "plan": "",
-          "price": 271965,
-          "priceLabel": "$271,965",
+          "price": 272070,
+          "priceLabel": "$272,070",
           "beds": 4,
           "homeSlug": "7853-sw-46th-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7853-sw-46th-court",
