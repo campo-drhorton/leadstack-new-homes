@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-23T18:07:58.687Z",
+  "updatedAt": "2026-10-24T17:10:57.960Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-23T18:07:58.687Z",
-  "photoCount": 540,
+  "publicUpdatedAt": "2026-10-24T17:10:57.960Z",
+  "photoCount": 542,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -1252,8 +1252,8 @@
       "name": "Boulevard Oaks",
       "address": "199 Skyfield Court, Lady Lake, FL 32159",
       "availableCount": 2,
-      "lowestPrice": 299900,
-      "highestPrice": 314790,
+      "lowestPrice": 297400,
+      "highestPrice": 312290,
       "beds": [
         3,
         4
@@ -1263,8 +1263,8 @@
           "lot": "71",
           "address": "211 Skyfield Court",
           "plan": "",
-          "price": 299900,
-          "priceLabel": "$299,900",
+          "price": 297400,
+          "priceLabel": "$297,400",
           "beds": 3,
           "homeSlug": "211-skyfield-court",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/lady-lake/boulevard-oaks/qmis/211-skyfield-court",
@@ -1276,15 +1276,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78221-boulevard-oaks/782210000-boulevard-oaks/e406/5012-211-skyfield-court/archer_ii_a_boulevard_oaks_only.jpg?iar=1&sc=1&thn=1&w=425&rev=20517445a1ec419a86385c60a446796c&hash=F12AB1A7BADE829C5C36FA944DA04624"
           ],
-          "incentive": 8090,
-          "incentiveLabel": "(8,090)"
+          "incentive": 10590,
+          "incentiveLabel": "(10,590)"
         },
         {
           "lot": "64",
           "address": "239 Skyfield Court",
           "plan": "",
-          "price": 314790,
-          "priceLabel": "$314,790",
+          "price": 312290,
+          "priceLabel": "$312,290",
           "beds": 4,
           "homeSlug": "239-skyfield-court",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/lady-lake/boulevard-oaks/qmis/239-skyfield-court",
@@ -1296,8 +1296,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78221-boulevard-oaks/782210000-boulevard-oaks/e407/5005-239-skyfield-court/freeport_ii_b_boulevard_oaks_only.jpg?iar=1&sc=1&thn=1&w=425&rev=c717feeef84a401c8737e7b84088dc74&hash=1ECFCEEEB16F6CC6FE7C8D0C4D355AF1"
           ],
-          "incentive": 5200,
-          "incentiveLabel": "(5,200)"
+          "incentive": 7700,
+          "incentiveLabel": "(7,700)"
         }
       ],
       "models": [
@@ -2937,8 +2937,8 @@
       "name": "Cascades",
       "address": "1301 Cascades Avenue, Davenport, FL 33837",
       "availableCount": 11,
-      "lowestPrice": 327990,
-      "highestPrice": 454900,
+      "lowestPrice": 325490,
+      "highestPrice": 450900,
       "beds": [
         3,
         4,
@@ -2949,8 +2949,8 @@
           "lot": "13",
           "address": "3610 Pfeiffer Falls Place",
           "plan": "",
-          "price": 454900,
-          "priceLabel": "$454,900",
+          "price": 450900,
+          "priceLabel": "$450,900",
           "beds": 4,
           "homeSlug": "3610-pfeiffer-falls-place",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/3610-pfeiffer-falls-place",
@@ -2962,15 +2962,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389320000-cascades-sf-50s/2725/0198-3610-pfeiffer-falls-place/mcgraw_ele_h_cs12_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=631dc236ecc14e1e9a8638fc1c64bce9&hash=7157F3DFB40B1F5D95F352318450902A"
           ],
-          "incentive": 7090,
-          "incentiveLabel": "(7,090)"
+          "incentive": 11090,
+          "incentiveLabel": "(11,090)"
         },
         {
           "lot": "10",
           "address": "3622 Pfeiffer Falls Place",
           "plan": "",
-          "price": 429900,
-          "priceLabel": "$429,900",
+          "price": 427400,
+          "priceLabel": "$427,400",
           "beds": 5,
           "homeSlug": "3622-pfeiffer-falls-place",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/3622-pfeiffer-falls-place",
@@ -2982,15 +2982,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389320000-cascades-sf-50s/4ehb/0195-3622-pfeiffer-falls-place/cropped_0006_hayden_exterior_g.jpg?iar=1&sc=1&thn=1&w=425&rev=473c23cca9be45afa1948f1a07007527&hash=D42A620D0B6A1B42DA61C92E786A3402"
           ],
-          "incentive": 7090,
-          "incentiveLabel": "(7,090)"
+          "incentive": 9590,
+          "incentiveLabel": "(9,590)"
         },
         {
           "lot": "4",
           "address": "4078 Limeklin Falls Loop",
           "plan": "",
-          "price": 397950,
-          "priceLabel": "$397,950",
+          "price": 395450,
+          "priceLabel": "$395,450",
           "beds": 5,
           "homeSlug": "4078-limeklin-falls-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/4078-limeklin-falls-loop",
@@ -3002,15 +3002,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389180000-cascades-sf-40s/3efb/0280-4078-limeklin-falls-loop/robie_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=89eb85d9d01a4dc7af8eea89c63c8551&hash=A959A11F333AAA13066ED21367110368"
           ],
-          "incentive": 6040,
-          "incentiveLabel": "(6,040)"
+          "incentive": 8540,
+          "incentiveLabel": "(8,540)"
         },
         {
           "lot": "12",
           "address": "4099 Limeklin Falls Loop",
           "plan": "",
-          "price": 393990,
-          "priceLabel": "$393,990",
+          "price": 391490,
+          "priceLabel": "$391,490",
           "beds": 5,
           "homeSlug": "4099-limeklin-falls-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/4099-limeklin-falls-loop",
@@ -3022,15 +3022,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389180000-cascades-sf-40s/3efb/0266-4099-limeklin-falls-loop/cropped_0002_robie_g_edit.jpg?iar=1&sc=1&thn=1&w=425&rev=c05d2402c1ab477f94b1e4504d4252f0&hash=97C8F5523B37D4BFA7C95335CE01EA5A"
           ],
-          "incentive": 6000,
-          "incentiveLabel": "(6,000)"
+          "incentive": 8500,
+          "incentiveLabel": "(8,500)"
         },
         {
           "lot": "12",
           "address": "4209 Bixby Bridge Place",
           "plan": "",
-          "price": 397970,
-          "priceLabel": "$397,970",
+          "price": 395470,
+          "priceLabel": "$395,470",
           "beds": 5,
           "homeSlug": "4209-bixby-bridge-place",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/4209-bixby-bridge-place",
@@ -3042,15 +3042,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389180000-cascades-sf-40s/3efb/0248-4209-bixby-bridge-place/cropped_0002_robie_g_edit.jpg?iar=1&sc=1&thn=1&w=425&rev=3a811c72ff924fafb22553808f13554e&hash=D2C3E50B3D5A78FE4BA87B348D2D4CF1"
           ],
-          "incentive": 4020,
-          "incentiveLabel": "(4,020)"
+          "incentive": 6520,
+          "incentiveLabel": "(6,520)"
         },
         {
           "lot": "6",
           "address": "4214 Bixby Bridge Place",
           "plan": "",
-          "price": 399960,
-          "priceLabel": "$399,960",
+          "price": 397460,
+          "priceLabel": "$397,460",
           "beds": 5,
           "homeSlug": "4214-bixby-bridge-place",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/4214-bixby-bridge-place",
@@ -3062,15 +3062,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389180000-cascades-sf-40s/3efb/0260-4214-bixby-bridge-place/cropped_0000_robie_h_.jpg?iar=1&sc=1&thn=1&w=425&rev=748d0afc70564f4c84f285ec85a7ffe4&hash=ED1C4D35F1A55294BFA715E8C362D137"
           ],
-          "incentive": 4030,
-          "incentiveLabel": "(4,030)"
+          "incentive": 6530,
+          "incentiveLabel": "(6,530)"
         },
         {
           "lot": "5",
           "address": "4218 Bixby Bridge Place",
           "plan": "",
-          "price": 397970,
-          "priceLabel": "$397,970",
+          "price": 395470,
+          "priceLabel": "$395,470",
           "beds": 5,
           "homeSlug": "4218-bixby-bridge-place",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/4218-bixby-bridge-place",
@@ -3082,15 +3082,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389180000-cascades-sf-40s/3efb/0259-4218-bixby-bridge-place/cropped_0004_robie_g.jpg?iar=1&sc=1&thn=1&w=425&rev=a06ca966c42a4d72994f0bd5d2ae962c&hash=47B6FBEE79ADE9EF09947543D65676C2"
           ],
-          "incentive": 4020,
-          "incentiveLabel": "(4,020)"
+          "incentive": 6520,
+          "incentiveLabel": "(6,520)"
         },
         {
           "lot": "3",
           "address": "3990 Limeklin Falls Loop",
           "plan": "",
-          "price": 414490,
-          "priceLabel": "$414,490",
+          "price": 408490,
+          "priceLabel": "$408,490",
           "beds": 5,
           "homeSlug": "3990-limeklin-falls-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/3990-limeklin-falls-loop",
@@ -3107,8 +3107,8 @@
           "lot": "7",
           "address": "3999 Limeklin Falls Loop",
           "plan": "",
-          "price": 327990,
-          "priceLabel": "$327,990",
+          "price": 325490,
+          "priceLabel": "$325,490",
           "beds": 3,
           "homeSlug": "3999-limeklin-falls-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/3999-limeklin-falls-loop",
@@ -3125,8 +3125,8 @@
           "lot": "4",
           "address": "4011 Limeklin Falls Loop",
           "plan": "",
-          "price": 337990,
-          "priceLabel": "$337,990",
+          "price": 335490,
+          "priceLabel": "$335,490",
           "beds": 4,
           "homeSlug": "4011-limeklin-falls-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/4011-limeklin-falls-loop",
@@ -3143,8 +3143,8 @@
           "lot": "15",
           "address": "4221 Bixby Bridge Place",
           "plan": "",
-          "price": 387990,
-          "priceLabel": "$387,990",
+          "price": 384990,
+          "priceLabel": "$384,990",
           "beds": 4,
           "homeSlug": "4221-bixby-bridge-place",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/4221-bixby-bridge-place",
@@ -3911,8 +3911,8 @@
       "name": "Crosswinds",
       "address": "3614 Roden Road, Haines City, FL 33844",
       "availableCount": 5,
-      "lowestPrice": 326670,
-      "highestPrice": 368750,
+      "lowestPrice": 324170,
+      "highestPrice": 366250,
       "beds": [
         3,
         4
@@ -3922,8 +3922,8 @@
           "lot": "318",
           "address": "3545 Roden Road",
           "plan": "",
-          "price": 362948,
-          "priceLabel": "$362,948",
+          "price": 360448,
+          "priceLabel": "$360,448",
           "beds": 4,
           "homeSlug": "3545-roden-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/3545-roden-road",
@@ -3935,15 +3935,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/e409/0055-3545-roden-road/riviera_ele_b_ns.jpg?iar=1&sc=1&thn=1&w=425&rev=79c575c40bd04c6c851f3b150b9e4b83&hash=88A4EBC557EB98B0A28BC37985C94D63"
           ],
-          "incentive": 11242,
-          "incentiveLabel": "(11,242)"
+          "incentive": 13742,
+          "incentiveLabel": "(13,742)"
         },
         {
           "lot": "323",
           "address": "3565 Roden Road",
           "plan": "",
-          "price": 368750,
-          "priceLabel": "$368,750",
+          "price": 366250,
+          "priceLabel": "$366,250",
           "beds": 4,
           "homeSlug": "3565-roden-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/3565-roden-road",
@@ -3955,15 +3955,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/e409/0060-3565-roden-road/riviera_a_stone_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=b78b1fe9887944469258d20419590783&hash=3F8B2090BA6A000D281A58D563367A89"
           ],
-          "incentive": 5240,
-          "incentiveLabel": "(5,240)"
+          "incentive": 7740,
+          "incentiveLabel": "(7,740)"
         },
         {
           "lot": "250",
           "address": "4973 Katrina Drive",
           "plan": "",
-          "price": 326670,
-          "priceLabel": "$326,670",
+          "price": 324170,
+          "priceLabel": "$324,170",
           "beds": 3,
           "homeSlug": "4973-katrina-drive",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/4973-katrina-drive",
@@ -3975,8 +3975,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/4eab/0005-4973-katrina-drive/aria_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=596823c442a6437ab0a7cac6e02aa028&hash=3D2595B271D878B12870A675165021F3"
           ],
-          "incentive": 5320,
-          "incentiveLabel": "(5,320)"
+          "incentive": 7820,
+          "incentiveLabel": "(7,820)"
         },
         {
           "lot": "186",
@@ -4002,8 +4002,8 @@
           "lot": "211",
           "address": "5614 Brook Lane",
           "plan": "",
-          "price": 357990,
-          "priceLabel": "$357,990",
+          "price": 355490,
+          "priceLabel": "$355,490",
           "beds": 4,
           "homeSlug": "5614-brook-lane",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/qmis/5614-brook-lane",
@@ -4199,7 +4199,7 @@
       "name": "Crosswinds Townhomes",
       "address": "2394 Aveeno Avenue, Haines City, FL 33844",
       "availableCount": 4,
-      "lowestPrice": 268090,
+      "lowestPrice": 265590,
       "highestPrice": 280990,
       "beds": [
         3
@@ -4245,8 +4245,8 @@
           "lot": "1003",
           "address": "2334 Aveeno Avenue",
           "plan": "",
-          "price": 273000,
-          "priceLabel": "$273,000",
+          "price": 270500,
+          "priceLabel": "$270,500",
           "beds": 3,
           "homeSlug": "2334-aveeno-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2334-aveeno-avenue",
@@ -4263,8 +4263,8 @@
           "lot": "1001",
           "address": "2342 Aveeno Avenue",
           "plan": "",
-          "price": 268090,
-          "priceLabel": "$268,090",
+          "price": 265590,
+          "priceLabel": "$265,590",
           "beds": 3,
           "homeSlug": "2342-aveeno-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2342-aveeno-avenue",
@@ -6614,8 +6614,8 @@
       "name": "Fox Branch",
       "address": "8522 Cape Fox Cove, Lakeland, FL 33810",
       "availableCount": 9,
-      "lowestPrice": 303900,
-      "highestPrice": 393980,
+      "lowestPrice": 301400,
+      "highestPrice": 391480,
       "beds": [
         3,
         4,
@@ -6626,8 +6626,8 @@
           "lot": "56",
           "address": "4423 Lake Fox Drive",
           "plan": "",
-          "price": 303900,
-          "priceLabel": "$303,900",
+          "price": 301400,
+          "priceLabel": "$301,400",
           "beds": 3,
           "homeSlug": "4423-lake-fox-drive",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/4423-lake-fox-drive",
@@ -6639,15 +6639,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362200000-fox-branch-ranch-ph1--2-40s/3eab/0023-4423-lake-fox-drive/_0001_allex_ele_d_cs4.jpg?iar=1&sc=1&thn=1&w=425&rev=c6c05b466adf45688d328145a887554f&hash=B83B312E184A10A02A4D4A0266A5D033"
           ],
-          "incentive": 5590,
-          "incentiveLabel": "(5,590)"
+          "incentive": 8090,
+          "incentiveLabel": "(8,090)"
         },
         {
           "lot": "83",
           "address": "7821 Forrest Fox Way",
           "plan": "",
-          "price": 330900,
-          "priceLabel": "$330,900",
+          "price": 328400,
+          "priceLabel": "$328,400",
           "beds": 3,
           "homeSlug": "7821-forrest-fox-way",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/7821-forrest-fox-way",
@@ -6659,15 +6659,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/4eab/0049-7821-forrest-fox-way/aria_m.jpg?iar=1&sc=1&thn=1&w=425&rev=ebf4171b32de4bbcbe3c8a1a7270ba07&hash=5006DAC120C09D738244589CF2F5B37D"
           ],
-          "incentive": 6090,
-          "incentiveLabel": "(6,090)"
+          "incentive": 8590,
+          "incentiveLabel": "(8,590)"
         },
         {
           "lot": "81",
           "address": "7833 Forrest Fox Way",
           "plan": "",
-          "price": 346900,
-          "priceLabel": "$346,900",
+          "price": 344400,
+          "priceLabel": "$344,400",
           "beds": 5,
           "homeSlug": "7833-forrest-fox-way",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/7833-forrest-fox-way",
@@ -6679,15 +6679,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/e402/0047-7833-forrest-fox-way/mls_lakeside_g.jpg?iar=1&sc=1&thn=1&w=425&rev=e528b5507d2442dea02b34c08e2dc794&hash=73617EC578AE5D4FF0B547783936CB88"
           ],
-          "incentive": 6090,
-          "incentiveLabel": "(6,090)"
+          "incentive": 8590,
+          "incentiveLabel": "(8,590)"
         },
         {
           "lot": "51",
           "address": "7840 Forrest Fox Way",
           "plan": "",
-          "price": 304990,
-          "priceLabel": "$304,990",
+          "price": 302490,
+          "priceLabel": "$302,490",
           "beds": 3,
           "homeSlug": "7840-forrest-fox-way",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/7840-forrest-fox-way",
@@ -6699,15 +6699,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362200000-fox-branch-ranch-ph1--2-40s/3eab/0022-7840-forrest-fox-way/allex_d_exterior_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=0c6afc2305234c789bf410d6b6535bb1&hash=2DE3D8B066719D60657FCA1D5208957A"
           ],
-          "incentive": 8000,
-          "incentiveLabel": "(8,000)"
+          "incentive": 10500,
+          "incentiveLabel": "(10,500)"
         },
         {
           "lot": "48",
           "address": "7858 Forrest Fox Way",
           "plan": "",
-          "price": 393980,
-          "priceLabel": "$393,980",
+          "price": 391480,
+          "priceLabel": "$391,480",
           "beds": 5,
           "homeSlug": "7858-forrest-fox-way",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/7858-forrest-fox-way",
@@ -6719,15 +6719,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/4ehb/0021-7858-forrest-fox-way/cropped_0006_hayden_exterior_g.jpg?iar=1&sc=1&thn=1&w=425&rev=cc63aba9a3cc4a7eb8dc62937078a119&hash=A236742B634B63F75467D5D1419424D1"
           ],
-          "incentive": 7010,
-          "incentiveLabel": "(7,010)"
+          "incentive": 9510,
+          "incentiveLabel": "(9,510)"
         },
         {
           "lot": "47",
           "address": "7864 Forrest Fox Way",
           "plan": "",
-          "price": 345990,
-          "priceLabel": "$345,990",
+          "price": 343490,
+          "priceLabel": "$343,490",
           "beds": 4,
           "homeSlug": "7864-forrest-fox-way",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/7864-forrest-fox-way",
@@ -6739,15 +6739,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/4ebb/0020-7864-forrest-fox-way/cali_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=bb3b9b307d6d411fa2780a21bb8ade92&hash=152686C4CDA66072555AA1C5CAAF98E6"
           ],
-          "incentive": 5000,
-          "incentiveLabel": "(5,000)"
+          "incentive": 7500,
+          "incentiveLabel": "(7,500)"
         },
         {
           "lot": "74",
           "address": "7875 Forrest Fox Way",
           "plan": "",
-          "price": 326900,
-          "priceLabel": "$326,900",
+          "price": 324400,
+          "priceLabel": "$324,400",
           "beds": 3,
           "homeSlug": "7875-forrest-fox-way",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/7875-forrest-fox-way",
@@ -6759,15 +6759,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/4eab/0040-7875-forrest-fox-way/aria_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=462018a61500410d9593874ee4448f7d&hash=059509EC835C5CD69BE7C6BB85130A68"
           ],
-          "incentive": 6090,
-          "incentiveLabel": "(6,090)"
+          "incentive": 8590,
+          "incentiveLabel": "(8,590)"
         },
         {
           "lot": "44",
           "address": "7882 Forrest Fox Way",
           "plan": "",
-          "price": 349440,
-          "priceLabel": "$349,440",
+          "price": 346940,
+          "priceLabel": "$346,940",
           "beds": 4,
           "homeSlug": "7882-forrest-fox-way",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/7882-forrest-fox-way",
@@ -6779,15 +6779,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/4ebb/0017-7882-forrest-fox-way/cropped_0003_cali_1828_ele_o.jpg?iar=1&sc=1&thn=1&w=425&rev=4ea51801a9714d5f88e5245454d7c39f&hash=FCEFF5D9BADAC8400EC5B06292F877A5"
           ],
-          "incentive": 5550,
-          "incentiveLabel": "(5,550)"
+          "incentive": 8050,
+          "incentiveLabel": "(8,050)"
         },
         {
           "lot": "16",
           "address": "8595 Cape Fox Cove",
           "plan": "",
-          "price": 353895,
-          "priceLabel": "$353,895",
+          "price": 351395,
+          "priceLabel": "$351,395",
           "beds": 4,
           "homeSlug": "8595-cape-fox-cove",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/fox-branch/qmis/8595-cape-fox-cove",
@@ -6799,8 +6799,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36220-fox-branch-ranch-ph1--2/362210000-fox-branch-ranch-ph1--2-50s/4ebb/0009-8595-cape-fox-cove/cropped_0003_cali_1828_ele_o.jpg?iar=1&sc=1&thn=1&w=425&rev=1fb67c140fc1462f8881247764b8a62c&hash=15D5ACAAA4114B750F5E8FF42DCF44AB"
           ],
-          "incentive": 5595,
-          "incentiveLabel": "(5,595)"
+          "incentive": 8095,
+          "incentiveLabel": "(8,095)"
         }
       ],
       "models": [
@@ -7434,8 +7434,8 @@
       "name": "Hamilton Bluff",
       "address": "1607 Plateau Crossing, Haines City, FL 33844",
       "availableCount": 5,
-      "lowestPrice": 287990,
-      "highestPrice": 368250,
+      "lowestPrice": 285490,
+      "highestPrice": 365750,
       "beds": [
         3,
         4,
@@ -7446,8 +7446,8 @@
           "lot": "49",
           "address": "1185 Cumberland Trail Drive",
           "plan": "",
-          "price": 368250,
-          "priceLabel": "$368,250",
+          "price": 365750,
+          "priceLabel": "$365,750",
           "beds": 5,
           "homeSlug": "1185-cumberland-trail-drive",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1185-cumberland-trail-drive",
@@ -7459,15 +7459,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/3efb/0098-1185-cumberland-trail-drive/cropped_0000_robie_h_.jpg?iar=1&sc=1&thn=1&w=425&rev=85e9de71f24e4ca0bd29776ce6b9e653&hash=B2496EB5921A6DE6E60479495688CFCE"
           ],
-          "incentive": 5740,
-          "incentiveLabel": "(5,740)"
+          "incentive": 8240,
+          "incentiveLabel": "(8,240)"
         },
         {
           "lot": "48",
           "address": "1189 Cumberland Trail Drive",
           "plan": "",
-          "price": 366270,
-          "priceLabel": "$366,270",
+          "price": 363770,
+          "priceLabel": "$363,770",
           "beds": 5,
           "homeSlug": "1189-cumberland-trail-drive",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1189-cumberland-trail-drive",
@@ -7479,8 +7479,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/3efb/0097-1189-cumberland-trail-drive/cropped_0004_robie_g.jpg?iar=1&sc=1&thn=1&w=425&rev=089b9c97690f442c989117bf03157037&hash=9ECFDED9792656E8B2A3E84D5D820435"
           ],
-          "incentive": 5720,
-          "incentiveLabel": "(5,720)"
+          "incentive": 8220,
+          "incentiveLabel": "(8,220)"
         },
         {
           "lot": "16",
@@ -7504,8 +7504,8 @@
           "lot": "20",
           "address": "1770 Grandiose Drive",
           "plan": "",
-          "price": 287990,
-          "priceLabel": "$287,990",
+          "price": 285490,
+          "priceLabel": "$285,490",
           "beds": 3,
           "homeSlug": "1770-grandiose-drive",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1770-grandiose-drive",
@@ -7522,8 +7522,8 @@
           "lot": "17",
           "address": "1783 Grandiose Drive",
           "plan": "",
-          "price": 366990,
-          "priceLabel": "$366,990",
+          "price": 364490,
+          "priceLabel": "$364,490",
           "beds": 5,
           "homeSlug": "1783-grandiose-drive",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1783-grandiose-drive",
@@ -7725,8 +7725,8 @@
       "name": "Harmony at Lake Eloise",
       "address": "1651 Hummingbird Road, Winter Haven, FL 33884",
       "availableCount": 8,
-      "lowestPrice": 286990,
-      "highestPrice": 426400,
+      "lowestPrice": 284490,
+      "highestPrice": 423900,
       "beds": [
         3,
         4
@@ -7736,8 +7736,8 @@
           "lot": "56",
           "address": "1660 Hummingbird Road",
           "plan": "",
-          "price": 304900,
-          "priceLabel": "$304,900",
+          "price": 302400,
+          "priceLabel": "$302,400",
           "beds": 3,
           "homeSlug": "1660-hummingbird-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/1660-hummingbird-road",
@@ -7749,15 +7749,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rab/0010-1660-hummingbird-road/astor_c.jpg?iar=1&sc=1&thn=1&w=425&rev=a23d8bb2a0864645b785ca7f0dd2bc19&hash=769C39A756ACC0F1ED691C16ED86C3F1"
           ],
-          "incentive": 7090,
-          "incentiveLabel": "(7,090)"
+          "incentive": 9590,
+          "incentiveLabel": "(9,590)"
         },
         {
           "lot": "23",
           "address": "1726 Hummingbird Road",
           "plan": "",
-          "price": 326670,
-          "priceLabel": "$326,670",
+          "price": 324170,
+          "priceLabel": "$324,170",
           "beds": 3,
           "homeSlug": "1726-hummingbird-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/1726-hummingbird-road",
@@ -7769,15 +7769,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362170000-harmony-lake-eloise-ph4-50s-rl/3rab/0001-1726-hummingbird-road/1565__astor_ele_a_cs_1_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f21a401c0fbc4e66acfccb079aa53fb3&hash=384FF27F46B4569385495894FBC0CDAB"
           ],
-          "incentive": 5320,
-          "incentiveLabel": "(5,320)"
+          "incentive": 7820,
+          "incentiveLabel": "(7,820)"
         },
         {
           "lot": "184",
           "address": "1757 Hummingbird Road",
           "plan": "",
-          "price": 426400,
-          "priceLabel": "$426,400",
+          "price": 423900,
+          "priceLabel": "$423,900",
           "beds": 4,
           "homeSlug": "1757-hummingbird-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/1757-hummingbird-road",
@@ -7789,15 +7789,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362180000-harmony-on-lake-eloise-ph4-60s/e501/0045-1757-hummingbird-road/denham_l.jpg?iar=1&sc=1&thn=1&w=425&rev=dc061cd8cbcf4a279edaa58d1ad9d5e0&hash=90E714D7ED44E66685809D660F50E25B"
           ],
-          "incentive": 4960,
-          "incentiveLabel": "(4,960)"
+          "incentive": 7460,
+          "incentiveLabel": "(7,460)"
         },
         {
           "lot": "274",
           "address": "3328 White Indigo Road",
           "plan": "",
-          "price": 289900,
-          "priceLabel": "$289,900",
+          "price": 287400,
+          "priceLabel": "$287,400",
           "beds": 3,
           "homeSlug": "3328-white-indigo-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/3328-white-indigo-road",
@@ -7809,15 +7809,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/362150000-harmony-on-lake-eloise-ph4-40s/e306/0025-3328-white-indigo-road/downing_ii_a_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=82ca7c45d97347f3af6a609f0960dc2d&hash=1EDF20C0E7DE906BA9C7451EC05B192C"
           ],
-          "incentive": 7090,
-          "incentiveLabel": "(7,090)"
+          "incentive": 9590,
+          "incentiveLabel": "(9,590)"
         },
         {
           "lot": "26",
           "address": "1738 Hummingbird Road",
           "plan": "",
-          "price": 336900,
-          "priceLabel": "$336,900",
+          "price": 334400,
+          "priceLabel": "$334,400",
           "beds": 4,
           "homeSlug": "1738-hummingbird-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/1738-hummingbird-road",
@@ -7834,8 +7834,8 @@
           "lot": "48",
           "address": "2711 Gladiola Road",
           "plan": "",
-          "price": 286990,
-          "priceLabel": "$286,990",
+          "price": 284490,
+          "priceLabel": "$284,490",
           "beds": 3,
           "homeSlug": "2711-gladiola-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/2711-gladiola-road",
@@ -7852,8 +7852,8 @@
           "lot": "56",
           "address": "2759 Gladiola Road",
           "plan": "",
-          "price": 292990,
-          "priceLabel": "$292,990",
+          "price": 290490,
+          "priceLabel": "$290,490",
           "beds": 3,
           "homeSlug": "2759-gladiola-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/2759-gladiola-road",
@@ -7870,8 +7870,8 @@
           "lot": "271",
           "address": "3310 White Indigo Road",
           "plan": "",
-          "price": 317990,
-          "priceLabel": "$317,990",
+          "price": 315490,
+          "priceLabel": "$315,490",
           "beds": 4,
           "homeSlug": "3310-white-indigo-road",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/3310-white-indigo-road",
@@ -8687,8 +8687,8 @@
       "name": "Hawthorne Ranch",
       "address": "4681 Barberry Avenue, Lakeland, FL 33811",
       "availableCount": 19,
-      "lowestPrice": 315990,
-      "highestPrice": 451900,
+      "lowestPrice": 314490,
+      "highestPrice": 449400,
       "beds": [
         3,
         4,
@@ -8699,8 +8699,8 @@
           "lot": "539",
           "address": "4660 Barberry Avenue",
           "plan": "",
-          "price": 443900,
-          "priceLabel": "$443,900",
+          "price": 441400,
+          "priceLabel": "$441,400",
           "beds": 4,
           "homeSlug": "4660-barberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/4660-barberry-avenue",
@@ -8712,15 +8712,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362020000-hawthorne-ph3-60s/e501/0031-4660-barberry-avenue/denham_h.jpg?iar=1&sc=1&thn=1&w=425&rev=94cc950aee854ddab0b9e183c75cef5a&hash=C354946A9740318AF97DEFEC22963DAF"
           ],
-          "incentive": 8090,
-          "incentiveLabel": "(8,090)"
+          "incentive": 10590,
+          "incentiveLabel": "(10,590)"
         },
         {
           "lot": "530",
           "address": "5231 Ligonberry Street",
           "plan": "",
-          "price": 445990,
-          "priceLabel": "$445,990",
+          "price": 443490,
+          "priceLabel": "$443,490",
           "beds": 4,
           "homeSlug": "5231-ligonberry-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5231-ligonberry-street",
@@ -8732,15 +8732,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362020000-hawthorne-ph3-60s/e501/0022-5231-ligonberry-street/denham_l_cropped_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=56e1c4bc69ac4beaaa68a9a3fbf64062&hash=66F2ACD37652087BDB2A2E3AC27BFCCB"
           ],
-          "incentive": 7000,
-          "incentiveLabel": "(7,000)"
+          "incentive": 9500,
+          "incentiveLabel": "(9,500)"
         },
         {
           "lot": "427",
           "address": "5336 Cloudberry Avenue",
           "plan": "",
-          "price": 451900,
-          "priceLabel": "$451,900",
+          "price": 449400,
+          "priceLabel": "$449,400",
           "beds": 4,
           "homeSlug": "5336-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5336-cloudberry-avenue",
@@ -8752,15 +8752,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2722/0013-5336-cloudberry-avenue/mckenna_ele_e_2_car_with_stone_cs7_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=132b0dc7246a48a288bf7abb606bbf20&hash=5E8D6FA9151A1D541C12453769A946FC"
           ],
-          "incentive": 5590,
-          "incentiveLabel": "(5,590)"
+          "incentive": 8090,
+          "incentiveLabel": "(8,090)"
         },
         {
           "lot": "431",
           "address": "5352 Cloudberry Avenue",
           "plan": "",
-          "price": 449900,
-          "priceLabel": "$449,900",
+          "price": 447400,
+          "priceLabel": "$447,400",
           "beds": 4,
           "homeSlug": "5352-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5352-cloudberry-avenue",
@@ -8772,15 +8772,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/0017-5352-cloudberry-avenue/_0016_1_front.jpg?iar=1&sc=1&thn=1&w=425&rev=b798967524c54d2e9defe35dd2fc2c43&hash=B2966F64C12403913E57F3EB814F1523"
           ],
-          "incentive": 6590,
-          "incentiveLabel": "(6,590)"
+          "incentive": 9090,
+          "incentiveLabel": "(9,090)"
         },
         {
           "lot": "435",
           "address": "5368 Cloudberry Avenue",
           "plan": "",
-          "price": 443400,
-          "priceLabel": "$443,400",
+          "price": 440900,
+          "priceLabel": "$440,900",
           "beds": 4,
           "homeSlug": "5368-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5368-cloudberry-avenue",
@@ -8792,15 +8792,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2722/0021-5368-cloudberry-avenue/mckenna_e.jpg?iar=1&sc=1&thn=1&w=425&rev=4a72e4d8956146d88726009465738c46&hash=89C14DDF4ACBEE0EC91F3DDFD8679F2E"
           ],
-          "incentive": 8090,
-          "incentiveLabel": "(8,090)"
+          "incentive": 10590,
+          "incentiveLabel": "(10,590)"
         },
         {
           "lot": "438",
           "address": "5384 Cloudberry Avenue",
           "plan": "",
-          "price": 443900,
-          "priceLabel": "$443,900",
+          "price": 441400,
+          "priceLabel": "$441,400",
           "beds": 4,
           "homeSlug": "5384-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5384-cloudberry-avenue",
@@ -8812,15 +8812,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/0024-5384-cloudberry-avenue/coral_g_stone_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=451238ae7222421fa4127318446c1801&hash=F51E9CEBCAD87257C7FC7CE9BFCF4285"
           ],
-          "incentive": 10590,
-          "incentiveLabel": "(10,590)"
+          "incentive": 13090,
+          "incentiveLabel": "(13,090)"
         },
         {
           "lot": "440",
           "address": "5392 Cloudberry Avenue",
           "plan": "",
-          "price": 443900,
-          "priceLabel": "$443,900",
+          "price": 441400,
+          "priceLabel": "$441,400",
           "beds": 4,
           "homeSlug": "5392-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5392-cloudberry-avenue",
@@ -8832,8 +8832,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362080000-hawthorne-ph3-50s-tradition/2767/0026-5392-cloudberry-avenue/coral_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=66f13271d0d74958a2f277aa11e6aca4&hash=E89BC65188909BC898E1D588E7C3DBA4"
           ],
-          "incentive": 13590,
-          "incentiveLabel": "(13,590)"
+          "incentive": 16090,
+          "incentiveLabel": "(16,090)"
         },
         {
           "lot": "410",
@@ -8875,8 +8875,8 @@
           "lot": "420",
           "address": "5308 Cloudberry Avenue",
           "plan": "",
-          "price": 421490,
-          "priceLabel": "$421,490",
+          "price": 418990,
+          "priceLabel": "$418,990",
           "beds": 4,
           "homeSlug": "5308-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5308-cloudberry-avenue",
@@ -8911,8 +8911,8 @@
           "lot": "458",
           "address": "5331 Cloudberry Avenue",
           "plan": "",
-          "price": 328990,
-          "priceLabel": "$328,990",
+          "price": 326490,
+          "priceLabel": "$326,490",
           "beds": 4,
           "homeSlug": "5331-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5331-cloudberry-avenue",
@@ -8947,8 +8947,8 @@
           "lot": "455",
           "address": "5343 Cloudberry Avenue",
           "plan": "",
-          "price": 316990,
-          "priceLabel": "$316,990",
+          "price": 314490,
+          "priceLabel": "$314,490",
           "beds": 3,
           "homeSlug": "5343-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5343-cloudberry-avenue",
@@ -8965,8 +8965,8 @@
           "lot": "442",
           "address": "5400 Cloudberry Avenue",
           "plan": "",
-          "price": 441900,
-          "priceLabel": "$441,900",
+          "price": 439400,
+          "priceLabel": "$439,400",
           "beds": 4,
           "homeSlug": "5400-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5400-cloudberry-avenue",
@@ -9315,7 +9315,7 @@
       "name": "Hawthorne Ranch Townhomes",
       "address": "4374 Butterscotch Circle, Lakeland, FL 33811",
       "availableCount": 4,
-      "lowestPrice": 265780,
+      "lowestPrice": 263280,
       "highestPrice": 276290,
       "beds": [
         3
@@ -9325,8 +9325,8 @@
           "lot": "666",
           "address": "4290 Butterscotch Circle",
           "plan": "",
-          "price": 265780,
-          "priceLabel": "$265,780",
+          "price": 263280,
+          "priceLabel": "$263,280",
           "beds": 3,
           "homeSlug": "4290-butterscotch-circle",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch-townhomes/qmis/4290-butterscotch-circle",
@@ -9338,15 +9338,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36203-hawthorne/362030000-hawthorne-ph3--ths/t20b/0126-4290-butterscotch-circle/hawthorne_pearson_.jpg?iar=1&sc=1&thn=1&w=425&rev=e411b0c9635848e5b39f9b9606d9c843&hash=EE16A71D9ADFF2FFD88DFF0ED3EA6048"
           ],
-          "incentive": 5210,
-          "incentiveLabel": "(5,210)"
+          "incentive": 7710,
+          "incentiveLabel": "(7,710)"
         },
         {
           "lot": "614",
           "address": "4355 Butterscotch Circle",
           "plan": "",
-          "price": 266270,
-          "priceLabel": "$266,270",
+          "price": 263770,
+          "priceLabel": "$263,770",
           "beds": 3,
           "homeSlug": "4355-butterscotch-circle",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch-townhomes/qmis/4355-butterscotch-circle",
@@ -9358,8 +9358,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38968-hawthorne/362030000-hawthorne-ph3--ths/t20b/0074-4355-butterscotch-circle/hawthorne_pearson.jpg?iar=1&sc=1&thn=1&w=425&rev=ec1d1177150e43cc93e4625b7f14aa04&hash=49DADD13E47639A666A7A37CD7C3E586"
           ],
-          "incentive": 5720,
-          "incentiveLabel": "(5,720)"
+          "incentive": 8220,
+          "incentiveLabel": "(8,220)"
         },
         {
           "lot": "669",
@@ -10869,8 +10869,8 @@
       "name": "Lakes of Mount Dora",
       "address": "3980 Kennebunk Loop, Mount Dora, FL 32757",
       "availableCount": 6,
-      "lowestPrice": 398990,
-      "highestPrice": 496990,
+      "lowestPrice": 396490,
+      "highestPrice": 494490,
       "beds": [
         3,
         4
@@ -10880,8 +10880,8 @@
           "lot": "945",
           "address": "3949 Kennebunk Loop",
           "plan": "",
-          "price": 475900,
-          "priceLabel": "$475,900",
+          "price": 473400,
+          "priceLabel": "$473,400",
           "beds": 4,
           "homeSlug": "3949-kennebunk-loop",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/mount-dora/lakes-of-mount-dora/qmis/3949-kennebunk-loop",
@@ -10893,15 +10893,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78210-lakes-of-mount-dora/782110000-lakes-of-mount-dora-50/a4db/0043-3949-kennebunk-loop/untitled-6_0001_delray_ele_a_cs1.jpg?iar=1&sc=1&thn=1&w=425&rev=7a0eb3ea48d34e6183f7ee1b2aea0436&hash=E76B8E77F0DE26FF13619A1A1B96ABC6"
           ],
-          "incentive": 14705,
-          "incentiveLabel": "(14,705)"
+          "incentive": 17205,
+          "incentiveLabel": "(17,205)"
         },
         {
           "lot": "913",
           "address": "3952 Kennebunk Loop",
           "plan": "",
-          "price": 475990,
-          "priceLabel": "$475,990",
+          "price": 473490,
+          "priceLabel": "$473,490",
           "beds": 4,
           "homeSlug": "3952-kennebunk-loop",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/mount-dora/lakes-of-mount-dora/qmis/3952-kennebunk-loop",
@@ -10913,15 +10913,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78210-lakes-of-mount-dora/782110000-lakes-of-mount-dora-50/a4db/0027--3952-kennebunk-loop/delray_mls_lomd_a.jpg?iar=1&sc=1&thn=1&w=425&rev=65a0a7f449be48bba5620d0065fff8ad&hash=A7FB69A6D14BCC911513A3CF59F80400"
           ],
-          "incentive": 6000,
-          "incentiveLabel": "(6,000)"
+          "incentive": 8500,
+          "incentiveLabel": "(8,500)"
         },
         {
           "lot": "938",
           "address": "3963 Kennebunk Loop",
           "plan": "",
-          "price": 398990,
-          "priceLabel": "$398,990",
+          "price": 396490,
+          "priceLabel": "$396,490",
           "beds": 3,
           "homeSlug": "3963-kennebunk-loop",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/mount-dora/lakes-of-mount-dora/qmis/3963-kennebunk-loop",
@@ -10933,15 +10933,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78210-lakes-of-mount-dora/782100000-lakes-of-mount-dora-40/a3db/0014-3963-kennebunk-loop/cropped_0000_desmond_ele_b_cs6.jpg?iar=1&sc=1&thn=1&w=425&rev=86bbf38f02654e65bf8dc9fcc2f16842&hash=B826D1F515BCEE8A15633C05B441ADF4"
           ],
-          "incentive": 9000,
-          "incentiveLabel": "(9,000)"
+          "incentive": 11500,
+          "incentiveLabel": "(11,500)"
         },
         {
           "lot": "947",
           "address": "3945 Kennebunk Loop",
           "plan": "",
-          "price": 403140,
-          "priceLabel": "$403,140",
+          "price": 400640,
+          "priceLabel": "$400,640",
           "beds": 3,
           "homeSlug": "3945-kennebunk-loop",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/mount-dora/lakes-of-mount-dora/qmis/3945-kennebunk-loop",
@@ -10958,8 +10958,8 @@
           "lot": "942",
           "address": "3955 Kennebunk Loop",
           "plan": "",
-          "price": 410405,
-          "priceLabel": "$410,405",
+          "price": 407905,
+          "priceLabel": "$407,905",
           "beds": 3,
           "homeSlug": "3955-kennebunk-loop",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/mount-dora/lakes-of-mount-dora/qmis/3955-kennebunk-loop",
@@ -10976,8 +10976,8 @@
           "lot": "862",
           "address": "8595 Hempstead Way",
           "plan": "",
-          "price": 496990,
-          "priceLabel": "$496,990",
+          "price": 494490,
+          "priceLabel": "$494,490",
           "beds": 4,
           "homeSlug": "8595-hempstead-way",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/mount-dora/lakes-of-mount-dora/qmis/8595-hempstead-way",
@@ -11179,8 +11179,8 @@
       "name": "Leomas Landing",
       "address": "713 Greenway Boulevard, Lake Wales, FL 33859",
       "availableCount": 4,
-      "lowestPrice": 242990,
-      "highestPrice": 277990,
+      "lowestPrice": 240490,
+      "highestPrice": 275490,
       "beds": [
         4,
         5
@@ -11190,8 +11190,8 @@
           "lot": "185",
           "address": "761 Greenway Boulevard",
           "plan": "",
-          "price": 273900,
-          "priceLabel": "$273,900",
+          "price": 271400,
+          "priceLabel": "$271,400",
           "beds": 5,
           "homeSlug": "761-greenway-boulevard",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lake-wales/leomas-landing-ph2--ph3/qmis/761-greenway-boulevard",
@@ -11203,15 +11203,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38994-leomas-landing-ph2--ph3/389950000-leomas-landing-ph2--ph3-50s/e405/0037-761-greenway-boulevard/dundee_b_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=a890d99d51be40a081f3683b83d4acaf&hash=7598BA8E6ECA8635B198ACFC2CED7216"
           ],
-          "incentive": 6090,
-          "incentiveLabel": "(6,090)"
+          "incentive": 8590,
+          "incentiveLabel": "(8,590)"
         },
         {
           "lot": "113",
           "address": "1142 Amber Waves Court",
           "plan": "",
-          "price": 242990,
-          "priceLabel": "$242,990",
+          "price": 240490,
+          "priceLabel": "$240,490",
           "beds": 4,
           "homeSlug": "1142-amber-waves-court",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lake-wales/leomas-landing-ph2--ph3/qmis/1142-amber-waves-court",
@@ -11228,8 +11228,8 @@
           "lot": "115",
           "address": "1150 Amber Waves Court",
           "plan": "",
-          "price": 261990,
-          "priceLabel": "$261,990",
+          "price": 259490,
+          "priceLabel": "$259,490",
           "beds": 5,
           "homeSlug": "1150-amber-waves-court",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lake-wales/leomas-landing-ph2--ph3/qmis/1150-amber-waves-court",
@@ -11246,8 +11246,8 @@
           "lot": "155",
           "address": "730 Greenway Boulevard",
           "plan": "",
-          "price": 277990,
-          "priceLabel": "$277,990",
+          "price": 275490,
+          "priceLabel": "$275,490",
           "beds": 5,
           "homeSlug": "730-greenway-boulevard",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lake-wales/leomas-landing-ph2--ph3/qmis/730-greenway-boulevard",
@@ -11388,9 +11388,9 @@
       "slug": "magnolia-pointe",
       "name": "Magnolia Pointe",
       "address": "1372 Bear Hammock Drive, Umatilla, FL 32784",
-      "availableCount": 4,
-      "lowestPrice": 326990,
-      "highestPrice": 349990,
+      "availableCount": 5,
+      "lowestPrice": 313990,
+      "highestPrice": 347490,
       "beds": [
         3,
         4
@@ -11400,8 +11400,8 @@
           "lot": "220",
           "address": "1336 Bear Hammock Drive",
           "plan": "",
-          "price": 328990,
-          "priceLabel": "$328,990",
+          "price": 326490,
+          "priceLabel": "$326,490",
           "beds": 3,
           "homeSlug": "1336-bear-hammock-drive",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/qmis/1336-bear-hammock-drive",
@@ -11413,15 +11413,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38985-magnolia-pointe/389860000-magnolia-pointe-50s/4eab/0106-1336-bear-hammock-drive/aria_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c874558a5d7f4f67b72243e9453aa6f8&hash=11112EC6AD86654D6914FA4F12F8A701"
           ],
-          "incentive": 20000,
-          "incentiveLabel": "(20,000)"
+          "incentive": 22500,
+          "incentiveLabel": "(22,500)"
         },
         {
           "lot": "164",
           "address": "144 Flag Lilly Lane",
           "plan": "",
-          "price": 326990,
-          "priceLabel": "$326,990",
+          "price": 324490,
+          "priceLabel": "$324,490",
           "beds": 3,
           "homeSlug": "144-flag-lilly-lane",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/qmis/144-flag-lilly-lane",
@@ -11433,15 +11433,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38985-magnolia-pointe/389860000-magnolia-pointe-50s/4eab/0090-144-flag-lilly-lane/aria_m.jpg?iar=1&sc=1&thn=1&w=425&rev=06bf9951467041528412453b8ab0f9fc&hash=A36F766B5F4B000112A8959C6AC197D9"
           ],
-          "incentive": 20000,
-          "incentiveLabel": "(20,000)"
+          "incentive": 22500,
+          "incentiveLabel": "(22,500)"
         },
         {
           "lot": "163",
           "address": "148 Flag Lilly Lane",
           "plan": "",
-          "price": 332990,
-          "priceLabel": "$332,990",
+          "price": 330490,
+          "priceLabel": "$330,490",
           "beds": 4,
           "homeSlug": "148-flag-lilly-lane",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/qmis/148-flag-lilly-lane",
@@ -11453,15 +11453,33 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38985-magnolia-pointe/389860000-magnolia-pointe-50s/4ebb/0089-148-flag-lilly-lane/cali_h_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=b2587a1381a14bae97af82cd84844c07&hash=E1A9D2F2625A0EBC4EBA01B217E8BBCF"
           ],
-          "incentive": 20000,
-          "incentiveLabel": "(20,000)"
+          "incentive": 22500,
+          "incentiveLabel": "(22,500)"
+        },
+        {
+          "lot": "46",
+          "address": "1080 Bear Hammock Drive",
+          "plan": "",
+          "price": 313990,
+          "priceLabel": "$313,990",
+          "beds": 3,
+          "homeSlug": "1080-bear-hammock-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/qmis/1080-bear-hammock-drive",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38985-magnolia-pointe/389860000-magnolia-pointe-50s/e406/0046-1080-bear-hammock-drive/archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=2e84d1a1cacb480e9ca8668cab2897ad&hash=B5443D5449C374E0BD62C519502A964B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38985-magnolia-pointe/389860000-magnolia-pointe-50s/e406/0046-1080-bear-hammock-drive/archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=2e84d1a1cacb480e9ca8668cab2897ad&hash=B5443D5449C374E0BD62C519502A964B"
+          ]
         },
         {
           "lot": "165",
           "address": "140 Flag Lilly Lane",
           "plan": "",
-          "price": 349990,
-          "priceLabel": "$349,990",
+          "price": 347490,
+          "priceLabel": "$347,490",
           "beds": 4,
           "homeSlug": "140-flag-lilly-lane",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/qmis/140-flag-lilly-lane",
@@ -11648,8 +11666,8 @@
       "name": "Millstone",
       "address": "8324 Madrid Street, Lakeland, FL 33810",
       "availableCount": 6,
-      "lowestPrice": 304990,
-      "highestPrice": 362490,
+      "lowestPrice": 302490,
+      "highestPrice": 359990,
       "beds": [
         3,
         4,
@@ -11660,8 +11678,8 @@
           "lot": "146",
           "address": "1510 Las Palmas Street",
           "plan": "",
-          "price": 316770,
-          "priceLabel": "$316,770",
+          "price": 314270,
+          "priceLabel": "$314,270",
           "beds": 4,
           "homeSlug": "1510-las-palmas-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1510-las-palmas-street",
@@ -11673,15 +11691,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0146-1510-las-palmas-street/harper_g__cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=d932a685bda540bfa4e3a797707cbdc2&hash=A05B249BEDAE24D8A6F7B99618F6EBCD"
           ],
-          "incentive": 5220,
-          "incentiveLabel": "(5,220)"
+          "incentive": 7720,
+          "incentiveLabel": "(7,720)"
         },
         {
           "lot": "147",
           "address": "1514 Las Palmas Street",
           "plan": "",
-          "price": 318780,
-          "priceLabel": "$318,780",
+          "price": 316280,
+          "priceLabel": "$316,280",
           "beds": 4,
           "homeSlug": "1514-las-palmas-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1514-las-palmas-street",
@@ -11693,15 +11711,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0147-1514-las-palmas-street/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=48b9bb1473a5458da5cfe4eec3355b63&hash=C8C5072D005F8CD9F2FE0A083E081D07"
           ],
-          "incentive": 5210,
-          "incentiveLabel": "(5,210)"
+          "incentive": 7710,
+          "incentiveLabel": "(7,710)"
         },
         {
           "lot": "143",
           "address": "1511 Las Palmas Street",
           "plan": "",
-          "price": 362490,
-          "priceLabel": "$362,490",
+          "price": 359990,
+          "priceLabel": "$359,990",
           "beds": 5,
           "homeSlug": "1511-las-palmas-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1511-las-palmas-street",
@@ -11718,8 +11736,8 @@
           "lot": "149",
           "address": "1522 Las Palmas Street",
           "plan": "",
-          "price": 315990,
-          "priceLabel": "$315,990",
+          "price": 313490,
+          "priceLabel": "$313,490",
           "beds": 4,
           "homeSlug": "1522-las-palmas-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1522-las-palmas-street",
@@ -11736,8 +11754,8 @@
           "lot": "140",
           "address": "1523 Las Palmas Street",
           "plan": "",
-          "price": 304990,
-          "priceLabel": "$304,990",
+          "price": 302490,
+          "priceLabel": "$302,490",
           "beds": 3,
           "homeSlug": "1523-las-palmas-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1523-las-palmas-street",
@@ -11754,8 +11772,8 @@
           "lot": "150",
           "address": "1526 Las Palmas Street",
           "plan": "",
-          "price": 319490,
-          "priceLabel": "$319,490",
+          "price": 316990,
+          "priceLabel": "$316,990",
           "beds": 4,
           "homeSlug": "1526-las-palmas-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1526-las-palmas-street",
@@ -15606,7 +15624,7 @@
       "slug": "twisted-oaks",
       "name": "Twisted Oaks",
       "address": "3181 Canopy Oak Blvd., Wildwood, FL 34785",
-      "availableCount": 20,
+      "availableCount": 21,
       "lowestPrice": 229990,
       "highestPrice": 429990,
       "beds": [
@@ -16009,6 +16027,24 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974590000-twisted-oaks-sumter-50s-exp/4ehb/0064-8708-barragan-drive/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f2c38d1a3efa42738303175dbb6c6613&hash=28B2DB7A80300E7CA09B3006907BDD08"
           ]
+        },
+        {
+          "lot": "267",
+          "address": "8720 Barragan Drive",
+          "plan": "",
+          "price": 367070,
+          "priceLabel": "$367,070",
+          "beds": 5,
+          "homeSlug": "8720-barragan-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8720-barragan-drive",
+          "baths": "3",
+          "sqft": "2,605",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974590000-twisted-oaks-sumter-50s-exp/4ehb/0061-8720-barragan-drive/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=039e3ab8b34c47bc95f0872640011122&hash=83842E9A1D69991C6E87DEC8344BDCEC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974590000-twisted-oaks-sumter-50s-exp/4ehb/0061-8720-barragan-drive/hayden-k-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=039e3ab8b34c47bc95f0872640011122&hash=83842E9A1D69991C6E87DEC8344BDCEC"
+          ]
         }
       ],
       "models": [
@@ -16331,7 +16367,7 @@
       "name": "Villamar",
       "address": "5515 Taverna Loop, Winter Haven, FL 33884",
       "availableCount": 5,
-      "lowestPrice": 276970,
+      "lowestPrice": 274470,
       "highestPrice": 321225,
       "beds": [
         3,
@@ -16342,8 +16378,8 @@
           "lot": "252",
           "address": "4049 Giorgio Drive",
           "plan": "",
-          "price": 283900,
-          "priceLabel": "$283,900",
+          "price": 281400,
+          "priceLabel": "$281,400",
           "beds": 3,
           "homeSlug": "4049-giorgio-drive",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/4049-giorgio-drive",
@@ -16355,15 +16391,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389290000-villamar-40s-ph3-3-6/e302/0252-4049-giorgio-drive/allex_d_cropped_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d72b049c94c44e3ca55ded4ecab888ee&hash=17E18F735DAD0BCCCDFB93B02A812880"
           ],
-          "incentive": 4090,
-          "incentiveLabel": "(4,090)"
+          "incentive": 6590,
+          "incentiveLabel": "(6,590)"
         },
         {
           "lot": "28",
           "address": "4160 Giorgio Drive",
           "plan": "",
-          "price": 288900,
-          "priceLabel": "$288,900",
+          "price": 286400,
+          "priceLabel": "$286,400",
           "beds": 4,
           "homeSlug": "4160-giorgio-drive",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/4160-giorgio-drive",
@@ -16375,15 +16411,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389290000-villamar-40s-ph3-3-6/3emb/0146-4160-giorgio-drive/harper_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=43051644a61240f7a18364c008e1300b&hash=0AC9B14F53BD9C046B3B07C5ABAEC809"
           ],
-          "incentive": 8090,
-          "incentiveLabel": "(8,090)"
+          "incentive": 10590,
+          "incentiveLabel": "(10,590)"
         },
         {
           "lot": "93",
           "address": "5584 Taverna Loop",
           "plan": "",
-          "price": 276970,
-          "priceLabel": "$276,970",
+          "price": 274470,
+          "priceLabel": "$274,470",
           "beds": 3,
           "homeSlug": "5584-taverna-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/5584-taverna-loop",
@@ -16395,8 +16431,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e302/0007-5584-taverna-loop/allex_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=09146977e55c41d6aef08c8792a3fa91&hash=68A09AF60700D8D0D22C9193C9A3A29A"
           ],
-          "incentive": 5020,
-          "incentiveLabel": "(5,020)"
+          "incentive": 7520,
+          "incentiveLabel": "(7,520)"
         },
         {
           "lot": "314",
@@ -17558,7 +17594,7 @@
       "address": "2815 Adeline Ave, Winter Haven, FL 33881",
       "availableCount": 10,
       "lowestPrice": 277490,
-      "highestPrice": 321720,
+      "highestPrice": 320990,
       "beds": [
         3,
         4,
@@ -17569,8 +17605,8 @@
           "lot": "16",
           "address": "2759 Adeline Ave",
           "plan": "",
-          "price": 321720,
-          "priceLabel": "$321,720",
+          "price": 319220,
+          "priceLabel": "$319,220",
           "beds": 4,
           "homeSlug": "2759-adeline-ave",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2759-adeline-ave",
@@ -17582,8 +17618,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/4ebb/0016-2759-adeline-ave/cropped_0010_cali_g.jpg?iar=1&sc=1&thn=1&w=425&rev=e7b84d579d0c41d6a7b3e0e6eb47da04&hash=632D848C09BF720BBF734BA4205E55C0"
           ],
-          "incentive": 5270,
-          "incentiveLabel": "(5,270)"
+          "incentive": 7770,
+          "incentiveLabel": "(7,770)"
         },
         {
           "lot": "66",
@@ -17625,8 +17661,8 @@
           "lot": "70",
           "address": "2758 Adeline Ave",
           "plan": "",
-          "price": 297990,
-          "priceLabel": "$297,990",
+          "price": 295490,
+          "priceLabel": "$295,490",
           "beds": 5,
           "homeSlug": "2758-adeline-ave",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2758-adeline-ave",
@@ -18016,7 +18052,7 @@
       "name": "Wynnstone",
       "address": "5787 Mountain Road, Davenport, FL 33837",
       "availableCount": 5,
-      "lowestPrice": 334590,
+      "lowestPrice": 332090,
       "highestPrice": 417490,
       "beds": [
         3,
@@ -18028,8 +18064,8 @@
           "lot": "70",
           "address": "5164 Native Mile Loop",
           "plan": "",
-          "price": 411830,
-          "priceLabel": "$411,830",
+          "price": 409330,
+          "priceLabel": "$409,330",
           "beds": 5,
           "homeSlug": "5164-native-mile-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/qmis/5164-native-mile-loop",
@@ -18041,15 +18077,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38918-cascades-sf/362060000-wynnstone-40s/3efb/0241-5164-native-mile-loop/robie_g_cropped_wynnstone.jpg?iar=1&sc=1&thn=1&w=425&rev=226e268a26974f0caec2273ff14ec77b&hash=21EBAA2C3493BC0AC76FAD9CA5ADDBCD"
           ],
-          "incentive": 4160,
-          "incentiveLabel": "(4,160)"
+          "incentive": 6660,
+          "incentiveLabel": "(6,660)"
         },
         {
           "lot": "75",
           "address": "5184 Native Mile Loop",
           "plan": "",
-          "price": 343520,
-          "priceLabel": "$343,520",
+          "price": 341020,
+          "priceLabel": "$341,020",
           "beds": 3,
           "homeSlug": "5184-native-mile-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/qmis/5184-native-mile-loop",
@@ -18061,8 +18097,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38918-cascades-sf/362060000-wynnstone-40s/3eab/0246-5184-native-mile-loop/allex_c_wynnstone.jpg?iar=1&sc=1&thn=1&w=425&rev=c27d83ae83c64b058dd61c04146c5f89&hash=18852FDEEC6E2E062B5DDFE142F677CC"
           ],
-          "incentive": 3470,
-          "incentiveLabel": "(3,470)"
+          "incentive": 5970,
+          "incentiveLabel": "(5,970)"
         },
         {
           "lot": "42",
@@ -18086,8 +18122,8 @@
           "lot": "10",
           "address": "4788 Rolling Lake Lane",
           "plan": "",
-          "price": 334590,
-          "priceLabel": "$334,590",
+          "price": 332090,
+          "priceLabel": "$332,090",
           "beds": 3,
           "homeSlug": "4788-rolling-lake-lane",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/qmis/4788-rolling-lake-lane",
@@ -18104,8 +18140,8 @@
           "lot": "68",
           "address": "5156 Native Mile Loop",
           "plan": "",
-          "price": 351990,
-          "priceLabel": "$351,990",
+          "price": 349490,
+          "priceLabel": "$349,490",
           "beds": 4,
           "homeSlug": "5156-native-mile-loop",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/wynnstone/qmis/5156-native-mile-loop",
