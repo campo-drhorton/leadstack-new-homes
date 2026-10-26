@@ -15,6 +15,7 @@ async function load(name) {
 const ocala = await load("christina-martinez.json");
 const central = await load("central-florida.json");
 const tampa = await load("tampa.json");
+const lennar = await load("lennar.json");
 function photoList(row) {
   const list = Array.isArray(row?.photos) ? row.photos.filter(Boolean) : [];
   if (list.length) return list;
@@ -50,7 +51,7 @@ function mergeRows(fresh, prev, keyOf) {
 const previous = await load("map-inventory.json");
 const prevBySlug = byKey(previous?.communities, (row) => String(row.slug || "").trim());
 const by = new Map();
-for (const snap of [central, tampa, ocala]) {
+for (const snap of [central, tampa, ocala, lennar]) {
   if (!snap?.communities) continue;
   for (const row of snap.communities) {
     const slug = String(row.slug || "").trim();
@@ -58,6 +59,9 @@ for (const snap of [central, tampa, ocala]) {
     const prev = prevBySlug.get(slug);
     by.set(slug, {
       ...row,
+      builder: row.builder || snap.builder || "drhorton",
+      source: row.source || snap.source,
+      checkedAt: row.checkedAt || snap.updatedAt,
       slug,
       lots: mergeRows(row.lots, prev?.lots, (lot) => lot.sourceUrl || `${lot.lot}|${lot.address}`),
       models: mergeRows(row.models, prev?.models, (model) => model.sourceUrl || model.slug || model.name),
@@ -67,10 +71,16 @@ for (const snap of [central, tampa, ocala]) {
 const communities = [...by.values()].sort((a, b) => String(a.name).localeCompare(String(b.name)));
 const out = {
   updatedAt: new Date().toISOString(),
+  // Legacy envelope value retained for deployed realtor readers. Each community
+  // carries its actual builder/source/checkedAt; sources below records all feeds.
   source: "drhorton-public",
   builder: "drhorton",
   adapter: "drhorton-public",
   market: "central-florida-tampa",
+  sources: {
+    drhorton: [central, tampa, ocala].filter(Boolean).map(s => ({source: s.source, checkedAt: s.updatedAt})),
+    lennar: lennar ? {source: lennar.source, markets: lennar.sourceRuns} : null,
+  },
   communities,
 };
 await writeFile(resolve(cwd, "map-inventory.json"), JSON.stringify(out, null, 2));
