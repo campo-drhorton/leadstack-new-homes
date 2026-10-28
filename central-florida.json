@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-27T19:10:02.016Z",
+  "updatedAt": "2026-10-28T19:18:09.096Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-27T19:10:02.016Z",
-  "photoCount": 522,
+  "publicUpdatedAt": "2026-10-28T19:18:09.096Z",
+  "photoCount": 519,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -369,8 +369,8 @@
           "lot": "42",
           "address": "3024 Kingsman Trail",
           "plan": "",
-          "price": 424997,
-          "priceLabel": "$424,997",
+          "price": 419990,
+          "priceLabel": "$419,990",
           "beds": 4,
           "homeSlug": "3024-kingsman-trail",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/archers-mill/qmis/3024-kingsman-trail",
@@ -382,8 +382,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34549-archers-mill/345480000-archers-mill-55s/2989/0166-3024-kingsman-trail/1_2_portlandexterior_elevation_t.jpg?iar=1&sc=1&thn=1&w=425&rev=4a24a31763604a3a86a61bedda9a45fc&hash=B437AE5FB72A7F58CD4C6B17A4F832DD"
           ],
-          "incentive": 12993,
-          "incentiveLabel": "(12,993)"
+          "incentive": 18000,
+          "incentiveLabel": "(18,000)"
         },
         {
           "lot": "56",
@@ -429,8 +429,8 @@
           "lot": "05",
           "address": "332 Skatemaster Street",
           "plan": "",
-          "price": 499994,
-          "priceLabel": "$499,994",
+          "price": 489990,
+          "priceLabel": "$489,990",
           "beds": 4,
           "homeSlug": "332-skatemaster-street",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/archers-mill/qmis/332-skatemaster-street",
@@ -442,8 +442,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34549-archers-mill/345490000-archers-mill-65s/2795/0145-332-skatemaster-street/1_1_camden_exterior_elevation_k.jpg?iar=1&sc=1&thn=1&w=425&rev=5a2fe1da3f784c0785fb8a3681102800&hash=14A0BFAF96B9FA34BABE3A1F63B9ACDB"
           ],
-          "incentive": 15996,
-          "incentiveLabel": "(15,996)"
+          "incentive": 26000,
+          "incentiveLabel": "(26,000)"
         },
         {
           "lot": "34",
@@ -733,7 +733,7 @@
       "address": "1617 NW 248th Way, Newberry, FL 32669",
       "availableCount": 16,
       "lowestPrice": 269990,
-      "highestPrice": 368070,
+      "highestPrice": 363070,
       "beds": [
         3,
         4,
@@ -757,8 +757,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974830000-avalon-woods-60s-exp/e501/0026-24226-nw-13th-blvd/denham-js-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=dec3b3635de44a0aad78458ea08059e2&hash=C7B9A6D5FB533E70AAAA42F09351DD1A"
           ],
-          "incentive": 19080,
-          "incentiveLabel": "(19,080)"
+          "incentive": 14080,
+          "incentiveLabel": "(14,080)"
         },
         {
           "lot": "513",
@@ -777,8 +777,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974830000-avalon-woods-60s-exp/5emb/0027-24234-nw-13th-blvd/madison-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b1731e03319c4aee9104be6571ea7355&hash=5DD48C71CC3DA52E740642956A333A39"
           ],
-          "incentive": 9080,
-          "incentiveLabel": "(9,080)"
+          "incentive": 4080,
+          "incentiveLabel": "(4,080)"
         },
         {
           "lot": "579",
@@ -797,8 +797,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4eab/0146-24277-nw-10th-rd/aria-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=abca80e494104cc89f8e72f7863293fa&hash=371C801443644045F32B6263A1C206FD"
           ],
-          "incentive": 7080,
-          "incentiveLabel": "(7,080)"
+          "incentive": 2080,
+          "incentiveLabel": "(2,080)"
         },
         {
           "lot": "582",
@@ -817,8 +817,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974490000-avalon-woods-40s-exp/3emb/0109-24317-nw-10th-rd/harper-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=39d359d6a33d414ea8efaa96bfb65f0b&hash=BB75ADA7BE3AE3EA7062914F3B908D33"
           ],
-          "incentive": 7080,
-          "incentiveLabel": "(7,080)"
+          "incentive": 2080,
+          "incentiveLabel": "(2,080)"
         },
         {
           "lot": "583",
@@ -837,15 +837,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0110-24333-nw-10th-rd/allex-bs-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=21f5c5df8260421d9b83aa3defcadafa&hash=D4EEBC9E8EE626D6F322E2B7BA1C9CE6"
           ],
-          "incentive": 5080,
-          "incentiveLabel": "(5,080)"
+          "incentive": 80,
+          "incentiveLabel": "(80)"
         },
         {
           "lot": "654",
           "address": "24202 NW 10th PLACE",
           "plan": "",
-          "price": 317070,
-          "priceLabel": "$317,070",
+          "price": 312070,
+          "priceLabel": "$312,070",
           "beds": 3,
           "homeSlug": "24202-nw-10th-place",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24202-nw-10th-place",
@@ -862,8 +862,8 @@
           "lot": "653",
           "address": "24226 NW 10th PLACE",
           "plan": "",
-          "price": 327070,
-          "priceLabel": "$327,070",
+          "price": 322070,
+          "priceLabel": "$322,070",
           "beds": 4,
           "homeSlug": "24226-nw-10th-place",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24226-nw-10th-place",
@@ -880,8 +880,8 @@
           "lot": "514",
           "address": "24246 NW 13Th Blvd",
           "plan": "",
-          "price": 353070,
-          "priceLabel": "$353,070",
+          "price": 348070,
+          "priceLabel": "$348,070",
           "beds": 4,
           "homeSlug": "24246-nw-13th-blvd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24246-nw-13th-blvd",
@@ -898,8 +898,8 @@
           "lot": "652",
           "address": "24248 NW 10th PLACE",
           "plan": "",
-          "price": 364070,
-          "priceLabel": "$364,070",
+          "price": 359070,
+          "priceLabel": "$359,070",
           "beds": 5,
           "homeSlug": "24248-nw-10th-place",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24248-nw-10th-place",
@@ -916,8 +916,8 @@
           "lot": "651",
           "address": "24260 NW 10th PLACE",
           "plan": "",
-          "price": 328070,
-          "priceLabel": "$328,070",
+          "price": 323070,
+          "priceLabel": "$323,070",
           "beds": 4,
           "homeSlug": "24260-nw-10th-place",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24260-nw-10th-place",
@@ -934,8 +934,8 @@
           "lot": "516",
           "address": "24274 NW 13Th Blvd",
           "plan": "",
-          "price": 355070,
-          "priceLabel": "$355,070",
+          "price": 350070,
+          "priceLabel": "$350,070",
           "beds": 4,
           "homeSlug": "24274-nw-13th-blvd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24274-nw-13th-blvd",
@@ -952,8 +952,8 @@
           "lot": "517",
           "address": "24282 NW 13Th Blvd",
           "plan": "",
-          "price": 368070,
-          "priceLabel": "$368,070",
+          "price": 363070,
+          "priceLabel": "$363,070",
           "beds": 4,
           "homeSlug": "24282-nw-13th-blvd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24282-nw-13th-blvd",
@@ -970,8 +970,8 @@
           "lot": "580",
           "address": "24291 NW 10Th Rd",
           "plan": "",
-          "price": 330070,
-          "priceLabel": "$330,070",
+          "price": 325070,
+          "priceLabel": "$325,070",
           "beds": 4,
           "homeSlug": "24291-nw-10th-rd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24291-nw-10th-rd",
@@ -1006,8 +1006,8 @@
           "lot": "641",
           "address": "24506 NW 10Th Road",
           "plan": "",
-          "price": 288070,
-          "priceLabel": "$288,070",
+          "price": 283070,
+          "priceLabel": "$283,070",
           "beds": 3,
           "homeSlug": "24506-nw-10th-road",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24506-nw-10th-road",
@@ -1043,7 +1043,7 @@
         {
           "slug": "3eab",
           "name": "Allex",
-          "startingLabel": "Starting in the $280s",
+          "startingLabel": "Starting in the $275s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/3eab",
           "beds": 3,
           "baths": "2",
@@ -1058,7 +1058,7 @@
         {
           "slug": "4eab",
           "name": "Aria",
-          "startingLabel": "Starting in the $308s",
+          "startingLabel": "Starting in the $303s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/4eab",
           "beds": 3,
           "baths": "2",
@@ -1073,7 +1073,7 @@
         {
           "slug": "4ebb",
           "name": "Cali",
-          "startingLabel": "Starting in the $321s",
+          "startingLabel": "Starting in the $316s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/4ebb",
           "beds": 4,
           "baths": "2",
@@ -1088,7 +1088,7 @@
         {
           "slug": "e502",
           "name": "Covington",
-          "startingLabel": "Starting in the $370s",
+          "startingLabel": "Starting in the $365s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/e502",
           "beds": 5,
           "baths": "3",
@@ -1118,7 +1118,7 @@
         {
           "slug": "e501",
           "name": "Denham",
-          "startingLabel": "Starting in the $355s",
+          "startingLabel": "Starting in the $350s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/e501",
           "beds": 4,
           "baths": "3",
@@ -1148,7 +1148,7 @@
         {
           "slug": "3emb",
           "name": "Harper",
-          "startingLabel": "Starting in the $290s",
+          "startingLabel": "Starting in the $285s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/3emb",
           "beds": 4,
           "baths": "2",
@@ -1163,7 +1163,7 @@
         {
           "slug": "4ehb",
           "name": "Hayden",
-          "startingLabel": "Starting in the $356s",
+          "startingLabel": "Starting in the $351s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/4ehb",
           "beds": 5,
           "baths": "3",
@@ -1178,7 +1178,7 @@
         {
           "slug": "5emb",
           "name": "Madison",
-          "startingLabel": "Starting in the $342s",
+          "startingLabel": "Starting in the $337s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/5emb",
           "beds": 4,
           "baths": "3",
@@ -2223,8 +2223,8 @@
           "lot": "271",
           "address": "3507 Malawi Trail",
           "plan": "",
-          "price": 396000,
-          "priceLabel": "$396,000",
+          "price": 390990,
+          "priceLabel": "$390,990",
           "beds": 4,
           "homeSlug": "3507-malawi-trail",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3507-malawi-trail",
@@ -2236,15 +2236,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0407-3507-malawi-trail/1_1_caliexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=cf6cbccc4e1e454c8369b6d53b2bd20a&hash=9805F9AB83048D730BC60314928F1817"
           ],
-          "incentive": 5990,
-          "incentiveLabel": "(5,990)"
+          "incentive": 11000,
+          "incentiveLabel": "(11,000)"
         },
         {
           "lot": "293",
           "address": "3516 Malawi Trail",
           "plan": "",
-          "price": 400000,
-          "priceLabel": "$400,000",
+          "price": 390990,
+          "priceLabel": "$390,990",
           "beds": 4,
           "homeSlug": "3516-malawi-trail",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3516-malawi-trail",
@@ -2256,8 +2256,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0429-3516-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=af2f46ed752f4d8bb5bae8e181fbb078&hash=86192FEC3AD712F29F43B65F80B211A7"
           ],
-          "incentive": 2990,
-          "incentiveLabel": "(2,990)"
+          "incentive": 12000,
+          "incentiveLabel": "(12,000)"
         },
         {
           "lot": "268",
@@ -2383,8 +2383,8 @@
           "lot": "209",
           "address": "3805 Malawi Trail",
           "plan": "",
-          "price": 395000,
-          "priceLabel": "$395,000",
+          "price": 390990,
+          "priceLabel": "$390,990",
           "beds": 4,
           "homeSlug": "3805-malawi-trail",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3805-malawi-trail",
@@ -2396,8 +2396,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0358-3805-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=c3cf936330ca4c269b4ccd08df827ff2&hash=1F6243189A2BF74F53CEC5195EE52145"
           ],
-          "incentive": 7990,
-          "incentiveLabel": "(7,990)"
+          "incentive": 12000,
+          "incentiveLabel": "(12,000)"
         },
         {
           "lot": "415",
@@ -2622,8 +2622,8 @@
           "lot": "25",
           "address": "1029 Commons Way",
           "plan": "",
-          "price": 339997,
-          "priceLabel": "$339,997",
+          "price": 335000,
+          "priceLabel": "$335,000",
           "beds": 5,
           "homeSlug": "1029-commons-way",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/qmis/1029-commons-way",
@@ -2635,8 +2635,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/e313/0025-1029-commons-way/1_alford_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=de9d02e1c4274574b64e753e7aee1cfe&hash=53ACF7CED910B5A46410FC177E366005"
           ],
-          "incentive": 20993,
-          "incentiveLabel": "(20,993)"
+          "incentive": 25990,
+          "incentiveLabel": "(25,990)"
         },
         {
           "lot": "31",
@@ -3436,8 +3436,8 @@
           "lot": "379",
           "address": "1340 Grand Flora Lane",
           "plan": "",
-          "price": 429990,
-          "priceLabel": "$429,990",
+          "price": 428990,
+          "priceLabel": "$428,990",
           "beds": 4,
           "homeSlug": "1340-grand-flora-lane",
           "sourceUrl": "https://www.drhorton.com/florida/seminole-county/sanford/concorde/qmis/1340-grand-flora-lane",
@@ -3449,8 +3449,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3emb/0190-1340-grand-flora-lane/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=5371f8e5f8a542caabe8c70555971703&hash=C1453779C7B944D4D3EA1B3C62A60E3D"
           ],
-          "incentive": 4000,
-          "incentiveLabel": "(4,000)"
+          "incentive": 5000,
+          "incentiveLabel": "(5,000)"
         },
         {
           "lot": "223",
@@ -3474,8 +3474,8 @@
           "lot": "344",
           "address": "1380 Scarlett Sage Lane",
           "plan": "",
-          "price": 435990,
-          "priceLabel": "$435,990",
+          "price": 428990,
+          "priceLabel": "$428,990",
           "beds": 4,
           "homeSlug": "1380-scarlett-sage-lane",
           "sourceUrl": "https://www.drhorton.com/florida/seminole-county/sanford/concorde/qmis/1380-scarlett-sage-lane",
@@ -3647,8 +3647,8 @@
           "lot": "549",
           "address": "4907 Marshelder St",
           "plan": "",
-          "price": 447990,
-          "priceLabel": "$447,990",
+          "price": 439990,
+          "priceLabel": "$439,990",
           "beds": 4,
           "homeSlug": "4907-marshelder-st",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/crossroads-at-kelly-park/qmis/4907-marshelder-st",
@@ -3660,8 +3660,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/4ebb/0141-4907-marshelder-st/1_1_cali_elevation_d3.jpg?iar=1&sc=1&thn=1&w=425&rev=f47ab686d9284025aaac4531c8f28048&hash=53D3B1EB1A17800D9DBDCF5C5D4E3DED"
           ],
-          "incentive": 5000,
-          "incentiveLabel": "(5,000)"
+          "incentive": 13000,
+          "incentiveLabel": "(13,000)"
         },
         {
           "lot": "531",
@@ -4982,8 +4982,8 @@
       "name": "Farm at Varrea",
       "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
       "availableCount": 24,
-      "lowestPrice": 310000,
-      "highestPrice": 495000,
+      "lowestPrice": 300000,
+      "highestPrice": 491490,
       "beds": [
         3,
         4,
@@ -4994,8 +4994,8 @@
           "lot": "350",
           "address": "4611 Hidden Farm Drive",
           "plan": "",
-          "price": 329000,
-          "priceLabel": "$329,000",
+          "price": 320000,
+          "priceLabel": "$320,000",
           "beds": 3,
           "homeSlug": "4611-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4611-hidden-farm-drive",
@@ -5007,8 +5007,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/1521-4611-hidden-farm-drive/fl_drhorton_tampanorth_allexii_cwithstone.jpg?iar=1&sc=1&thn=1&w=425&rev=8ef2180a66f042ff9332333320269a25&hash=07D6BC69DF9023C7C8568BA48DBD2E7E"
           ],
-          "incentive": 215,
-          "incentiveLabel": "(215)"
+          "incentive": 9215,
+          "incentiveLabel": "(9,215)"
         },
         {
           "lot": "207",
@@ -5034,8 +5034,8 @@
           "lot": "66",
           "address": "3524 Harvest Gardens Loop",
           "plan": "",
-          "price": 310000,
-          "priceLabel": "$310,000",
+          "price": 300000,
+          "priceLabel": "$300,000",
           "beds": 3,
           "homeSlug": "3524-harvest-gardens-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3524-harvest-gardens-loop",
@@ -5047,15 +5047,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0141-3524-harvest-gardens-loop/fl_drhorton_tampanorth_aria_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=2a3c24f1ea614bea98ca8c27cd689308&hash=FB91AADB2E608E7594BC9FE3C9ECB56D"
           ],
-          "incentive": 36990,
-          "incentiveLabel": "(36,990)"
+          "incentive": 46990,
+          "incentiveLabel": "(46,990)"
         },
         {
           "lot": "67",
           "address": "3520 Harvest Gardens Loop",
           "plan": "",
-          "price": 345000,
-          "priceLabel": "$345,000",
+          "price": 335000,
+          "priceLabel": "$335,000",
           "beds": 4,
           "homeSlug": "3520-harvest-gardens-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3520-harvest-gardens-loop",
@@ -5067,15 +5067,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0142-3520-harvest-gardens-loop/fl_drhorton_tampanorth_cali_c_stoneandsiding.jpg?iar=1&sc=1&thn=1&w=425&rev=73c8c5189ca746d0b2ca8b929f8a969e&hash=D24B72B21B42D86BFF1F922A0663C018"
           ],
-          "incentive": 8215,
-          "incentiveLabel": "(8,215)"
+          "incentive": 18215,
+          "incentiveLabel": "(18,215)"
         },
         {
           "lot": "82",
           "address": "4402 Hidden Farm Drive",
           "plan": "",
-          "price": 350000,
-          "priceLabel": "$350,000",
+          "price": 335000,
+          "priceLabel": "$335,000",
           "beds": 4,
           "homeSlug": "4402-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4402-hidden-farm-drive",
@@ -5087,15 +5087,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0157-4402-hidden-farm-drive/fl_drhorton_tampanorth_cali_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=ebf3e3e1589a4b4b8346811ce575d9fd&hash=608185D693294AC7AD4CE2DD8058106D"
           ],
-          "incentive": 2165,
-          "incentiveLabel": "(2,165)"
+          "incentive": 17165,
+          "incentiveLabel": "(17,165)"
         },
         {
           "lot": "155",
           "address": "4409 Hidden Farm Drive",
           "plan": "",
-          "price": 385000,
-          "priceLabel": "$385,000",
+          "price": 380000,
+          "priceLabel": "$380,000",
           "beds": 4,
           "homeSlug": "4409-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4409-hidden-farm-drive",
@@ -5107,8 +5107,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0215-4409-hidden-farm-drive/fl_tampanorth_drhorton_lantana_d.jpg?iar=1&sc=1&thn=1&w=425&rev=2e4eaf62f1a34744b8bf631b770cb793&hash=B26A0ECB2B9CD6026CA3CC975042F596"
           ],
-          "incentive": 3990,
-          "incentiveLabel": "(3,990)"
+          "incentive": 8990,
+          "incentiveLabel": "(8,990)"
         },
         {
           "lot": "352",
@@ -5154,8 +5154,8 @@
           "lot": "200",
           "address": "4540 Hidden Farm Dr",
           "plan": "",
-          "price": 360000,
-          "priceLabel": "$360,000",
+          "price": 355000,
+          "priceLabel": "$355,000",
           "beds": 5,
           "homeSlug": "4540-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4540-hidden-farm-drive",
@@ -5167,15 +5167,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/3efb/0649-4540-hidden-farm-drive/robie_ele_mc.jpg?iar=1&sc=1&thn=1&w=425&rev=eab1585adb3045aa967c18d677f29c17&hash=8627E6EE6EBA7608B4A67D276C5F97C9"
           ],
-          "incentive": 29990,
-          "incentiveLabel": "(29,990)"
+          "incentive": 34990,
+          "incentiveLabel": "(34,990)"
         },
         {
           "lot": "351",
           "address": "4607 Hidden Farm Drive",
           "plan": "",
-          "price": 390000,
-          "priceLabel": "$390,000",
+          "price": 370000,
+          "priceLabel": "$370,000",
           "beds": 5,
           "homeSlug": "4607-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4607-hidden-farm-drive",
@@ -5187,8 +5187,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/3efb/1522-4607-hidden-farm-drive/robie_ele_mc.jpg?iar=1&sc=1&thn=1&w=425&rev=cab256a9347946e6939277896cd3ef7e&hash=78D1955983007CEFB752A8D885CB607E"
           ],
-          "incentive": 3990,
-          "incentiveLabel": "(3,990)"
+          "incentive": 23990,
+          "incentiveLabel": "(23,990)"
         },
         {
           "lot": "209",
@@ -5254,8 +5254,8 @@
           "lot": "176",
           "address": "3513 Hazy Glen Lane",
           "plan": "",
-          "price": 475000,
-          "priceLabel": "$475,000",
+          "price": 470000,
+          "priceLabel": "$470,000",
           "beds": 4,
           "homeSlug": "3513-hazy-glen-lane",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3513-hazy-glen-lane",
@@ -5267,8 +5267,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/2795/0116-3513-hazy-glen-lane/fl_tampanorth_drhorton_camdenf.jpg?iar=1&sc=1&thn=1&w=425&rev=73569725db4c40f495663c7f55041615&hash=32E2E4EC640E32931BE5DBF5CB97C1EC"
           ],
-          "incentive": 39240,
-          "incentiveLabel": "(39,240)"
+          "incentive": 44240,
+          "incentiveLabel": "(44,240)"
         },
         {
           "lot": "3",
@@ -5314,8 +5314,8 @@
           "lot": "2",
           "address": "3536 Golden Wheat Ln",
           "plan": "",
-          "price": 495000,
-          "priceLabel": "$495,000",
+          "price": 480000,
+          "priceLabel": "$480,000",
           "beds": 4,
           "homeSlug": "3536-golden-wheat-ln",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3536-golden-wheat-ln",
@@ -5327,8 +5327,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-trdtn/3278/0002-3536-golden-wheat-ln/fl_tampanorth_drhorton_jordynii_h.jpg?iar=1&sc=1&thn=1&w=425&rev=5325ef54b6754baf83cb677fef0107cf&hash=351B3914E807DEAC5153374831B6ACC5"
           ],
-          "incentive": 2740,
-          "incentiveLabel": "(2,740)"
+          "incentive": 17740,
+          "incentiveLabel": "(17,740)"
         },
         {
           "lot": "31",
@@ -5349,6 +5349,24 @@
           ],
           "incentive": 740,
           "incentiveLabel": "(740)"
+        },
+        {
+          "lot": "156",
+          "address": "4407 Hidden Farm Drive",
+          "plan": "",
+          "price": 475000,
+          "priceLabel": "$475,000",
+          "beds": 4,
+          "homeSlug": "4407-hidden-farm-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4407-hidden-farm-drive",
+          "baths": "3",
+          "sqft": "3,313",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/3129/0216-4407-hidden-farm-drive/fl_drhorton_tampanorth_holden_h.jpg?iar=1&sc=1&thn=1&w=425&rev=2badc27c44254684bdbd49ecc7d51346&hash=8F1894507258FB4604A1881782C312D6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/3129/0216-4407-hidden-farm-drive/fl_drhorton_tampanorth_holden_h.jpg?iar=1&sc=1&thn=1&w=425&rev=2badc27c44254684bdbd49ecc7d51346&hash=8F1894507258FB4604A1881782C312D6"
+          ]
         },
         {
           "lot": "345",
@@ -5420,24 +5438,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2767/0214-4411-hidden-farm-drive/fl_drhorton_tampanorth_coral-g.jpg?iar=1&sc=1&thn=1&w=425&rev=09c873b9081546a7aa4dfe28269c7bc5&hash=535A33D9A7CFEFB767FBBA48820E3F74",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2767/0214-4411-hidden-farm-drive/fl_drhorton_tampanorth_coral-g.jpg?iar=1&sc=1&thn=1&w=425&rev=09c873b9081546a7aa4dfe28269c7bc5&hash=535A33D9A7CFEFB767FBBA48820E3F74"
-          ]
-        },
-        {
-          "lot": "156",
-          "address": "4407 Hidden Farm Drive",
-          "plan": "",
-          "price": 475000,
-          "priceLabel": "$475,000",
-          "beds": 4,
-          "homeSlug": "4407-hidden-farm-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4407-hidden-farm-drive",
-          "baths": "3",
-          "sqft": "3,313",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/3129/0216-4407-hidden-farm-drive/fl_drhorton_tampanorth_holden_h.jpg?iar=1&sc=1&thn=1&w=425&rev=2badc27c44254684bdbd49ecc7d51346&hash=8F1894507258FB4604A1881782C312D6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/3129/0216-4407-hidden-farm-drive/fl_drhorton_tampanorth_holden_h.jpg?iar=1&sc=1&thn=1&w=425&rev=2badc27c44254684bdbd49ecc7d51346&hash=8F1894507258FB4604A1881782C312D6"
           ]
         },
         {
@@ -5731,7 +5731,7 @@
       "name": "Fish Lake Cove",
       "address": "978 Pinewood Street, Kissimmee, FL 34744",
       "availableCount": 4,
-      "lowestPrice": 341990,
+      "lowestPrice": 336990,
       "highestPrice": 357590,
       "beds": [
         3
@@ -5781,8 +5781,8 @@
           "lot": "34",
           "address": "2219 Rita Ln",
           "plan": "",
-          "price": 341990,
-          "priceLabel": "$341,990",
+          "price": 336990,
+          "priceLabel": "$336,990",
           "beds": 3,
           "homeSlug": "2219-rita-ln",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/fish-lake-cove/qmis/2219-rita-ln",
@@ -5871,7 +5871,7 @@
       "address": "11163 NW 167th Terrace, Alachua, FL 32615",
       "availableCount": 8,
       "lowestPrice": 229990,
-      "highestPrice": 356070,
+      "highestPrice": 346070,
       "beds": [
         3,
         4,
@@ -5882,8 +5882,8 @@
           "lot": "15",
           "address": "11004 NW 167th TER",
           "plan": "",
-          "price": 317990,
-          "priceLabel": "$317,990",
+          "price": 314070,
+          "priceLabel": "$314,070",
           "beds": 5,
           "homeSlug": "11004-nw-167th-ter",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11004-nw-167th-ter",
@@ -5894,9 +5894,7 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/974890000-fletcher-trace-50s/e405/0015-11004-nw-167th-ter/dundee_ele_cs_tradition_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=fe678f514a26487ea4a1d435ffc9111d&hash=9CE2F155CB43136AF60801AD6581D79F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/974890000-fletcher-trace-50s/e405/0015-11004-nw-167th-ter/dundee_ele_cs_tradition_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=fe678f514a26487ea4a1d435ffc9111d&hash=9CE2F155CB43136AF60801AD6581D79F"
-          ],
-          "incentive": 6080,
-          "incentiveLabel": "(6,080)"
+          ]
         },
         {
           "lot": "13",
@@ -5915,8 +5913,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/974890000-fletcher-trace-50s/e407/0013-11022-nw-167th-ter/freeport_ii-cs-fletchertrace_traditionalschemes-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=a1d5955f18f04c0e9a7189e05a38c99b&hash=87C5C7BFC1A3AE8E5EF2990D5E6A4FCE"
           ],
-          "incentive": 13080,
-          "incentiveLabel": "(13,080)"
+          "incentive": 8080,
+          "incentiveLabel": "(8,080)"
         },
         {
           "lot": "53",
@@ -5935,8 +5933,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20a/0007-11247-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=e668f982c85845c98d9746e3e3f41ce3&hash=FCB7FF5E6632053CD5A118E77BB2B89E"
           ],
-          "incentive": 11080,
-          "incentiveLabel": "(11,080)"
+          "incentive": 6080,
+          "incentiveLabel": "(6,080)"
         },
         {
           "lot": "55",
@@ -5955,15 +5953,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0009-11255-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=dd868aff9a0d466f894530d0a41677db&hash=BDB9D5B81158337812B1F42688D637F1"
           ],
-          "incentive": 18080,
-          "incentiveLabel": "(18,080)"
+          "incentive": 8080,
+          "incentiveLabel": "(8,080)"
         },
         {
           "lot": "56",
           "address": "11259 NW 167th TER",
           "plan": "",
-          "price": 248070,
-          "priceLabel": "$248,070",
+          "price": 238070,
+          "priceLabel": "$238,070",
           "beds": 3,
           "homeSlug": "11259-nw-167th-ter",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11259-nw-167th-ter",
@@ -5980,8 +5978,8 @@
           "lot": "57",
           "address": "11263 NW 167th TER",
           "plan": "",
-          "price": 248070,
-          "priceLabel": "$248,070",
+          "price": 238070,
+          "priceLabel": "$238,070",
           "beds": 3,
           "homeSlug": "11263-nw-167th-ter",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11263-nw-167th-ter",
@@ -5998,8 +5996,8 @@
           "lot": "58",
           "address": "11267 NW 167th TER",
           "plan": "",
-          "price": 248070,
-          "priceLabel": "$248,070",
+          "price": 238070,
+          "priceLabel": "$238,070",
           "beds": 3,
           "homeSlug": "11267-nw-167th-ter",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11267-nw-167th-ter",
@@ -6016,8 +6014,8 @@
           "lot": "17",
           "address": "16664 NW 110th CT",
           "plan": "",
-          "price": 356070,
-          "priceLabel": "$356,070",
+          "price": 346070,
+          "priceLabel": "$346,070",
           "beds": 5,
           "homeSlug": "16664-nw-110th-ct",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/16664-nw-110th-ct",
@@ -6035,7 +6033,7 @@
         {
           "slug": "e406",
           "name": "Archer II",
-          "startingLabel": "Starting in the $273s",
+          "startingLabel": "Starting in the $268s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/floor-plans/e406",
           "beds": 3,
           "baths": "2",
@@ -6050,7 +6048,7 @@
         {
           "slug": "e405",
           "name": "Dundee",
-          "startingLabel": "Starting in the $300s",
+          "startingLabel": "Starting in the $295s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/floor-plans/e405",
           "beds": 5,
           "baths": "2",
@@ -6065,7 +6063,7 @@
         {
           "slug": "e407",
           "name": "Freeport II",
-          "startingLabel": "Starting in the $287s",
+          "startingLabel": "Starting in the $282s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/floor-plans/e407",
           "beds": 4,
           "baths": "2",
@@ -6080,7 +6078,7 @@
         {
           "slug": "e402",
           "name": "Lakeside",
-          "startingLabel": "Starting in the $322s",
+          "startingLabel": "Starting in the $317s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/floor-plans/e402",
           "beds": 5,
           "baths": "3",
@@ -6095,7 +6093,7 @@
         {
           "slug": "t20a",
           "name": "Pearson - Exterior Unit",
-          "startingLabel": "Starting in the $250s",
+          "startingLabel": "Starting in the $245s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/floor-plans/t20a",
           "beds": 3,
           "baths": "2.5",
@@ -6110,7 +6108,7 @@
         {
           "slug": "t20b",
           "name": "Pearson - Interior Unit",
-          "startingLabel": "Starting in the $240s",
+          "startingLabel": "Starting in the $230s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/floor-plans/t20b",
           "beds": 3,
           "baths": "2.5",
@@ -6261,8 +6259,8 @@
           "lot": "246",
           "address": "1651 Houmas Street",
           "plan": "",
-          "price": 363870,
-          "priceLabel": "$363,870",
+          "price": 361990,
+          "priceLabel": "$361,990",
           "beds": 3,
           "homeSlug": "1651-houmas-street",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1651-houmas-street",
@@ -8108,8 +8106,8 @@
           "lot": "242",
           "address": "3127 House Finch Road",
           "plan": "",
-          "price": 410000,
-          "priceLabel": "$410,000",
+          "price": 399990,
+          "priceLabel": "$399,990",
           "beds": 4,
           "homeSlug": "3127-house-finch-road",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3127-house-finch-road",
@@ -8121,15 +8119,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0908-3127-house-finch-road/1_1_cali_exterior_m.jpg?iar=1&sc=1&thn=1&w=425&rev=aed0655db50743e2b38c9cfc73754735&hash=9E6270131E78C464B91455E06A565FBE"
           ],
-          "incentive": 6990,
-          "incentiveLabel": "(6,990)"
+          "incentive": 17000,
+          "incentiveLabel": "(17,000)"
         },
         {
           "lot": "240",
           "address": "3139 House Finch Road",
           "plan": "",
-          "price": 405000,
-          "priceLabel": "$405,000",
+          "price": 399990,
+          "priceLabel": "$399,990",
           "beds": 4,
           "homeSlug": "3139-house-finch-road",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3139-house-finch-road",
@@ -8141,15 +8139,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0906-3139-house-finch-road/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=bd2bbf372efd4470a30812d2d1bd5e13&hash=2EB21C14578C1BD36A0A7C3A166C48B5"
           ],
-          "incentive": 6490,
-          "incentiveLabel": "(6,490)"
+          "incentive": 11500,
+          "incentiveLabel": "(11,500)"
         },
         {
           "lot": "238",
           "address": "3151 House Finch Road",
           "plan": "",
-          "price": 400000,
-          "priceLabel": "$400,000",
+          "price": 399990,
+          "priceLabel": "$399,990",
           "beds": 4,
           "homeSlug": "3151-house-finch-road",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3151-house-finch-road",
@@ -8161,15 +8159,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0904-3151-house-finch-road/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=745971f84a9c4e19899b58ac178aa51a&hash=FC02C4CECA9C6DB169AC117FBE41AD44"
           ],
-          "incentive": 5990,
-          "incentiveLabel": "(5,990)"
+          "incentive": 6000,
+          "incentiveLabel": "(6,000)"
         },
         {
           "lot": "237",
           "address": "3157 House Finch Road",
           "plan": "",
-          "price": 405000,
-          "priceLabel": "$405,000",
+          "price": 399990,
+          "priceLabel": "$399,990",
           "beds": 4,
           "homeSlug": "3157-house-finch-road",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3157-house-finch-road",
@@ -8181,8 +8179,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ebb/0903-3157-house-finch-road/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=be51502e1c3e4f8fa9ffbba439572b98&hash=A5CDF3E9BCECBF54999392634D648A08"
           ],
-          "incentive": 6490,
-          "incentiveLabel": "(6,490)"
+          "incentive": 11500,
+          "incentiveLabel": "(11,500)"
         },
         {
           "lot": "236",
@@ -8266,8 +8264,8 @@
           "lot": "203",
           "address": "3138 Grey Moss Drive",
           "plan": "",
-          "price": 406685,
-          "priceLabel": "$406,685",
+          "price": 399990,
+          "priceLabel": "$399,990",
           "beds": 4,
           "homeSlug": "3138-grey-moss-drive",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3138-grey-moss-drive",
@@ -9509,8 +9507,8 @@
           "lot": "57",
           "address": "1032 Champion Ridge Drive",
           "plan": "",
-          "price": 345000,
-          "priceLabel": "$345,000",
+          "price": 339000,
+          "priceLabel": "$339,000",
           "beds": 3,
           "homeSlug": "1032-champion-ridge-drive",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/daytona-beach/ironwood/qmis/1032-champion-ridge-drive",
@@ -9522,8 +9520,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345430000-ironwood-50s/4eab/0097-1032-champion-ridge-drive/1_1_aria__exterior_l.jpg?iar=1&sc=1&thn=1&w=425&rev=4bc34a3aac7f437fb9195128df58b79c&hash=BDBFD5F6DBFEC3697F387750C997DB5C"
           ],
-          "incentive": 17990,
-          "incentiveLabel": "(17,990)"
+          "incentive": 23990,
+          "incentiveLabel": "(23,990)"
         },
         {
           "lot": "66",
@@ -9569,8 +9567,8 @@
           "lot": "32",
           "address": "1124 Morfontaine Street",
           "plan": "",
-          "price": 434994,
-          "priceLabel": "$434,994",
+          "price": 424000,
+          "priceLabel": "$424,000",
           "beds": 5,
           "homeSlug": "1124-morfontaine-street",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/daytona-beach/ironwood/qmis/1124-morfontaine-street",
@@ -9582,8 +9580,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34543-ironwood/345440000-ironwood-60s/e502/0032-1124-morfontaine-street/1_2_covingtonexteriorg.jpg?iar=1&sc=1&thn=1&w=425&rev=60ff6408777c42e8a00c7a68dfb97175&hash=E8A9965C44C180CBA0721023CC831FDA"
           ],
-          "incentive": 10746,
-          "incentiveLabel": "(10,746)"
+          "incentive": 21740,
+          "incentiveLabel": "(21,740)"
         },
         {
           "lot": "40",
@@ -11160,8 +11158,8 @@
       "slug": "magnolia-pointe",
       "name": "Magnolia Pointe",
       "address": "1372 Bear Hammock Drive, Umatilla, FL 32784",
-      "availableCount": 4,
-      "lowestPrice": 313990,
+      "availableCount": 3,
+      "lowestPrice": 324490,
       "highestPrice": 347490,
       "beds": [
         3,
@@ -11207,24 +11205,6 @@
           ],
           "incentive": 22500,
           "incentiveLabel": "(22,500)"
-        },
-        {
-          "lot": "46",
-          "address": "1080 Bear Hammock Drive",
-          "plan": "",
-          "price": 313990,
-          "priceLabel": "$313,990",
-          "beds": 3,
-          "homeSlug": "1080-bear-hammock-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/qmis/1080-bear-hammock-drive",
-          "baths": "2",
-          "sqft": "1,328",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38985-magnolia-pointe/389860000-magnolia-pointe-50s/e406/0046-1080-bear-hammock-drive/archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=2e84d1a1cacb480e9ca8668cab2897ad&hash=B5443D5449C374E0BD62C519502A964B",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38985-magnolia-pointe/389860000-magnolia-pointe-50s/e406/0046-1080-bear-hammock-drive/archer_ii_a.jpg?iar=1&sc=1&thn=1&w=425&rev=2e84d1a1cacb480e9ca8668cab2897ad&hash=B5443D5449C374E0BD62C519502A964B"
-          ]
         },
         {
           "lot": "165",
@@ -11697,7 +11677,7 @@
       "name": "Nona West",
       "address": "14348 Canvas Street, Orlando, FL 32824",
       "availableCount": 4,
-      "lowestPrice": 404990,
+      "lowestPrice": 399990,
       "highestPrice": 426990,
       "beds": [
         3
@@ -11707,8 +11687,8 @@
           "lot": "47",
           "address": "3522 Chroma Street",
           "plan": "",
-          "price": 412465,
-          "priceLabel": "$412,465",
+          "price": 404990,
+          "priceLabel": "$404,990",
           "beds": 3,
           "homeSlug": "3522-chroma-street",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/orlando/nona-west/qmis/3522-chroma-street",
@@ -11725,8 +11705,8 @@
           "lot": "167",
           "address": "3545 Chroma Street",
           "plan": "",
-          "price": 404990,
-          "priceLabel": "$404,990",
+          "price": 399990,
+          "priceLabel": "$399,990",
           "beds": 3,
           "homeSlug": "3545-chroma-street",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/orlando/nona-west/qmis/3545-chroma-street",
@@ -11825,8 +11805,8 @@
           "lot": "150",
           "address": "5351 SW 52nd Court",
           "plan": "",
-          "price": 419990,
-          "priceLabel": "$419,990",
+          "price": 417990,
+          "priceLabel": "$417,990",
           "beds": 5,
           "homeSlug": "5351-sw-52nd-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5351-sw-52nd-court",
@@ -11865,8 +11845,8 @@
           "lot": "261",
           "address": "5354 SW 52nd Court",
           "plan": "",
-          "price": 437070,
-          "priceLabel": "$437,070",
+          "price": 435070,
+          "priceLabel": "$435,070",
           "beds": 5,
           "homeSlug": "5354-sw-52nd-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5354-sw-52nd-court",
@@ -12125,7 +12105,11 @@
         {
           "slug": "2795",
           "name": "Camden",
-          "sourceUrl": "https://www.drhorton.com/florida/lake-county/leesburg/orange-bend-ranch/floor-plans/2795"
+          "sourceUrl": "https://www.drhorton.com/florida/lake-county/leesburg/orange-bend-ranch/floor-plans/2795",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78222-orange-bend/782280000-orange-bend-60/2795/camden__3-car_garage_ele_b_with_stone_cs3_revised.jpg?as=1&w=425&rev=09174ecd4ed342cfbe6d16987b489cc8&hash=674FC935981B8089618941A53E987BA6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/78222-orange-bend/782280000-orange-bend-60/2795/camden__3-car_garage_ele_b_with_stone_cs3_revised.jpg?as=1&w=425&rev=09174ecd4ed342cfbe6d16987b489cc8&hash=674FC935981B8089618941A53E987BA6"
+          ]
         },
         {
           "slug": "e502",
@@ -12470,21 +12454,6 @@
       ],
       "models": [
         {
-          "slug": "e406",
-          "name": "Archer II",
-          "startingLabel": "Starting in the $312s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/poinciana/poinciana-enclave/floor-plans/e406",
-          "beds": 3,
-          "baths": "2",
-          "sqft": "1,328",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/1_exterior_archer_ii_a.jpg?as=1&w=425&rev=0eb610194f9d4544ae464d8676db0ae4&hash=19AC35705E013B4B0554D33E2BC75988",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38373-osceola-county-spot-lots/384150000-poinciana-north-spot-lots/e406/1_exterior_archer_ii_a.jpg?as=1&w=425&rev=0eb610194f9d4544ae464d8676db0ae4&hash=19AC35705E013B4B0554D33E2BC75988"
-          ]
-        },
-        {
           "slug": "4ebb",
           "name": "Cali",
           "startingLabel": "Starting in the $325s",
@@ -12545,8 +12514,8 @@
       "name": "Preston Cove",
       "address": "288 Conway Ave, Saint Cloud, FL 34771",
       "availableCount": 22,
-      "lowestPrice": 324990,
-      "highestPrice": 493990,
+      "lowestPrice": 319990,
+      "highestPrice": 474990,
       "beds": [
         3,
         4,
@@ -12557,8 +12526,8 @@
           "lot": "29",
           "address": "280 Preston Cove Drive",
           "plan": "",
-          "price": 324990,
-          "priceLabel": "$324,990",
+          "price": 319990,
+          "priceLabel": "$319,990",
           "beds": 3,
           "homeSlug": "280-preston-cove-drive",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/280-preston-cove-drive",
@@ -12570,15 +12539,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385180000-preston-cove-rl-ths/1489/0029-280-preston-cove-drive/1_1_sterling_preston_cove_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=98965bf276234f99bcd9c07ee346ad05&hash=E0BD127C202155574E1A032A8CC57831"
           ],
-          "incentive": 14000,
-          "incentiveLabel": "(14,000)"
+          "incentive": 19000,
+          "incentiveLabel": "(19,000)"
         },
         {
           "lot": "31",
           "address": "288 Preston Cove Drive",
           "plan": "",
-          "price": 324990,
-          "priceLabel": "$324,990",
+          "price": 319990,
+          "priceLabel": "$319,990",
           "beds": 3,
           "homeSlug": "288-preston-cove-drive",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/288-preston-cove-drive",
@@ -12590,15 +12559,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385180000-preston-cove-rl-ths/1489/0031-288-preston-cove-drive/1_1_sterling_preston_cove_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=2a13e1f72fa9493c9e20bae201c52440&hash=2B635CA53819D550AC17E50093C2B00B"
           ],
-          "incentive": 14000,
-          "incentiveLabel": "(14,000)"
+          "incentive": 19000,
+          "incentiveLabel": "(19,000)"
         },
         {
           "lot": "467",
           "address": "5750 Springer St",
           "plan": "",
-          "price": 425000,
-          "priceLabel": "$425,000",
+          "price": 419990,
+          "priceLabel": "$419,990",
           "beds": 5,
           "homeSlug": "5750-springer-st",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5750-springer-st",
@@ -12610,15 +12579,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0084-5750-springer-st/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=a3b734e53c734ff287ce57a370fda6be&hash=E2258957CCC654DEE1695C48D44E6AD8"
           ],
-          "incentive": 24490,
-          "incentiveLabel": "(24,490)"
+          "incentive": 29500,
+          "incentiveLabel": "(29,500)"
         },
         {
           "lot": "469",
           "address": "5762 Springer St",
           "plan": "",
-          "price": 479990,
-          "priceLabel": "$479,990",
+          "price": 464990,
+          "priceLabel": "$464,990",
           "beds": 5,
           "homeSlug": "5762-springer-st",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5762-springer-st",
@@ -12630,15 +12599,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4ehb/0086-5762-springer-st/1_1_haydenexterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=041506bc4b454523bca8b67117ff629e&hash=B8207479E79D6F005AF0FF785C4EFE8D"
           ],
-          "incentive": 4495,
-          "incentiveLabel": "(4,495)"
+          "incentive": 19495,
+          "incentiveLabel": "(19,495)"
         },
         {
           "lot": "470",
           "address": "5768 Springer St",
           "plan": "",
-          "price": 434490,
-          "priceLabel": "$434,490",
+          "price": 409990,
+          "priceLabel": "$409,990",
           "beds": 4,
           "homeSlug": "5768-springer-st",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5768-springer-st",
@@ -12650,8 +12619,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4ebb/0087-5768-springer-st/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=854b69bae28141b5b09fb8a6e8e680a8&hash=16E8D2C0C8285DFBE6B0525DE0AF2F88"
           ],
-          "incentive": 4000,
-          "incentiveLabel": "(4,000)"
+          "incentive": 28500,
+          "incentiveLabel": "(28,500)"
         },
         {
           "lot": "471",
@@ -12697,8 +12666,8 @@
           "lot": "474",
           "address": "5792 Springer St",
           "plan": "",
-          "price": 431990,
-          "priceLabel": "$431,990",
+          "price": 424990,
+          "priceLabel": "$424,990",
           "beds": 5,
           "homeSlug": "5792-springer-st",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5792-springer-st",
@@ -12710,15 +12679,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0091-5792-springer-st/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3fef8c66dc4147108786d8468e167583&hash=97A2E4DD9C489A659BCBD81D19DD84AB"
           ],
-          "incentive": 15000,
-          "incentiveLabel": "(15,000)"
+          "incentive": 22000,
+          "incentiveLabel": "(22,000)"
         },
         {
           "lot": "594",
           "address": "5793 Springer St",
           "plan": "",
-          "price": 487990,
-          "priceLabel": "$487,990",
+          "price": 474990,
+          "priceLabel": "$474,990",
           "beds": 5,
           "homeSlug": "5793-springer-st",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5793-springer-st",
@@ -12730,15 +12699,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385160000-preston-cove-70s/e502/0024-5793-springer-st/covington_ele_h_3car_cs12_with_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=219a8c5723ab4eecb69f57924720ac30&hash=B1B8E5EF38D875E028D19DE6543A6145"
           ],
-          "incentive": 8000,
-          "incentiveLabel": "(8,000)"
+          "incentive": 21000,
+          "incentiveLabel": "(21,000)"
         },
         {
           "lot": "436",
           "address": "5795 Fine Sand Ln",
           "plan": "",
-          "price": 493990,
-          "priceLabel": "$493,990",
+          "price": 474990,
+          "priceLabel": "$474,990",
           "beds": 5,
           "homeSlug": "5795-fine-sand-ln",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5795-fine-sand-ln",
@@ -12750,15 +12719,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385160000-preston-cove-70s/e502/0028-5795-fine-sand-ln/covington_ele_g_3car_cs10.jpg?iar=1&sc=1&thn=1&w=425&rev=178c7b4da9e347778b1218a1cb44fdd8&hash=0EB583493A43BF48B77C8282B166FFB7"
           ],
-          "incentive": 8000,
-          "incentiveLabel": "(8,000)"
+          "incentive": 27000,
+          "incentiveLabel": "(27,000)"
         },
         {
           "lot": "347",
           "address": "5851 Cool Spring Cv",
           "plan": "",
-          "price": 483950,
-          "priceLabel": "$483,950",
+          "price": 474990,
+          "priceLabel": "$474,990",
           "beds": 5,
           "homeSlug": "5851-cool-spring-cv",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5851-cool-spring-cv",
@@ -12770,15 +12739,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385160000-preston-cove-70s/e502/0010-5851-cool-spring-cv/covington_ele_l_3car_cs10_with_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=df517d3c5e094b6e8ddbda0cc424ea3d&hash=F0E566A0EF717D9B1F4C5AD8DE38EDC1"
           ],
-          "incentive": 32040,
-          "incentiveLabel": "(32,040)"
+          "incentive": 41000,
+          "incentiveLabel": "(41,000)"
         },
         {
           "lot": "346",
           "address": "5857 Cool Spring Cv",
           "plan": "",
-          "price": 427990,
-          "priceLabel": "$427,990",
+          "price": 419990,
+          "priceLabel": "$419,990",
           "beds": 5,
           "homeSlug": "5857-cool-spring-cv",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5857-cool-spring-cv",
@@ -12790,15 +12759,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0057-5857-cool-spring-cv/lakeside_g_withstone_web.jpg?iar=1&sc=1&thn=1&w=425&rev=d1a696a6aca247ba94dac39733a856f0&hash=A98132B11754C053D45C1CC541BBAA26"
           ],
-          "incentive": 21500,
-          "incentiveLabel": "(21,500)"
+          "incentive": 29500,
+          "incentiveLabel": "(29,500)"
         },
         {
           "lot": "457",
           "address": "836 Preston Cove Dr",
           "plan": "",
-          "price": 474997,
-          "priceLabel": "$474,997",
+          "price": 464990,
+          "priceLabel": "$464,990",
           "beds": 5,
           "homeSlug": "836-preston-cove-dr",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/836-preston-cove-dr",
@@ -12810,15 +12779,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4ehb/0076-836-preston-cove-dr/1_1_haydenexterior_g1.jpg?iar=1&sc=1&thn=1&w=425&rev=9d2ab1e3efc7442484dfe216e10f09ec&hash=D529FD42FF8382CE09B2F7C1B2CB0508"
           ],
-          "incentive": 9988,
-          "incentiveLabel": "(9,988)"
+          "incentive": 19995,
+          "incentiveLabel": "(19,995)"
         },
         {
           "lot": "402",
           "address": "841 Seagrove Trl",
           "plan": "",
-          "price": 439990,
-          "priceLabel": "$439,990",
+          "price": 429990,
+          "priceLabel": "$429,990",
           "beds": 5,
           "homeSlug": "841-seagrove-trl",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/841-seagrove-trl",
@@ -12830,15 +12799,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0071-841-seagrove-trl/1_1_lakeside_exterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=4bca788733354bc5b7c36255b62c796f&hash=38C231DF8C8C6CDE1E43CF1ADBFE0132"
           ],
-          "incentive": 14000,
-          "incentiveLabel": "(14,000)"
+          "incentive": 24000,
+          "incentiveLabel": "(24,000)"
         },
         {
           "lot": "458",
           "address": "842 Preston Cove Dr",
           "plan": "",
-          "price": 449990,
-          "priceLabel": "$449,990",
+          "price": 429990,
+          "priceLabel": "$429,990",
           "beds": 5,
           "homeSlug": "842-preston-cove-dr",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/842-preston-cove-dr",
@@ -12850,15 +12819,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0077-842-preston-cove-dr/1_1_lakeside_h.jpg?iar=1&sc=1&thn=1&w=425&rev=b4356798fdfd407496ed703c606aeff0&hash=65B9132E6855CEF799875BF5C869D72D"
           ],
-          "incentive": 5000,
-          "incentiveLabel": "(5,000)"
+          "incentive": 25000,
+          "incentiveLabel": "(25,000)"
         },
         {
           "lot": "478",
           "address": "865 Seagrove Trl",
           "plan": "",
-          "price": 481990,
-          "priceLabel": "$481,990",
+          "price": 470990,
+          "priceLabel": "$470,990",
           "beds": 5,
           "homeSlug": "865-seagrove-trl",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/865-seagrove-trl",
@@ -12870,15 +12839,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385160000-preston-cove-70s/e502/0015-865-seagrove-trl/covington_ele_g_3car_cs11_with_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=0f159d185a9c4eeb99705c825d3d0afb&hash=AB52C4B77FF8F3EEB99338919AADE28A"
           ],
-          "incentive": 18000,
-          "incentiveLabel": "(18,000)"
+          "incentive": 29000,
+          "incentiveLabel": "(29,000)"
         },
         {
           "lot": "351",
           "address": "876 Britton Loop",
           "plan": "",
-          "price": 449997,
-          "priceLabel": "$449,997",
+          "price": 439990,
+          "priceLabel": "$439,990",
           "beds": 5,
           "homeSlug": "876-britton-loop",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/876-britton-loop",
@@ -12890,15 +12859,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0060-876-britton-loop/1_1_lakeside_exterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=7cef5484e5d24835b72419cd3508c671&hash=7A5875378B424EECFCEA5B2E63E317EE"
           ],
-          "incentive": 18993,
-          "incentiveLabel": "(18,993)"
+          "incentive": 29000,
+          "incentiveLabel": "(29,000)"
         },
         {
           "lot": "348",
           "address": "894 Britton Loop",
           "plan": "",
-          "price": 479994,
-          "priceLabel": "$479,994",
+          "price": 464990,
+          "priceLabel": "$464,990",
           "beds": 4,
           "homeSlug": "894-britton-loop",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/894-britton-loop",
@@ -12910,8 +12879,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385160000-preston-cove-70s/e501/0011-894-britton-loop/denham_ele_l_3car_with_stone_cs12.jpg?iar=1&sc=1&thn=1&w=425&rev=0a39052973c041278736347ddf3164f9&hash=1DBC1051C01E56B27A20B321F0F46F1B"
           ],
-          "incentive": 20996,
-          "incentiveLabel": "(20,996)"
+          "incentive": 36000,
+          "incentiveLabel": "(36,000)"
         },
         {
           "lot": "460",
@@ -12971,8 +12940,8 @@
           "lot": "288",
           "address": "741 Preston Cove Drive",
           "plan": "",
-          "price": 326025,
-          "priceLabel": "$326,025",
+          "price": 319990,
+          "priceLabel": "$319,990",
           "beds": 3,
           "homeSlug": "741-preston-cove-drive",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/741-preston-cove-drive",
@@ -13170,8 +13139,8 @@
       "name": "Sagewood",
       "address": "1030 Gull Drive, Apopka, FL 32703",
       "availableCount": 11,
-      "lowestPrice": 459994,
-      "highestPrice": 560990,
+      "lowestPrice": 455990,
+      "highestPrice": 549990,
       "beds": [
         4,
         5
@@ -13181,8 +13150,8 @@
           "lot": "71",
           "address": "1091 Gull Drive",
           "plan": "",
-          "price": 474994,
-          "priceLabel": "$474,994",
+          "price": 469990,
+          "priceLabel": "$469,990",
           "beds": 4,
           "homeSlug": "1091-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1091-gull-drive",
@@ -13194,15 +13163,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0071-1091-gull-drive/1_1_cali_exterior_l.jpg?iar=1&sc=1&thn=1&w=425&rev=29331a50aebb4d7b920e2ca636e46916&hash=0CE843D6EB9F0A467BB405DCAD4A4C2E"
           ],
-          "incentive": 12996,
-          "incentiveLabel": "(12,996)"
+          "incentive": 18000,
+          "incentiveLabel": "(18,000)"
         },
         {
           "lot": "15",
           "address": "1102 Gull Drive",
           "plan": "",
-          "price": 459994,
-          "priceLabel": "$459,994",
+          "price": 455990,
+          "priceLabel": "$455,990",
           "beds": 4,
           "homeSlug": "1102-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1102-gull-drive",
@@ -13214,15 +13183,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0015-1102-gull-drive/cali_l_web.jpg?iar=1&sc=1&thn=1&w=425&rev=debbe24350c445c58d0c1f483200a886&hash=F74604F1949035AEF624F4A487707CC9"
           ],
-          "incentive": 15886,
-          "incentiveLabel": "(15,886)"
+          "incentive": 19890,
+          "incentiveLabel": "(19,890)"
         },
         {
           "lot": "69",
           "address": "1103 Gull Drive",
           "plan": "",
-          "price": 555990,
-          "priceLabel": "$555,990",
+          "price": 549990,
+          "priceLabel": "$549,990",
           "beds": 5,
           "homeSlug": "1103-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1103-gull-drive",
@@ -13234,15 +13203,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ejb/0069-1103-gull-drive/1_1_elleexterior_g.jpg?iar=1&sc=1&thn=1&w=425&rev=e4d7bc36729d4615b2b628e0d16edabb&hash=D777FCA63F89B15EB154E2F6E9A7240D"
           ],
-          "incentive": 4000,
-          "incentiveLabel": "(4,000)"
+          "incentive": 10000,
+          "incentiveLabel": "(10,000)"
         },
         {
           "lot": "68",
           "address": "1109 Gull Drive",
           "plan": "",
-          "price": 499990,
-          "priceLabel": "$499,990",
+          "price": 494990,
+          "priceLabel": "$494,990",
           "beds": 5,
           "homeSlug": "1109-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1109-gull-drive",
@@ -13254,15 +13223,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0068-1109-gull-drive/1_1_lakeside_sagewood_h.jpg?iar=1&sc=1&thn=1&w=425&rev=29756838ceba4719be5ea4284debd53d&hash=3A3C55E3FF1BE06EB582DDC18D847411"
           ],
-          "incentive": 23300,
-          "incentiveLabel": "(23,300)"
+          "incentive": 28300,
+          "incentiveLabel": "(28,300)"
         },
         {
           "lot": "67",
           "address": "1115 Gull Drive",
           "plan": "",
-          "price": 493990,
-          "priceLabel": "$493,990",
+          "price": 479990,
+          "priceLabel": "$479,990",
           "beds": 4,
           "homeSlug": "1115-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1115-gull-drive",
@@ -13274,15 +13243,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0067-1115-gull-drive/1_1_cali_sagewood_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=9bb0b7befc3c4d2fab7dd14885a44669&hash=9EF915CE2601882BE2B73A370406B08A"
           ],
-          "incentive": 4000,
-          "incentiveLabel": "(4,000)"
+          "incentive": 18000,
+          "incentiveLabel": "(18,000)"
         },
         {
           "lot": "65",
           "address": "1127 Gull Drive",
           "plan": "",
-          "price": 491990,
-          "priceLabel": "$491,990",
+          "price": 479990,
+          "priceLabel": "$479,990",
           "beds": 4,
           "homeSlug": "1127-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1127-gull-drive",
@@ -13294,15 +13263,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0065-1127-gull-drive/1_1_cali_elevation_c_with_stone_sagewood.jpg?iar=1&sc=1&thn=1&w=425&rev=cba3f3e5703b48e39ce47db8ca660586&hash=200AD0A9442ACACB3ED6B2FA05106942"
           ],
-          "incentive": 4000,
-          "incentiveLabel": "(4,000)"
+          "incentive": 16000,
+          "incentiveLabel": "(16,000)"
         },
         {
           "lot": "21",
           "address": "1138 Gull Drive",
           "plan": "",
-          "price": 471990,
-          "priceLabel": "$471,990",
+          "price": 459990,
+          "priceLabel": "$459,990",
           "beds": 4,
           "homeSlug": "1138-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1138-gull-drive",
@@ -13314,15 +13283,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0021-1138-gull-drive/1_1_cali_d_sagewood_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=1804dea69fdc4375a760fae6fd267a46&hash=348A7CDFADCB716B988870E1B45C37C7"
           ],
-          "incentive": 4000,
-          "incentiveLabel": "(4,000)"
+          "incentive": 16000,
+          "incentiveLabel": "(16,000)"
         },
         {
           "lot": "63",
           "address": "1139 Gull Drive",
           "plan": "",
-          "price": 560990,
-          "priceLabel": "$560,990",
+          "price": 549990,
+          "priceLabel": "$549,990",
           "beds": 5,
           "homeSlug": "1139-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1139-gull-drive",
@@ -13334,15 +13303,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ejb/0063-1139-gull-drive/1_1_elle_sagewood_exteriorh.jpg?iar=1&sc=1&thn=1&w=425&rev=8b0091d279c6431686c368bc595c22ca&hash=2869739434E18444EB67AE5A1C1ACB85"
           ],
-          "incentive": 4000,
-          "incentiveLabel": "(4,000)"
+          "incentive": 15000,
+          "incentiveLabel": "(15,000)"
         },
         {
           "lot": "22",
           "address": "1144 Gull Drive",
           "plan": "",
-          "price": 499990,
-          "priceLabel": "$499,990",
+          "price": 489990,
+          "priceLabel": "$489,990",
           "beds": 5,
           "homeSlug": "1144-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1144-gull-drive",
@@ -13354,15 +13323,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0022-1144-gull-drive/1_1_lakeside_sagewood_h1.jpg?iar=1&sc=1&thn=1&w=425&rev=1d5710f49c514d7db3a00a34c82b3eb7&hash=6FC074548C33FBAF3159574C91E9FA53"
           ],
-          "incentive": 7225,
-          "incentiveLabel": "(7,225)"
+          "incentive": 17225,
+          "incentiveLabel": "(17,225)"
         },
         {
           "lot": "61",
           "address": "1151 Gull Drive",
           "plan": "",
-          "price": 512990,
-          "priceLabel": "$512,990",
+          "price": 499990,
+          "priceLabel": "$499,990",
           "beds": 5,
           "homeSlug": "1151-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1151-gull-drive",
@@ -13374,15 +13343,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0061-1151-gull-drive/1_1_lakeside_exteriorstone_sagewood_g.jpg?iar=1&sc=1&thn=1&w=425&rev=2fabe3934dd9459a8523e5f80a7e7f8e&hash=C4707DEAFC7E9FB2ED3DE9CC1236123E"
           ],
-          "incentive": 5000,
-          "incentiveLabel": "(5,000)"
+          "incentive": 18000,
+          "incentiveLabel": "(18,000)"
         },
         {
           "lot": "49",
           "address": "1315 Gull Drive",
           "plan": "",
-          "price": 487400,
-          "priceLabel": "$487,400",
+          "price": 479990,
+          "priceLabel": "$479,990",
           "beds": 5,
           "homeSlug": "1315-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1315-gull-drive",
@@ -13394,8 +13363,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/0049-1315-gull-drive/1_1_lakeside_sagewood_h.jpg?iar=1&sc=1&thn=1&w=425&rev=669cd21e66aa4ddea4674f81e37e541f&hash=74F1CE8FD78C40E2BDFBDF36AB9DB725"
           ],
-          "incentive": 9335,
-          "incentiveLabel": "(9,335)"
+          "incentive": 16745,
+          "incentiveLabel": "(16,745)"
         }
       ],
       "models": [
@@ -13467,7 +13436,7 @@
       "address": "1688 Great Osprey Way, New Smyrna Beach, FL 32168",
       "availableCount": 9,
       "lowestPrice": 264990,
-      "highestPrice": 295000,
+      "highestPrice": 277990,
       "beds": [
         3
       ],
@@ -13476,8 +13445,8 @@
           "lot": "56",
           "address": "1626 Great Osprey Way",
           "plan": "",
-          "price": 276000,
-          "priceLabel": "$276,000",
+          "price": 266990,
+          "priceLabel": "$266,990",
           "beds": 3,
           "homeSlug": "1626-great-osprey-way",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/sandalwood/qmis/1626-great-osprey-way",
@@ -13489,15 +13458,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0056-1626-great-osprey-way/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=e464a15de7eb48008ca6cbc4e4c782bf&hash=B6994D3BE45DC8BFB69C672825B3CBB6"
           ],
-          "incentive": 16690,
-          "incentiveLabel": "(16,690)"
+          "incentive": 25700,
+          "incentiveLabel": "(25,700)"
         },
         {
           "lot": "57",
           "address": "1628 Great Osprey Way",
           "plan": "",
-          "price": 276000,
-          "priceLabel": "$276,000",
+          "price": 266990,
+          "priceLabel": "$266,990",
           "beds": 3,
           "homeSlug": "1628-great-osprey-way",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/sandalwood/qmis/1628-great-osprey-way",
@@ -13509,15 +13478,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0057-1628-great-osprey-way/1_1_pearson_sandalwood.jpg?iar=1&sc=1&thn=1&w=425&rev=3706174be567402083da84e33bad9404&hash=2427189DE720903218174F64D26485EB"
           ],
-          "incentive": 16690,
-          "incentiveLabel": "(16,690)"
+          "incentive": 25700,
+          "incentiveLabel": "(25,700)"
         },
         {
           "lot": "58",
           "address": "1630 Great Osprey Way",
           "plan": "",
-          "price": 276000,
-          "priceLabel": "$276,000",
+          "price": 266990,
+          "priceLabel": "$266,990",
           "beds": 3,
           "homeSlug": "1630-great-osprey-way",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/sandalwood/qmis/1630-great-osprey-way",
@@ -13529,15 +13498,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0058-1630-great-osprey-way/1_1_pearson_sandalwood.jpg?iar=1&sc=1&thn=1&w=425&rev=e8887a0164e14bdfbd3caa7080f777e8&hash=C83D7F0A64B5A92A0F7764CFA60B928B"
           ],
-          "incentive": 16690,
-          "incentiveLabel": "(16,690)"
+          "incentive": 25700,
+          "incentiveLabel": "(25,700)"
         },
         {
           "lot": "59",
           "address": "1632 Great Osprey Way",
           "plan": "",
-          "price": 276000,
-          "priceLabel": "$276,000",
+          "price": 266990,
+          "priceLabel": "$266,990",
           "beds": 3,
           "homeSlug": "1632-great-osprey-way",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/sandalwood/qmis/1632-great-osprey-way",
@@ -13549,15 +13518,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0059-1632-great-osprey-way/1_1_pearson_sandalwood_2.jpg?iar=1&sc=1&thn=1&w=425&rev=c0aa8fbf50f14223a1403298e1475a5b&hash=EA3FFCA5F3C3703CD211ECF3A2FEE7C2"
           ],
-          "incentive": 16690,
-          "incentiveLabel": "(16,690)"
+          "incentive": 25700,
+          "incentiveLabel": "(25,700)"
         },
         {
           "lot": "60",
           "address": "1634 Great Osprey Way",
           "plan": "",
-          "price": 276000,
-          "priceLabel": "$276,000",
+          "price": 266990,
+          "priceLabel": "$266,990",
           "beds": 3,
           "homeSlug": "1634-great-osprey-way",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/sandalwood/qmis/1634-great-osprey-way",
@@ -13569,15 +13538,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0060-1634-great-osprey-way/1_1_pearson_sandalwood.jpg?iar=1&sc=1&thn=1&w=425&rev=475834b1bc634e40a26b601d009dc40a&hash=F751A2238BAD0C0507F36DEFA99A4A70"
           ],
-          "incentive": 16690,
-          "incentiveLabel": "(16,690)"
+          "incentive": 25700,
+          "incentiveLabel": "(25,700)"
         },
         {
           "lot": "61",
           "address": "1636 Great Osprey Way",
           "plan": "",
-          "price": 276000,
-          "priceLabel": "$276,000",
+          "price": 266990,
+          "priceLabel": "$266,990",
           "beds": 3,
           "homeSlug": "1636-great-osprey-way",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/sandalwood/qmis/1636-great-osprey-way",
@@ -13589,15 +13558,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20b/0061-1636-great-osprey-way/1_1_pearson_sandalwood.jpg?iar=1&sc=1&thn=1&w=425&rev=39d651a1c62b4ecb94336a197bc64e49&hash=A2359D3B6945815C0C83201601B39368"
           ],
-          "incentive": 16690,
-          "incentiveLabel": "(16,690)"
+          "incentive": 25700,
+          "incentiveLabel": "(25,700)"
         },
         {
           "lot": "62",
           "address": "1638 Great Osprey Way",
           "plan": "",
-          "price": 295000,
-          "priceLabel": "$295,000",
+          "price": 277990,
+          "priceLabel": "$277,990",
           "beds": 3,
           "homeSlug": "1638-great-osprey-way",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/sandalwood/qmis/1638-great-osprey-way",
@@ -13609,8 +13578,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34565-sandalwood/345650000-sandalwood/t20a/0062-1638-great-osprey-way/1_1_pearson_sandalwood_2.jpg?iar=1&sc=1&thn=1&w=425&rev=f99592ac391f4539ad96f3760ad8acbc&hash=C52D3C1FBAC684C0ADAA1B415A15DED8"
           ],
-          "incentive": 11990,
-          "incentiveLabel": "(11,990)"
+          "incentive": 29000,
+          "incentiveLabel": "(29,000)"
         },
         {
           "lot": "08",
@@ -13691,7 +13660,7 @@
       "name": "Sunset Hills",
       "address": "9806 SE 161st Lane Road, Summerfield, FL 34491",
       "availableCount": 5,
-      "lowestPrice": 262990,
+      "lowestPrice": 252990,
       "highestPrice": 337990,
       "beds": [
         4,
@@ -13735,15 +13704,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/e407/0263-10165-se-158th-lane/1fl_west-florida_drh_express-series_freeport-a.jpg?iar=1&sc=1&thn=1&w=425&rev=f902aa0044a349068a9d765f4d240869&hash=7CA371BACDDC011232CA02E645F0F23F"
           ],
-          "incentive": 20080,
-          "incentiveLabel": "(20,080)"
+          "incentive": 10080,
+          "incentiveLabel": "(10,080)"
         },
         {
           "lot": "135",
           "address": "10174 SE 158th Lane",
           "plan": "",
-          "price": 262990,
-          "priceLabel": "$262,990",
+          "price": 252990,
+          "priceLabel": "$252,990",
           "beds": 4,
           "homeSlug": "10174-se-158th-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/summerfield/sunset-hills/qmis/10174-se-158th-lane",
@@ -13780,8 +13749,8 @@
           "lot": "42",
           "address": "9806 SE 161st Lane Road",
           "plan": "",
-          "price": 288070,
-          "priceLabel": "$288,070",
+          "price": 278070,
+          "priceLabel": "$278,070",
           "beds": 4,
           "homeSlug": "9806-se-161st-lane-road",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/summerfield/sunset-hills/qmis/9806-se-161st-lane-road",
@@ -13859,7 +13828,7 @@
         {
           "slug": "e407",
           "name": "Freeport II",
-          "startingLabel": "Starting in the $277s",
+          "startingLabel": "Starting in the $267s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/summerfield/sunset-hills/floor-plans/e407",
           "beds": 4,
           "baths": "2",
@@ -14082,32 +14051,13 @@
       "slug": "tara-esmeralda",
       "name": "Tara Esmeralda",
       "address": "1889 NW 136th Blvd, Newberry, FL 32669",
-      "availableCount": 2,
-      "lowestPrice": 350070,
+      "availableCount": 1,
+      "lowestPrice": 399070,
       "highestPrice": 399070,
       "beds": [
-        3,
         5
       ],
       "lots": [
-        {
-          "lot": "27",
-          "address": "1353 NW 142Nd Ter",
-          "plan": "",
-          "price": 350070,
-          "priceLabel": "$350,070",
-          "beds": 3,
-          "homeSlug": "1353-nw-142nd-ter",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-esmeralda/qmis/1353-nw-142nd-ter",
-          "baths": "2",
-          "sqft": "1,619",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/4eab/0027-1353-nw-142nd-ter/fl_west-florida_drh_express-series_aria_02-elevation_ks.jpg?iar=1&sc=1&thn=1&w=425&rev=4e0d1d521cfd432ca11f83e29ae70101&hash=71D9EC010B0AEB22C56715C625E32354",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/4eab/0027-1353-nw-142nd-ter/fl_west-florida_drh_express-series_aria_02-elevation_ks.jpg?iar=1&sc=1&thn=1&w=425&rev=4e0d1d521cfd432ca11f83e29ae70101&hash=71D9EC010B0AEB22C56715C625E32354"
-          ]
-        },
         {
           "lot": "25",
           "address": "1369 NW 142Nd Ter",
@@ -14442,7 +14392,7 @@
       "address": "4746 SW 69th Street, Gainesville, FL 32608",
       "availableCount": 7,
       "lowestPrice": 255990,
-      "highestPrice": 293070,
+      "highestPrice": 281070,
       "beds": [
         3
       ],
@@ -14464,15 +14414,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97474-tara-vista/974740000-tara-vista/t20b/0164-4826-sw-69th-street/pearson-6_unit-th-modern1-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=3997232b05f24bcdb7475cbd061a76ad&hash=5780F5E93701D229BDE0029B23541DC5"
           ],
-          "incentive": 20080,
-          "incentiveLabel": "(20,080)"
+          "incentive": 10080,
+          "incentiveLabel": "(10,080)"
         },
         {
           "lot": "208",
           "address": "4803 SW 69th STREET",
           "plan": "",
-          "price": 293070,
-          "priceLabel": "$293,070",
+          "price": 281070,
+          "priceLabel": "$281,070",
           "beds": 3,
           "homeSlug": "4803-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4803-sw-69th-street",
@@ -14489,8 +14439,8 @@
           "lot": "207",
           "address": "4807 SW 69th STREET",
           "plan": "",
-          "price": 283070,
-          "priceLabel": "$283,070",
+          "price": 271070,
+          "priceLabel": "$271,070",
           "beds": 3,
           "homeSlug": "4807-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4807-sw-69th-street",
@@ -14507,8 +14457,8 @@
           "lot": "206",
           "address": "4811 SW 69th STREET",
           "plan": "",
-          "price": 283070,
-          "priceLabel": "$283,070",
+          "price": 271070,
+          "priceLabel": "$271,070",
           "beds": 3,
           "homeSlug": "4811-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4811-sw-69th-street",
@@ -14525,8 +14475,8 @@
           "lot": "205",
           "address": "4815 SW 69th STREET",
           "plan": "",
-          "price": 283070,
-          "priceLabel": "$283,070",
+          "price": 271070,
+          "priceLabel": "$271,070",
           "beds": 3,
           "homeSlug": "4815-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4815-sw-69th-street",
@@ -14543,8 +14493,8 @@
           "lot": "204",
           "address": "4819 SW 69th STREET",
           "plan": "",
-          "price": 283070,
-          "priceLabel": "$283,070",
+          "price": 271070,
+          "priceLabel": "$271,070",
           "beds": 3,
           "homeSlug": "4819-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4819-sw-69th-street",
@@ -14561,8 +14511,8 @@
           "lot": "203",
           "address": "4823 SW 69th STREET",
           "plan": "",
-          "price": 293070,
-          "priceLabel": "$293,070",
+          "price": 281070,
+          "priceLabel": "$281,070",
           "beds": 3,
           "homeSlug": "4823-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4823-sw-69th-street",
@@ -14580,7 +14530,7 @@
         {
           "slug": "t20a",
           "name": "Pearson - Exterior Unit",
-          "startingLabel": "Starting in the $280s",
+          "startingLabel": "Starting in the $270s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/floor-plans/t20a",
           "beds": 3,
           "baths": "2.5",
@@ -14595,7 +14545,7 @@
         {
           "slug": "t20b",
           "name": "Pearson - Interior Unit",
-          "startingLabel": "Starting in the $270s",
+          "startingLabel": "Starting in the $260s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/floor-plans/t20b",
           "beds": 3,
           "baths": "2.5",
@@ -14613,32 +14563,52 @@
       "slug": "the-vineyards-townhomes",
       "name": "The Vineyards Townhomes",
       "address": "558 Pinot Drive, Holly Hill, FL 32117",
-      "availableCount": 10,
-      "lowestPrice": 245000,
-      "highestPrice": 276990,
+      "availableCount": 9,
+      "lowestPrice": 249000,
+      "highestPrice": 269000,
       "beds": [
         3
       ],
       "lots": [
         {
-          "lot": "104",
-          "address": "525 Prosecco Drive",
+          "lot": "111",
+          "address": "511 Prosecco Drive",
           "plan": "",
-          "price": 245000,
-          "priceLabel": "$245,000",
+          "price": 249000,
+          "priceLabel": "$249,000",
           "beds": 3,
-          "homeSlug": "525-prosecco-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/525-prosecco-drive",
+          "homeSlug": "511-prosecco-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/511-prosecco-drive",
           "baths": "2.5",
           "sqft": "1,463",
           "story": "2",
           "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0104-525-prosecco-drive/1_1_pearson_sandalwood.jpg?iar=1&sc=1&thn=1&w=425&rev=b1f58398da344f29973cff59193d6d84&hash=6D9F4DA13A52C2BDBF58451507CE848B",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0111-511-prosecco-drive/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=43478dbbccb745159dca80949099b3b0&hash=7CEFC0D2DFBF639D97A31CAD600C86E2",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0104-525-prosecco-drive/1_1_pearson_sandalwood.jpg?iar=1&sc=1&thn=1&w=425&rev=b1f58398da344f29973cff59193d6d84&hash=6D9F4DA13A52C2BDBF58451507CE848B"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0111-511-prosecco-drive/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=43478dbbccb745159dca80949099b3b0&hash=7CEFC0D2DFBF639D97A31CAD600C86E2"
           ],
-          "incentive": 26900,
-          "incentiveLabel": "(26,900)"
+          "incentive": 18690,
+          "incentiveLabel": "(18,690)"
+        },
+        {
+          "lot": "109",
+          "address": "515 Prosecco Drive",
+          "plan": "",
+          "price": 249000,
+          "priceLabel": "$249,000",
+          "beds": 3,
+          "homeSlug": "515-prosecco-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/515-prosecco-drive",
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0109-515-prosecco-drive/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=ae707201e6cb4565aa12d7dea424e96d&hash=C08E7028CAF8348026D915FBB5435310",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0109-515-prosecco-drive/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=ae707201e6cb4565aa12d7dea424e96d&hash=C08E7028CAF8348026D915FBB5435310"
+          ],
+          "incentive": 18690,
+          "incentiveLabel": "(18,690)"
         },
         {
           "lot": "118",
@@ -14721,51 +14691,11 @@
           "incentiveLabel": "(11,000)"
         },
         {
-          "lot": "111",
-          "address": "511 Prosecco Drive",
-          "plan": "",
-          "price": 255000,
-          "priceLabel": "$255,000",
-          "beds": 3,
-          "homeSlug": "511-prosecco-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/511-prosecco-drive",
-          "baths": "2.5",
-          "sqft": "1,463",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0111-511-prosecco-drive/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=43478dbbccb745159dca80949099b3b0&hash=7CEFC0D2DFBF639D97A31CAD600C86E2",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0111-511-prosecco-drive/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=43478dbbccb745159dca80949099b3b0&hash=7CEFC0D2DFBF639D97A31CAD600C86E2"
-          ],
-          "incentive": 12690,
-          "incentiveLabel": "(12,690)"
-        },
-        {
-          "lot": "109",
-          "address": "515 Prosecco Drive",
-          "plan": "",
-          "price": 255000,
-          "priceLabel": "$255,000",
-          "beds": 3,
-          "homeSlug": "515-prosecco-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/515-prosecco-drive",
-          "baths": "2.5",
-          "sqft": "1,463",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0109-515-prosecco-drive/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=ae707201e6cb4565aa12d7dea424e96d&hash=C08E7028CAF8348026D915FBB5435310",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0109-515-prosecco-drive/1_1_pearson_exterior_interiorunit.jpg?iar=1&sc=1&thn=1&w=425&rev=ae707201e6cb4565aa12d7dea424e96d&hash=C08E7028CAF8348026D915FBB5435310"
-          ],
-          "incentive": 12690,
-          "incentiveLabel": "(12,690)"
-        },
-        {
           "lot": "128",
           "address": "522 Prosecco Drive",
           "plan": "",
-          "price": 272997,
-          "priceLabel": "$272,997",
+          "price": 265000,
+          "priceLabel": "$265,000",
           "beds": 3,
           "homeSlug": "522-prosecco-drive",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/522-prosecco-drive",
@@ -14777,8 +14707,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0128-522-prosecco-drive/1_1_pearson_exterior_endunit.jpg?iar=1&sc=1&thn=1&w=425&rev=d503f1e045634b0f80b56e51a0c2d7f2&hash=861B68A70345573EED6A6845A48A1D15"
           ],
-          "incentive": 8203,
-          "incentiveLabel": "(8,203)"
+          "incentive": 16200,
+          "incentiveLabel": "(16,200)"
         },
         {
           "lot": "05",
@@ -14802,8 +14732,8 @@
           "lot": "122",
           "address": "510 Prosecco Drive",
           "plan": "",
-          "price": 276990,
-          "priceLabel": "$276,990",
+          "price": 269000,
+          "priceLabel": "$269,000",
           "beds": 3,
           "homeSlug": "510-prosecco-drive",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/510-prosecco-drive",
@@ -14894,7 +14824,7 @@
       "name": "Towns at Summit",
       "address": "1728 Sugarwood Loop, DeLand, FL 32724",
       "availableCount": 6,
-      "lowestPrice": 298690,
+      "lowestPrice": 297990,
       "highestPrice": 321990,
       "beds": [
         3
@@ -14904,8 +14834,8 @@
           "lot": "102",
           "address": "1712 Sugarwood Loop",
           "plan": "",
-          "price": 303600,
-          "priceLabel": "$303,600",
+          "price": 297990,
+          "priceLabel": "$297,990",
           "beds": 3,
           "homeSlug": "1712-sugarwood-loop",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/deland/towns-at-summit/qmis/1712-sugarwood-loop",
@@ -14917,8 +14847,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34531-towns-at-summit/345310000-towns-at-summit/t20a/0102-1712-sugarwood-loop/1_adeline_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=c171e68047bd40bc9ee4853464bbd290&hash=B2B972356ED976B65C266247CD1A09DB"
           ],
-          "incentive": 3090,
-          "incentiveLabel": "(3,090)"
+          "incentive": 8700,
+          "incentiveLabel": "(8,700)"
         },
         {
           "lot": "84",
@@ -14960,8 +14890,8 @@
           "lot": "92",
           "address": "1672 Sugarwood Loop",
           "plan": "",
-          "price": 306690,
-          "priceLabel": "$306,690",
+          "price": 299990,
+          "priceLabel": "$299,990",
           "beds": 3,
           "homeSlug": "1672-sugarwood-loop",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/deland/towns-at-summit/qmis/1672-sugarwood-loop",
@@ -14996,8 +14926,8 @@
           "lot": "100",
           "address": "1704 Sugarwood Loop",
           "plan": "",
-          "price": 313990,
-          "priceLabel": "$313,990",
+          "price": 307990,
+          "priceLabel": "$307,990",
           "beds": 3,
           "homeSlug": "1704-sugarwood-loop",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/deland/towns-at-summit/qmis/1704-sugarwood-loop",
@@ -15137,7 +15067,7 @@
       "address": "8443 Clearway Drive, Wildwood, FL 34785",
       "availableCount": 8,
       "lowestPrice": 287990,
-      "highestPrice": 334070,
+      "highestPrice": 329070,
       "beds": [
         3,
         4,
@@ -15262,8 +15192,8 @@
           "lot": "145",
           "address": "8773 Triumph Circle",
           "plan": "",
-          "price": 334070,
-          "priceLabel": "$334,070",
+          "price": 329070,
+          "priceLabel": "$329,070",
           "beds": 5,
           "homeSlug": "8773-triumph-circle",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/triumph/qmis/8773-triumph-circle",
@@ -15348,8 +15278,8 @@
       "name": "Twisted Oaks",
       "address": "3181 Canopy Oak Blvd., Wildwood, FL 34785",
       "availableCount": 20,
-      "lowestPrice": 229990,
-      "highestPrice": 429990,
+      "lowestPrice": 228070,
+      "highestPrice": 424990,
       "beds": [
         2,
         3,
@@ -15361,8 +15291,8 @@
           "lot": "177",
           "address": "8327 Gower Trail",
           "plan": "",
-          "price": 229990,
-          "priceLabel": "$229,990",
+          "price": 228070,
+          "priceLabel": "$228,070",
           "beds": 3,
           "homeSlug": "8327-gower-trail",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8327-gower-trail",
@@ -15373,16 +15303,14 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0099-8327-gower-trail/pearson-6_unit-th-stucco-sch2-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c8be20ee0e28462abb2f93a528de23cc&hash=9DFBF7111F0D521E520AAF67CE1D6827",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0099-8327-gower-trail/pearson-6_unit-th-stucco-sch2-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c8be20ee0e28462abb2f93a528de23cc&hash=9DFBF7111F0D521E520AAF67CE1D6827"
-          ],
-          "incentive": 8080,
-          "incentiveLabel": "(8,080)"
+          ]
         },
         {
           "lot": "176",
           "address": "8329 Gower Trail",
           "plan": "",
-          "price": 229990,
-          "priceLabel": "$229,990",
+          "price": 228070,
+          "priceLabel": "$228,070",
           "beds": 3,
           "homeSlug": "8329-gower-trail",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8329-gower-trail",
@@ -15393,16 +15321,14 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0098-8329-gower-trail/pearson-6_unit-th-stucco-sch1-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=21d0f3ceb02f443994ca8310fa693e5b&hash=992FA797EB000429BE37B1CC0E578919",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0098-8329-gower-trail/pearson-6_unit-th-stucco-sch1-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=21d0f3ceb02f443994ca8310fa693e5b&hash=992FA797EB000429BE37B1CC0E578919"
-          ],
-          "incentive": 8080,
-          "incentiveLabel": "(8,080)"
+          ]
         },
         {
           "lot": "175",
           "address": "8333 Gower Trail",
           "plan": "",
-          "price": 229990,
-          "priceLabel": "$229,990",
+          "price": 228070,
+          "priceLabel": "$228,070",
           "beds": 3,
           "homeSlug": "8333-gower-trail",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8333-gower-trail",
@@ -15413,16 +15339,14 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0097-8333-gower-trail/pearson-6_unit-th-stucco-sch2-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=214996c8896c40a3b38e3b690b31fa16&hash=B33A13374386CC9BE48F41D0E16B81B1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0097-8333-gower-trail/pearson-6_unit-th-stucco-sch2-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=214996c8896c40a3b38e3b690b31fa16&hash=B33A13374386CC9BE48F41D0E16B81B1"
-          ],
-          "incentive": 8080,
-          "incentiveLabel": "(8,080)"
+          ]
         },
         {
           "lot": "174",
           "address": "8335 Gower Trail",
           "plan": "",
-          "price": 229990,
-          "priceLabel": "$229,990",
+          "price": 228070,
+          "priceLabel": "$228,070",
           "beds": 3,
           "homeSlug": "8335-gower-trail",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8335-gower-trail",
@@ -15433,16 +15357,14 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0096-8335-gower-trail/pearson-6_unit-th-stucco-sch2-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=a217f68450664564be08fced7f737d2c&hash=17ACDF6AA47F6F0FCEEAD31711300E6F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0096-8335-gower-trail/pearson-6_unit-th-stucco-sch2-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=a217f68450664564be08fced7f737d2c&hash=17ACDF6AA47F6F0FCEEAD31711300E6F"
-          ],
-          "incentive": 8080,
-          "incentiveLabel": "(8,080)"
+          ]
         },
         {
           "lot": "173",
           "address": "8339 Gower Trail",
           "plan": "",
-          "price": 229990,
-          "priceLabel": "$229,990",
+          "price": 228070,
+          "priceLabel": "$228,070",
           "beds": 3,
           "homeSlug": "8339-gower-trail",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8339-gower-trail",
@@ -15453,16 +15375,14 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0095-8339-gower-trail/pearson-6_unit-th-stucco-sch2-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=47d21155a11d4a9daa433f02493d70ee&hash=3B03881034342641D01950DC1DDDA64D",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0095-8339-gower-trail/pearson-6_unit-th-stucco-sch2-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=47d21155a11d4a9daa433f02493d70ee&hash=3B03881034342641D01950DC1DDDA64D"
-          ],
-          "incentive": 8080,
-          "incentiveLabel": "(8,080)"
+          ]
         },
         {
           "lot": "172",
           "address": "8341 Gower Trail",
           "plan": "",
-          "price": 229990,
-          "priceLabel": "$229,990",
+          "price": 228070,
+          "priceLabel": "$228,070",
           "beds": 3,
           "homeSlug": "8341-gower-trail",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8341-gower-trail",
@@ -15473,16 +15393,14 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0094-8341-gower-trail/pearson-6_unit-th-stucco-sch2-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=e2f9d94261914b71af6b3d5c42bd672a&hash=6185B9D2C0FA4E63DE2C671FF3A89DC7",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0094-8341-gower-trail/pearson-6_unit-th-stucco-sch2-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=e2f9d94261914b71af6b3d5c42bd672a&hash=6185B9D2C0FA4E63DE2C671FF3A89DC7"
-          ],
-          "incentive": 8080,
-          "incentiveLabel": "(8,080)"
+          ]
         },
         {
           "lot": "178",
           "address": "8323 Gower Trail",
           "plan": "",
-          "price": 244990,
-          "priceLabel": "$244,990",
+          "price": 241070,
+          "priceLabel": "$241,070",
           "beds": 3,
           "homeSlug": "8323-gower-trail",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8323-gower-trail",
@@ -15493,16 +15411,14 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20a/0100-8323-gower-trail/pearson-6_unit-th-stucco-sch1-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=5d6933dce36545828b1137dffcb0d97e&hash=7A38C4850A66F00F296600CBB29591B6",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20a/0100-8323-gower-trail/pearson-6_unit-th-stucco-sch1-with_cl-gen3-elev_day_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=5d6933dce36545828b1137dffcb0d97e&hash=7A38C4850A66F00F296600CBB29591B6"
-          ],
-          "incentive": 6080,
-          "incentiveLabel": "(6,080)"
+          ]
         },
         {
           "lot": "281",
           "address": "3018 Biltmore Lane",
           "plan": "",
-          "price": 269990,
-          "priceLabel": "$269,990",
+          "price": 267990,
+          "priceLabel": "$267,990",
           "beds": 4,
           "homeSlug": "3018-biltmore-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/3018-biltmore-lane",
@@ -15521,8 +15437,8 @@
           "lot": "283",
           "address": "3023 Biltmore Lane",
           "plan": "",
-          "price": 269990,
-          "priceLabel": "$269,990",
+          "price": 267990,
+          "priceLabel": "$267,990",
           "beds": 4,
           "homeSlug": "3023-biltmore-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/3023-biltmore-lane",
@@ -15541,8 +15457,8 @@
           "lot": "229",
           "address": "8766 Pinecrest Trail",
           "plan": "",
-          "price": 270990,
-          "priceLabel": "$270,990",
+          "price": 268990,
+          "priceLabel": "$268,990",
           "beds": 2,
           "homeSlug": "8766-pinecrest-trail",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8766-pinecrest-trail",
@@ -15561,8 +15477,8 @@
           "lot": "238",
           "address": "8625 Pinecrest Trail",
           "plan": "",
-          "price": 287990,
-          "priceLabel": "$287,990",
+          "price": 285990,
+          "priceLabel": "$285,990",
           "beds": 2,
           "homeSlug": "8625-pinecrest-trail",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8625-pinecrest-trail",
@@ -15601,8 +15517,8 @@
           "lot": "233",
           "address": "8782 Pinecrest Trail",
           "plan": "",
-          "price": 295990,
-          "priceLabel": "$295,990",
+          "price": 293990,
+          "priceLabel": "$293,990",
           "beds": 2,
           "homeSlug": "8782-pinecrest-trail",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8782-pinecrest-trail",
@@ -15681,8 +15597,8 @@
           "lot": "206",
           "address": "3049 Canopy Oak Blvd",
           "plan": "",
-          "price": 429990,
-          "priceLabel": "$429,990",
+          "price": 424990,
+          "priceLabel": "$424,990",
           "beds": 4,
           "homeSlug": "3049-canopy-oak-blvd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/3049-canopy-oak-blvd",
@@ -15696,6 +15612,24 @@
           ],
           "incentive": 23000,
           "incentiveLabel": "(23,000)"
+        },
+        {
+          "lot": "279",
+          "address": "3026 Biltmore Lane",
+          "plan": "",
+          "price": 317990,
+          "priceLabel": "$317,990",
+          "beds": 4,
+          "homeSlug": "3026-biltmore-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/3026-biltmore-lane",
+          "baths": "2.5",
+          "sqft": "2,260",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974480000-twisted-oaks---sumter-40s-exp/3eeb/0062-3026-biltmore-lane/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f85fa1df4a9b48e4b1011c222d68ec51&hash=43089129DB4FAFFA4DCAEA80F10708C2",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974480000-twisted-oaks---sumter-40s-exp/3eeb/0062-3026-biltmore-lane/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f85fa1df4a9b48e4b1011c222d68ec51&hash=43089129DB4FAFFA4DCAEA80F10708C2"
+          ]
         },
         {
           "lot": "269",
@@ -15713,24 +15647,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974590000-twisted-oaks-sumter-50s-exp/4ebb/0063-8712-barragan-drive/cali-c-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=9ba53930d7c94ce0b80c5f90ea42ae5b&hash=8DD7AFDB69C24CBCA0E25688945A3AA9",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974590000-twisted-oaks-sumter-50s-exp/4ebb/0063-8712-barragan-drive/cali-c-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=9ba53930d7c94ce0b80c5f90ea42ae5b&hash=8DD7AFDB69C24CBCA0E25688945A3AA9"
-          ]
-        },
-        {
-          "lot": "279",
-          "address": "3026 Biltmore Lane",
-          "plan": "",
-          "price": 319990,
-          "priceLabel": "$319,990",
-          "beds": 4,
-          "homeSlug": "3026-biltmore-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/3026-biltmore-lane",
-          "baths": "2.5",
-          "sqft": "2,260",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974480000-twisted-oaks---sumter-40s-exp/3eeb/0062-3026-biltmore-lane/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f85fa1df4a9b48e4b1011c222d68ec51&hash=43089129DB4FAFFA4DCAEA80F10708C2",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974480000-twisted-oaks---sumter-40s-exp/3eeb/0062-3026-biltmore-lane/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f85fa1df4a9b48e4b1011c222d68ec51&hash=43089129DB4FAFFA4DCAEA80F10708C2"
           ]
         },
         {
@@ -16023,7 +15939,7 @@
         {
           "slug": "t20a",
           "name": "Pearson - Exterior Unit",
-          "startingLabel": "Starting in the $238s",
+          "startingLabel": "Starting in the $228s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/floor-plans/t20a",
           "beds": 3,
           "baths": "2.5",
@@ -16038,7 +15954,7 @@
         {
           "slug": "t20b",
           "name": "Pearson - Interior Unit",
-          "startingLabel": "Starting in the $228s",
+          "startingLabel": "Starting in the $218s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/floor-plans/t20b",
           "beds": 3,
           "baths": "2.5",
@@ -16287,7 +16203,7 @@
       "address": "583 Remick Street, Osteen, FL 32764",
       "availableCount": 4,
       "lowestPrice": 303900,
-      "highestPrice": 325990,
+      "highestPrice": 318990,
       "beds": [
         4
       ],
@@ -16316,8 +16232,8 @@
           "lot": "376",
           "address": "462 Remick St",
           "plan": "",
-          "price": 325990,
-          "priceLabel": "$325,990",
+          "price": 318990,
+          "priceLabel": "$318,990",
           "beds": 4,
           "homeSlug": "462-remick-st",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/osteen/vineland-reserve/qmis/462-remick-st",
@@ -16334,8 +16250,8 @@
           "lot": "387",
           "address": "506 Remick St",
           "plan": "",
-          "price": 325990,
-          "priceLabel": "$325,990",
+          "price": 318990,
+          "priceLabel": "$318,990",
           "beds": 4,
           "homeSlug": "506-remick-st",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/osteen/vineland-reserve/qmis/506-remick-st",
@@ -16405,8 +16321,8 @@
       "name": "Waterleigh",
       "address": "10482 Atwater Bay Dr., Winter Garden, FL 34787",
       "availableCount": 25,
-      "lowestPrice": 454990,
-      "highestPrice": 939076,
+      "lowestPrice": 429990,
+      "highestPrice": 927666,
       "beds": [
         3,
         4,
@@ -16417,8 +16333,8 @@
           "lot": "284",
           "address": "11815 Shine View Lane",
           "plan": "",
-          "price": 833701,
-          "priceLabel": "$833,701",
+          "price": 819990,
+          "priceLabel": "$819,990",
           "beds": 5,
           "homeSlug": "11815-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11815-shine-view-lane",
@@ -16430,15 +16346,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1123-11815-shine-view-lane/torrey_waterleigh_k_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=257aa8823c0244149625951b074e3197&hash=AA78F6FAE960E53DBF446C13A0B695FE"
           ],
-          "incentive": 40000,
-          "incentiveLabel": "(40,000)"
+          "incentive": 53711,
+          "incentiveLabel": "(53,711)"
         },
         {
           "lot": "282",
           "address": "11827 Shine View Lane",
           "plan": "",
-          "price": 839846,
-          "priceLabel": "$839,846",
+          "price": 819990,
+          "priceLabel": "$819,990",
           "beds": 5,
           "homeSlug": "11827-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11827-shine-view-lane",
@@ -16450,15 +16366,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1121-11827-shine-view-lane/torrey_waterleigh_kweb_.jpg?iar=1&sc=1&thn=1&w=425&rev=4661da4a1649460a98b30584d2df4dcb&hash=FD0B6F4158B43D0374C9A7E2410D3E6C"
           ],
-          "incentive": 40000,
-          "incentiveLabel": "(40,000)"
+          "incentive": 59856,
+          "incentiveLabel": "(59,856)"
         },
         {
           "lot": "281",
           "address": "11833 Shine View Lane",
           "plan": "",
-          "price": 897341,
-          "priceLabel": "$897,341",
+          "price": 884990,
+          "priceLabel": "$884,990",
           "beds": 4,
           "homeSlug": "11833-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11833-shine-view-lane",
@@ -16470,15 +16386,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3327/1120-11833-shine-view-lane/seacliff_waterleigh_l_web.jpg?iar=1&sc=1&thn=1&w=425&rev=5a5368c820034052a0c790d0516312ac&hash=116BEB07A3B9832602D702157965AD23"
           ],
-          "incentive": 40000,
-          "incentiveLabel": "(40,000)"
+          "incentive": 52351,
+          "incentiveLabel": "(52,351)"
         },
         {
           "lot": "280",
           "address": "11839 Shine View Lane",
           "plan": "",
-          "price": 926901,
-          "priceLabel": "$926,901",
+          "price": 888990,
+          "priceLabel": "$888,990",
           "beds": 5,
           "homeSlug": "11839-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11839-shine-view-lane",
@@ -16490,8 +16406,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1119-11839-shine-view-lane/torrey_waterleigh_j_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=31988551d6da48a2a4ec23451c858d78&hash=2A0BDC026F3AB8F0D164B710773A2C83"
           ],
-          "incentive": 30000,
-          "incentiveLabel": "(30,000)"
+          "incentive": 67911,
+          "incentiveLabel": "(67,911)"
         },
         {
           "lot": "277",
@@ -16537,8 +16453,8 @@
           "lot": "275",
           "address": "11869 Shine View Lane",
           "plan": "",
-          "price": 857141,
-          "priceLabel": "$857,141",
+          "price": 819990,
+          "priceLabel": "$819,990",
           "beds": 5,
           "homeSlug": "11869-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11869-shine-view-lane",
@@ -16550,8 +16466,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1114-11869-shine-view-lane/1_1_torreyexterior_elevationl.jpg?iar=1&sc=1&thn=1&w=425&rev=d1949052ace44a89b1bb56a3a960cb83&hash=5B80577BBB5210EC2B745FAF0DF376F6"
           ],
-          "incentive": 30000,
-          "incentiveLabel": "(30,000)"
+          "incentive": 67151,
+          "incentiveLabel": "(67,151)"
         },
         {
           "lot": "274",
@@ -16597,8 +16513,8 @@
           "lot": "272",
           "address": "11887 Shine View Lane",
           "plan": "",
-          "price": 847841,
-          "priceLabel": "$847,841",
+          "price": 819990,
+          "priceLabel": "$819,990",
           "beds": 5,
           "homeSlug": "11887-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11887-shine-view-lane",
@@ -16610,15 +16526,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1111-11887-shine-view-lane/torrey_waterleigh_j_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=4b1c2336c0e04cbb915d4d7a1668a286&hash=EE4328CE87A7FCB5E7AEC74C41605B00"
           ],
-          "incentive": 30000,
-          "incentiveLabel": "(30,000)"
+          "incentive": 57851,
+          "incentiveLabel": "(57,851)"
         },
         {
           "lot": "271",
           "address": "11893 Shine View Lane",
           "plan": "",
-          "price": 778436,
-          "priceLabel": "$778,436",
+          "price": 759990,
+          "priceLabel": "$759,990",
           "beds": 4,
           "homeSlug": "11893-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11893-shine-view-lane",
@@ -16630,8 +16546,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/2113/1110-11893-shine-view-lane/bellmore_j_drh_web.jpg?iar=1&sc=1&thn=1&w=425&rev=947af6c86a3d412b8db74ae35ae7265e&hash=F13B31A539D119ACD2CDD82852B6228C"
           ],
-          "incentive": 20000,
-          "incentiveLabel": "(20,000)"
+          "incentive": 38446,
+          "incentiveLabel": "(38,446)"
         },
         {
           "lot": "266",
@@ -16717,8 +16633,8 @@
           "lot": "279",
           "address": "11845 Shine View Lane",
           "plan": "",
-          "price": 939076,
-          "priceLabel": "$939,076",
+          "price": 899990,
+          "priceLabel": "$899,990",
           "beds": 4,
           "homeSlug": "11845-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11845-shine-view-lane",
@@ -16789,8 +16705,8 @@
           "lot": "170",
           "address": "12050 Shine View Lane",
           "plan": "",
-          "price": 464500,
-          "priceLabel": "$464,500",
+          "price": 429990,
+          "priceLabel": "$429,990",
           "beds": 3,
           "homeSlug": "12050-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12050-shine-view-lane",
@@ -16807,8 +16723,8 @@
           "lot": "169",
           "address": "12056 Shine View Lane",
           "plan": "",
-          "price": 464500,
-          "priceLabel": "$464,500",
+          "price": 429990,
+          "priceLabel": "$429,990",
           "beds": 3,
           "homeSlug": "12056-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12056-shine-view-lane",
@@ -16861,8 +16777,8 @@
           "lot": "165",
           "address": "12080 Shine View Lane",
           "plan": "",
-          "price": 459500,
-          "priceLabel": "$459,500",
+          "price": 429990,
+          "priceLabel": "$429,990",
           "beds": 3,
           "homeSlug": "12080-shine-view-lane",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/12080-shine-view-lane",
@@ -17067,7 +16983,7 @@
       "name": "Wexford Cove",
       "address": "4235 Acoma Drive, Ormond Beach, FL 32174",
       "availableCount": 9,
-      "lowestPrice": 399990,
+      "lowestPrice": 399000,
       "highestPrice": 425000,
       "beds": [
         4,
@@ -17098,8 +17014,8 @@
           "lot": "79",
           "address": "2515 Dorset Court",
           "plan": "",
-          "price": 418997,
-          "priceLabel": "$418,997",
+          "price": 409000,
+          "priceLabel": "$409,000",
           "beds": 4,
           "homeSlug": "2515-dorset-court",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/wexford-cove/qmis/2515-dorset-court",
@@ -17111,15 +17027,15 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/e501/0079-2515-dorset-court/1_1_denham_withstoneexterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=3b3182cc297749c9adfa1f4551fb5aea&hash=E6A6B5BCBAC45C574FE749C86D1752E9"
           ],
-          "incentive": 2993,
-          "incentiveLabel": "(2,993)"
+          "incentive": 12990,
+          "incentiveLabel": "(12,990)"
         },
         {
           "lot": "75",
           "address": "2523 Dorset Court",
           "plan": "",
-          "price": 404997,
-          "priceLabel": "$404,997",
+          "price": 399000,
+          "priceLabel": "$399,000",
           "beds": 4,
           "homeSlug": "2523-dorset-court",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/wexford-cove/qmis/2523-dorset-court",
@@ -17131,8 +17047,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34547-wexford-cove/345470000-wexford-cove/5emb/0075-2523-dorset-court/1_1_madisonexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=2145ce60a04847ee9a8c438db3db8feb&hash=BE383E9464B3C1FD17F2EDD1C59335BF"
           ],
-          "incentive": 4993,
-          "incentiveLabel": "(4,993)"
+          "incentive": 10990,
+          "incentiveLabel": "(10,990)"
         },
         {
           "lot": "50",
@@ -17174,8 +17090,8 @@
           "lot": "52",
           "address": "2520 Dorset Court",
           "plan": "",
-          "price": 421990,
-          "priceLabel": "$421,990",
+          "price": 415000,
+          "priceLabel": "$415,000",
           "beds": 5,
           "homeSlug": "2520-dorset-court",
           "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/wexford-cove/qmis/2520-dorset-court",
