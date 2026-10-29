@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-28T19:20:17.230Z",
+  "updatedAt": "2026-10-29T19:28:41.909Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-28T19:20:17.230Z",
-  "photoCount": 208,
+  "publicUpdatedAt": "2026-10-29T19:28:41.909Z",
+  "photoCount": 207,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -3156,7 +3156,7 @@
       "slug": "hammock-at-two-rivers",
       "name": "Hammock at Two Rivers",
       "address": "1383 Chasehill Lane, Zephyrhills, FL 33541",
-      "availableCount": 8,
+      "availableCount": 7,
       "lowestPrice": 460000,
       "highestPrice": 650100,
       "beds": [
@@ -3261,26 +3261,6 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2045/0124-35623-lowery-trail/lantana_elev_p_cl_stone_garagehw.jpg?iar=1&sc=1&thn=1&w=425&rev=325e1f517745450585a6648d9acc062c&hash=67EE3646C2E31C0F50669AD1FF332D87"
           ]
-        },
-        {
-          "lot": "11",
-          "address": "35630 Lowery Trail",
-          "plan": "",
-          "price": 460000,
-          "priceLabel": "$460,000",
-          "beds": 4,
-          "homeSlug": "35630-lowery-trail",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/hammock-at-two-rivers/qmis/35630-lowery-trail",
-          "baths": "3",
-          "sqft": "2,756",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2767/0076-35630-lowery-trail/coral_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2689e979a34b32b4d592b32fb3941e&hash=646654E2A3AF1B1666B0E1BBD9E10744",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39440-hammock-at-two-rivers/394400000-hammock-at-two-rivers-50s-emd/2767/0076-35630-lowery-trail/coral_p_stone_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=7a2689e979a34b32b4d592b32fb3941e&hash=646654E2A3AF1B1666B0E1BBD9E10744"
-          ],
-          "incentive": 62050,
-          "incentiveLabel": "(62,050)"
         },
         {
           "lot": "3",
@@ -3720,8 +3700,8 @@
       "name": "Mirada Villas",
       "address": "33071 Rustic Rise Rd, San Antonio, FL 33576",
       "availableCount": 1,
-      "lowestPrice": 275000,
-      "highestPrice": 275000,
+      "lowestPrice": 292000,
+      "highestPrice": 292000,
       "beds": [
         3
       ],
@@ -3730,8 +3710,8 @@
           "lot": "151",
           "address": "33042 Rustic Rise Rd",
           "plan": "",
-          "price": 275000,
-          "priceLabel": "$275,000",
+          "price": 292000,
+          "priceLabel": "$292,000",
           "beds": 3,
           "homeSlug": "33042-rustic-rise-road",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/san-antonio/mirada-villas/qmis/33042-rustic-rise-road",
@@ -6697,8 +6677,8 @@
           "lot": "6",
           "address": "2391 Sterling Forest Ct",
           "plan": "",
-          "price": 550000,
-          "priceLabel": "$550,000",
+          "price": 544414,
+          "priceLabel": "$544,414",
           "beds": 5,
           "homeSlug": "2391-sterling-forest-court",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/2391-sterling-forest-court",
