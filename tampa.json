@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-29T19:28:41.909Z",
+  "updatedAt": "2026-10-30T19:03:31.161Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-29T19:28:41.909Z",
-  "photoCount": 207,
+  "publicUpdatedAt": "2026-10-30T19:03:31.161Z",
+  "photoCount": 200,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -554,7 +554,7 @@
       "slug": "angeline-townhomes",
       "name": "Angeline Townhomes",
       "address": "10998 Crescent Deer Dr, Land O Lakes, FL 34638",
-      "availableCount": 8,
+      "availableCount": 7,
       "lowestPrice": 275000,
       "highestPrice": 307000,
       "beds": [
@@ -640,26 +640,6 @@
           ],
           "incentive": 6990,
           "incentiveLabel": "(6,990)"
-        },
-        {
-          "lot": "313",
-          "address": "11165 Treasure Swale Way",
-          "plan": "",
-          "price": 290000,
-          "priceLabel": "$290,000",
-          "beds": 3,
-          "homeSlug": "11165-treasure-swale-way",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11165-treasure-swale-way",
-          "baths": "2.5",
-          "sqft": "1,673",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0041-11165-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=3b7ea72f2a364225bf4459dd75c2b268&hash=F9AD109DADF771B22C9F7D70006DCF3F",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-ths/1673/0041-11165-treasure-swale-way/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=3b7ea72f2a364225bf4459dd75c2b268&hash=F9AD109DADF771B22C9F7D70006DCF3F"
-          ],
-          "incentive": 16990,
-          "incentiveLabel": "(16,990)"
         },
         {
           "lot": "314",
@@ -1613,35 +1593,14 @@
       "slug": "brighton-park",
       "name": "Brighton Park",
       "address": "13141 Teton Ridge Ave, Hudson, FL 34669",
-      "availableCount": 5,
+      "availableCount": 4,
       "lowestPrice": 270000,
       "highestPrice": 305990,
       "beds": [
         3,
-        4,
         5
       ],
       "lots": [
-        {
-          "lot": "1",
-          "address": "12019 Isle Royale Drive",
-          "plan": "",
-          "price": 300000,
-          "priceLabel": "$300,000",
-          "beds": 4,
-          "homeSlug": "12019-isle-royale-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/hudson/brighton-park/qmis/12019-isle-royale-drive",
-          "baths": "2",
-          "sqft": "1,560",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e312/0001-12019-isle-royale-drive/cameron_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=1aac2938dcea4becb22b1a937ede7e00&hash=380C86489C2A3753E5FD96C2F57B147A",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e312/0001-12019-isle-royale-drive/cameron_ele_c.jpg?iar=1&sc=1&thn=1&w=425&rev=1aac2938dcea4becb22b1a937ede7e00&hash=380C86489C2A3753E5FD96C2F57B147A"
-          ],
-          "incentive": 1990,
-          "incentiveLabel": "(1,990)"
-        },
         {
           "lot": "3",
           "address": "12035 Isle Royale Drive",
@@ -2070,9 +2029,9 @@
       "slug": "deerbrook",
       "name": "Deerbrook",
       "address": "7103 Beaverhead Lane, Land O Lakes, FL 34638",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 341290,
-      "highestPrice": 475000,
+      "highestPrice": 548998,
       "beds": [
         3,
         4,
@@ -2211,6 +2170,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e303/0124-6936-flint-creek-drive/elston_ii_g_deebrook.jpg?iar=1&sc=1&thn=1&w=425&rev=6f10311b888a41c3a1e7793260008805&hash=F7DA87B236EE2BA2D8F221894FBF1DDD",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e303/0124-6936-flint-creek-drive/elston_ii_g_deebrook.jpg?iar=1&sc=1&thn=1&w=425&rev=6f10311b888a41c3a1e7793260008805&hash=F7DA87B236EE2BA2D8F221894FBF1DDD"
+          ]
+        },
+        {
+          "lot": "1",
+          "address": "7583 Broad River Ave",
+          "plan": "",
+          "price": 548998,
+          "priceLabel": "$548,998",
+          "beds": 5,
+          "homeSlug": "7583-broad-river-avenue",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/7583-broad-river-avenue",
+          "baths": "4.5",
+          "sqft": "3,975",
+          "story": "2",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/394000000-deerbrook-60s-drh/3975/0003-7583-broad-river-avenue/torino_h_deerbrook.jpg?iar=1&sc=1&thn=1&w=425&rev=547e3a226a6649498dff8973b98e6338&hash=AC25EC31B8964B7B2139B2EC6BCB0775",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/394000000-deerbrook-60s-drh/3975/0003-7583-broad-river-avenue/torino_h_deerbrook.jpg?iar=1&sc=1&thn=1&w=425&rev=547e3a226a6649498dff8973b98e6338&hash=AC25EC31B8964B7B2139B2EC6BCB0775"
           ]
         }
       ],
@@ -3699,32 +3676,11 @@
       "slug": "mirada-villas",
       "name": "Mirada Villas",
       "address": "33071 Rustic Rise Rd, San Antonio, FL 33576",
-      "availableCount": 1,
-      "lowestPrice": 292000,
-      "highestPrice": 292000,
-      "beds": [
-        3
-      ],
-      "lots": [
-        {
-          "lot": "151",
-          "address": "33042 Rustic Rise Rd",
-          "plan": "",
-          "price": 292000,
-          "priceLabel": "$292,000",
-          "beds": 3,
-          "homeSlug": "33042-rustic-rise-road",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/san-antonio/mirada-villas/qmis/33042-rustic-rise-road",
-          "baths": "2",
-          "sqft": "1,565",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39317-mirada/394710000-mirada-villas-phase-3/1565/0058-33042-rustic-rise-road/fl_tampanorth_drhorton_siestab_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=68bfda510f084bba9d19a877a95273bd&hash=7E96FAE9ABE626D58D095157C6AACCFB",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39317-mirada/394710000-mirada-villas-phase-3/1565/0058-33042-rustic-rise-road/fl_tampanorth_drhorton_siestab_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=68bfda510f084bba9d19a877a95273bd&hash=7E96FAE9ABE626D58D095157C6AACCFB"
-          ]
-        }
-      ],
+      "availableCount": 0,
+      "lowestPrice": null,
+      "highestPrice": null,
+      "beds": [],
+      "lots": [],
       "models": [
         {
           "slug": "1565",
@@ -3747,7 +3703,7 @@
       "slug": "two-rivers",
       "name": "Northwater at Two Rivers",
       "address": "35871 Sunflower Hill Drive, Zephyrhills, FL 33541",
-      "availableCount": 5,
+      "availableCount": 4,
       "lowestPrice": 340000,
       "highestPrice": 401990,
       "beds": [
@@ -3794,26 +3750,6 @@
           ],
           "incentive": 4990,
           "incentiveLabel": "(4,990)"
-        },
-        {
-          "lot": "2",
-          "address": "35458 Kinsey Pt",
-          "plan": "",
-          "price": 370000,
-          "priceLabel": "$370,000",
-          "beds": 4,
-          "homeSlug": "35458-kinsey-point",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers/qmis/35458-kinsey-point",
-          "baths": "2.5",
-          "sqft": "1,866",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/e315/0181-35458-kinsey-point/crestview_elev_b__8_0_no_stone_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b74eb34d100b43ba9245ff0a2dc9fb32&hash=DEBD8B47DEBB093D33EB987CCC41C70C",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/e315/0181-35458-kinsey-point/crestview_elev_b__8_0_no_stone_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b74eb34d100b43ba9245ff0a2dc9fb32&hash=DEBD8B47DEBB093D33EB987CCC41C70C"
-          ],
-          "incentive": 13990,
-          "incentiveLabel": "(13,990)"
         },
         {
           "lot": "3",
@@ -4390,7 +4326,7 @@
       "slug": "ruskin-preserve-townhomes",
       "name": "Ruskin Preserve Townhomes",
       "address": "421 Warm Heron Pl, Ruskin, FL 33570",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 250000,
       "highestPrice": 280000,
       "beds": [
@@ -4576,24 +4512,6 @@
           ],
           "incentive": 5990,
           "incentiveLabel": "(5,990)"
-        },
-        {
-          "lot": "133",
-          "address": "1045 Spotted Egret Loop",
-          "plan": "",
-          "price": 267000,
-          "priceLabel": "$267,000",
-          "beds": 3,
-          "homeSlug": "1045-spotted-egret-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/ruskin-preserve-townhomes/qmis/1045-spotted-egret-loop",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0089-1045-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=7a7d1ba1bb5b4b508591f604504d1a71&hash=3EF5A1AED031744277C4409BF4EE5946",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39459-ruskin-preserve/394590000-ruskin-preserve-south-th/t20b/0089-1045-spotted-egret-loop/pearson_ele_d_all_2_car_wide_driveway_cs_green_e1.jpg?iar=1&sc=1&thn=1&w=425&rev=7a7d1ba1bb5b4b508591f604504d1a71&hash=3EF5A1AED031744277C4409BF4EE5946"
-          ]
         }
       ],
       "models": [
@@ -4633,7 +4551,7 @@
       "slug": "sanctuary-at-citrus-park",
       "name": "Sanctuary at Citrus Park Townhomes",
       "address": "12617 Citrus Park Lane, Tampa, FL 33625",
-      "availableCount": 11,
+      "availableCount": 10,
       "lowestPrice": 390000,
       "highestPrice": 445000,
       "beds": [
@@ -4739,26 +4657,6 @@
           ],
           "incentive": 20990,
           "incentiveLabel": "(20,990)"
-        },
-        {
-          "lot": "6",
-          "address": "8023 Wildlife Haven St",
-          "plan": "",
-          "price": 425000,
-          "priceLabel": "$425,000",
-          "beds": 3,
-          "homeSlug": "8023-wildlife-haven-street",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/sanctuary-at-citrus-park/qmis/8023-wildlife-haven-street",
-          "baths": "2.5",
-          "sqft": "1,758",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1758/0116-8023-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=b388371dfc1a45c69eae655167269204&hash=048704134011916BCC247E67C58A26E6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39425-sanctuary-at-citrus-park/394250000-sanctuary-at-citrus-park/1758/0116-8023-wildlife-haven-street/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=b388371dfc1a45c69eae655167269204&hash=048704134011916BCC247E67C58A26E6"
-          ],
-          "incentive": 27990,
-          "incentiveLabel": "(27,990)"
         },
         {
           "lot": "5",
@@ -5720,33 +5618,13 @@
       "slug": "towns-at-woodsdale",
       "name": "Towns at Woodsdale",
       "address": "31302 Ancient Sage Road, Wesley Chapel, FL 33545",
-      "availableCount": 24,
-      "lowestPrice": 250000,
+      "availableCount": 23,
+      "lowestPrice": 260000,
       "highestPrice": 330000,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "203",
-          "address": "31207 Midnight Sun Way",
-          "plan": "",
-          "price": 250000,
-          "priceLabel": "$250,000",
-          "beds": 3,
-          "homeSlug": "31207-midnight-sun-way",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/towns-at-woodsdale/qmis/31207-midnight-sun-way",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0149-31207-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=0e0d2b3fc5a1457e83f42ea8cae3a0cf&hash=5EFF5F1908A040640EB9213EE663C653",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393900000-towns-at-woodsdale-th/t20b/0149-31207-midnight-sun-way/pearson_8_plex_ele_d_2.jpg?iar=1&sc=1&thn=1&w=425&rev=0e0d2b3fc5a1457e83f42ea8cae3a0cf&hash=5EFF5F1908A040640EB9213EE663C653"
-          ],
-          "incentive": 24990,
-          "incentiveLabel": "(24,990)"
-        },
         {
           "lot": "131",
           "address": "31210 Paper Birch St",
@@ -7136,33 +7014,13 @@
       "slug": "woodcreek-townhomes",
       "name": "Woodcreek Townhomes",
       "address": "2412 Sterling Forest Court, Wesley Chapel, FL 33543",
-      "availableCount": 4,
-      "lowestPrice": 290000,
+      "availableCount": 3,
+      "lowestPrice": 320000,
       "highestPrice": 338000,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "16",
-          "address": "32559 Midsummer Night Ln",
-          "plan": "",
-          "price": 290000,
-          "priceLabel": "$290,000",
-          "beds": 3,
-          "homeSlug": "32559-midsummer-night-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek-townhomes/qmis/32559-midsummer-night-lane",
-          "baths": "2.5",
-          "sqft": "1,673",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0016-32559-midsummer-night-lane/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=2c03190e105542378d925b5da5818639&hash=B19E53646AA8A34BAC6B845412F602A2",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0016-32559-midsummer-night-lane/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=2c03190e105542378d925b5da5818639&hash=B19E53646AA8A34BAC6B845412F602A2"
-          ],
-          "incentive": 46990,
-          "incentiveLabel": "(46,990)"
-        },
         {
           "lot": "25",
           "address": "32603 Midsummer Night Ln",
