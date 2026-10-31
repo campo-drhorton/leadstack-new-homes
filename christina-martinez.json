@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-30T18:55:54.793Z",
+  "updatedAt": "2026-10-31T18:02:27.400Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-30T18:55:54.793Z",
-  "photoCount": 94,
+  "publicUpdatedAt": "2026-10-31T18:02:27.400Z",
+  "photoCount": 91,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -527,8 +527,8 @@
       "slug": "emerson-pointe",
       "name": "Emerson Pointe",
       "address": "3428 NE 21st Court Road, Ocala, FL 34479",
-      "availableCount": 9,
-      "lowestPrice": 274990,
+      "availableCount": 8,
+      "lowestPrice": 276990,
       "highestPrice": 332990,
       "beds": [
         4,
@@ -590,26 +590,6 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/e402/0046-2154-ne-28th-place/lakeside-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=6c9efe4302884d278f916ca693612f2e&hash=FB03D0E1846CD3E841913356D7E94310"
           ]
-        },
-        {
-          "lot": "30",
-          "address": "2856 NE 21st Court Road",
-          "plan": "",
-          "price": 274990,
-          "priceLabel": "$274,990",
-          "beds": 4,
-          "homeSlug": "2856-ne-21st-court-road",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2856-ne-21st-court-road",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/0014-2856-ne-21st-court-road/harper-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=9886ebe9ef5343829385dff72eedb02f&hash=163AD4BDE4228F15278C943DD9339CF1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/0014-2856-ne-21st-court-road/harper-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=9886ebe9ef5343829385dff72eedb02f&hash=163AD4BDE4228F15278C943DD9339CF1"
-          ],
-          "incentive": 2080,
-          "incentiveLabel": "(2,080)"
         },
         {
           "lot": "48",
@@ -904,7 +884,7 @@
         {
           "lot": "4",
           "address": "4770 SW 134th Loop",
-          "plan": "Cali",
+          "plan": "",
           "price": 328070,
           "priceLabel": "$328,070",
           "beds": 4,
@@ -1066,7 +1046,7 @@
         {
           "lot": "4",
           "address": "2664 SW 175th Loop",
-          "plan": "Cali",
+          "plan": "",
           "price": 344070,
           "priceLabel": "$344,070",
           "beds": 4,
@@ -1170,7 +1150,7 @@
       "slug": "mcginley-landing",
       "name": "McGinley Landing",
       "address": "13226 SW 56th Court Road, Ocala, FL 34473",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 269990,
       "highestPrice": 314965,
       "beds": [
@@ -1306,6 +1286,24 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/0117-5720-sw-130th-lane/1fl_west-florida_drh_express-series_freeport-a.jpg?iar=1&sc=1&thn=1&w=425&rev=e16358ece5804c6db23b410dd3a62c90&hash=2BAB6B6C4AEBF139F890649C82FE9AC9"
           ]
+        },
+        {
+          "lot": "111",
+          "address": "5774 SW 130th Lane",
+          "plan": "",
+          "price": 275000,
+          "priceLabel": "$275,000",
+          "beds": 4,
+          "homeSlug": "5774-sw-130th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mcginley-landing/qmis/5774-sw-130th-lane",
+          "baths": "2",
+          "sqft": "1,498",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/0111-5774-sw-130th-lane/2fl_west-florida_drh_express-series_freeport-b.jpg?iar=1&sc=1&thn=1&w=425&rev=8eb21965fd1443dbb39c801fcfc4466e&hash=F4EA9BEA1CAD7C6BE9E816FDACFB8D4B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/0111-5774-sw-130th-lane/2fl_west-florida_drh_express-series_freeport-b.jpg?iar=1&sc=1&thn=1&w=425&rev=8eb21965fd1443dbb39c801fcfc4466e&hash=F4EA9BEA1CAD7C6BE9E816FDACFB8D4B"
+          ]
         }
       ],
       "models": [
@@ -1360,8 +1358,8 @@
       "slug": "mockingbird-reserve-at-winding-oaks",
       "name": "Mockingbird Reserve at Winding Oaks",
       "address": "4542 SW 71st Lane Road, Ocala, FL 34474",
-      "availableCount": 6,
-      "lowestPrice": 234990,
+      "availableCount": 4,
+      "lowestPrice": 248990,
       "highestPrice": 249990,
       "beds": [
         3
@@ -1439,42 +1437,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30a/0025-7334-sw-45th-court/carrington_ele_b_cs_3_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=a9dff2f393e64fd4bf6b6e3f9de5fc9e&hash=F339000E1B963AF804323B5596954AA3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30a/0025-7334-sw-45th-court/carrington_ele_b_cs_3_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=a9dff2f393e64fd4bf6b6e3f9de5fc9e&hash=F339000E1B963AF804323B5596954AA3"
-          ]
-        },
-        {
-          "lot": "89",
-          "address": "7342 SW 45th Court",
-          "plan": "Carrington",
-          "price": 234990,
-          "priceLabel": "$234,990",
-          "beds": 3,
-          "homeSlug": "7342-sw-45th-court",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/7342-sw-45th-court",
-          "baths": "2",
-          "sqft": "1,564",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30b/0024-7342-sw-45th-court/carrington_ele_d_cs_6_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=8fa458a6a1f8448fb821ed46939d3043&hash=76B268804F1980AE93657DB107119054",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30b/0024-7342-sw-45th-court/carrington_ele_d_cs_6_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=8fa458a6a1f8448fb821ed46939d3043&hash=76B268804F1980AE93657DB107119054"
-          ]
-        },
-        {
-          "lot": "88",
-          "address": "7350 SW 45th Court",
-          "plan": "Carrington",
-          "price": 249990,
-          "priceLabel": "$249,990",
-          "beds": 3,
-          "homeSlug": "7350-sw-45th-court",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/7350-sw-45th-court",
-          "baths": "2",
-          "sqft": "1,564",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30a/0023-7350-sw-45th-court/carrington_ele_d_cs_6_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=b592101cd136422eb6cd6c67f2da1fcd&hash=FAB0924B64C093DB75A0DC9CBBC44520",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30a/0023-7350-sw-45th-court/carrington_ele_d_cs_6_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=b592101cd136422eb6cd6c67f2da1fcd&hash=FAB0924B64C093DB75A0DC9CBBC44520"
           ]
         }
       ],
@@ -2543,8 +2505,8 @@
       "slug": "tartan-farms-at-winding-oaks",
       "name": "Tartan Farms at Winding Oaks",
       "address": "4428 SW 69th Street, Ocala, FL 34474",
-      "availableCount": 13,
-      "lowestPrice": 269990,
+      "availableCount": 12,
+      "lowestPrice": 284990,
       "highestPrice": 437990,
       "beds": [
         3,
@@ -2552,26 +2514,6 @@
         5
       ],
       "lots": [
-        {
-          "lot": "74",
-          "address": "4295 SW 69th St",
-          "plan": "Harper",
-          "price": 269990,
-          "priceLabel": "$269,990",
-          "beds": 4,
-          "homeSlug": "4295-sw-69th-st",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/qmis/4295-sw-69th-st",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3emb/0008-4295-sw-69th-st/twdo_4295_sw_69th_street.jpg?iar=1&sc=1&thn=1&w=425&rev=5693f1fee3e445e4b55606b29c9d1e7e&hash=EC79BB5333991580257099973C714678",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-40s-exp/3emb/0008-4295-sw-69th-st/twdo_4295_sw_69th_street.jpg?iar=1&sc=1&thn=1&w=425&rev=5693f1fee3e445e4b55606b29c9d1e7e&hash=EC79BB5333991580257099973C714678"
-          ],
-          "incentive": 17080,
-          "incentiveLabel": "(17,080)"
-        },
         {
           "lot": "98",
           "address": "4400 SW 67th Ln",

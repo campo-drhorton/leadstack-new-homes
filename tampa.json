@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-30T19:03:31.161Z",
+  "updatedAt": "2026-10-31T18:09:33.720Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-30T19:03:31.161Z",
-  "photoCount": 200,
+  "publicUpdatedAt": "2026-10-31T18:09:33.720Z",
+  "photoCount": 201,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -1108,7 +1108,7 @@
       "slug": "balm-grove",
       "name": "Balm Grove",
       "address": "13610 Fenwick Stream Dr, Wimauma, FL 33598",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 310000,
       "highestPrice": 410000,
       "beds": [
@@ -1187,6 +1187,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/4ehb/0002-15008-crosshall-stream-dr/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9000bf98a61446d28ea1f306fcfd90f9&hash=4B36277B4E51059AFB19D42320619F9E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/4ehb/0002-15008-crosshall-stream-dr/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9000bf98a61446d28ea1f306fcfd90f9&hash=4B36277B4E51059AFB19D42320619F9E"
+          ]
+        },
+        {
+          "lot": "146",
+          "address": "15009 Crosshall Stream Dr",
+          "plan": "",
+          "price": 360000,
+          "priceLabel": "$360,000",
+          "beds": 5,
+          "homeSlug": "15009-crosshall-stream-dr",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/qmis/15009-crosshall-stream-dr",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e402/0035-15009-crosshall-stream-dr/lakeside_ele_g_cs_-8_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=56c6e05c4e004547821c115c662b896a&hash=71E4D00BD22A84359A0DCEC7DDDF2072",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e402/0035-15009-crosshall-stream-dr/lakeside_ele_g_cs_-8_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=56c6e05c4e004547821c115c662b896a&hash=71E4D00BD22A84359A0DCEC7DDDF2072"
           ]
         },
         {

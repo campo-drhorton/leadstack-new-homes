@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T19:01:31.389Z",
+  "updatedAt": "2026-10-31T18:07:43.120Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-30T19:01:31.389Z",
+  "publicUpdatedAt": "2026-10-31T18:07:43.120Z",
   "photoCount": 553,
   "communities": [
     {
@@ -872,26 +872,6 @@
           "incentiveLabel": "(4,080)"
         },
         {
-          "lot": "579",
-          "address": "24277 NW 10Th Rd",
-          "plan": "",
-          "price": 305990,
-          "priceLabel": "$305,990",
-          "beds": 3,
-          "homeSlug": "24277-nw-10th-rd",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24277-nw-10th-rd",
-          "baths": "2",
-          "sqft": "1,619",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4eab/0146-24277-nw-10th-rd/aria-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=abca80e494104cc89f8e72f7863293fa&hash=371C801443644045F32B6263A1C206FD",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4eab/0146-24277-nw-10th-rd/aria-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=abca80e494104cc89f8e72f7863293fa&hash=371C801443644045F32B6263A1C206FD"
-          ],
-          "incentive": 4080,
-          "incentiveLabel": "(4,080)"
-        },
-        {
           "lot": "582",
           "address": "24317 NW 10Th Rd",
           "plan": "",
@@ -1019,6 +999,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0126-24260-nw-10th-place/cali-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=1a157122723e4e3ca5078456391c980c&hash=45A8893DC041B9C4504811A189A6D27A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0126-24260-nw-10th-place/cali-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=1a157122723e4e3ca5078456391c980c&hash=45A8893DC041B9C4504811A189A6D27A"
+          ]
+        },
+        {
+          "lot": "578",
+          "address": "24265 NW 10Th Rd",
+          "plan": "",
+          "price": 322070,
+          "priceLabel": "$322,070",
+          "beds": 4,
+          "homeSlug": "24265-nw-10th-rd",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24265-nw-10th-rd",
+          "baths": "2",
+          "sqft": "1,744",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0145-24265-nw-10th-rd/cali-as-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4798a79703254bfbbe9133f3fd546b63&hash=F837064E407952283F55B7804EBB9A35",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0145-24265-nw-10th-rd/cali-as-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4798a79703254bfbbe9133f3fd546b63&hash=F837064E407952283F55B7804EBB9A35"
           ]
         },
         {
@@ -7834,6 +7832,21 @@
           ]
         },
         {
+          "slug": "e306",
+          "name": "Downing II",
+          "startingLabel": "Starting in the $270s",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/floor-plans/e306",
+          "beds": 3,
+          "baths": "2",
+          "sqft": "1,302",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/e306/downing_a_cropped.jpg?as=1&w=425&rev=f1528557d3334bf1beb61d36e051c522&hash=7237BE8BE8A6023AB5A3DC5904BEB993",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/e306/downing_a_cropped.jpg?as=1&w=425&rev=f1528557d3334bf1beb61d36e051c522&hash=7237BE8BE8A6023AB5A3DC5904BEB993"
+          ]
+        },
+        {
           "slug": "e405",
           "name": "Dundee",
           "startingLabel": "Starting in the $304s",
@@ -8397,7 +8410,7 @@
       "slug": "harmony-west",
       "name": "Harmony West",
       "address": "6748 Alder Road, Saint Cloud, FL 34773",
-      "availableCount": 15,
+      "availableCount": 16,
       "lowestPrice": 385990,
       "highestPrice": 456994,
       "beds": [
@@ -8622,6 +8635,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ehb/0846-2808-elio-hammock-drive/1_1_haydenexterior_h2.jpg?iar=1&sc=1&thn=1&w=425&rev=a5d0c5052b2e42ceb34663ec4161ccb9&hash=42DE5CC8FFF7BD01016005E554F4FD0C",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384190000-harmony-west---50s/4ehb/0846-2808-elio-hammock-drive/1_1_haydenexterior_h2.jpg?iar=1&sc=1&thn=1&w=425&rev=a5d0c5052b2e42ceb34663ec4161ccb9&hash=42DE5CC8FFF7BD01016005E554F4FD0C"
+          ]
+        },
+        {
+          "lot": "194",
+          "address": "3024 Grey Moss Drive",
+          "plan": "",
+          "price": 443950,
+          "priceLabel": "$443,950",
+          "beds": 4,
+          "homeSlug": "3024-grey-moss-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3024-grey-moss-drive",
+          "baths": "3",
+          "sqft": "2,020",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384200000-harmony-west---60s/5emb/0217-3024-grey-moss-drive/1_1_madisonexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=8e83554d49b74ec1b982d3c46d54ae4d&hash=C2BA498A45ED661A4A6E06C818D0496D",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38419-harmony-west/384200000-harmony-west---60s/5emb/0217-3024-grey-moss-drive/1_1_madisonexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=8e83554d49b74ec1b982d3c46d54ae4d&hash=C2BA498A45ED661A4A6E06C818D0496D"
           ]
         },
         {
@@ -14178,34 +14209,13 @@
       "slug": "sunset-hills",
       "name": "Sunset Hills",
       "address": "9806 SE 161st Lane Road, Summerfield, FL 34491",
-      "availableCount": 4,
+      "availableCount": 3,
       "lowestPrice": 252990,
-      "highestPrice": 279990,
+      "highestPrice": 278070,
       "beds": [
-        4,
-        5
+        4
       ],
       "lots": [
-        {
-          "lot": "149",
-          "address": "10157 SE 158th Lane",
-          "plan": "",
-          "price": 279990,
-          "priceLabel": "$279,990",
-          "beds": 5,
-          "homeSlug": "10157-se-158th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/summerfield/sunset-hills/qmis/10157-se-158th-lane",
-          "baths": "2",
-          "sqft": "1,708",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/e405/0262-10157-se-158th-lane/sunset_hills_10157_se_158th_lane.jpg?iar=1&sc=1&thn=1&w=425&rev=63e526d4805c4eafa100229de28bbbc2&hash=5B918D75D1FA4A5217ECFD3C445D3B57",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/e405/0262-10157-se-158th-lane/sunset_hills_10157_se_158th_lane.jpg?iar=1&sc=1&thn=1&w=425&rev=63e526d4805c4eafa100229de28bbbc2&hash=5B918D75D1FA4A5217ECFD3C445D3B57"
-          ],
-          "incentive": 15080,
-          "incentiveLabel": "(15,080)"
-        },
         {
           "lot": "150",
           "address": "10165 SE 158th Lane",
