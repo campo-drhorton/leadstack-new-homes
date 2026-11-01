@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T18:09:33.720Z",
+  "updatedAt": "2026-11-01T18:47:42.692Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-10-31T18:09:33.720Z",
+  "publicUpdatedAt": "2026-11-01T18:47:42.692Z",
   "photoCount": 201,
   "communities": [
     {
@@ -2049,7 +2049,7 @@
       "address": "7103 Beaverhead Lane, Land O Lakes, FL 34638",
       "availableCount": 8,
       "lowestPrice": 341290,
-      "highestPrice": 548998,
+      "highestPrice": 600000,
       "beds": [
         3,
         4,
@@ -2194,8 +2194,8 @@
           "lot": "1",
           "address": "7583 Broad River Ave",
           "plan": "",
-          "price": 548998,
-          "priceLabel": "$548,998",
+          "price": 600000,
+          "priceLabel": "$600,000",
           "beds": 5,
           "homeSlug": "7583-broad-river-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/7583-broad-river-avenue",
