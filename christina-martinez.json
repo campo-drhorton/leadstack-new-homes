@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-03T20:20:46.954Z",
+  "updatedAt": "2026-11-04T20:37:04.873Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-03T20:20:46.954Z",
-  "photoCount": 85,
+  "publicUpdatedAt": "2026-11-04T20:37:04.873Z",
+  "photoCount": 87,
   "communities": [
     {
       "slug": "autumn-glen",
       "name": "Autumn Glen",
       "address": "11466 SE 72nd Avenue, Belleview, FL 34420",
-      "availableCount": 8,
+      "availableCount": 7,
       "lowestPrice": 278570,
       "highestPrice": 342570,
       "beds": [
@@ -44,8 +44,8 @@
           "price": 278570,
           "priceLabel": "$278,570",
           "beds": 3,
-          "homeSlug": "7118-se-112th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7118-se-112th-lane",
+          "homeSlug": "980",
+          "sourceUrl": "https://www.drhorton.com/global-shared-content/jde/qmis/980/98173/980-98173-981810000-0946",
           "baths": "2",
           "sqft": "1,672",
           "story": "1",
@@ -53,24 +53,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4eab/0242-7118-se-112th-lane/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=c64910c73b08474d9c83f26f57c4e4db&hash=3C419F774D997A9A5B95E629A59D8BD3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4eab/0242-7118-se-112th-lane/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=c64910c73b08474d9c83f26f57c4e4db&hash=3C419F774D997A9A5B95E629A59D8BD3"
-          ]
-        },
-        {
-          "lot": "65",
-          "address": "7127 SE 112th Lane",
-          "plan": "Aria",
-          "price": 282570,
-          "priceLabel": "$282,570",
-          "beds": 3,
-          "homeSlug": "7127-se-112th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7127-se-112th-lane",
-          "baths": "2",
-          "sqft": "1,672",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4eab/0229-7127-se-112th-lane/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ef2d35dc63b444eda96dbdd4a98f3d41&hash=E21A304BD0F880FC98AC7562C905FA56",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4eab/0229-7127-se-112th-lane/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ef2d35dc63b444eda96dbdd4a98f3d41&hash=E21A304BD0F880FC98AC7562C905FA56"
           ]
         },
         {
@@ -266,8 +248,8 @@
           "lot": "15",
           "address": "1415 W St Elizabeth Pl",
           "plan": "Cali",
-          "price": 285990,
-          "priceLabel": "$285,990",
+          "price": 279990,
+          "priceLabel": "$279,990",
           "beds": 4,
           "homeSlug": "1415-w-st-elizabeth-pl",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/citrus-springs/citrus-county-spot-lots/qmis/1415-w-st-elizabeth-pl",
@@ -410,7 +392,7 @@
       "address": "7665 SW 46th Court, Ocala, FL 34474",
       "availableCount": 2,
       "lowestPrice": 264990,
-      "highestPrice": 272070,
+      "highestPrice": 264990,
       "beds": [
         4
       ],
@@ -419,8 +401,8 @@
           "lot": "21",
           "address": "7853 SW 46th Court",
           "plan": "",
-          "price": 272070,
-          "priceLabel": "$272,070",
+          "price": 264990,
+          "priceLabel": "$264,990",
           "beds": 4,
           "homeSlug": "7853-sw-46th-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7853-sw-46th-court",
@@ -431,7 +413,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0021-7853-sw-46th-court/1560_e312_cameron_ele_c_cs6_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=99cac8c93fe44c939509437060f6f48c&hash=FFEAD8B5E8F75DF95FB9A3535BCAF495",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0021-7853-sw-46th-court/1560_e312_cameron_ele_c_cs6_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=99cac8c93fe44c939509437060f6f48c&hash=FFEAD8B5E8F75DF95FB9A3535BCAF495"
-          ]
+          ],
+          "incentive": 6975,
+          "incentiveLabel": "(6,975)"
         },
         {
           "lot": "19",
@@ -505,7 +489,7 @@
       "name": "Emerson Pointe",
       "address": "3428 NE 21st Court Road, Ocala, FL 34479",
       "availableCount": 8,
-      "lowestPrice": 266990,
+      "lowestPrice": 284990,
       "highestPrice": 332990,
       "beds": [
         4,
@@ -606,8 +590,8 @@
           "lot": "101",
           "address": "2170 NE 28th Place",
           "plan": "",
-          "price": 266990,
-          "priceLabel": "$266,990",
+          "price": 287070,
+          "priceLabel": "$287,070",
           "beds": 4,
           "homeSlug": "2170-ne-28th-place",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2170-ne-28th-place",
@@ -847,7 +831,7 @@
       "slug": "marion-oaks-spot-lots",
       "name": "Marion County Spot Lots",
       "address": "272 Marion Oaks Course, Ocala, FL 34473",
-      "availableCount": 12,
+      "availableCount": 13,
       "lowestPrice": 315990,
       "highestPrice": 344070,
       "beds": [
@@ -858,8 +842,8 @@
           "lot": "2",
           "address": "569 Marion Oaks Blvd",
           "plan": "Cali",
-          "price": 325990,
-          "priceLabel": "$325,990",
+          "price": 319990,
+          "priceLabel": "$319,990",
           "beds": 4,
           "homeSlug": "569-marion-oaks-blvd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/569-marion-oaks-blvd",
@@ -871,8 +855,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0352-569-marion-oaks-blvd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=5988d54a7b70429c8fd7c4444f4bf850&hash=BF58F75EF1A0DC069F59C6C3AAD44485"
           ],
-          "incentive": 3080,
-          "incentiveLabel": "(3,080)"
+          "incentive": 9080,
+          "incentiveLabel": "(9,080)"
         },
         {
           "lot": "24",
@@ -946,8 +930,8 @@
           "lot": "13",
           "address": "15692 SW 37th Cir",
           "plan": "",
-          "price": 331070,
-          "priceLabel": "$331,070",
+          "price": 328990,
+          "priceLabel": "$328,990",
           "beds": 4,
           "homeSlug": "15692-sw-37th-cir",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/15692-sw-37th-cir",
@@ -976,6 +960,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0371-2469-sw-168th-pl/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=253bea11c9fd477cbe867fae085b16d7&hash=BADEDA9F4844816EA6D0799CD25FF1B3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0371-2469-sw-168th-pl/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=253bea11c9fd477cbe867fae085b16d7&hash=BADEDA9F4844816EA6D0799CD25FF1B3"
+          ]
+        },
+        {
+          "lot": "25",
+          "address": "2511 SW 153rd Place Rd",
+          "plan": "",
+          "price": 329070,
+          "priceLabel": "$329,070",
+          "beds": 4,
+          "homeSlug": "2511-sw-153rd-place-rd",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/2511-sw-153rd-place-rd",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0377-2511-sw-153rd-place-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d1f8ceea993b4320bf61152cf68186ae&hash=9431079BFB3578A1134DE98D7CD944E7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0377-2511-sw-153rd-place-rd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d1f8ceea993b4320bf61152cf68186ae&hash=9431079BFB3578A1134DE98D7CD944E7"
           ]
         },
         {
@@ -1121,8 +1123,8 @@
       "slug": "mcginley-landing",
       "name": "McGinley Landing",
       "address": "13226 SW 56th Court Road, Ocala, FL 34473",
-      "availableCount": 7,
-      "lowestPrice": 270965,
+      "availableCount": 8,
+      "lowestPrice": 269965,
       "highestPrice": 314965,
       "beds": [
         3,
@@ -1149,6 +1151,24 @@
           ],
           "incentive": 8975,
           "incentiveLabel": "(8,975)"
+        },
+        {
+          "lot": "123",
+          "address": "5667 SW 130th Lane",
+          "plan": "",
+          "price": 269965,
+          "priceLabel": "$269,965",
+          "beds": 3,
+          "homeSlug": "5667-sw-130th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mcginley-landing/qmis/5667-sw-130th-lane",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/0123-5667-sw-130th-lane/archer-a-8ft-siding-gen3-elev_ind_2.jpg?iar=1&sc=1&thn=1&w=425&rev=4e567630fb674cbf925b640be17d7d5a&hash=B7C2D9B4764BA4198FFC716CB584A6F4",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/0123-5667-sw-130th-lane/archer-a-8ft-siding-gen3-elev_ind_2.jpg?iar=1&sc=1&thn=1&w=425&rev=4e567630fb674cbf925b640be17d7d5a&hash=B7C2D9B4764BA4198FFC716CB584A6F4"
+          ]
         },
         {
           "lot": "124",
@@ -1244,8 +1264,8 @@
           "lot": "111",
           "address": "5774 SW 130th Lane",
           "plan": "",
-          "price": 275000,
-          "priceLabel": "$275,000",
+          "price": 277990,
+          "priceLabel": "$277,990",
           "beds": 4,
           "homeSlug": "5774-sw-130th-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mcginley-landing/qmis/5774-sw-130th-lane",
@@ -1312,7 +1332,7 @@
       "name": "Mockingbird Reserve at Winding Oaks",
       "address": "4542 SW 71st Lane Road, Ocala, FL 34474",
       "availableCount": 3,
-      "lowestPrice": 249990,
+      "lowestPrice": 244990,
       "highestPrice": 249990,
       "beds": [
         3
@@ -1360,8 +1380,8 @@
           "lot": "90",
           "address": "7334 SW 45th Court",
           "plan": "",
-          "price": 249990,
-          "priceLabel": "$249,990",
+          "price": 244990,
+          "priceLabel": "$244,990",
           "beds": 3,
           "homeSlug": "7334-sw-45th-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/7334-sw-45th-court",
@@ -1502,7 +1522,7 @@
       "slug": "ocala-crossings-south",
       "name": "Ocala Crossings South",
       "address": "8717 SW 46th Terrace, Ocala, FL 34476",
-      "availableCount": 9,
+      "availableCount": 10,
       "lowestPrice": 289990,
       "highestPrice": 343070,
       "beds": [
@@ -1625,8 +1645,8 @@
           "lot": "14",
           "address": "9062 SW 47th Ct",
           "plan": "Elston",
-          "price": 320070,
-          "priceLabel": "$320,070",
+          "price": 318990,
+          "priceLabel": "$318,990",
           "beds": 4,
           "homeSlug": "9062-sw-47th-ct",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-crossings-south/qmis/9062-sw-47th-ct",
@@ -1637,6 +1657,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3eeb/0196-9062-sw-47th-ct/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=fd89a63d94dc4ecc9e0c8461fc5bee33&hash=E752BE65DE0FC0034DA1C4062143C39F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3eeb/0196-9062-sw-47th-ct/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=fd89a63d94dc4ecc9e0c8461fc5bee33&hash=E752BE65DE0FC0034DA1C4062143C39F"
+          ]
+        },
+        {
+          "lot": "4",
+          "address": "9069 SW 47th Ct",
+          "plan": "",
+          "price": 320070,
+          "priceLabel": "$320,070",
+          "beds": 4,
+          "homeSlug": "9069-sw-47th-ct",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-crossings-south/qmis/9069-sw-47th-ct",
+          "baths": "2.5",
+          "sqft": "2,305",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/e303/0201-9069-sw-47th-ct/elston_ii-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b3ab3d41ab5f4ade9921f16dbbecb26f&hash=7C5B4E01E93CF237F28E518B391BE94F",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/e303/0201-9069-sw-47th-ct/elston_ii-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b3ab3d41ab5f4ade9921f16dbbecb26f&hash=7C5B4E01E93CF237F28E518B391BE94F"
           ]
         },
         {
@@ -1740,7 +1778,13 @@
         {
           "slug": "e303",
           "name": "Elston II",
+          "startingLabel": "Starting in the $312s",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-crossings-south/floor-plans/e303",
+          "beds": 4,
+          "baths": "2.5",
+          "sqft": "2,305",
+          "story": "2",
+          "garage": "2",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/e303/elston_ii-g-8ft-gen3-elev_ind__.jpg?as=1&w=425&rev=6df6d8644bf644e79ecd2265b6e77ea4&hash=444E40D392FD5B6A7C981E3AB8ABDCBF",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/e303/elston_ii-g-8ft-gen3-elev_ind__.jpg?as=1&w=425&rev=6df6d8644bf644e79ecd2265b6e77ea4&hash=444E40D392FD5B6A7C981E3AB8ABDCBF"
@@ -1782,8 +1826,8 @@
       "slug": "ocala-preserve",
       "name": "Ocala Preserve",
       "address": "5204 NW 41st Loop, Ocala, FL 34482",
-      "availableCount": 8,
-      "lowestPrice": 219990,
+      "availableCount": 7,
+      "lowestPrice": 229990,
       "highestPrice": 329990,
       "beds": [
         3,
@@ -1794,8 +1838,8 @@
           "lot": "813",
           "address": "4003 NW 44th Circle",
           "plan": "Astor",
-          "price": 238990,
-          "priceLabel": "$238,990",
+          "price": 229990,
+          "priceLabel": "$229,990",
           "beds": 3,
           "homeSlug": "4003-nw-44th-circle",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve/qmis/4003-nw-44th-circle",
@@ -1807,8 +1851,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3ab/0071-4003-nw-44th-circle/astor-b-elev_renderings_no_hardware_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b05c367668ca4447aca880be84891bd8&hash=C0C8CCC769194B520E66858A07D868B7"
           ],
-          "incentive": 2000,
-          "incentiveLabel": "(2,000)"
+          "incentive": 11000,
+          "incentiveLabel": "(11,000)"
         },
         {
           "lot": "811",
@@ -1847,24 +1891,6 @@
           ]
         },
         {
-          "lot": "814",
-          "address": "4007 NW 44th Circle",
-          "plan": "Astor",
-          "price": 219990,
-          "priceLabel": "$219,990",
-          "beds": 3,
-          "homeSlug": "4007-nw-44th-circle",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve/qmis/4007-nw-44th-circle",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3ab/0072-4007-nw-44th-circle/astor-a-elev_renderings_no_hardware_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=04b74f38071747a88c7c53c52a201ca5&hash=502160DDC9E2B2197DD441463C0DBC15",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3ab/0072-4007-nw-44th-circle/astor-a-elev_renderings_no_hardware_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=04b74f38071747a88c7c53c52a201ca5&hash=502160DDC9E2B2197DD441463C0DBC15"
-          ]
-        },
-        {
           "lot": "28",
           "address": "4555 NW 39th Street Rd",
           "plan": "Delray",
@@ -1886,8 +1912,8 @@
           "lot": "885",
           "address": "4772 NW 39th Street Road",
           "plan": "Carrington",
-          "price": 229990,
-          "priceLabel": "$229,990",
+          "price": 235990,
+          "priceLabel": "$235,990",
           "beds": 3,
           "homeSlug": "4772-nw-39th-street-road",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve/qmis/4772-nw-39th-street-road",
@@ -1904,8 +1930,8 @@
           "lot": "886",
           "address": "4778 NW 39th Street Road",
           "plan": "Carrington",
-          "price": 229990,
-          "priceLabel": "$229,990",
+          "price": 235990,
+          "priceLabel": "$235,990",
           "beds": 3,
           "homeSlug": "4778-nw-39th-street-road",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve/qmis/4778-nw-39th-street-road",
@@ -2139,9 +2165,9 @@
       "slug": "ridge-at-heat-brook",
       "name": "Ridge at Heath Brook",
       "address": "5405 SW 44th Court Rd, Ocala, FL 34474",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 278810,
-      "highestPrice": 420990,
+      "highestPrice": 427275,
       "beds": [
         3,
         4
@@ -2189,8 +2215,8 @@
           "lot": "126",
           "address": "4225 SW 52Nd Lane Rd",
           "plan": "Holden",
-          "price": 420990,
-          "priceLabel": "$420,990",
+          "price": 427275,
+          "priceLabel": "$427,275",
           "beds": 4,
           "homeSlug": "4225-sw-52nd-lane-rd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/4225-sw-52nd-lane-rd",
@@ -2222,6 +2248,24 @@
           ]
         },
         {
+          "lot": "379",
+          "address": "5249 SW 40Th Cir",
+          "plan": "",
+          "price": 394990,
+          "priceLabel": "$394,990",
+          "beds": 4,
+          "homeSlug": "5249-sw-40th-cir",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/5249-sw-40th-cir",
+          "baths": "3",
+          "sqft": "2,756",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2767/0134-5249-sw-40th-cir/coral-h-new-colors.jpg?iar=1&sc=1&thn=1&w=425&rev=f781665d59aa4a98afff5b62be53ad26&hash=A09F865DFAC33894077DE49A6B49612F",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2767/0134-5249-sw-40th-cir/coral-h-new-colors.jpg?iar=1&sc=1&thn=1&w=425&rev=f781665d59aa4a98afff5b62be53ad26&hash=A09F865DFAC33894077DE49A6B49612F"
+          ]
+        },
+        {
           "lot": "378",
           "address": "5253 SW 40Th Cir",
           "plan": "",
@@ -2243,8 +2287,8 @@
           "lot": "201",
           "address": "5307 SW 41st Court",
           "plan": "Aria",
-          "price": 287990,
-          "priceLabel": "$287,990",
+          "price": 278810,
+          "priceLabel": "$278,810",
           "beds": 3,
           "homeSlug": "5307-sw-41st-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/5307-sw-41st-court",
@@ -2421,8 +2465,8 @@
           "lot": "97",
           "address": "4390 SW 67th Ln",
           "plan": "Hayden",
-          "price": 346070,
-          "priceLabel": "$346,070",
+          "price": 339990,
+          "priceLabel": "$339,990",
           "beds": 5,
           "homeSlug": "4390-sw-67th-ln",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/qmis/4390-sw-67th-ln",
@@ -2475,8 +2519,8 @@
           "lot": "100",
           "address": "4444 SW 67th Ln",
           "plan": "Cali",
-          "price": 307990,
-          "priceLabel": "$307,990",
+          "price": 299990,
+          "priceLabel": "$299,990",
           "beds": 4,
           "homeSlug": "4444-sw-67th-ln",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/qmis/4444-sw-67th-ln",
@@ -2529,8 +2573,8 @@
           "lot": "106",
           "address": "6836 SW 45th Ave",
           "plan": "Robie",
-          "price": 329990,
-          "priceLabel": "$329,990",
+          "price": 328990,
+          "priceLabel": "$328,990",
           "beds": 5,
           "homeSlug": "6836-sw-45th-ave",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/qmis/6836-sw-45th-ave",
