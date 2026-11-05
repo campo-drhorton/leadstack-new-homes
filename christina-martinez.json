@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-04T20:37:04.873Z",
+  "updatedAt": "2026-11-05T20:53:22.210Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-04T20:37:04.873Z",
-  "photoCount": 87,
+  "publicUpdatedAt": "2026-11-05T20:53:22.210Z",
+  "photoCount": 95,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -44,8 +44,8 @@
           "price": 278570,
           "priceLabel": "$278,570",
           "beds": 3,
-          "homeSlug": "980",
-          "sourceUrl": "https://www.drhorton.com/global-shared-content/jde/qmis/980/98173/980-98173-981810000-0946",
+          "homeSlug": "7118-se-112th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7118-se-112th-lane",
           "baths": "2",
           "sqft": "1,672",
           "story": "1",
@@ -2856,9 +2856,9 @@
       "slug": "the-towns-at-laurel-commons",
       "name": "The Towns at Laurel Commons",
       "address": "8256 SW 67th Avenue, Ocala, FL 34476",
-      "availableCount": 2,
-      "lowestPrice": 237990,
-      "highestPrice": 237990,
+      "availableCount": 10,
+      "lowestPrice": 224990,
+      "highestPrice": 241070,
       "beds": [
         3
       ],
@@ -2884,6 +2884,114 @@
           "incentiveLabel": "(80)"
         },
         {
+          "lot": "178",
+          "address": "6622 SW 82nd Loop",
+          "plan": "",
+          "price": 224990,
+          "priceLabel": "$224,990",
+          "beds": 3,
+          "homeSlug": "6622-sw-82nd-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6622-sw-82nd-loop",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0178-6622-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=da5a1323dfb54913a2fad7d2c6999d8f&hash=2F22EE2BB859F7C7667DE3FA711FEAC1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0178-6622-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=da5a1323dfb54913a2fad7d2c6999d8f&hash=2F22EE2BB859F7C7667DE3FA711FEAC1"
+          ]
+        },
+        {
+          "lot": "179",
+          "address": "6624 SW 82nd Loop",
+          "plan": "",
+          "price": 226070,
+          "priceLabel": "$226,070",
+          "beds": 3,
+          "homeSlug": "6624-sw-82nd-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6624-sw-82nd-loop",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0179-6624-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=8ff3684d0f94424a9d86fba32f183e63&hash=5905B23FA6F4994F4F6BCEB979C2E2FD",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0179-6624-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=8ff3684d0f94424a9d86fba32f183e63&hash=5905B23FA6F4994F4F6BCEB979C2E2FD"
+          ]
+        },
+        {
+          "lot": "180",
+          "address": "6626 SW 82nd Loop",
+          "plan": "",
+          "price": 226070,
+          "priceLabel": "$226,070",
+          "beds": 3,
+          "homeSlug": "6626-sw-82nd-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6626-sw-82nd-loop",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0180-6626-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=8da873f2720140959571504d3031ae8c&hash=F24B1A6074B9ECF53C6783B43324372B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0180-6626-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=8da873f2720140959571504d3031ae8c&hash=F24B1A6074B9ECF53C6783B43324372B"
+          ]
+        },
+        {
+          "lot": "181",
+          "address": "6628 SW 82nd Loop",
+          "plan": "",
+          "price": 226070,
+          "priceLabel": "$226,070",
+          "beds": 3,
+          "homeSlug": "6628-sw-82nd-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6628-sw-82nd-loop",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0181-6628-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=0cecac5b89a84bff8a360ed2c8e65f04&hash=7DE47C73087F498518DC2547B7A91D44",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0181-6628-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=0cecac5b89a84bff8a360ed2c8e65f04&hash=7DE47C73087F498518DC2547B7A91D44"
+          ]
+        },
+        {
+          "lot": "182",
+          "address": "6630 SW 82nd Loop",
+          "plan": "",
+          "price": 226070,
+          "priceLabel": "$226,070",
+          "beds": 3,
+          "homeSlug": "6630-sw-82nd-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6630-sw-82nd-loop",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0182-6630-sw-82nd-loop/pearson-6_unit_th_sch1_with_cl_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=73655785986b403a87bf6477edb577ac&hash=F0D48AA7D21BFDDE6844F42D96B68C24",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0182-6630-sw-82nd-loop/pearson-6_unit_th_sch1_with_cl_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=73655785986b403a87bf6477edb577ac&hash=F0D48AA7D21BFDDE6844F42D96B68C24"
+          ]
+        },
+        {
+          "lot": "183",
+          "address": "6632 SW 82nd Loop",
+          "plan": "",
+          "price": 226070,
+          "priceLabel": "$226,070",
+          "beds": 3,
+          "homeSlug": "6632-sw-82nd-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6632-sw-82nd-loop",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0183-6632-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c53b9aa9d35f4f6ab530033e191e3f8a&hash=4847A07267EB5E50D975F823AF3B9DFC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0183-6632-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c53b9aa9d35f4f6ab530033e191e3f8a&hash=4847A07267EB5E50D975F823AF3B9DFC"
+          ]
+        },
+        {
           "lot": "153",
           "address": "6566 SW 82nd Loop",
           "plan": "Pearson A",
@@ -2899,6 +3007,42 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0153-6566-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=cd4e01c07904457eadeea60a03a2b9aa&hash=73B8A16E571B6D2CCCBBE14C9861B8F1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0153-6566-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=cd4e01c07904457eadeea60a03a2b9aa&hash=73B8A16E571B6D2CCCBBE14C9861B8F1"
+          ]
+        },
+        {
+          "lot": "177",
+          "address": "6620 SW 82nd Loop",
+          "plan": "",
+          "price": 238070,
+          "priceLabel": "$238,070",
+          "beds": 3,
+          "homeSlug": "6620-sw-82nd-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6620-sw-82nd-loop",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0177-6620-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=08969895a6234504b038bf8c874f7186&hash=1F051874ED20DD7DC5823FBAE44D00FC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0177-6620-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=08969895a6234504b038bf8c874f7186&hash=1F051874ED20DD7DC5823FBAE44D00FC"
+          ]
+        },
+        {
+          "lot": "184",
+          "address": "6634 SW 82nd Loop",
+          "plan": "",
+          "price": 241070,
+          "priceLabel": "$241,070",
+          "beds": 3,
+          "homeSlug": "6634-sw-82nd-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6634-sw-82nd-loop",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0184-6634-sw-82nd-loop/pearson-6_unit_th_sch1_with_cl_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=5a84a8a6a6e3424788cf27665bf0a824&hash=B72DA404A6083AC270A60873EFC0D6EB",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0184-6634-sw-82nd-loop/pearson-6_unit_th_sch1_with_cl_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=5a84a8a6a6e3424788cf27665bf0a824&hash=B72DA404A6083AC270A60873EFC0D6EB"
           ]
         }
       ],

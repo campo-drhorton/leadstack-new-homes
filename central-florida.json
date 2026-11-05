@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-04T20:44:05.018Z",
+  "updatedAt": "2026-11-05T20:58:51.085Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-04T20:44:05.018Z",
-  "photoCount": 536,
+  "publicUpdatedAt": "2026-11-05T20:58:51.085Z",
+  "photoCount": 547,
   "communities": [
     {
       "slug": "annabelle-estates",
       "name": "Annabelle Estates",
       "address": "4206 Lester Drive, Lake Wales, FL 33859",
-      "availableCount": 4,
+      "availableCount": 5,
       "lowestPrice": 304490,
       "highestPrice": 356490,
       "beds": [
@@ -72,6 +72,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/4ebb/0013-4250-lester-drive/cali_g_cropped_1.jpg?iar=1&sc=1&thn=1&w=425&rev=f24748d94c034bfbb9757f5e561dc159&hash=49AA31739866BB911F071C96CCF00827",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/4ebb/0013-4250-lester-drive/cali_g_cropped_1.jpg?iar=1&sc=1&thn=1&w=425&rev=f24748d94c034bfbb9757f5e561dc159&hash=49AA31739866BB911F071C96CCF00827"
+          ]
+        },
+        {
+          "lot": "15",
+          "address": "4258 Lester Drive",
+          "plan": "",
+          "price": 345490,
+          "priceLabel": "$345,490",
+          "beds": 5,
+          "homeSlug": "4258-lester-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4258-lester-drive",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e402/0015-4258-lester-drive/cropped_0001_lakeside_ele_g_op-multi-gen_cs4_without_stone_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=0b62d38fe1e8443391e439aa71b1f0e0&hash=62FC72D090B3742E9132FFC405DCC7DD",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38978-annabelle-estates/389790000-annabelle-estates-50s/e402/0015-4258-lester-drive/cropped_0001_lakeside_ele_g_op-multi-gen_cs4_without_stone_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=0b62d38fe1e8443391e439aa71b1f0e0&hash=62FC72D090B3742E9132FFC405DCC7DD"
           ]
         },
         {
@@ -355,7 +373,7 @@
       "slug": "archers-mill",
       "name": "Archers Mill",
       "address": "325 East Merimont Lane, Ormond Beach, FL 32174",
-      "availableCount": 8,
+      "availableCount": 9,
       "lowestPrice": 384990,
       "highestPrice": 501465,
       "beds": [
@@ -453,6 +471,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34549-archers-mill/345490000-archers-mill-65s/2383/0151-3042-kingsman-trail/1_1_destin_elevationl2.jpg?iar=1&sc=1&thn=1&w=425&rev=0518ff06992e4bdaa9d94ed4b1d7f8dc&hash=0246A357EF97C495182660BFCFAA02B1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34549-archers-mill/345490000-archers-mill-65s/2383/0151-3042-kingsman-trail/1_1_destin_elevationl2.jpg?iar=1&sc=1&thn=1&w=425&rev=0518ff06992e4bdaa9d94ed4b1d7f8dc&hash=0246A357EF97C495182660BFCFAA02B1"
+          ]
+        },
+        {
+          "lot": "60",
+          "address": "3045 Kingsman Trail",
+          "plan": "",
+          "price": 462990,
+          "priceLabel": "$462,990",
+          "beds": 5,
+          "homeSlug": "3045-kingsman-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/archers-mill/qmis/3045-kingsman-trail",
+          "baths": "4.5",
+          "sqft": "3,314",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34549-archers-mill/345480000-archers-mill-55s/2905/0183-3045-kingsman-trail/2_summerlin_s_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=6aa91a2b9cbd42d08128053f7839d6ad&hash=D706434944EC0EB72E79C8F681BC0BDE",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34549-archers-mill/345480000-archers-mill-55s/2905/0183-3045-kingsman-trail/2_summerlin_s_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=6aa91a2b9cbd42d08128053f7839d6ad&hash=D706434944EC0EB72E79C8F681BC0BDE"
           ]
         },
         {
@@ -2748,8 +2784,8 @@
       "slug": "campbell-crossing",
       "name": "Campbell Crossing",
       "address": "971 Commons Way, Port Orange, FL 32129",
-      "availableCount": 10,
-      "lowestPrice": 325720,
+      "availableCount": 11,
+      "lowestPrice": 323990,
       "highestPrice": 399997,
       "beds": [
         3,
@@ -2811,6 +2847,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/0097-904-bluet-drive/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=e9bb6617083b4f20a4dd2553318ecf4d&hash=0380E210AC3EF414ACF719F1895C92DB",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/0097-904-bluet-drive/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=e9bb6617083b4f20a4dd2553318ecf4d&hash=0380E210AC3EF414ACF719F1895C92DB"
+          ]
+        },
+        {
+          "lot": "95",
+          "address": "905 Bluet Drive",
+          "plan": "",
+          "price": 323990,
+          "priceLabel": "$323,990",
+          "beds": 3,
+          "homeSlug": "905-bluet-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/qmis/905-bluet-drive",
+          "baths": "2",
+          "sqft": "1,223",
+          "story": "1",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/e311/0095-905-bluet-drive/1_1_greenbriarexterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=71e0e542a1a74089a47a35c12c5f27e8&hash=5DF8C9C1FA37B37F6C1FB416D5BFB500",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/e311/0095-905-bluet-drive/1_1_greenbriarexterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=71e0e542a1a74089a47a35c12c5f27e8&hash=5DF8C9C1FA37B37F6C1FB416D5BFB500"
           ]
         },
         {
@@ -3464,7 +3518,7 @@
       "slug": "concorde",
       "name": "Concorde",
       "address": "3616 Botanical Way, Sanford, FL 32773",
-      "availableCount": 12,
+      "availableCount": 11,
       "lowestPrice": 389000,
       "highestPrice": 488990,
       "beds": [
@@ -3597,24 +3651,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3ejb/0076-3539-fort-mellon-lane/1a_jemison_exterior_5.jpg?iar=1&sc=1&thn=1&w=425&rev=a2d0230404b043188db487cef76ee60a&hash=26122D4B3F0C236FFE76F0CB14702CE0",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3ejb/0076-3539-fort-mellon-lane/1a_jemison_exterior_5.jpg?iar=1&sc=1&thn=1&w=425&rev=a2d0230404b043188db487cef76ee60a&hash=26122D4B3F0C236FFE76F0CB14702CE0"
-          ]
-        },
-        {
-          "lot": "360",
-          "address": "1347 Grand Flora Lane",
-          "plan": "",
-          "price": 414997,
-          "priceLabel": "$414,997",
-          "beds": 3,
-          "homeSlug": "1347-grand-flora-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/seminole-county/sanford/concorde/qmis/1347-grand-flora-lane",
-          "baths": "2",
-          "sqft": "1,614",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3ejb/0173-1347-grand-flora-lane/1_1_jemison_elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=d8d15a2ebc244a9bada39b252dafbb50&hash=AAE81BD647731610936BCFA8599468E6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3ejb/0173-1347-grand-flora-lane/1_1_jemison_elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=d8d15a2ebc244a9bada39b252dafbb50&hash=AAE81BD647731610936BCFA8599468E6"
           ]
         },
         {
@@ -4367,8 +4403,8 @@
       "name": "Crosswinds Townhomes",
       "address": "2394 Aveeno Avenue, Haines City, FL 33844",
       "availableCount": 4,
-      "lowestPrice": 262590,
-      "highestPrice": 280990,
+      "lowestPrice": 252590,
+      "highestPrice": 270990,
       "beds": [
         3
       ],
@@ -4377,8 +4413,8 @@
           "lot": "1001",
           "address": "2342 Aveeno Avenue",
           "plan": "",
-          "price": 262590,
-          "priceLabel": "$262,590",
+          "price": 252590,
+          "priceLabel": "$252,590",
           "beds": 3,
           "homeSlug": "2342-aveeno-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2342-aveeno-avenue",
@@ -4397,8 +4433,8 @@
           "lot": "1005",
           "address": "2326 Aveeno Avenue",
           "plan": "",
-          "price": 273990,
-          "priceLabel": "$273,990",
+          "price": 263990,
+          "priceLabel": "$263,990",
           "beds": 3,
           "homeSlug": "2326-aveeno-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2326-aveeno-avenue",
@@ -4415,8 +4451,8 @@
           "lot": "1004",
           "address": "2330 Aveeno Avenue",
           "plan": "",
-          "price": 280990,
-          "priceLabel": "$280,990",
+          "price": 270990,
+          "priceLabel": "$270,990",
           "beds": 3,
           "homeSlug": "2330-aveeno-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2330-aveeno-avenue",
@@ -4433,8 +4469,8 @@
           "lot": "1003",
           "address": "2334 Aveeno Avenue",
           "plan": "",
-          "price": 267500,
-          "priceLabel": "$267,500",
+          "price": 257500,
+          "priceLabel": "$257,500",
           "beds": 3,
           "homeSlug": "2334-aveeno-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2334-aveeno-avenue",
@@ -4452,7 +4488,7 @@
         {
           "slug": "t20a",
           "name": "Pearson",
-          "startingLabel": "Starting in the $271s",
+          "startingLabel": "Starting in the $261s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/floor-plans/t20a",
           "beds": 3,
           "baths": "2.5",
@@ -4467,7 +4503,7 @@
         {
           "slug": "t20b",
           "name": "Pearson",
-          "startingLabel": "Starting in the $266s",
+          "startingLabel": "Starting in the $256s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/floor-plans/t20b",
           "beds": 3,
           "baths": "2.5",
@@ -6032,7 +6068,7 @@
       "slug": "fletcher-trace",
       "name": "Fletcher Trace",
       "address": "11163 NW 167th Terrace, Alachua, FL 32615",
-      "availableCount": 7,
+      "availableCount": 15,
       "lowestPrice": 229990,
       "highestPrice": 346070,
       "beds": [
@@ -6151,6 +6187,150 @@
           ]
         },
         {
+          "lot": "61",
+          "address": "11307 NW 167th TER",
+          "plan": "",
+          "price": 258070,
+          "priceLabel": "$258,070",
+          "beds": 3,
+          "homeSlug": "11307-nw-167th-ter",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11307-nw-167th-ter",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20a/0015-11307-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=472e984a4cd84863b27557e8214c72e9&hash=DE2556117D1D52B7362426EE3FD8BE4E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20a/0015-11307-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=472e984a4cd84863b27557e8214c72e9&hash=DE2556117D1D52B7362426EE3FD8BE4E"
+          ]
+        },
+        {
+          "lot": "62",
+          "address": "11311 NW 167th TER",
+          "plan": "",
+          "price": 238070,
+          "priceLabel": "$238,070",
+          "beds": 3,
+          "homeSlug": "11311-nw-167th-ter",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11311-nw-167th-ter",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0016-11311-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=87cd70f980024ab995c2493e0dac7895&hash=94A80DFA1B6693EC78BB4C8BC5E2583C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0016-11311-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=87cd70f980024ab995c2493e0dac7895&hash=94A80DFA1B6693EC78BB4C8BC5E2583C"
+          ]
+        },
+        {
+          "lot": "63",
+          "address": "11313 NW 167th TER",
+          "plan": "",
+          "price": 238070,
+          "priceLabel": "$238,070",
+          "beds": 3,
+          "homeSlug": "11313-nw-167th-ter",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11313-nw-167th-ter",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0017-11313-nw-167th-ter/pearson-6_unit-th-modern1-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=04260c5dc5c54c66bf6380a8afa9d7f6&hash=0E77DC65FBAF2989743442156D099D2E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0017-11313-nw-167th-ter/pearson-6_unit-th-modern1-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=04260c5dc5c54c66bf6380a8afa9d7f6&hash=0E77DC65FBAF2989743442156D099D2E"
+          ]
+        },
+        {
+          "lot": "64",
+          "address": "11317 NW 167th TER",
+          "plan": "",
+          "price": 238070,
+          "priceLabel": "$238,070",
+          "beds": 3,
+          "homeSlug": "11317-nw-167th-ter",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11317-nw-167th-ter",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0018-11317-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=381a2724c6374007a01d0ae832abcc89&hash=5EB8986F7D1683C7F25997E8E0A1969A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0018-11317-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=381a2724c6374007a01d0ae832abcc89&hash=5EB8986F7D1683C7F25997E8E0A1969A"
+          ]
+        },
+        {
+          "lot": "65",
+          "address": "11319 NW 167th TER",
+          "plan": "",
+          "price": 238070,
+          "priceLabel": "$238,070",
+          "beds": 3,
+          "homeSlug": "11319-nw-167th-ter",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11319-nw-167th-ter",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0019-11319-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=eec11590c5114635b5d985582cd94131&hash=70D669249C66412AC3686E1F5A37551B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0019-11319-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=eec11590c5114635b5d985582cd94131&hash=70D669249C66412AC3686E1F5A37551B"
+          ]
+        },
+        {
+          "lot": "66",
+          "address": "11321 NW 167th TER",
+          "plan": "",
+          "price": 238070,
+          "priceLabel": "$238,070",
+          "beds": 3,
+          "homeSlug": "11321-nw-167th-ter",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11321-nw-167th-ter",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0020-11321-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=e2a218b057634ee795486d55ad380e4f&hash=DE3C50115A0A96F0F036D39C101B7C30",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0020-11321-nw-167th-ter/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=e2a218b057634ee795486d55ad380e4f&hash=DE3C50115A0A96F0F036D39C101B7C30"
+          ]
+        },
+        {
+          "lot": "67",
+          "address": "11325 NW 167th TER",
+          "plan": "",
+          "price": 238070,
+          "priceLabel": "$238,070",
+          "beds": 3,
+          "homeSlug": "11325-nw-167th-ter",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11325-nw-167th-ter",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0021-11325-nw-167th-ter/pearson-6_unit-th-modern1-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=eafd1fa66d9840e7991bdcd0c2c5bbbc&hash=FAD87AE09F531020EC16C63D02500795",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20b/0021-11325-nw-167th-ter/pearson-6_unit-th-modern1-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=eafd1fa66d9840e7991bdcd0c2c5bbbc&hash=FAD87AE09F531020EC16C63D02500795"
+          ]
+        },
+        {
+          "lot": "68",
+          "address": "11331 NW 167th TER",
+          "plan": "",
+          "price": 256070,
+          "priceLabel": "$256,070",
+          "beds": 3,
+          "homeSlug": "11331-nw-167th-ter",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/fletcher-trace/qmis/11331-nw-167th-ter",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20a/0022-11331-nw-167th-ter/pearson-6_unit-th-modern1-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=1b7cb2d1be734b2895c591095d2f3fea&hash=15609682B8C80685E072A88F996FA53B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97489-fletcher-trace/975090000-fletcher-trace-th/t20a/0022-11331-nw-167th-ter/pearson-6_unit-th-modern1-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=1b7cb2d1be734b2895c591095d2f3fea&hash=15609682B8C80685E072A88F996FA53B"
+          ]
+        },
+        {
           "lot": "17",
           "address": "16664 NW 110th CT",
           "plan": "",
@@ -6266,9 +6446,9 @@
       "slug": "fountain-view",
       "name": "Fountain View",
       "address": "1383 Fountain View St, Ormond Beach, FL 32174",
-      "availableCount": 11,
+      "availableCount": 13,
       "lowestPrice": 310000,
-      "highestPrice": 417990,
+      "highestPrice": 442990,
       "beds": [
         3,
         4,
@@ -6473,6 +6653,42 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e501/0021-1508-morning-walk-drive/1_1_denhamexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=c82c2063d9e74ccdae806ff7d59d5bea&hash=31F8A9CF66A03A9026E335D27A753B3A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e501/0021-1508-morning-walk-drive/1_1_denhamexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=c82c2063d9e74ccdae806ff7d59d5bea&hash=31F8A9CF66A03A9026E335D27A753B3A"
+          ]
+        },
+        {
+          "lot": "233",
+          "address": "1652 Houmas Street",
+          "plan": "",
+          "price": 427990,
+          "priceLabel": "$427,990",
+          "beds": 5,
+          "homeSlug": "1652-houmas-street",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1652-houmas-street",
+          "baths": "3",
+          "sqft": "2,601",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0199-1652-houmas-street/1_1_haydenexterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=3c5bab9800744d2f959510c31a96c7f8&hash=75A11E06C2FE702488957B0F9AEDEB74",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0199-1652-houmas-street/1_1_haydenexterior_h.jpg?iar=1&sc=1&thn=1&w=425&rev=3c5bab9800744d2f959510c31a96c7f8&hash=75A11E06C2FE702488957B0F9AEDEB74"
+          ]
+        },
+        {
+          "lot": "316",
+          "address": "1327 Fountain View St.",
+          "plan": "",
+          "price": 442990,
+          "priceLabel": "$442,990",
+          "beds": 4,
+          "homeSlug": "1327-fountain-view-st",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1327-fountain-view-st",
+          "baths": "3",
+          "sqft": "2,336",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e501/0073-1327-fountain-view-st/1_1_denhamexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=87c6470b918b41f3ae9bda29a024418d&hash=111360D9641999B6723CA751A77822C1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e501/0073-1327-fountain-view-st/1_1_denhamexterior_elevationg.jpg?iar=1&sc=1&thn=1&w=425&rev=87c6470b918b41f3ae9bda29a024418d&hash=111360D9641999B6723CA751A77822C1"
           ]
         }
       ],
@@ -8857,7 +9073,7 @@
           "priceLabel": "$312,990",
           "beds": 3,
           "homeSlug": "5327-cloudberry-avenue",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5327-cloudberry-avenue",
+          "sourceUrl": "",
           "baths": "2",
           "sqft": "1,504",
           "story": "1",
@@ -9469,7 +9685,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e407/0036-1117-arrowhead-vine-ct/freepoart_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=17daf55d5f5d4c48b3b0606bed71def2&hash=2A39790155C02E2F538683621ED44514",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e407/0036-1117-arrowhead-vine-ct/freepoart_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=17daf55d5f5d4c48b3b0606bed71def2&hash=2A39790155C02E2F538683621ED44514"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "37",
@@ -12717,7 +12935,7 @@
       "slug": "preston-cove",
       "name": "Preston Cove",
       "address": "288 Conway Ave, Saint Cloud, FL 34771",
-      "availableCount": 18,
+      "availableCount": 17,
       "lowestPrice": 319990,
       "highestPrice": 474990,
       "beds": [
@@ -12780,24 +12998,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4ebb/0205-5708-springer-st/cali_side_load___p.jpg?iar=1&sc=1&thn=1&w=425&rev=1182586cfa604908ae9f21cfb2e83bc5&hash=0938CBE462F95F1CF4CD40AB917E81B3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/4ebb/0205-5708-springer-st/cali_side_load___p.jpg?iar=1&sc=1&thn=1&w=425&rev=1182586cfa604908ae9f21cfb2e83bc5&hash=0938CBE462F95F1CF4CD40AB917E81B3"
-          ]
-        },
-        {
-          "lot": "467",
-          "address": "5750 Springer St",
-          "plan": "",
-          "price": 419990,
-          "priceLabel": "$419,990",
-          "beds": 5,
-          "homeSlug": "5750-springer-st",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/qmis/5750-springer-st",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0084-5750-springer-st/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=a3b734e53c734ff287ce57a370fda6be&hash=E2258957CCC654DEE1695C48D44E6AD8",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38515-preston-cove/385150000-preston-cove-50s/e402/0084-5750-springer-st/1__1-lakesideexteriorelevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=a3b734e53c734ff287ce57a370fda6be&hash=E2258957CCC654DEE1695C48D44E6AD8"
           ]
         },
         {
@@ -13371,9 +13571,9 @@
           "sqft": "1,828",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0021-1138-gull-drive/1_1_cali_d_sagewood_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=1804dea69fdc4375a760fae6fd267a46&hash=348A7CDFADCB716B988870E1B45C37C7",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0021-1138-gull-drive/1_1_cali_sagewood_d.jpg?iar=1&sc=1&thn=1&w=425&rev=0dfa4d0d2b884dceadbe4c95b3728285&hash=C4506814056B7B41EA3453ACB5E11A0F",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0021-1138-gull-drive/1_1_cali_d_sagewood_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=1804dea69fdc4375a760fae6fd267a46&hash=348A7CDFADCB716B988870E1B45C37C7"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0021-1138-gull-drive/1_1_cali_sagewood_d.jpg?iar=1&sc=1&thn=1&w=425&rev=0dfa4d0d2b884dceadbe4c95b3728285&hash=C4506814056B7B41EA3453ACB5E11A0F"
           ]
         },
         {
@@ -13434,8 +13634,8 @@
           "lot": "61",
           "address": "1151 Gull Drive",
           "plan": "",
-          "price": 499990,
-          "priceLabel": "$499,990",
+          "price": 501140,
+          "priceLabel": "$501,140",
           "beds": 5,
           "homeSlug": "1151-gull-drive",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1151-gull-drive",

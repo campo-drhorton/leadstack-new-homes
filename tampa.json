@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T20:46:43.661Z",
+  "updatedAt": "2026-11-05T21:00:57.760Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-04T20:46:43.661Z",
+  "publicUpdatedAt": "2026-11-05T21:00:57.760Z",
   "photoCount": 186,
   "communities": [
     {
@@ -1050,6 +1050,22 @@
       ],
       "lots": [
         {
+          "lot": "76",
+          "address": "15016 Crosshall Stream Dr",
+          "plan": "",
+          "price": 300000,
+          "priceLabel": "$300,000",
+          "beds": 3,
+          "homeSlug": "15016-crosshall-stream-dr",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/qmis/15016-crosshall-stream-dr",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "incentive": 22990,
+          "incentiveLabel": "(22,990)"
+        },
+        {
           "lot": "32",
           "address": "13617 New Jade Ave",
           "plan": "",
@@ -1102,20 +1118,6 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39377-balm-grove/394720000-balm-grove-50s-exp/e406/0003-15010-crosshall-stream-dr/archer_ele_a_c8_without_stone_8-0.jpg?iar=1&sc=1&thn=1&w=425&rev=d4989461115f45c0afd70297f86c323b&hash=5D8158983C8C4F7418A88B6D39E57B66"
           ]
-        },
-        {
-          "lot": "76",
-          "address": "15016 Crosshall Stream Dr",
-          "plan": "",
-          "price": 300000,
-          "priceLabel": "$300,000",
-          "beds": 3,
-          "homeSlug": "15016-crosshall-stream-dr",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wimauma/balm-grove/qmis/15016-crosshall-stream-dr",
-          "baths": "2",
-          "sqft": "1,328",
-          "story": "1",
-          "garage": "2"
         },
         {
           "lot": "58",
@@ -1530,6 +1532,26 @@
       ],
       "lots": [
         {
+          "lot": "10",
+          "address": "12091 Isle Royale Dr",
+          "plan": "",
+          "price": 255000,
+          "priceLabel": "$255,000",
+          "beds": 3,
+          "homeSlug": "12091-isle-royale-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/hudson/brighton-park/qmis/12091-isle-royale-drive",
+          "baths": "2",
+          "sqft": "1,223",
+          "story": "1",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0010-12091-isle-royale-drive/greenbriar_ele_a.jpg?iar=1&sc=1&thn=1&w=425&rev=7a140c2e219047b8b865d462e651b8ad&hash=53ADB781B1DE4C8377E7EA3864556FC5",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0010-12091-isle-royale-drive/greenbriar_ele_a.jpg?iar=1&sc=1&thn=1&w=425&rev=7a140c2e219047b8b865d462e651b8ad&hash=53ADB781B1DE4C8377E7EA3864556FC5"
+          ],
+          "incentive": 25990,
+          "incentiveLabel": "(25,990)"
+        },
+        {
           "lot": "2",
           "address": "12027 Isle Royale Drive",
           "plan": "",
@@ -1563,24 +1585,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0003-12035-isle-royale-drive/alford_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=8a7ea6b6114549f7a939b76823c1858e&hash=8C23E604C522904FEB9C006FCD8299F9",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e313/0003-12035-isle-royale-drive/alford_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=8a7ea6b6114549f7a939b76823c1858e&hash=8C23E604C522904FEB9C006FCD8299F9"
-          ]
-        },
-        {
-          "lot": "10",
-          "address": "12091 Isle Royale Dr",
-          "plan": "",
-          "price": 255000,
-          "priceLabel": "$255,000",
-          "beds": 3,
-          "homeSlug": "12091-isle-royale-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/hudson/brighton-park/qmis/12091-isle-royale-drive",
-          "baths": "2",
-          "sqft": "1,223",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0010-12091-isle-royale-drive/greenbriar_ele_a.jpg?iar=1&sc=1&thn=1&w=425&rev=7a140c2e219047b8b865d462e651b8ad&hash=53ADB781B1DE4C8377E7EA3864556FC5",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39378-brighton-park/393780000-brighton-park/e311/0010-12091-isle-royale-drive/greenbriar_ele_a.jpg?iar=1&sc=1&thn=1&w=425&rev=7a140c2e219047b8b865d462e651b8ad&hash=53ADB781B1DE4C8377E7EA3864556FC5"
           ]
         },
         {
@@ -1678,6 +1682,26 @@
       ],
       "lots": [
         {
+          "lot": "152",
+          "address": "1215 12th St SE",
+          "plan": "",
+          "price": 350000,
+          "priceLabel": "$350,000",
+          "beds": 4,
+          "homeSlug": "1215-12th-st-se",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/brookside/qmis/1215-12th-st-se",
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/4ebb/0877-1215-12th-st-se/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=33d81bd1a444432cb221b36c02c367d2&hash=F43AB9820303818CB3DF3F2673F06A7E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/4ebb/0877-1215-12th-st-se/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=33d81bd1a444432cb221b36c02c367d2&hash=F43AB9820303818CB3DF3F2673F06A7E"
+          ],
+          "incentive": 8995,
+          "incentiveLabel": "(8,995)"
+        },
+        {
           "lot": "2",
           "address": "1208 Ace Outlaw Ave",
           "plan": "",
@@ -1711,24 +1735,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e410/0054-1207-ace-outlaw-ave/fletcher_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=f9209a67fa7c41b585ca23696d67d0bf&hash=C7D8DEF27F2ECF71FCE84D2833BC9786",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/393560000-brookside-30-40-plans/e410/0054-1207-ace-outlaw-ave/fletcher_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=f9209a67fa7c41b585ca23696d67d0bf&hash=C7D8DEF27F2ECF71FCE84D2833BC9786"
-          ]
-        },
-        {
-          "lot": "152",
-          "address": "1215 12th St SE",
-          "plan": "",
-          "price": 350000,
-          "priceLabel": "$350,000",
-          "beds": 4,
-          "homeSlug": "1215-12th-st-se",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/brookside/qmis/1215-12th-st-se",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/4ebb/0877-1215-12th-st-se/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=33d81bd1a444432cb221b36c02c367d2&hash=F43AB9820303818CB3DF3F2673F06A7E",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/4ebb/0877-1215-12th-st-se/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=33d81bd1a444432cb221b36c02c367d2&hash=F43AB9820303818CB3DF3F2673F06A7E"
           ]
         },
         {
@@ -3269,7 +3275,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e407/0036-1117-arrowhead-vine-ct/freepoart_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=17daf55d5f5d4c48b3b0606bed71def2&hash=2A39790155C02E2F538683621ED44514",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e407/0036-1117-arrowhead-vine-ct/freepoart_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=17daf55d5f5d4c48b3b0606bed71def2&hash=2A39790155C02E2F538683621ED44514"
-          ]
+          ],
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "37",
@@ -3540,7 +3548,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/e302/0119-35465-kinsey-point/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f7158953822b4b76a1162c3d6866e1fd&hash=92E507138466ED20F823063328C97219",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39415-two-rivers/394690000-two-rivers-40s-exp/e302/0119-35465-kinsey-point/fl_tampanorth_drhorton_allexii_d_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f7158953822b4b76a1162c3d6866e1fd&hash=92E507138466ED20F823063328C97219"
-          ]
+          ],
+          "incentive": 8345,
+          "incentiveLabel": "(8,345)"
         },
         {
           "lot": "22",
@@ -4047,7 +4057,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39419-ruskin-preserve/394190000-ruskin-preserve-40s-exp/e305/0021-1110-spotted-egret-loop/downing_ele_a.jpg?iar=1&sc=1&thn=1&w=425&rev=5d0912bb89f449b19bf9cfe8eb132ca4&hash=1BB38B0CA71DABCAD82219C5C4200488",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39419-ruskin-preserve/394190000-ruskin-preserve-40s-exp/e305/0021-1110-spotted-egret-loop/downing_ele_a.jpg?iar=1&sc=1&thn=1&w=425&rev=5d0912bb89f449b19bf9cfe8eb132ca4&hash=1BB38B0CA71DABCAD82219C5C4200488"
-          ]
+          ],
+          "incentive": 11990,
+          "incentiveLabel": "(11,990)"
         }
       ],
       "models": [
@@ -5803,7 +5815,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394510000-waterstone-30ft-product/e304/0014-4724-silver-current-ave/fl_tampanorth_drhorton_robieii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9c0194ea8e5c4c60a501ebff8cd531e4&hash=24E0FD23186EAF09400FDE4DE6676DC6",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39451-waterstone/394510000-waterstone-30ft-product/e304/0014-4724-silver-current-ave/fl_tampanorth_drhorton_robieii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9c0194ea8e5c4c60a501ebff8cd531e4&hash=24E0FD23186EAF09400FDE4DE6676DC6"
-          ]
+          ],
+          "incentive": 11990,
+          "incentiveLabel": "(11,990)"
         }
       ],
       "models": [
@@ -6098,6 +6112,26 @@
       ],
       "lots": [
         {
+          "lot": "5",
+          "address": "32645 Duluth Dr",
+          "plan": "",
+          "price": 560000,
+          "priceLabel": "$560,000",
+          "beds": 4,
+          "homeSlug": "32645-duluth-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32645-duluth-drive",
+          "baths": "3.5",
+          "sqft": "2,794",
+          "story": "1",
+          "garage": "3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0088-32645-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=322a7df5d6854b368e9b63d3dc0e15ce&hash=B50E67BBE3C37DFE1915DDC73BE10F93",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0088-32645-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=322a7df5d6854b368e9b63d3dc0e15ce&hash=B50E67BBE3C37DFE1915DDC73BE10F93"
+          ],
+          "incentive": 45490,
+          "incentiveLabel": "(45,490)"
+        },
+        {
           "lot": "8",
           "address": "32765 Weathered Oak Dr",
           "plan": "",
@@ -6187,24 +6221,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0177-32527-duluth-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=196b4f26af8a4cfca223fe4eb9a1e461&hash=CCB0791ED5AB37D02B125852DF0C7EC6",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393240000-woodcreek-50s-trdtn/2045/0177-32527-duluth-drive/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=196b4f26af8a4cfca223fe4eb9a1e461&hash=CCB0791ED5AB37D02B125852DF0C7EC6"
-          ]
-        },
-        {
-          "lot": "5",
-          "address": "32645 Duluth Dr",
-          "plan": "",
-          "price": 560000,
-          "priceLabel": "$560,000",
-          "beds": 4,
-          "homeSlug": "32645-duluth-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32645-duluth-drive",
-          "baths": "3.5",
-          "sqft": "2,794",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0088-32645-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=322a7df5d6854b368e9b63d3dc0e15ce&hash=B50E67BBE3C37DFE1915DDC73BE10F93",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0088-32645-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=322a7df5d6854b368e9b63d3dc0e15ce&hash=B50E67BBE3C37DFE1915DDC73BE10F93"
           ]
         },
         {
