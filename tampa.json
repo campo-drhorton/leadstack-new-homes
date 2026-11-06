@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-05T21:00:57.760Z",
+  "updatedAt": "2026-11-06T20:17:16.192Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-05T21:00:57.760Z",
-  "photoCount": 186,
+  "publicUpdatedAt": "2026-11-06T20:17:16.192Z",
+  "photoCount": 185,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -6102,7 +6102,7 @@
       "slug": "woodcreek",
       "name": "Woodcreek",
       "address": "2412 Sterling Forest Court, Wesley Chapel, FL 33543",
-      "availableCount": 13,
+      "availableCount": 12,
       "lowestPrice": 400000,
       "highestPrice": 610000,
       "beds": [
@@ -6275,24 +6275,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0091-32680-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa2ce72ffdf040f58dc035ae3edd5b9d&hash=A2C7981FC6A5EF7BCCC298DC39A54188",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0091-32680-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa2ce72ffdf040f58dc035ae3edd5b9d&hash=A2C7981FC6A5EF7BCCC298DC39A54188"
-          ]
-        },
-        {
-          "lot": "2",
-          "address": "32693 Duluth Dr",
-          "plan": "",
-          "price": 520000,
-          "priceLabel": "$520,000",
-          "beds": 4,
-          "homeSlug": "32693-duluth-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32693-duluth-drive",
-          "baths": "3.5",
-          "sqft": "2,794",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0080-32693-duluth-drive/fl_tampanorth_drhorton_camdend_shingle_gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b32f714b00594d62b3a16278874c6bfd&hash=F439FC7E9882AF0AAFDD01B71A43B1FD",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0080-32693-duluth-drive/fl_tampanorth_drhorton_camdend_shingle_gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b32f714b00594d62b3a16278874c6bfd&hash=F439FC7E9882AF0AAFDD01B71A43B1FD"
           ]
         },
         {

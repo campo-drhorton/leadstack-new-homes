@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-05T20:53:22.210Z",
+  "updatedAt": "2026-11-06T20:09:36.041Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-05T20:53:22.210Z",
-  "photoCount": 95,
+  "publicUpdatedAt": "2026-11-06T20:09:36.041Z",
+  "photoCount": 94,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -831,7 +831,7 @@
       "slug": "marion-oaks-spot-lots",
       "name": "Marion County Spot Lots",
       "address": "272 Marion Oaks Course, Ocala, FL 34473",
-      "availableCount": 13,
+      "availableCount": 12,
       "lowestPrice": 315990,
       "highestPrice": 344070,
       "beds": [
@@ -857,20 +857,6 @@
           ],
           "incentive": 9080,
           "incentiveLabel": "(9,080)"
-        },
-        {
-          "lot": "24",
-          "address": "12801 SW 77th Cir",
-          "plan": "",
-          "price": 339070,
-          "priceLabel": "$339,070",
-          "beds": 4,
-          "homeSlug": "12801-sw-77th-cir",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/12801-sw-77th-cir",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2"
         },
         {
           "lot": "19",
@@ -1243,21 +1229,21 @@
           ]
         },
         {
-          "lot": "131",
-          "address": "5759 SW 130th Lane",
-          "plan": "Freeport II",
-          "price": 275990,
-          "priceLabel": "$275,990",
+          "lot": "116",
+          "address": "5736 SW 130th Lane",
+          "plan": "",
+          "price": 279990,
+          "priceLabel": "$279,990",
           "beds": 4,
-          "homeSlug": "5759-sw-130th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mcginley-landing/qmis/5759-sw-130th-lane",
+          "homeSlug": "5736-sw-130th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mcginley-landing/qmis/5736-sw-130th-lane",
           "baths": "2",
           "sqft": "1,498",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/0131-5759-sw-130th-lane/2fl_west-florida_drh_express-series_freeport-b.jpg?iar=1&sc=1&thn=1&w=425&rev=674aa98b9dbe4b0c88efc5c28b93790d&hash=54088922C7CCD56DD023CAC53CA91B12",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/0116-5736-sw-130th-lane/1fl_west-florida_drh_express-series_freeport-a.jpg?iar=1&sc=1&thn=1&w=425&rev=57322303d6104775bbeb196eeb05a224&hash=FB3AA219C1250C8E2C7FD8E68316CC81",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/0131-5759-sw-130th-lane/2fl_west-florida_drh_express-series_freeport-b.jpg?iar=1&sc=1&thn=1&w=425&rev=674aa98b9dbe4b0c88efc5c28b93790d&hash=54088922C7CCD56DD023CAC53CA91B12"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/0116-5736-sw-130th-lane/1fl_west-florida_drh_express-series_freeport-a.jpg?iar=1&sc=1&thn=1&w=425&rev=57322303d6104775bbeb196eeb05a224&hash=FB3AA219C1250C8E2C7FD8E68316CC81"
           ]
         },
         {
@@ -1522,7 +1508,7 @@
       "slug": "ocala-crossings-south",
       "name": "Ocala Crossings South",
       "address": "8717 SW 46th Terrace, Ocala, FL 34476",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 289990,
       "highestPrice": 343070,
       "beds": [
@@ -1621,24 +1607,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4ebb/0225-8943-sw-46th-avenue/cali-c-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f4c02ec61c0740c3bb553019b18f5a48&hash=54C808D7528AF5F3B6B6D4972B3B0431",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4ebb/0225-8943-sw-46th-avenue/cali-c-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f4c02ec61c0740c3bb553019b18f5a48&hash=54C808D7528AF5F3B6B6D4972B3B0431"
-          ]
-        },
-        {
-          "lot": "12",
-          "address": "8963 SW 46Th Avenue",
-          "plan": "Hayden",
-          "price": 337990,
-          "priceLabel": "$337,990",
-          "beds": 5,
-          "homeSlug": "8963-sw-46th-avenue",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-crossings-south/qmis/8963-sw-46th-avenue",
-          "baths": "3",
-          "sqft": "2,605",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4ehb/0227-8963-sw-46th-avenue/hayden-g-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=67f29413b7c8400d82d74b5403398677&hash=E57DA1DB49B3AF6AAFE2632A82DCE2C5",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4ehb/0227-8963-sw-46th-avenue/hayden-g-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=67f29413b7c8400d82d74b5403398677&hash=E57DA1DB49B3AF6AAFE2632A82DCE2C5"
           ]
         },
         {
