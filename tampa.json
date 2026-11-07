@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-06T20:17:16.192Z",
+  "updatedAt": "2026-11-07T18:31:40.824Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-06T20:17:16.192Z",
+  "publicUpdatedAt": "2026-11-07T18:31:40.824Z",
   "photoCount": 185,
   "communities": [
     {
@@ -3263,8 +3263,8 @@
           "lot": "36",
           "address": "1117 Arrowhead Vine Ct",
           "plan": "",
-          "price": 350000,
-          "priceLabel": "$350,000",
+          "price": 335000,
+          "priceLabel": "$335,000",
           "beds": 4,
           "homeSlug": "1117-arrowhead-vine-ct",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/holloway-landing/qmis/1117-arrowhead-vine-ct",
@@ -3276,8 +3276,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e407/0036-1117-arrowhead-vine-ct/freepoart_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=17daf55d5f5d4c48b3b0606bed71def2&hash=2A39790155C02E2F538683621ED44514"
           ],
-          "incentive": 1990,
-          "incentiveLabel": "(1,990)"
+          "incentive": 16990,
+          "incentiveLabel": "(16,990)"
         },
         {
           "lot": "37",
@@ -3301,8 +3301,8 @@
           "lot": "38",
           "address": "1121 Arrowhead Vine Ct",
           "plan": "",
-          "price": 340000,
-          "priceLabel": "$340,000",
+          "price": 355000,
+          "priceLabel": "$355,000",
           "beds": 4,
           "homeSlug": "1121-arrowhead-vine-ct",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/holloway-landing/qmis/1121-arrowhead-vine-ct",
