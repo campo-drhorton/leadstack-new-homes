@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-07T18:31:40.824Z",
+  "updatedAt": "2026-11-08T18:42:46.120Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-07T18:31:40.824Z",
+  "publicUpdatedAt": "2026-11-08T18:42:46.120Z",
   "photoCount": 185,
   "communities": [
     {
@@ -3516,6 +3516,16 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39317-mirada/393170000-mirada-villas/1565/fl_tampanorth_drhorton_siestaa_nocl.jpg?as=1&w=425&rev=a531b290c9e54f7582dfcc047c64561d&hash=282F040B54E6D035E7201E8E6E41B00B",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39317-mirada/393170000-mirada-villas/1565/fl_tampanorth_drhorton_siestaa_nocl.jpg?as=1&w=425&rev=a531b290c9e54f7582dfcc047c64561d&hash=282F040B54E6D035E7201E8E6E41B00B"
+          ]
+        },
+        {
+          "slug": "x30e",
+          "name": "Towns at Woodsdale",
+          "startingLabel": "Homes from the $255s",
+          "sourceUrl": "https://www.drhorton.com/texas/killeen-temple-waco/china-spring/eagles-landing/floor-plans/x30e",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393940000-woodsdale-landing-ths/14-custom-ancient_sage_rd-s0703-014.jpg?as=1&w=425&rev=e73d2a05f69948fbb0956dfb00bfded6&hash=661CB1DEA29168FBD38EBA2490205C03",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39390-towns-at-woodsdale/393940000-woodsdale-landing-ths/14-custom-ancient_sage_rd-s0703-014.jpg?as=1&w=425&rev=e73d2a05f69948fbb0956dfb00bfded6&hash=661CB1DEA29168FBD38EBA2490205C03"
           ]
         }
       ]
