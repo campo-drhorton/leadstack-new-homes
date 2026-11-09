@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-08T18:35:19.844Z",
+  "updatedAt": "2026-11-09T23:13:43.455Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-08T18:35:19.844Z",
-  "photoCount": 93,
+  "publicUpdatedAt": "2026-11-09T23:13:43.455Z",
+  "photoCount": 92,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -1109,7 +1109,7 @@
       "slug": "mcginley-landing",
       "name": "McGinley Landing",
       "address": "13226 SW 56th Court Road, Ocala, FL 34473",
-      "availableCount": 8,
+      "availableCount": 9,
       "lowestPrice": 269965,
       "highestPrice": 314965,
       "beds": [
@@ -1244,6 +1244,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/0116-5736-sw-130th-lane/1fl_west-florida_drh_express-series_freeport-a.jpg?iar=1&sc=1&thn=1&w=425&rev=57322303d6104775bbeb196eeb05a224&hash=FB3AA219C1250C8E2C7FD8E68316CC81",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e407/0116-5736-sw-130th-lane/1fl_west-florida_drh_express-series_freeport-a.jpg?iar=1&sc=1&thn=1&w=425&rev=57322303d6104775bbeb196eeb05a224&hash=FB3AA219C1250C8E2C7FD8E68316CC81"
+          ]
+        },
+        {
+          "lot": "113",
+          "address": "5760 SW 130th Lane",
+          "plan": "",
+          "price": 275965,
+          "priceLabel": "$275,965",
+          "beds": 3,
+          "homeSlug": "5760-sw-130th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mcginley-landing/qmis/5760-sw-130th-lane",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/0113-5760-sw-130th-lane/archer-a-8ft-siding-gen3-elev_ind_2.jpg?iar=1&sc=1&thn=1&w=425&rev=5c6bd9af4cd649e38bb003fa5d59bf32&hash=DC337365C01E66FB03D9CCC592F4B616",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/0113-5760-sw-130th-lane/archer-a-8ft-siding-gen3-elev_ind_2.jpg?iar=1&sc=1&thn=1&w=425&rev=5c6bd9af4cd649e38bb003fa5d59bf32&hash=DC337365C01E66FB03D9CCC592F4B616"
           ]
         },
         {
@@ -2134,7 +2152,7 @@
       "name": "Ridge at Heath Brook",
       "address": "5405 SW 44th Court Rd, Ocala, FL 34474",
       "availableCount": 7,
-      "lowestPrice": 278810,
+      "lowestPrice": 287990,
       "highestPrice": 427275,
       "beds": [
         3,
@@ -2165,8 +2183,8 @@
           "lot": "127",
           "address": "4217 SW 52Nd Lane Rd",
           "plan": "Coral",
-          "price": 387850,
-          "priceLabel": "$387,850",
+          "price": 398130,
+          "priceLabel": "$398,130",
           "beds": 4,
           "homeSlug": "4217-sw-52nd-lane-rd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/4217-sw-52nd-lane-rd",
@@ -2237,8 +2255,8 @@
           "lot": "201",
           "address": "5307 SW 41st Court",
           "plan": "Aria",
-          "price": 278810,
-          "priceLabel": "$278,810",
+          "price": 297170,
+          "priceLabel": "$297,170",
           "beds": 3,
           "homeSlug": "5307-sw-41st-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/5307-sw-41st-court",
@@ -2255,8 +2273,8 @@
           "lot": "195",
           "address": "5385 SW 41st Court",
           "plan": "Aria",
-          "price": 278810,
-          "priceLabel": "$278,810",
+          "price": 287990,
+          "priceLabel": "$287,990",
           "beds": 3,
           "homeSlug": "5385-sw-41st-court",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/5385-sw-41st-court",
@@ -2382,7 +2400,7 @@
       "slug": "tartan-farms-at-winding-oaks",
       "name": "Tartan Farms at Winding Oaks",
       "address": "4428 SW 69th Street, Ocala, FL 34474",
-      "availableCount": 12,
+      "availableCount": 11,
       "lowestPrice": 284990,
       "highestPrice": 437990,
       "beds": [
@@ -2410,24 +2428,6 @@
           ],
           "incentive": 2080,
           "incentiveLabel": "(2,080)"
-        },
-        {
-          "lot": "97",
-          "address": "4390 SW 67th Ln",
-          "plan": "Hayden",
-          "price": 339990,
-          "priceLabel": "$339,990",
-          "beds": 5,
-          "homeSlug": "4390-sw-67th-ln",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/qmis/4390-sw-67th-ln",
-          "baths": "3",
-          "sqft": "2,605",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/hayden-k-stone-carriage-gen3-elev_ind_door_updated.jpg?iar=1&sc=1&thn=1&w=425&rev=4d8d0196ad75463f91a533acc1494d8e&hash=29E888D164103C3FC21892CB89A8E06B",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ehb/0024-4390-sw-67th-ln/hayden-k-stone-carriage-gen3-elev_ind_door_updated.jpg?iar=1&sc=1&thn=1&w=425&rev=4d8d0196ad75463f91a533acc1494d8e&hash=29E888D164103C3FC21892CB89A8E06B"
-          ]
         },
         {
           "lot": "98",
@@ -2806,33 +2806,13 @@
       "slug": "the-towns-at-laurel-commons",
       "name": "The Towns at Laurel Commons",
       "address": "8256 SW 67th Avenue, Ocala, FL 34476",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 224990,
       "highestPrice": 241070,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "160",
-          "address": "6580 SW 82nd Loop",
-          "plan": "Pearson A",
-          "price": 237990,
-          "priceLabel": "$237,990",
-          "beds": 3,
-          "homeSlug": "6580-sw-82nd-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6580-sw-82nd-loop",
-          "baths": "2.5",
-          "sqft": "1,458",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0160-6580-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=dd08c4e8370f4c22af2232d9b59563db&hash=C73D72D02FF520CFFA5A0CA78B237871",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0160-6580-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=dd08c4e8370f4c22af2232d9b59563db&hash=C73D72D02FF520CFFA5A0CA78B237871"
-          ],
-          "incentive": 80,
-          "incentiveLabel": "(80)"
-        },
         {
           "lot": "178",
           "address": "6622 SW 82nd Loop",
