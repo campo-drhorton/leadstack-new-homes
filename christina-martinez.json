@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T20:57:58.907Z",
+  "updatedAt": "2026-11-12T21:15:03.813Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-11T20:57:58.907Z",
+  "publicUpdatedAt": "2026-11-12T21:15:03.813Z",
   "photoCount": 94,
   "communities": [
     {
@@ -1272,8 +1272,8 @@
           "lot": "116",
           "address": "5736 SW 130th Lane",
           "plan": "",
-          "price": 279990,
-          "priceLabel": "$279,990",
+          "price": 274990,
+          "priceLabel": "$274,990",
           "beds": 4,
           "homeSlug": "5736-sw-130th-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mcginley-landing/qmis/5736-sw-130th-lane",
@@ -2078,6 +2078,21 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/1844/tos_laurel.jpg?as=1&w=425&rev=82fbfe16501c431393056cdb5824d9d4&hash=B3FDE5BE3D27CCE0632D4020A39389B1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/1844/tos_laurel.jpg?as=1&w=425&rev=82fbfe16501c431393056cdb5824d9d4&hash=B3FDE5BE3D27CCE0632D4020A39389B1"
+          ]
+        },
+        {
+          "slug": "a4db",
+          "name": "Delray",
+          "startingLabel": "Starting in the $335s",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve/floor-plans/a4db",
+          "beds": 4,
+          "baths": "2",
+          "sqft": "2,034",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/delray_e_ocp_web.png?as=1&w=425&rev=4960a4007acb4d4ab2b3772c2ff311c6&hash=AF4DE5A35E8C6666E3113A4FB6B9CB06",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/delray_e_ocp_web.png?as=1&w=425&rev=4960a4007acb4d4ab2b3772c2ff311c6&hash=AF4DE5A35E8C6666E3113A4FB6B9CB06"
           ]
         },
         {

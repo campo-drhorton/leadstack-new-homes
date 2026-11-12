@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-11T21:03:30.690Z",
+  "updatedAt": "2026-11-12T21:20:22.579Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-11T21:03:30.690Z",
-  "photoCount": 543,
+  "publicUpdatedAt": "2026-11-12T21:20:22.579Z",
+  "photoCount": 541,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -2313,7 +2313,7 @@
       "address": "3928 Magenta Place, Saint Cloud, FL 34772",
       "availableCount": 18,
       "lowestPrice": 370000,
-      "highestPrice": 753601,
+      "highestPrice": 752676,
       "beds": [
         4,
         5
@@ -2323,8 +2323,8 @@
           "lot": "241",
           "address": "3667 Malawi Trail",
           "plan": "",
-          "price": 679995,
-          "priceLabel": "$679,995",
+          "price": 679070,
+          "priceLabel": "$679,070",
           "beds": 5,
           "homeSlug": "3667-malawi-trail",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3667-malawi-trail",
@@ -2487,8 +2487,8 @@
           "lot": "248",
           "address": "3611 Malawi Trail",
           "plan": "",
-          "price": 738601,
-          "priceLabel": "$738,601",
+          "price": 737676,
+          "priceLabel": "$737,676",
           "beds": 5,
           "homeSlug": "3611-malawi-trail",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3611-malawi-trail",
@@ -2505,8 +2505,8 @@
           "lot": "247",
           "address": "3619 Malawi Trail",
           "plan": "",
-          "price": 753601,
-          "priceLabel": "$753,601",
+          "price": 752676,
+          "priceLabel": "$752,676",
           "beds": 5,
           "homeSlug": "3619-malawi-trail",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3619-malawi-trail",
@@ -2523,8 +2523,8 @@
           "lot": "246",
           "address": "3627 Malawi Trail",
           "plan": "",
-          "price": 697321,
-          "priceLabel": "$697,321",
+          "price": 696396,
+          "priceLabel": "$696,396",
           "beds": 4,
           "homeSlug": "3627-malawi-trail",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3627-malawi-trail",
@@ -2541,8 +2541,8 @@
           "lot": "243",
           "address": "3651 Malawi Trail",
           "plan": "",
-          "price": 698646,
-          "priceLabel": "$698,646",
+          "price": 697721,
+          "priceLabel": "$697,721",
           "beds": 4,
           "homeSlug": "3651-malawi-trail",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3651-malawi-trail",
@@ -5227,7 +5227,7 @@
       "slug": "farm-at-varrea",
       "name": "Farm at Varrea",
       "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
-      "availableCount": 24,
+      "availableCount": 23,
       "lowestPrice": 300000,
       "highestPrice": 490000,
       "beds": [
@@ -5347,24 +5347,6 @@
           ]
         },
         {
-          "lot": "67",
-          "address": "3520 Harvest Gardens Loop",
-          "plan": "",
-          "price": 335000,
-          "priceLabel": "$335,000",
-          "beds": 4,
-          "homeSlug": "3520-harvest-gardens-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3520-harvest-gardens-loop",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0142-3520-harvest-gardens-loop/fl_drhorton_tampanorth_cali_c_stoneandsiding.jpg?iar=1&sc=1&thn=1&w=425&rev=73c8c5189ca746d0b2ca8b929f8a969e&hash=D24B72B21B42D86BFF1F922A0663C018",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0142-3520-harvest-gardens-loop/fl_drhorton_tampanorth_cali_c_stoneandsiding.jpg?iar=1&sc=1&thn=1&w=425&rev=73c8c5189ca746d0b2ca8b929f8a969e&hash=D24B72B21B42D86BFF1F922A0663C018"
-          ]
-        },
-        {
           "lot": "34",
           "address": "3525 Harvest Gardens Lp",
           "plan": "",
@@ -5398,24 +5380,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0215-4409-hidden-farm-drive/fl_tampanorth_drhorton_lantana_d.jpg?iar=1&sc=1&thn=1&w=425&rev=2e4eaf62f1a34744b8bf631b770cb793&hash=B26A0ECB2B9CD6026CA3CC975042F596",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2045/0215-4409-hidden-farm-drive/fl_tampanorth_drhorton_lantana_d.jpg?iar=1&sc=1&thn=1&w=425&rev=2e4eaf62f1a34744b8bf631b770cb793&hash=B26A0ECB2B9CD6026CA3CC975042F596"
-          ]
-        },
-        {
-          "lot": "621",
-          "address": "3502 Rosewood Ramble Ct",
-          "plan": "",
-          "price": 370990,
-          "priceLabel": "$370,990",
-          "beds": 5,
-          "homeSlug": "3502-rosewood-ramble-ct",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3502-rosewood-ramble-ct",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/0123-3502-rosewood-ramble-ct/lakeside_g_88_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=1a2d664172d54e6a866463b7e1514cdd&hash=B5928DACB0CB01F8713BBDF480775A87",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/0123-3502-rosewood-ramble-ct/lakeside_g_88_stone_no_cl_garage_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=1a2d664172d54e6a866463b7e1514cdd&hash=B5928DACB0CB01F8713BBDF480775A87"
           ]
         },
         {
@@ -5524,6 +5488,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0159-4408-hidden-farm-drive/fl_drhorton_tampanorth_hayden_k_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=063cc3d7b8d84f62b6255f67c86a648e&hash=9FEFF0EF9D18D871D0C8E2C2B3491B21",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0159-4408-hidden-farm-drive/fl_drhorton_tampanorth_hayden_k_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=063cc3d7b8d84f62b6255f67c86a648e&hash=9FEFF0EF9D18D871D0C8E2C2B3491B21"
+          ]
+        },
+        {
+          "lot": "32",
+          "address": "3521 Harvest Gardens Lp",
+          "plan": "",
+          "price": 435000,
+          "priceLabel": "$435,000",
+          "beds": 4,
+          "homeSlug": "3521-harvest-gardens-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3521-harvest-gardens-loop",
+          "baths": "3",
+          "sqft": "2,756",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2767/0118-3521-harvest-gardens-loop/fl_tampanorth_drhorton_coral_h_gableaccent_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9c26ba1893814fe1aae08ceb740148ce&hash=B5A528F3539EFAA515537252032392A3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393520000-farm-at-varrea-50s-trdtn/2767/0118-3521-harvest-gardens-loop/fl_tampanorth_drhorton_coral_h_gableaccent_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9c26ba1893814fe1aae08ceb740148ce&hash=B5A528F3539EFAA515537252032392A3"
           ]
         },
         {
@@ -11806,9 +11788,9 @@
       "slug": "millstone",
       "name": "Millstone",
       "address": "8324 Madrid Street, Lakeland, FL 33810",
-      "availableCount": 4,
+      "availableCount": 3,
       "lowestPrice": 313490,
-      "highestPrice": 324490,
+      "highestPrice": 316990,
       "beds": [
         4
       ],
@@ -11867,24 +11849,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0150-1526-las-palmas-street/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=6e3b5e3c48d54fb1aa165a50203d7dbc&hash=25DAAFAB554C909898FCB86518554F98",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0150-1526-las-palmas-street/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=6e3b5e3c48d54fb1aa165a50203d7dbc&hash=25DAAFAB554C909898FCB86518554F98"
-          ]
-        },
-        {
-          "lot": "139",
-          "address": "1527 Las Palmas Street",
-          "plan": "",
-          "price": 324490,
-          "priceLabel": "$324,490",
-          "beds": 4,
-          "homeSlug": "1527-las-palmas-street",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1527-las-palmas-street",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0139-1527-las-palmas-street/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=919c1f190ce64a159013d508bfa0fdae&hash=66556ED5A6C42B6AA97A58F769C568EF",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0139-1527-las-palmas-street/harper_c.jpg?iar=1&sc=1&thn=1&w=425&rev=919c1f190ce64a159013d508bfa0fdae&hash=66556ED5A6C42B6AA97A58F769C568EF"
           ]
         }
       ],
@@ -12115,9 +12079,9 @@
       "slug": "nona-west",
       "name": "Nona West",
       "address": "14348 Canvas Street, Orlando, FL 32824",
-      "availableCount": 3,
+      "availableCount": 2,
       "lowestPrice": 392990,
-      "highestPrice": 419990,
+      "highestPrice": 392990,
       "beds": [
         3
       ],
@@ -12158,24 +12122,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0167-3545-chroma-street/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=a060647d39ff45298ad80b3f0f3007a4&hash=5C51E41F5FFD3D5D64073CFB2B4F0987",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0167-3545-chroma-street/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=a060647d39ff45298ad80b3f0f3007a4&hash=5C51E41F5FFD3D5D64073CFB2B4F0987"
-          ]
-        },
-        {
-          "lot": "36",
-          "address": "3600 Chroma Street",
-          "plan": "",
-          "price": 419990,
-          "priceLabel": "$419,990",
-          "beds": 3,
-          "homeSlug": "3600-chroma-street",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/orlando/nona-west/qmis/3600-chroma-street",
-          "baths": "2.5",
-          "sqft": "1,758",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1758/0036-3600-chroma-street/1_1_vale_exterior1.jpg?iar=1&sc=1&thn=1&w=425&rev=f7ae554fc81c4367918db7b4b5da842c&hash=8051AA1F2810EF47FFF0315BAB50C13E",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1758/0036-3600-chroma-street/1_1_vale_exterior1.jpg?iar=1&sc=1&thn=1&w=425&rev=f7ae554fc81c4367918db7b4b5da842c&hash=8051AA1F2810EF47FFF0315BAB50C13E"
           ]
         }
       ],
@@ -17645,7 +17591,7 @@
       "slug": "willowbrook-south",
       "name": "Willowbrook South",
       "address": "2815 Adeline Ave, Winter Haven, FL 33881",
-      "availableCount": 9,
+      "availableCount": 10,
       "lowestPrice": 277490,
       "highestPrice": 320990,
       "beds": [
@@ -17780,6 +17726,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0014-2767-adeline-ave/fletcher_ele_c_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=875a181901ea4a9485a363031f72df52&hash=43536194B7E9C4745CBD48334A0CA2AC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0014-2767-adeline-ave/fletcher_ele_c_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=875a181901ea4a9485a363031f72df52&hash=43536194B7E9C4745CBD48334A0CA2AC"
+          ]
+        },
+        {
+          "lot": "74",
+          "address": "2774 Adeline Ave",
+          "plan": "",
+          "price": 298990,
+          "priceLabel": "$298,990",
+          "beds": 5,
+          "homeSlug": "2774-adeline-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2774-adeline-ave",
+          "baths": "2",
+          "sqft": "1,708",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e405/0074-2774-adeline-ave/_0000_dundee_ele_b_cs_-_12_revised_02.jpg?iar=1&sc=1&thn=1&w=425&rev=c66b3a3fb4c04b7fb823284f45de0ce9&hash=64886B859CA007B61D44044831766544",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e405/0074-2774-adeline-ave/_0000_dundee_ele_b_cs_-_12_revised_02.jpg?iar=1&sc=1&thn=1&w=425&rev=c66b3a3fb4c04b7fb823284f45de0ce9&hash=64886B859CA007B61D44044831766544"
           ]
         },
         {
