@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T21:22:18.731Z",
+  "updatedAt": "2026-11-13T20:50:20.213Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-12T21:22:18.731Z",
+  "publicUpdatedAt": "2026-11-13T20:50:20.213Z",
   "photoCount": 210,
   "communities": [
     {
@@ -506,7 +506,7 @@
       "address": "10998 Crescent Deer Dr, Land O Lakes, FL 34638",
       "availableCount": 14,
       "lowestPrice": 250000,
-      "highestPrice": 307100,
+      "highestPrice": 307000,
       "beds": [
         3
       ],
@@ -679,8 +679,8 @@
           "lot": "304",
           "address": "11115 Treasure Swale Way",
           "plan": "",
-          "price": 307100,
-          "priceLabel": "$307,100",
+          "price": 300000,
+          "priceLabel": "$300,000",
           "beds": 3,
           "homeSlug": "11115-treasure-swale-way",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11115-treasure-swale-way",
@@ -1626,7 +1626,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39358-berry-bay/394500000-berry-bay-50s-exp/4ebb/0146-4982-eagle-rock-dr/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=251483608a6845caa2a5487586fb2538&hash=87C14467AB6FAAECF20D31287FA25898",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39358-berry-bay/394500000-berry-bay-50s-exp/4ebb/0146-4982-eagle-rock-dr/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=251483608a6845caa2a5487586fb2538&hash=87C14467AB6FAAECF20D31287FA25898"
-          ]
+          ],
+          "incentive": 11985,
+          "incentiveLabel": "(11,985)"
         }
       ],
       "models": [
@@ -3219,9 +3221,9 @@
           "sqft": "1,564",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393540000-farm-at-varrea-villas/v30a/carrington_elev_a_fav.jpg?as=1&w=425&rev=ed6d5817342f4a1f8250c055b859f6eb&hash=5BBBC470002A401F32380D89DADFA8A1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393540000-farm-at-varrea-villas/v30a/carrington_elev_a.jpg?as=1&w=425&rev=d2e3bbc5beb94e1f9754005c393fb7a2&hash=1AFE5E8A827A7AAF7073984085B8EE18",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393540000-farm-at-varrea-villas/v30a/carrington_elev_a_fav.jpg?as=1&w=425&rev=ed6d5817342f4a1f8250c055b859f6eb&hash=5BBBC470002A401F32380D89DADFA8A1"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393540000-farm-at-varrea-villas/v30a/carrington_elev_a.jpg?as=1&w=425&rev=d2e3bbc5beb94e1f9754005c393fb7a2&hash=1AFE5E8A827A7AAF7073984085B8EE18"
           ]
         },
         {
@@ -3393,7 +3395,7 @@
     },
     {
       "slug": "farm-at-varrea-townhomes",
-      "name": "Farm at Varrea",
+      "name": "Farm at Varrea Townhomes",
       "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
       "availableCount": 0,
       "lowestPrice": null,
@@ -3713,8 +3715,8 @@
           "lot": "36",
           "address": "1117 Arrowhead Vine Ct",
           "plan": "",
-          "price": 335000,
-          "priceLabel": "$335,000",
+          "price": 350000,
+          "priceLabel": "$350,000",
           "beds": 4,
           "homeSlug": "1117-arrowhead-vine-ct",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/holloway-landing/qmis/1117-arrowhead-vine-ct",
@@ -3726,8 +3728,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e407/0036-1117-arrowhead-vine-ct/freepoart_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=17daf55d5f5d4c48b3b0606bed71def2&hash=2A39790155C02E2F538683621ED44514"
           ],
-          "incentive": 16990,
-          "incentiveLabel": "(16,990)"
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "37",
@@ -6217,8 +6219,8 @@
           "price": 475000,
           "priceLabel": "$475,000",
           "beds": 5,
-          "homeSlug": "4724-silver-current-ave",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/tampa/waterstone/qmis/4724-silver-current-ave",
+          "homeSlug": "14713-inch-worm-road",
+          "sourceUrl": "https://www.drhorton.com/texas/austin/del-valle/revelry/qmis/14713-inch-worm-road",
           "baths": "3",
           "sqft": "2,453",
           "story": "2",
@@ -7025,24 +7027,6 @@
       ],
       "lots": [
         {
-          "lot": "26",
-          "address": "32609 Midsummer Night Ln",
-          "plan": "",
-          "price": 315000,
-          "priceLabel": "$315,000",
-          "beds": 3,
-          "homeSlug": "32609-midsummer-night-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek-townhomes/qmis/32609-midsummer-night-lane",
-          "baths": "2.5",
-          "sqft": "1,673",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0026-32609-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=379872dcfe984828a72f6a15b1a4208e&hash=6B8A1EA199FE3F6739B9ABC24D550784",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0026-32609-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=379872dcfe984828a72f6a15b1a4208e&hash=6B8A1EA199FE3F6739B9ABC24D550784"
-          ]
-        },
-        {
           "lot": "27",
           "address": "32611 Midsummer Night Ln",
           "plan": "",
@@ -7058,6 +7042,26 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0027-32611-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=20326fe3a9e7425bb635616ed8d17306&hash=122A280338736404F653BF6CAF197B2E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0027-32611-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=20326fe3a9e7425bb635616ed8d17306&hash=122A280338736404F653BF6CAF197B2E"
+          ],
+          "incentive": 990,
+          "incentiveLabel": "(990)"
+        },
+        {
+          "lot": "26",
+          "address": "32609 Midsummer Night Ln",
+          "plan": "",
+          "price": 315000,
+          "priceLabel": "$315,000",
+          "beds": 3,
+          "homeSlug": "32609-midsummer-night-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek-townhomes/qmis/32609-midsummer-night-lane",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0026-32609-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=379872dcfe984828a72f6a15b1a4208e&hash=6B8A1EA199FE3F6739B9ABC24D550784",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0026-32609-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=379872dcfe984828a72f6a15b1a4208e&hash=6B8A1EA199FE3F6739B9ABC24D550784"
           ]
         }
       ],

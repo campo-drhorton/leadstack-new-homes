@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-12T21:20:22.579Z",
+  "updatedAt": "2026-11-13T20:48:17.487Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-12T21:20:22.579Z",
-  "photoCount": 541,
+  "publicUpdatedAt": "2026-11-13T20:48:17.487Z",
+  "photoCount": 538,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -5182,48 +5182,6 @@
       ]
     },
     {
-      "slug": "farm-at-varrea-townhomes",
-      "name": "Farm at Varrea",
-      "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
-      "availableCount": 0,
-      "lowestPrice": null,
-      "highestPrice": null,
-      "beds": [],
-      "lots": [],
-      "models": [
-        {
-          "slug": "1512",
-          "name": "Parker",
-          "startingLabel": "Starting in the $276s",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea-townhomes/floor-plans/1512",
-          "beds": 3,
-          "baths": "2.5",
-          "sqft": "1,512",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39355-farm-at-varrea/393550000-farm-at-varrea-th/1512/parker_preston_elevation_renderings_fav_1.jpg?as=1&w=425&rev=930bc2af0c3545ce841dbc7cbb0a48ca&hash=980D64546563BA385DDA66CD9D1F5819",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39355-farm-at-varrea/393550000-farm-at-varrea-th/1512/parker_preston_elevation_renderings_fav_1.jpg?as=1&w=425&rev=930bc2af0c3545ce841dbc7cbb0a48ca&hash=980D64546563BA385DDA66CD9D1F5819"
-          ]
-        },
-        {
-          "slug": "1464",
-          "name": "Preston",
-          "startingLabel": "Starting in the $258s",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea-townhomes/floor-plans/1464",
-          "beds": 3,
-          "baths": "2.5",
-          "sqft": "1,463",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39355-farm-at-varrea/393550000-farm-at-varrea-th/1464/parker_preston_elevation_renderings_fav_1.jpg?as=1&w=425&rev=9ddf58d6a7004e12ac6a63a89613c1d6&hash=CBE526E73DCE7C5DF8CEE490ECE953A8",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39355-farm-at-varrea/393550000-farm-at-varrea-th/1464/parker_preston_elevation_renderings_fav_1.jpg?as=1&w=425&rev=9ddf58d6a7004e12ac6a63a89613c1d6&hash=CBE526E73DCE7C5DF8CEE490ECE953A8"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "farm-at-varrea",
       "name": "Farm at Varrea",
       "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
@@ -5724,9 +5682,9 @@
           "sqft": "1,564",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393540000-farm-at-varrea-villas/v30a/carrington_elev_a_fav.jpg?as=1&w=425&rev=ed6d5817342f4a1f8250c055b859f6eb&hash=5BBBC470002A401F32380D89DADFA8A1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393540000-farm-at-varrea-villas/v30a/carrington_elev_a.jpg?as=1&w=425&rev=d2e3bbc5beb94e1f9754005c393fb7a2&hash=1AFE5E8A827A7AAF7073984085B8EE18",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393540000-farm-at-varrea-villas/v30a/carrington_elev_a_fav.jpg?as=1&w=425&rev=ed6d5817342f4a1f8250c055b859f6eb&hash=5BBBC470002A401F32380D89DADFA8A1"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39350-farm-at-varrea/393540000-farm-at-varrea-villas/v30a/carrington_elev_a.jpg?as=1&w=425&rev=d2e3bbc5beb94e1f9754005c393fb7a2&hash=1AFE5E8A827A7AAF7073984085B8EE18"
           ]
         },
         {
@@ -5892,6 +5850,48 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/3efb/robie_ele_mc.jpg?as=1&w=425&rev=60f96eec85ce4cef843f1ff443e2ea3a&hash=1DCE29A5347350992111BCF6765CBC1D",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/3efb/robie_ele_mc.jpg?as=1&w=425&rev=60f96eec85ce4cef843f1ff443e2ea3a&hash=1DCE29A5347350992111BCF6765CBC1D"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "farm-at-varrea-townhomes",
+      "name": "Farm at Varrea Townhomes",
+      "address": "3506 Auburn Arbor Court, Plant City, FL 33565",
+      "availableCount": 0,
+      "lowestPrice": null,
+      "highestPrice": null,
+      "beds": [],
+      "lots": [],
+      "models": [
+        {
+          "slug": "1512",
+          "name": "Parker",
+          "startingLabel": "Starting in the $276s",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea-townhomes/floor-plans/1512",
+          "beds": 3,
+          "baths": "2.5",
+          "sqft": "1,512",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39355-farm-at-varrea/393550000-farm-at-varrea-th/1512/parker_preston_elevation_renderings_fav_1.jpg?as=1&w=425&rev=930bc2af0c3545ce841dbc7cbb0a48ca&hash=980D64546563BA385DDA66CD9D1F5819",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39355-farm-at-varrea/393550000-farm-at-varrea-th/1512/parker_preston_elevation_renderings_fav_1.jpg?as=1&w=425&rev=930bc2af0c3545ce841dbc7cbb0a48ca&hash=980D64546563BA385DDA66CD9D1F5819"
+          ]
+        },
+        {
+          "slug": "1464",
+          "name": "Preston",
+          "startingLabel": "Starting in the $258s",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea-townhomes/floor-plans/1464",
+          "beds": 3,
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39355-farm-at-varrea/393550000-farm-at-varrea-th/1464/parker_preston_elevation_renderings_fav_1.jpg?as=1&w=425&rev=9ddf58d6a7004e12ac6a63a89613c1d6&hash=CBE526E73DCE7C5DF8CEE490ECE953A8",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39355-farm-at-varrea/393550000-farm-at-varrea-th/1464/parker_preston_elevation_renderings_fav_1.jpg?as=1&w=425&rev=9ddf58d6a7004e12ac6a63a89613c1d6&hash=CBE526E73DCE7C5DF8CEE490ECE953A8"
           ]
         }
       ]
@@ -7494,7 +7494,7 @@
       "slug": "halifax-at-plantation",
       "name": "Halifax Plantation Villas",
       "address": "2745 Kinsale Lane, Ormond Beach, FL 32174",
-      "availableCount": 8,
+      "availableCount": 7,
       "lowestPrice": 294990,
       "highestPrice": 314995,
       "beds": [
@@ -7592,24 +7592,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34508-halifax-plantation-section-o/345340000-halifax-plantation-villas/v30a/0112-2779-kinsale-lane/1-web-or-mls-1-web-or-mls-2745_kinsale_ln__ormond_beach__fl_32174_dsc07563.jpg?iar=1&sc=1&thn=1&w=425&rev=fe3553600171407eb4fad42496d8da2f&hash=B308D93E210314D1B126EC5057EE411E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34508-halifax-plantation-section-o/345340000-halifax-plantation-villas/v30a/0112-2779-kinsale-lane/1-web-or-mls-1-web-or-mls-2745_kinsale_ln__ormond_beach__fl_32174_dsc07563.jpg?iar=1&sc=1&thn=1&w=425&rev=fe3553600171407eb4fad42496d8da2f&hash=B308D93E210314D1B126EC5057EE411E"
-          ]
-        },
-        {
-          "lot": "04",
-          "address": "2786 Kinsale Lane",
-          "plan": "",
-          "price": 302745,
-          "priceLabel": "$302,745",
-          "beds": 3,
-          "homeSlug": "2786-kinsale-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/ormond-beach/halifax-at-plantation/qmis/2786-kinsale-lane",
-          "baths": "2",
-          "sqft": "1,564",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34508-halifax-plantation-section-o/345340000-halifax-plantation-villas/v30a/0004-2786-kinsale-lane/1-web-or-mls-1-web-or-mls-2745_kinsale_ln__ormond_beach__fl_32174_dsc07563.jpg?iar=1&sc=1&thn=1&w=425&rev=6683a97cc2aa422ca8f802c2e3218193&hash=DB3D4FC02C18BA435E7E32820E33FF37",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34508-halifax-plantation-section-o/345340000-halifax-plantation-villas/v30a/0004-2786-kinsale-lane/1-web-or-mls-1-web-or-mls-2745_kinsale_ln__ormond_beach__fl_32174_dsc07563.jpg?iar=1&sc=1&thn=1&w=425&rev=6683a97cc2aa422ca8f802c2e3218193&hash=DB3D4FC02C18BA435E7E32820E33FF37"
           ]
         },
         {
@@ -8129,7 +8111,7 @@
           "priceLabel": "$284,490",
           "beds": 3,
           "homeSlug": "2711-gladiola-road",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/2711-gladiola-road",
+          "sourceUrl": "",
           "baths": "2.5",
           "sqft": "1,673",
           "story": "2",
@@ -9613,8 +9595,8 @@
           "lot": "36",
           "address": "1117 Arrowhead Vine Ct",
           "plan": "",
-          "price": 335000,
-          "priceLabel": "$335,000",
+          "price": 350000,
+          "priceLabel": "$350,000",
           "beds": 4,
           "homeSlug": "1117-arrowhead-vine-ct",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/holloway-landing/qmis/1117-arrowhead-vine-ct",
@@ -9626,8 +9608,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39388-holloway-landing/393880000-holloway-landing-60s-exp/e407/0036-1117-arrowhead-vine-ct/freepoart_b_no_stone_8_0_no_cl.jpg?iar=1&sc=1&thn=1&w=425&rev=17daf55d5f5d4c48b3b0606bed71def2&hash=2A39790155C02E2F538683621ED44514"
           ],
-          "incentive": 16990,
-          "incentiveLabel": "(16,990)"
+          "incentive": 1990,
+          "incentiveLabel": "(1,990)"
         },
         {
           "lot": "37",
@@ -13433,8 +13415,8 @@
       "slug": "sagewood",
       "name": "Sagewood",
       "address": "1030 Gull Drive, Apopka, FL 32703",
-      "availableCount": 13,
-      "lowestPrice": 445990,
+      "availableCount": 12,
+      "lowestPrice": 449990,
       "highestPrice": 539990,
       "beds": [
         4,
@@ -13475,24 +13457,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0071-1091-gull-drive/1_1_cali_exterior_l.jpg?iar=1&sc=1&thn=1&w=425&rev=29331a50aebb4d7b920e2ca636e46916&hash=0CE843D6EB9F0A467BB405DCAD4A4C2E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0071-1091-gull-drive/1_1_cali_exterior_l.jpg?iar=1&sc=1&thn=1&w=425&rev=29331a50aebb4d7b920e2ca636e46916&hash=0CE843D6EB9F0A467BB405DCAD4A4C2E"
-          ]
-        },
-        {
-          "lot": "15",
-          "address": "1102 Gull Drive",
-          "plan": "",
-          "price": 445990,
-          "priceLabel": "$445,990",
-          "beds": 4,
-          "homeSlug": "1102-gull-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/qmis/1102-gull-drive",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0015-1102-gull-drive/cali_l_web.jpg?iar=1&sc=1&thn=1&w=425&rev=debbe24350c445c58d0c1f483200a886&hash=F74604F1949035AEF624F4A487707CC9",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/0015-1102-gull-drive/cali_l_web.jpg?iar=1&sc=1&thn=1&w=425&rev=debbe24350c445c58d0c1f483200a886&hash=F74604F1949035AEF624F4A487707CC9"
           ]
         },
         {
@@ -16355,7 +16319,7 @@
       "slug": "villamar",
       "name": "Villamar",
       "address": "5515 Taverna Loop, Winter Haven, FL 33884",
-      "availableCount": 4,
+      "availableCount": 3,
       "lowestPrice": 274470,
       "highestPrice": 322490,
       "beds": [
@@ -16363,26 +16327,6 @@
         4
       ],
       "lots": [
-        {
-          "lot": "252",
-          "address": "4049 Giorgio Drive",
-          "plan": "",
-          "price": 281400,
-          "priceLabel": "$281,400",
-          "beds": 3,
-          "homeSlug": "4049-giorgio-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/4049-giorgio-drive",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389290000-villamar-40s-ph3-3-6/e302/0252-4049-giorgio-drive/allex_d_cropped_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d72b049c94c44e3ca55ded4ecab888ee&hash=17E18F735DAD0BCCCDFB93B02A812880",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389290000-villamar-40s-ph3-3-6/e302/0252-4049-giorgio-drive/allex_d_cropped_2.jpg?iar=1&sc=1&thn=1&w=425&rev=d72b049c94c44e3ca55ded4ecab888ee&hash=17E18F735DAD0BCCCDFB93B02A812880"
-          ],
-          "incentive": 6590,
-          "incentiveLabel": "(6,590)"
-        },
         {
           "lot": "284",
           "address": "5565 Taverna Loop",
