@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-13T20:48:17.487Z",
+  "updatedAt": "2026-11-14T19:00:33.825Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-13T20:48:17.487Z",
-  "photoCount": 538,
+  "publicUpdatedAt": "2026-11-14T19:00:33.825Z",
+  "photoCount": 533,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -805,7 +805,7 @@
       "slug": "avalon-woods",
       "name": "Avalon Woods",
       "address": "1617 NW 248th Way, Newberry, FL 32669",
-      "availableCount": 17,
+      "availableCount": 16,
       "lowestPrice": 275990,
       "highestPrice": 359990,
       "beds": [
@@ -940,24 +940,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974830000-avalon-woods-60s-exp/5emb/0028-24246-nw-13th-blvd/madison-js-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d03a5689f3c142678f7a91892a2b7053&hash=BFDC54316EF4B9E290BE8C6F35B7D16E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974830000-avalon-woods-60s-exp/5emb/0028-24246-nw-13th-blvd/madison-js-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d03a5689f3c142678f7a91892a2b7053&hash=BFDC54316EF4B9E290BE8C6F35B7D16E"
-          ]
-        },
-        {
-          "lot": "652",
-          "address": "24248 NW 10th PLACE",
-          "plan": "",
-          "price": 359070,
-          "priceLabel": "$359,070",
-          "beds": 5,
-          "homeSlug": "24248-nw-10th-place",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24248-nw-10th-place",
-          "baths": "3",
-          "sqft": "2,516",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ehb/0148-24248-nw-10th-place/hayden-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f2bf7a04eb2b429fbed35270e1783d68&hash=4B2EDADE99C31D081ABAF61E2BBB9FD3",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ehb/0148-24248-nw-10th-place/hayden-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f2bf7a04eb2b429fbed35270e1783d68&hash=4B2EDADE99C31D081ABAF61E2BBB9FD3"
           ]
         },
         {
@@ -2311,7 +2293,7 @@
       "slug": "buena-lago",
       "name": "Buena Lago",
       "address": "3928 Magenta Place, Saint Cloud, FL 34772",
-      "availableCount": 18,
+      "availableCount": 17,
       "lowestPrice": 370000,
       "highestPrice": 752676,
       "beds": [
@@ -2610,24 +2592,6 @@
           ]
         },
         {
-          "lot": "209",
-          "address": "3805 Malawi Trail",
-          "plan": "",
-          "price": 390990,
-          "priceLabel": "$390,990",
-          "beds": 4,
-          "homeSlug": "3805-malawi-trail",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3805-malawi-trail",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0358-3805-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=c3cf936330ca4c269b4ccd08df827ff2&hash=1F6243189A2BF74F53CEC5195EE52145",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0358-3805-malawi-trail/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=c3cf936330ca4c269b4ccd08df827ff2&hash=1F6243189A2BF74F53CEC5195EE52145"
-          ]
-        },
-        {
           "lot": "415",
           "address": "5285 Masser Road",
           "plan": "",
@@ -2764,7 +2728,11 @@
           "baths": "2",
           "sqft": "1,665",
           "story": "1",
-          "garage": "2"
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/0096-903-bluet-drive/harper_g.jpg?iar=1&sc=1&thn=1&w=425&rev=02e98c416f6540a8aa5d1e888ef273d0&hash=254CE31FC5C57D4546A1305AF6B6B19C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/0096-903-bluet-drive/harper_g.jpg?iar=1&sc=1&thn=1&w=425&rev=02e98c416f6540a8aa5d1e888ef273d0&hash=254CE31FC5C57D4546A1305AF6B6B19C"
+          ]
         },
         {
           "lot": "31",
@@ -2979,21 +2947,6 @@
           ]
         },
         {
-          "slug": "4ebb",
-          "name": "Cali",
-          "startingLabel": "Starting in the $366s",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/floor-plans/4ebb",
-          "beds": 4,
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345460000-campbell-crossing-50s/4ebb/1-1-caliexterior-elevationc.jpg?as=1&w=425&rev=3d01efca257543c1885640987193b2ae&hash=4A9D160E5C20DBE6D807C844A8BE3CF6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345460000-campbell-crossing-50s/4ebb/1-1-caliexterior-elevationc.jpg?as=1&w=425&rev=3d01efca257543c1885640987193b2ae&hash=4A9D160E5C20DBE6D807C844A8BE3CF6"
-          ]
-        },
-        {
           "slug": "e312",
           "name": "Cameron",
           "startingLabel": "Starting in the $327s",
@@ -3036,21 +2989,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/1_1_harper_exteriorc.jpg?as=1&w=425&rev=cb4ce71f16e9483683aec3d0fee2713f&hash=546B449B546A39A7E6E03DCC3DFCC694",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/1_1_harper_exteriorc.jpg?as=1&w=425&rev=cb4ce71f16e9483683aec3d0fee2713f&hash=546B449B546A39A7E6E03DCC3DFCC694"
-          ]
-        },
-        {
-          "slug": "4ehb",
-          "name": "Hayden",
-          "startingLabel": "Starting in the $425s",
-          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/floor-plans/4ehb",
-          "beds": 5,
-          "baths": "3",
-          "sqft": "2,601",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345460000-campbell-crossing-50s/4ehb/1_1_haydenexterior_g.jpg?as=1&w=425&rev=95c60fbf617f497895c4ec891ab5bd12&hash=818ACF656E31D0264CC9256A8C64A454",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345460000-campbell-crossing-50s/4ehb/1_1_haydenexterior_g.jpg?as=1&w=425&rev=95c60fbf617f497895c4ec891ab5bd12&hash=818ACF656E31D0264CC9256A8C64A454"
           ]
         },
         {
@@ -8111,7 +8049,7 @@
           "priceLabel": "$284,490",
           "beds": 3,
           "homeSlug": "2711-gladiola-road",
-          "sourceUrl": "",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/2711-gladiola-road",
           "baths": "2.5",
           "sqft": "1,673",
           "story": "2",
@@ -10361,7 +10299,7 @@
       "slug": "kindred",
       "name": "Kindred",
       "address": "1848 Southbury Drive, Kissimmee, FL 34744",
-      "availableCount": 17,
+      "availableCount": 16,
       "lowestPrice": 380990,
       "highestPrice": 486825,
       "beds": [
@@ -10532,24 +10470,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/0535-1908-howard-mesa-drive/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=d9f55a3a96e44b2b975d937079577f60&hash=B4839E7A0167A075F99F6A5B67CBC048",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/0535-1908-howard-mesa-drive/1_1_robieexterior_elevation_h.jpg?iar=1&sc=1&thn=1&w=425&rev=d9f55a3a96e44b2b975d937079577f60&hash=B4839E7A0167A075F99F6A5B67CBC048"
-          ]
-        },
-        {
-          "lot": "598",
-          "address": "1929 Howard Mesa Drive",
-          "plan": "",
-          "price": 460000,
-          "priceLabel": "$460,000",
-          "beds": 5,
-          "homeSlug": "1929-howard-mesa-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1929-howard-mesa-drive",
-          "baths": "3",
-          "sqft": "2,447",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/0587-1929-howard-mesa-drive/1_1_robie_elevationg1.jpg?iar=1&sc=1&thn=1&w=425&rev=f562819a2b7e40f5a8b67d05e984177e&hash=245BCEE5BED6DAD2DE45B37541FFFBF1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/0587-1929-howard-mesa-drive/1_1_robie_elevationg1.jpg?iar=1&sc=1&thn=1&w=425&rev=f562819a2b7e40f5a8b67d05e984177e&hash=245BCEE5BED6DAD2DE45B37541FFFBF1"
           ]
         },
         {
@@ -14285,7 +14205,7 @@
       "slug": "tara-verde",
       "name": "Tara Verde",
       "address": "1149 NW 138th Drive, Newberry, FL 32669",
-      "availableCount": 9,
+      "availableCount": 7,
       "lowestPrice": 259990,
       "highestPrice": 399990,
       "beds": [
@@ -14368,24 +14288,6 @@
           ]
         },
         {
-          "lot": "39",
-          "address": "13822 NW 11Th Ln",
-          "plan": "",
-          "price": 268070,
-          "priceLabel": "$268,070",
-          "beds": 3,
-          "homeSlug": "13822-nw-11th-ln",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-verde/qmis/13822-nw-11th-ln",
-          "baths": "2.5",
-          "sqft": "1,458",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20b/0039-13822-nw-11th-ln/pearson_js_stone-6_unit-th-modern1-gen3-elev_day_web.jpg?iar=1&sc=1&thn=1&w=425&rev=e02797f092354ff0a7640a31bc6cf670&hash=7555B6276505A6D7800C206F36619AA9",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20b/0039-13822-nw-11th-ln/pearson_js_stone-6_unit-th-modern1-gen3-elev_day_web.jpg?iar=1&sc=1&thn=1&w=425&rev=e02797f092354ff0a7640a31bc6cf670&hash=7555B6276505A6D7800C206F36619AA9"
-          ]
-        },
-        {
           "lot": "40",
           "address": "13828 NW 11Th Ln",
           "plan": "",
@@ -14437,24 +14339,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20b/0042-13840-nw-11th-ln/pearson_js_stone-6_unit-th-modern2-gen3-elev_day_web.jpg?iar=1&sc=1&thn=1&w=425&rev=c14e8cb62cc54459b3dab5eeeac900bc&hash=909F05F081D20E518D72192894C04906",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20b/0042-13840-nw-11th-ln/pearson_js_stone-6_unit-th-modern2-gen3-elev_day_web.jpg?iar=1&sc=1&thn=1&w=425&rev=c14e8cb62cc54459b3dab5eeeac900bc&hash=909F05F081D20E518D72192894C04906"
-          ]
-        },
-        {
-          "lot": "43",
-          "address": "13848 NW 11Th Ln",
-          "plan": "",
-          "price": 278070,
-          "priceLabel": "$278,070",
-          "beds": 3,
-          "homeSlug": "13848-nw-11th-ln",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-verde/qmis/13848-nw-11th-ln",
-          "baths": "2.5",
-          "sqft": "1,458",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20a/0043-13848-nw-11th-ln/pearson_js_stone-6_unit-th-modern1-gen3-elev_day_web.jpg?iar=1&sc=1&thn=1&w=425&rev=f7a097fde5ab43b986864294735e5c0a&hash=5256590F978A8779ED7F7E65AD7027D0",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20a/0043-13848-nw-11th-ln/pearson_js_stone-6_unit-th-modern1-gen3-elev_day_web.jpg?iar=1&sc=1&thn=1&w=425&rev=f7a097fde5ab43b986864294735e5c0a&hash=5256590F978A8779ED7F7E65AD7027D0"
           ]
         }
       ],
@@ -14539,6 +14423,16 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20b/pearson_js_stone-6_unit-th-modern2-gen3-elev_day_web.jpg?as=1&w=425&rev=7d12ac4b0dcd408fbd46b27858d6ab3c&hash=76E60A58AC346BA031145038FBCD6EED"
           ]
+        },
+        {
+          "slug": "x429",
+          "name": "Tara Esmeralda",
+          "startingLabel": "Call for Information",
+          "sourceUrl": "https://www.drhorton.com/illinois/chicago/plainfield/playa-vista/floor-plans/x429",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/fl_west-florida_drhorton_express-series_cali-ks2.jpg?as=1&w=425&rev=94419d1f976b49e2b7be3a6b811483c9&hash=B5D0DE73AC29EEDDC5D533E9B790D8EA",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/fl_west-florida_drhorton_express-series_cali-ks2.jpg?as=1&w=425&rev=94419d1f976b49e2b7be3a6b811483c9&hash=B5D0DE73AC29EEDDC5D533E9B790D8EA"
+          ]
         }
       ]
     },
@@ -14546,7 +14440,7 @@
       "slug": "tara-vista",
       "name": "Tara Vista",
       "address": "4746 SW 69th Street, Gainesville, FL 32608",
-      "availableCount": 6,
+      "availableCount": 5,
       "lowestPrice": 265990,
       "highestPrice": 281070,
       "beds": [
@@ -14625,24 +14519,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97474-tara-vista/974740000-tara-vista/t20b/0206-4811-sw-69th-street/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=b71d74744042448aaa2247c796035c51&hash=870F3F1683EDC20722BD6B0613EDE087",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97474-tara-vista/974740000-tara-vista/t20b/0206-4811-sw-69th-street/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=b71d74744042448aaa2247c796035c51&hash=870F3F1683EDC20722BD6B0613EDE087"
-          ]
-        },
-        {
-          "lot": "205",
-          "address": "4815 SW 69th STREET",
-          "plan": "",
-          "price": 271070,
-          "priceLabel": "$271,070",
-          "beds": 3,
-          "homeSlug": "4815-sw-69th-street",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4815-sw-69th-street",
-          "baths": "2.5",
-          "sqft": "1,458",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97474-tara-vista/974740000-tara-vista/t20b/0205-4815-sw-69th-street/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=a0b57ea15cb54cd48311befc858f4958&hash=8B1B01D7CFB6C0666F21AFE96CD2CA28",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97474-tara-vista/974740000-tara-vista/t20b/0205-4815-sw-69th-street/pearson-6_unit-th-modern2-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=a0b57ea15cb54cd48311befc858f4958&hash=8B1B01D7CFB6C0666F21AFE96CD2CA28"
           ]
         },
         {

@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-13T20:42:36.583Z",
+  "updatedAt": "2026-11-14T18:54:53.085Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-13T20:42:36.583Z",
-  "photoCount": 94,
+  "publicUpdatedAt": "2026-11-14T18:54:53.085Z",
+  "photoCount": 92,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -1167,8 +1167,8 @@
       "slug": "mcginley-landing",
       "name": "McGinley Landing",
       "address": "13226 SW 56th Court Road, Ocala, FL 34473",
-      "availableCount": 8,
-      "lowestPrice": 265990,
+      "availableCount": 9,
+      "lowestPrice": 259000,
       "highestPrice": 314965,
       "beds": [
         3,
@@ -1266,6 +1266,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/0125-5693-sw-130th-lane/archer-b-8ft-siding-gen3-elev_ind_2.jpg?iar=1&sc=1&thn=1&w=425&rev=2a496da5d7454e24af742b861ee776a0&hash=599597EC243B9AD0009753EDE0EF4E02",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/0125-5693-sw-130th-lane/archer-b-8ft-siding-gen3-elev_ind_2.jpg?iar=1&sc=1&thn=1&w=425&rev=2a496da5d7454e24af742b861ee776a0&hash=599597EC243B9AD0009753EDE0EF4E02"
+          ]
+        },
+        {
+          "lot": "118",
+          "address": "5706 SW 130th Lane",
+          "plan": "",
+          "price": 259000,
+          "priceLabel": "$259,000",
+          "beds": 3,
+          "homeSlug": "5706-sw-130th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mcginley-landing/qmis/5706-sw-130th-lane",
+          "baths": "2",
+          "sqft": "1,328",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/0118-5706-sw-130th-lane/archer-a-8ft-siding-gen3-elev_ind_2.jpg?iar=1&sc=1&thn=1&w=425&rev=a9d21bcba6e1481caa7ee973f02cee7a&hash=991D2865B3B5D961BED18228EB8EACE9",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97484-mcginley-landing/974840000-mcginley-landing/e406/0118-5706-sw-130th-lane/archer-a-8ft-siding-gen3-elev_ind_2.jpg?iar=1&sc=1&thn=1&w=425&rev=a9d21bcba6e1481caa7ee973f02cee7a&hash=991D2865B3B5D961BED18228EB8EACE9"
           ]
         },
         {
@@ -1375,33 +1393,13 @@
       "slug": "mockingbird-reserve-at-winding-oaks",
       "name": "Mockingbird Reserve at Winding Oaks",
       "address": "4542 SW 71st Lane Road, Ocala, FL 34474",
-      "availableCount": 3,
+      "availableCount": 2,
       "lowestPrice": 235990,
-      "highestPrice": 249990,
+      "highestPrice": 235990,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "47",
-          "address": "4607 SW 71st Lane Road",
-          "plan": "Astor",
-          "price": 249990,
-          "priceLabel": "$249,990",
-          "beds": 3,
-          "homeSlug": "4607-sw-71st-lane-road",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/4607-sw-71st-lane-road",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3ab/0025-4607-sw-71st-lane-road/mwdo_4607_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=ade1abb1edfe4ba495776263b5eed37e&hash=5E1A554A806C2A69BD84126A96A6B7FB",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975020000-winding-oaks-40s-fre/a3ab/0025-4607-sw-71st-lane-road/mwdo_4607_sw_71st_lane_road.jpg?iar=1&sc=1&thn=1&w=425&rev=ade1abb1edfe4ba495776263b5eed37e&hash=5E1A554A806C2A69BD84126A96A6B7FB"
-          ],
-          "incentive": 24000,
-          "incentiveLabel": "(24,000)"
-        },
         {
           "lot": "91",
           "address": "7326 SW 45th Court",
@@ -1566,7 +1564,7 @@
       "slug": "ocala-crossings-south",
       "name": "Ocala Crossings South",
       "address": "8717 SW 46th Terrace, Ocala, FL 34476",
-      "availableCount": 9,
+      "availableCount": 8,
       "lowestPrice": 283990,
       "highestPrice": 339990,
       "beds": [
@@ -1575,26 +1573,6 @@
         5
       ],
       "lots": [
-        {
-          "lot": "11",
-          "address": "8951 SW 46Th Avenue",
-          "plan": "",
-          "price": 283990,
-          "priceLabel": "$283,990",
-          "beds": 3,
-          "homeSlug": "8951-sw-46th-avenue",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-crossings-south/qmis/8951-sw-46th-avenue",
-          "baths": "2",
-          "sqft": "1,672",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4eab/0226-8951-sw-46th-avenue/aria-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=0661c28744e3466e8665ca0317183fe7&hash=2D6A9974CCCD25B847C863AED066B4FA",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/974410000-ocala-crossings-50-exp/4eab/0226-8951-sw-46th-avenue/aria-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=0661c28744e3466e8665ca0317183fe7&hash=2D6A9974CCCD25B847C863AED066B4FA"
-          ],
-          "incentive": 9080,
-          "incentiveLabel": "(9,080)"
-        },
         {
           "lot": "3",
           "address": "4636 SW 89Th Lane",
@@ -1852,34 +1830,14 @@
       "slug": "ocala-preserve",
       "name": "Ocala Preserve",
       "address": "5204 NW 41st Loop, Ocala, FL 34482",
-      "availableCount": 7,
-      "lowestPrice": 229990,
+      "availableCount": 6,
+      "lowestPrice": 232990,
       "highestPrice": 325990,
       "beds": [
         3,
         4
       ],
       "lots": [
-        {
-          "lot": "813",
-          "address": "4003 NW 44th Circle",
-          "plan": "Astor",
-          "price": 229990,
-          "priceLabel": "$229,990",
-          "beds": 3,
-          "homeSlug": "4003-nw-44th-circle",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve/qmis/4003-nw-44th-circle",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3ab/0071-4003-nw-44th-circle/astor-b-elev_renderings_no_hardware_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b05c367668ca4447aca880be84891bd8&hash=C0C8CCC769194B520E66858A07D868B7",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347050000-ocala-preserve-40-aa/a3ab/0071-4003-nw-44th-circle/astor-b-elev_renderings_no_hardware_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b05c367668ca4447aca880be84891bd8&hash=C0C8CCC769194B520E66858A07D868B7"
-          ],
-          "incentive": 11000,
-          "incentiveLabel": "(11,000)"
-        },
         {
           "lot": "811",
           "address": "3995 NW 44th Circle",
@@ -2603,7 +2561,7 @@
           "priceLabel": "$418,810",
           "beds": 4,
           "homeSlug": "6983-sw-44th-circle",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/qmis/6983-sw-44th-circle",
+          "sourceUrl": "",
           "baths": "3",
           "sqft": "3,313",
           "story": "2",
