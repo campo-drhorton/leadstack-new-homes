@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-14T19:00:33.825Z",
+  "updatedAt": "2026-11-15T19:35:33.804Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-14T19:00:33.825Z",
-  "photoCount": 533,
+  "publicUpdatedAt": "2026-11-15T19:35:33.804Z",
+  "photoCount": 537,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -14423,16 +14423,6 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97476-tara-verde/975150000-tara-verde-ths/t20b/pearson_js_stone-6_unit-th-modern2-gen3-elev_day_web.jpg?as=1&w=425&rev=7d12ac4b0dcd408fbd46b27858d6ab3c&hash=76E60A58AC346BA031145038FBCD6EED"
           ]
-        },
-        {
-          "slug": "x429",
-          "name": "Tara Esmeralda",
-          "startingLabel": "Call for Information",
-          "sourceUrl": "https://www.drhorton.com/illinois/chicago/plainfield/playa-vista/floor-plans/x429",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/fl_west-florida_drhorton_express-series_cali-ks2.jpg?as=1&w=425&rev=94419d1f976b49e2b7be3a6b811483c9&hash=B5D0DE73AC29EEDDC5D533E9B790D8EA",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34789-tara-esmeralda/347890000-tara-esmeralda/fl_west-florida_drhorton_express-series_cali-ks2.jpg?as=1&w=425&rev=94419d1f976b49e2b7be3a6b811483c9&hash=B5D0DE73AC29EEDDC5D533E9B790D8EA"
-          ]
         }
       ]
     },
@@ -17158,11 +17148,86 @@
       "slug": "waywater",
       "name": "Waywater",
       "address": "1305 Alison Villas Ct, New Smyrna Beach, FL 32168",
-      "availableCount": 0,
-      "lowestPrice": null,
-      "highestPrice": null,
-      "beds": [],
-      "lots": [],
+      "availableCount": 4,
+      "lowestPrice": 297990,
+      "highestPrice": 314990,
+      "beds": [
+        3
+      ],
+      "lots": [
+        {
+          "lot": "3",
+          "address": "1313 Alison Villas Ct",
+          "plan": "",
+          "price": 297990,
+          "priceLabel": "$297,990",
+          "beds": 3,
+          "homeSlug": "1313-alison-villas-ct",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/waywater/qmis/1313-alison-villas-ct",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20b/0003-1313-alison-villas-ct/2_adeline_exterior_towns_at_summit.jpg?iar=1&sc=1&thn=1&w=425&rev=3d08903b412747269ab379237cad5361&hash=A415A8F5D3A71DC1D416B5EC6E41F8BF",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20b/0003-1313-alison-villas-ct/2_adeline_exterior_towns_at_summit.jpg?iar=1&sc=1&thn=1&w=425&rev=3d08903b412747269ab379237cad5361&hash=A415A8F5D3A71DC1D416B5EC6E41F8BF"
+          ]
+        },
+        {
+          "lot": "4",
+          "address": "1317 Alison Villas Ct",
+          "plan": "",
+          "price": 297990,
+          "priceLabel": "$297,990",
+          "beds": 3,
+          "homeSlug": "1317-alison-villas-ct",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/waywater/qmis/1317-alison-villas-ct",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20b/0004-1317-alison-villas-ct/2_adeline_exterior_towns_at_summit.jpg?iar=1&sc=1&thn=1&w=425&rev=ea0b9cbeb4934da892265eb80c157ec2&hash=A1CDE9552BFC709667F761E01F322E2B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20b/0004-1317-alison-villas-ct/2_adeline_exterior_towns_at_summit.jpg?iar=1&sc=1&thn=1&w=425&rev=ea0b9cbeb4934da892265eb80c157ec2&hash=A1CDE9552BFC709667F761E01F322E2B"
+          ]
+        },
+        {
+          "lot": "5",
+          "address": "1321 Alison Villas Ct",
+          "plan": "",
+          "price": 297990,
+          "priceLabel": "$297,990",
+          "beds": 3,
+          "homeSlug": "1321-alison-villas-ct",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/waywater/qmis/1321-alison-villas-ct",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20b/0005-1321-alison-villas-ct/2_adeline_exterior_towns_at_summit.jpg?iar=1&sc=1&thn=1&w=425&rev=9aed5a47ba5845cbb4ce42bb88e8fb14&hash=00248C2CEBCA0DDEABAD9C178D5D1A5C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20b/0005-1321-alison-villas-ct/2_adeline_exterior_towns_at_summit.jpg?iar=1&sc=1&thn=1&w=425&rev=9aed5a47ba5845cbb4ce42bb88e8fb14&hash=00248C2CEBCA0DDEABAD9C178D5D1A5C"
+          ]
+        },
+        {
+          "lot": "6",
+          "address": "1325 Alison Villas Ct",
+          "plan": "",
+          "price": 314990,
+          "priceLabel": "$314,990",
+          "beds": 3,
+          "homeSlug": "1325-alison-villas-ct",
+          "sourceUrl": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/waywater/qmis/1325-alison-villas-ct",
+          "baths": "2.5",
+          "sqft": "1,512",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20c/0006-1325-alison-villas-ct/perry_2-car.jpg?iar=1&sc=1&thn=1&w=425&rev=aa00416165514bc897029dbb0d1ee19c&hash=7D4B1DF353912493345A1CAFB4C711BC",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-waywater/345700000-waywater/t20c/0006-1325-alison-villas-ct/perry_2-car.jpg?iar=1&sc=1&thn=1&w=425&rev=aa00416165514bc897029dbb0d1ee19c&hash=7D4B1DF353912493345A1CAFB4C711BC"
+          ]
+        }
+      ],
       "models": [
         {
           "slug": "t20b",
