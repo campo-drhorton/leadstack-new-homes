@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-16T23:14:21.502Z",
+  "updatedAt": "2026-11-17T22:04:59.381Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-16T23:14:21.502Z",
-  "photoCount": 193,
+  "publicUpdatedAt": "2026-11-17T22:04:59.381Z",
+  "photoCount": 198,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -468,7 +468,7 @@
       "address": "10998 Crescent Deer Dr, Land O Lakes, FL 34638",
       "availableCount": 13,
       "lowestPrice": 250000,
-      "highestPrice": 307000,
+      "highestPrice": 307100,
       "beds": [
         3
       ],
@@ -641,8 +641,8 @@
           "lot": "304",
           "address": "11115 Treasure Swale Way",
           "plan": "",
-          "price": 300000,
-          "priceLabel": "$300,000",
+          "price": 307100,
+          "priceLabel": "$307,100",
           "beds": 3,
           "homeSlug": "11115-treasure-swale-way",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11115-treasure-swale-way",
@@ -5443,11 +5443,104 @@
       "slug": "towns-at-waterside",
       "name": "Towns at Waterside",
       "address": "6930 Bayside Breeze Pl, Apollo Beach, FL 39237",
-      "availableCount": 0,
-      "lowestPrice": null,
-      "highestPrice": null,
-      "beds": [],
-      "lots": [],
+      "availableCount": 5,
+      "lowestPrice": 320000,
+      "highestPrice": 360000,
+      "beds": [
+        3
+      ],
+      "lots": [
+        {
+          "lot": "57",
+          "address": "6918 Bayside Breeze Pl",
+          "plan": "",
+          "price": 360000,
+          "priceLabel": "$360,000",
+          "beds": 3,
+          "homeSlug": "6918-bayside-breeze-pl",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/gibsonton/towns-at-waterside/qmis/6918-bayside-breeze-pl",
+          "baths": "2.5",
+          "sqft": "1,758",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39237-towns-at-waterside/392370000-towns-at-waterside/1759/0057-6918-bayside-breeze-pl/001fl_tampanorth_drhorton_6unitth_scheme3.jpg?iar=1&sc=1&thn=1&w=425&rev=26fe28356d0a4d2aa60520d970a096d5&hash=807F265DC1DCEF9BAE70ABCD7B3B41D2",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39237-towns-at-waterside/392370000-towns-at-waterside/1759/0057-6918-bayside-breeze-pl/001fl_tampanorth_drhorton_6unitth_scheme3.jpg?iar=1&sc=1&thn=1&w=425&rev=26fe28356d0a4d2aa60520d970a096d5&hash=807F265DC1DCEF9BAE70ABCD7B3B41D2"
+          ]
+        },
+        {
+          "lot": "58",
+          "address": "6920 Bayside Breeze Pl",
+          "plan": "",
+          "price": 320000,
+          "priceLabel": "$320,000",
+          "beds": 3,
+          "homeSlug": "6920-bayside-breeze-pl",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/gibsonton/towns-at-waterside/qmis/6920-bayside-breeze-pl",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39237-towns-at-waterside/392370000-towns-at-waterside/1674/0058-6920-bayside-breeze-pl/001fl_tampanorth_drhorton_6unitth_scheme3.jpg?iar=1&sc=1&thn=1&w=425&rev=696452c0e5874c67b10cbd56617d2038&hash=96C0958FD2FB21C786739422DE77565F",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39237-towns-at-waterside/392370000-towns-at-waterside/1674/0058-6920-bayside-breeze-pl/001fl_tampanorth_drhorton_6unitth_scheme3.jpg?iar=1&sc=1&thn=1&w=425&rev=696452c0e5874c67b10cbd56617d2038&hash=96C0958FD2FB21C786739422DE77565F"
+          ]
+        },
+        {
+          "lot": "59",
+          "address": "6922 Bayside Breeze Pl",
+          "plan": "",
+          "price": 345000,
+          "priceLabel": "$345,000",
+          "beds": 3,
+          "homeSlug": "6922-bayside-breeze-pl",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/gibsonton/towns-at-waterside/qmis/6922-bayside-breeze-pl",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39237-towns-at-waterside/392370000-towns-at-waterside/1674/0059-6922-bayside-breeze-pl/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=76f78903f6784069b141fc79a2e1be2a&hash=37D1336922007E4DE04F8B390501025C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39237-towns-at-waterside/392370000-towns-at-waterside/1674/0059-6922-bayside-breeze-pl/fl_tampanorth_drhorton_glenvale_tanscheme1.jpg?iar=1&sc=1&thn=1&w=425&rev=76f78903f6784069b141fc79a2e1be2a&hash=37D1336922007E4DE04F8B390501025C"
+          ]
+        },
+        {
+          "lot": "60",
+          "address": "6924 Bayside Breeze Pl",
+          "plan": "",
+          "price": 345000,
+          "priceLabel": "$345,000",
+          "beds": 3,
+          "homeSlug": "6924-bayside-breeze-pl",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/gibsonton/towns-at-waterside/qmis/6924-bayside-breeze-pl",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39237-towns-at-waterside/392370000-towns-at-waterside/1674/0060-6924-bayside-breeze-pl/001fl_tampanorth_drhorton_6unitth_scheme3.jpg?iar=1&sc=1&thn=1&w=425&rev=e2dc5ca2e3d640a992f48f8ad57f613b&hash=C5E0DE3352419CDA03E894747471C135",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39237-towns-at-waterside/392370000-towns-at-waterside/1674/0060-6924-bayside-breeze-pl/001fl_tampanorth_drhorton_6unitth_scheme3.jpg?iar=1&sc=1&thn=1&w=425&rev=e2dc5ca2e3d640a992f48f8ad57f613b&hash=C5E0DE3352419CDA03E894747471C135"
+          ]
+        },
+        {
+          "lot": "61",
+          "address": "6926 Bayside Breeze Pl",
+          "plan": "",
+          "price": 345000,
+          "priceLabel": "$345,000",
+          "beds": 3,
+          "homeSlug": "6926-bayside-breeze-pl",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/gibsonton/towns-at-waterside/qmis/6926-bayside-breeze-pl",
+          "baths": "2.5",
+          "sqft": "1,673",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39237-towns-at-waterside/392370000-towns-at-waterside/1674/0061-6926-bayside-breeze-pl/001fl_tampanorth_drhorton_6unitth_scheme3.jpg?iar=1&sc=1&thn=1&w=425&rev=e3406e5e3d53455eb42e5b7aa7e82caf&hash=D115153177B2971D83BC6CA518690B5A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa/39237-towns-at-waterside/392370000-towns-at-waterside/1674/0061-6926-bayside-breeze-pl/001fl_tampanorth_drhorton_6unitth_scheme3.jpg?iar=1&sc=1&thn=1&w=425&rev=e3406e5e3d53455eb42e5b7aa7e82caf&hash=D115153177B2971D83BC6CA518690B5A"
+          ]
+        }
+      ],
       "models": [
         {
           "slug": "1674",

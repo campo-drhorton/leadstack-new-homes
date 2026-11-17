@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-16T23:06:49.307Z",
+  "updatedAt": "2026-11-17T21:58:08.729Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-16T23:06:49.307Z",
-  "photoCount": 95,
+  "publicUpdatedAt": "2026-11-17T21:58:08.729Z",
+  "photoCount": 102,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -410,10 +410,11 @@
       "slug": "derby-creek",
       "name": "Derby Creek",
       "address": "7665 SW 46th Court, Ocala, FL 34474",
-      "availableCount": 3,
-      "lowestPrice": 261990,
-      "highestPrice": 261990,
+      "availableCount": 6,
+      "lowestPrice": 255990,
+      "highestPrice": 265990,
       "beds": [
+        3,
         4
       ],
       "lots": [
@@ -456,6 +457,24 @@
           ]
         },
         {
+          "lot": "23",
+          "address": "7869 SW 46th Court",
+          "plan": "",
+          "price": 261990,
+          "priceLabel": "$261,990",
+          "beds": 4,
+          "homeSlug": "7869-sw-46th-court",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7869-sw-46th-court",
+          "baths": "2",
+          "sqft": "1,560",
+          "story": "1",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0023-7869-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=38bc187863f24345a72d10314d595e4a&hash=904276D9B282A5A1ECCB13D37C8A858B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0023-7869-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=38bc187863f24345a72d10314d595e4a&hash=904276D9B282A5A1ECCB13D37C8A858B"
+          ]
+        },
+        {
           "lot": "24",
           "address": "7877 SW 46th Court",
           "plan": "",
@@ -471,6 +490,42 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0024-7877-sw-46th-court/1560_e312_cameron_ele_c_cs6_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=ccd6b8b2334a47898d8dd6337b7b9d9a&hash=B90B8E452D4A7BB778AB184C4CB93F6E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0024-7877-sw-46th-court/1560_e312_cameron_ele_c_cs6_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=ccd6b8b2334a47898d8dd6337b7b9d9a&hash=B90B8E452D4A7BB778AB184C4CB93F6E"
+          ]
+        },
+        {
+          "lot": "25",
+          "address": "7885 SW 46th Court",
+          "plan": "",
+          "price": 255990,
+          "priceLabel": "$255,990",
+          "beds": 3,
+          "homeSlug": "7885-sw-46th-court",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7885-sw-46th-court",
+          "baths": "2",
+          "sqft": "1,223",
+          "story": "1",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e311/0025-7885-sw-46th-court/1223_e311_greenbriar_ele_c_cs7.jpg?iar=1&sc=1&thn=1&w=425&rev=1d1f8291176a45de81a9f438960b9024&hash=DC4E8597092EEDA05EF77E4C5A4393DD",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e311/0025-7885-sw-46th-court/1223_e311_greenbriar_ele_c_cs7.jpg?iar=1&sc=1&thn=1&w=425&rev=1d1f8291176a45de81a9f438960b9024&hash=DC4E8597092EEDA05EF77E4C5A4393DD"
+          ]
+        },
+        {
+          "lot": "26",
+          "address": "7893 SW 46th Court",
+          "plan": "",
+          "price": 265990,
+          "priceLabel": "$265,990",
+          "beds": 4,
+          "homeSlug": "7893-sw-46th-court",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7893-sw-46th-court",
+          "baths": "2",
+          "sqft": "1,560",
+          "story": "1",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0026-7893-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f70210e689ed4a9381968b168acf511c&hash=B10CF69481C8B064525346EE9E13C08C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0026-7893-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f70210e689ed4a9381968b168acf511c&hash=B10CF69481C8B064525346EE9E13C08C"
           ]
         }
       ],
@@ -1394,10 +1449,11 @@
       "slug": "mockingbird-reserve-at-winding-oaks",
       "name": "Mockingbird Reserve at Winding Oaks",
       "address": "4542 SW 71st Lane Road, Ocala, FL 34474",
-      "availableCount": 3,
+      "availableCount": 6,
       "lowestPrice": 235990,
-      "highestPrice": 315990,
+      "highestPrice": 330990,
       "beds": [
+        2,
         3
       ],
       "lots": [
@@ -1455,6 +1511,60 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30a/0025-7334-sw-45th-court/carrington_ele_b_cs_3_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=a9dff2f393e64fd4bf6b6e3f9de5fc9e&hash=F339000E1B963AF804323B5596954AA3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975000000-winding-oaks-villas-fre/v30a/0025-7334-sw-45th-court/carrington_ele_b_cs_3_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=a9dff2f393e64fd4bf6b6e3f9de5fc9e&hash=F339000E1B963AF804323B5596954AA3"
+          ]
+        },
+        {
+          "lot": "17",
+          "address": "7410 SW 46th Avenue",
+          "plan": "",
+          "price": 330990,
+          "priceLabel": "$330,990",
+          "beds": 3,
+          "homeSlug": "7410-sw-46th-avenue",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/7410-sw-46th-avenue",
+          "baths": "2",
+          "sqft": "2,034",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4db/0012-7410-sw-46th-avenue/delray_ele_f_cs_3_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=68a22093d55d491694247e33819ea4ba&hash=D534C5C2E91CBD1188F9CF297FEE1395",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4db/0012-7410-sw-46th-avenue/delray_ele_f_cs_3_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=68a22093d55d491694247e33819ea4ba&hash=D534C5C2E91CBD1188F9CF297FEE1395"
+          ]
+        },
+        {
+          "lot": "16",
+          "address": "7422 SW 46th Avenue",
+          "plan": "",
+          "price": 299990,
+          "priceLabel": "$299,990",
+          "beds": 2,
+          "homeSlug": "7422-sw-46th-avenue",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/7422-sw-46th-avenue",
+          "baths": "2",
+          "sqft": "1,641",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4ab/0011-7422-sw-46th-avenue/avon_ele_a_cs_8_revised2.jpg?iar=1&sc=1&thn=1&w=425&rev=af424f3c31af49308488c7c9b40b773f&hash=E3A1A453C40A18BC2488C9672A29B67A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4ab/0011-7422-sw-46th-avenue/avon_ele_a_cs_8_revised2.jpg?iar=1&sc=1&thn=1&w=425&rev=af424f3c31af49308488c7c9b40b773f&hash=E3A1A453C40A18BC2488C9672A29B67A"
+          ]
+        },
+        {
+          "lot": "15",
+          "address": "7430 SW 46th Avenue",
+          "plan": "",
+          "price": 305990,
+          "priceLabel": "$305,990",
+          "beds": 2,
+          "homeSlug": "7430-sw-46th-avenue",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mockingbird-reserve-at-winding-oaks/qmis/7430-sw-46th-avenue",
+          "baths": "2",
+          "sqft": "1,816",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4cb/0010-7430-sw-46th-avenue/clifton_ele_b_cs_4_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=7da964e26c3b419490aebf32aec1fd9e&hash=C0A7E1030C14BCDC8087DBC41BEF868C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97500-winding-oaks/975040000-winding-oaks-50s-fre/a4cb/0010-7430-sw-46th-avenue/clifton_ele_b_cs_4_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=7da964e26c3b419490aebf32aec1fd9e&hash=C0A7E1030C14BCDC8087DBC41BEF868C"
           ]
         }
       ],
@@ -1853,7 +1963,7 @@
       "slug": "ocala-preserve",
       "name": "Ocala Preserve",
       "address": "5204 NW 41st Loop, Ocala, FL 34482",
-      "availableCount": 7,
+      "availableCount": 8,
       "lowestPrice": 232990,
       "highestPrice": 334990,
       "beds": [
@@ -1933,6 +2043,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/0184-4527-nw-39th-street-rd/3fl_west_florida_freedom_homes_delray_a_stone_siding.jpg?iar=1&sc=1&thn=1&w=425&rev=49f6fd30bb0a4c558d04da35c2d004d3&hash=D1B1C26F65CADCD516B6EC0DAFA87D41",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/0184-4527-nw-39th-street-rd/3fl_west_florida_freedom_homes_delray_a_stone_siding.jpg?iar=1&sc=1&thn=1&w=425&rev=49f6fd30bb0a4c558d04da35c2d004d3&hash=D1B1C26F65CADCD516B6EC0DAFA87D41"
+          ]
+        },
+        {
+          "lot": "34",
+          "address": "4619 NW 39th Street Rd",
+          "plan": "",
+          "price": 314990,
+          "priceLabel": "$314,990",
+          "beds": 4,
+          "homeSlug": "4619-nw-39th-street-rd",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve/qmis/4619-nw-39th-street-rd",
+          "baths": "2",
+          "sqft": "2,034",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/0193-4619-nw-39th-street-rd/3fl_west_florida_freedom_homes_delray_a.jpg?iar=1&sc=1&thn=1&w=425&rev=ba30166734be4141b2f102ced6bb185a&hash=5615C5A3E113796A46756FE969A9DD15",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/0193-4619-nw-39th-street-rd/3fl_west_florida_freedom_homes_delray_a.jpg?iar=1&sc=1&thn=1&w=425&rev=ba30166734be4141b2f102ced6bb185a&hash=5615C5A3E113796A46756FE969A9DD15"
           ]
         },
         {
@@ -2194,7 +2322,7 @@
       "address": "5405 SW 44th Court Rd, Ocala, FL 34474",
       "availableCount": 9,
       "lowestPrice": 285990,
-      "highestPrice": 433560,
+      "highestPrice": 427275,
       "beds": [
         3,
         4
@@ -2242,8 +2370,8 @@
           "lot": "126",
           "address": "4225 SW 52Nd Lane Rd",
           "plan": "Holden",
-          "price": 433560,
-          "priceLabel": "$433,560",
+          "price": 427275,
+          "priceLabel": "$427,275",
           "beds": 4,
           "homeSlug": "4225-sw-52nd-lane-rd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/4225-sw-52nd-lane-rd",
