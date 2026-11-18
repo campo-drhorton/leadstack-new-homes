@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-17T21:58:08.729Z",
+  "updatedAt": "2026-11-18T21:40:08.314Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-17T21:58:08.729Z",
+  "publicUpdatedAt": "2026-11-18T21:40:08.314Z",
   "photoCount": 102,
   "communities": [
     {
@@ -23,8 +23,8 @@
           "lot": "69",
           "address": "7091 SE 112th Lane",
           "plan": "",
-          "price": 279990,
-          "priceLabel": "$279,990",
+          "price": 275990,
+          "priceLabel": "$275,990",
           "beds": 3,
           "homeSlug": "7091-se-112th-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7091-se-112th-lane",
@@ -36,8 +36,8 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34738-autumn-glen/347380000-autumn-glen/4eab/0233-7091-se-112th-lane/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=3f16f19956a54e9ca19ec4feb81942c0&hash=FE24FC60644467DD128D6E7B63F15E36"
           ],
-          "incentive": 2580,
-          "incentiveLabel": "(2,580)"
+          "incentive": 6580,
+          "incentiveLabel": "(6,580)"
         },
         {
           "lot": "78",
@@ -1224,7 +1224,7 @@
       "name": "McGinley Landing",
       "address": "13226 SW 56th Court Road, Ocala, FL 34473",
       "availableCount": 9,
-      "lowestPrice": 259000,
+      "lowestPrice": 265965,
       "highestPrice": 314965,
       "beds": [
         3,
@@ -1328,8 +1328,8 @@
           "lot": "118",
           "address": "5706 SW 130th Lane",
           "plan": "",
-          "price": 259000,
-          "priceLabel": "$259,000",
+          "price": 265965,
+          "priceLabel": "$265,965",
           "beds": 3,
           "homeSlug": "5706-sw-130th-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/mcginley-landing/qmis/5706-sw-130th-lane",
@@ -1800,8 +1800,8 @@
           "lot": "14",
           "address": "9062 SW 47th Ct",
           "plan": "Elston",
-          "price": 312990,
-          "priceLabel": "$312,990",
+          "price": 309990,
+          "priceLabel": "$309,990",
           "beds": 4,
           "homeSlug": "9062-sw-47th-ct",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-crossings-south/qmis/9062-sw-47th-ct",
@@ -3057,6 +3057,24 @@
           ]
         },
         {
+          "lot": "153",
+          "address": "6566 SW 82nd Loop",
+          "plan": "Pearson A",
+          "price": 224990,
+          "priceLabel": "$224,990",
+          "beds": 3,
+          "homeSlug": "6566-sw-82nd-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6566-sw-82nd-loop",
+          "baths": "2.5",
+          "sqft": "1,458",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0153-6566-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=cd4e01c07904457eadeea60a03a2b9aa&hash=73B8A16E571B6D2CCCBBE14C9861B8F1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0153-6566-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=cd4e01c07904457eadeea60a03a2b9aa&hash=73B8A16E571B6D2CCCBBE14C9861B8F1"
+          ]
+        },
+        {
           "lot": "179",
           "address": "6624 SW 82nd Loop",
           "plan": "",
@@ -3126,24 +3144,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0183-6632-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c53b9aa9d35f4f6ab530033e191e3f8a&hash=4847A07267EB5E50D975F823AF3B9DFC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20b/0183-6632-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=c53b9aa9d35f4f6ab530033e191e3f8a&hash=4847A07267EB5E50D975F823AF3B9DFC"
-          ]
-        },
-        {
-          "lot": "153",
-          "address": "6566 SW 82nd Loop",
-          "plan": "Pearson A",
-          "price": 229990,
-          "priceLabel": "$229,990",
-          "beds": 3,
-          "homeSlug": "6566-sw-82nd-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/the-towns-at-laurel-commons/qmis/6566-sw-82nd-loop",
-          "baths": "2.5",
-          "sqft": "1,458",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0153-6566-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=cd4e01c07904457eadeea60a03a2b9aa&hash=73B8A16E571B6D2CCCBBE14C9861B8F1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34792-laurel-commons/347920000-laurel-commons/t20a/0153-6566-sw-82nd-loop/pearson_6_unit_th_sch2_with_cl_gen3_elev_day_web_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=cd4e01c07904457eadeea60a03a2b9aa&hash=73B8A16E571B6D2CCCBBE14C9861B8F1"
           ]
         },
         {

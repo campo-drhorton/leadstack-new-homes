@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-17T22:02:50.139Z",
+  "updatedAt": "2026-11-18T21:44:22.547Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-17T22:02:50.139Z",
-  "photoCount": 442,
+  "publicUpdatedAt": "2026-11-18T21:44:22.547Z",
+  "photoCount": 438,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -46,7 +46,7 @@
           "priceLabel": "$356,490",
           "beds": 5,
           "homeSlug": "4238-lester-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4238-lester-drive",
+          "sourceUrl": "",
           "baths": "3",
           "sqft": "2,077",
           "story": "1",
@@ -380,21 +380,6 @@
       "lots": [],
       "models": [
         {
-          "slug": "t20a",
-          "name": "Pearson A",
-          "startingLabel": "Starting in the $310s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/atria-at-ridgewood-lakes/floor-plans/t20a",
-          "beds": 3,
-          "baths": "2.5",
-          "sqft": "1,463",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38898-atria-ridgewood-lakes-th/389210000-atria-ridgewood-lakes-ph2/t20a/atria_2_pearson_6_unit_cs_f1_revised.jpg?as=1&w=425&rev=bbe44681666b47e6a2e36615537740b5&hash=71A0D650488B018C3BD985F1629C969E",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38898-atria-ridgewood-lakes-th/389210000-atria-ridgewood-lakes-ph2/t20a/atria_2_pearson_6_unit_cs_f1_revised.jpg?as=1&w=425&rev=bbe44681666b47e6a2e36615537740b5&hash=71A0D650488B018C3BD985F1629C969E"
-          ]
-        },
-        {
           "slug": "t20b",
           "name": "Pearson B",
           "startingLabel": "Starting in the $297s",
@@ -522,7 +507,7 @@
       "name": "Avalon Woods",
       "address": "1617 NW 248th Way, Newberry, FL 32669",
       "availableCount": 14,
-      "lowestPrice": 275990,
+      "lowestPrice": 269990,
       "highestPrice": 359990,
       "beds": [
         3,
@@ -608,8 +593,8 @@
           "lot": "512",
           "address": "24226 NW 13Th Blvd",
           "plan": "",
-          "price": 346990,
-          "priceLabel": "$346,990",
+          "price": 339990,
+          "priceLabel": "$339,990",
           "beds": 4,
           "homeSlug": "24226-nw-13th-blvd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24226-nw-13th-blvd",
@@ -662,8 +647,8 @@
           "lot": "516",
           "address": "24274 NW 13Th Blvd",
           "plan": "",
-          "price": 349990,
-          "priceLabel": "$349,990",
+          "price": 339990,
+          "priceLabel": "$339,990",
           "beds": 4,
           "homeSlug": "24274-nw-13th-blvd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24274-nw-13th-blvd",
@@ -734,8 +719,8 @@
           "lot": "583",
           "address": "24333 NW 10Th Rd",
           "plan": "",
-          "price": 275990,
-          "priceLabel": "$275,990",
+          "price": 269990,
+          "priceLabel": "$269,990",
           "beds": 3,
           "homeSlug": "24333-nw-10th-rd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24333-nw-10th-rd",
@@ -752,8 +737,8 @@
           "lot": "641",
           "address": "24506 NW 10Th Road",
           "plan": "",
-          "price": 283070,
-          "priceLabel": "$283,070",
+          "price": 279990,
+          "priceLabel": "$279,990",
           "beds": 3,
           "homeSlug": "24506-nw-10th-road",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24506-nw-10th-road",
@@ -1871,9 +1856,9 @@
       "slug": "buena-lago",
       "name": "Buena Lago",
       "address": "3928 Magenta Place, Saint Cloud, FL 34772",
-      "availableCount": 19,
+      "availableCount": 17,
       "lowestPrice": 370000,
-      "highestPrice": 752676,
+      "highestPrice": 697721,
       "beds": [
         3,
         4,
@@ -2060,42 +2045,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4eab/0392-3567-malawi-trail/1_1_aria_exterior_elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=f297b0ed680d4072b470e1f01889afb9&hash=BC24F03722E451B7158DDF65948D95F2",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4eab/0392-3567-malawi-trail/1_1_aria_exterior_elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=f297b0ed680d4072b470e1f01889afb9&hash=BC24F03722E451B7158DDF65948D95F2"
-          ]
-        },
-        {
-          "lot": "248",
-          "address": "3611 Malawi Trail",
-          "plan": "",
-          "price": 737676,
-          "priceLabel": "$737,676",
-          "beds": 5,
-          "homeSlug": "3611-malawi-trail",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3611-malawi-trail",
-          "baths": "3",
-          "sqft": "2,929",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384000000-buena-lago-lake-lots/2929/0010-3611-malawi-trail/everett_j_eh_web.jpg?iar=1&sc=1&thn=1&w=425&rev=b3f261ef422c48438f2cb36ea55b3518&hash=E02BBFB2B142B2EA40552398EFFD9FA2",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384000000-buena-lago-lake-lots/2929/0010-3611-malawi-trail/everett_j_eh_web.jpg?iar=1&sc=1&thn=1&w=425&rev=b3f261ef422c48438f2cb36ea55b3518&hash=E02BBFB2B142B2EA40552398EFFD9FA2"
-          ]
-        },
-        {
-          "lot": "247",
-          "address": "3619 Malawi Trail",
-          "plan": "",
-          "price": 752676,
-          "priceLabel": "$752,676",
-          "beds": 5,
-          "homeSlug": "3619-malawi-trail",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/3619-malawi-trail",
-          "baths": "3",
-          "sqft": "2,929",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384000000-buena-lago-lake-lots/2929/0009-3619-malawi-trail/everett_k_eh_web.jpg?iar=1&sc=1&thn=1&w=425&rev=879330e45d5548ad9bc0dac743a1c451&hash=270E3D297434F8523F330E0C3F9CB70F",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384000000-buena-lago-lake-lots/2929/0009-3619-malawi-trail/everett_k_eh_web.jpg?iar=1&sc=1&thn=1&w=425&rev=879330e45d5548ad9bc0dac743a1c451&hash=270E3D297434F8523F330E0C3F9CB70F"
           ]
         },
         {
@@ -4087,7 +4036,7 @@
         },
         {
           "slug": "e402",
-          "name": "Lakeside",
+          "name": "Lakeside with MultiGen Option",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/estates-at-longwoods/floor-plans/e402",
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38572-thomason-estates/385720000-thomason-estates/e402/1_1_lakeside_exterior_h.jpg?as=1&w=425&rev=7da476bd053b4f57ba7c4205a76ea9ba&hash=D1116557BFFD55071C875A168FC7EC54",
           "photos": [
@@ -4510,8 +4459,8 @@
           "lot": "34",
           "address": "3525 Harvest Gardens Lp",
           "plan": "",
-          "price": 408740,
-          "priceLabel": "$408,740",
+          "price": 408000,
+          "priceLabel": "$408,000",
           "beds": 4,
           "homeSlug": "3525-harvest-gardens-loop",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3525-harvest-gardens-loop",
@@ -4528,8 +4477,8 @@
           "lot": "155",
           "address": "4409 Hidden Farm Drive",
           "plan": "",
-          "price": 375000,
-          "priceLabel": "$375,000",
+          "price": 370000,
+          "priceLabel": "$370,000",
           "beds": 4,
           "homeSlug": "4409-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4409-hidden-farm-drive",
@@ -4564,8 +4513,8 @@
           "lot": "208",
           "address": "4620 Hidden Farm Drive",
           "plan": "",
-          "price": 374000,
-          "priceLabel": "$374,000",
+          "price": 370000,
+          "priceLabel": "$370,000",
           "beds": 4,
           "homeSlug": "4620-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4620-hidden-farm-drive",
@@ -4636,8 +4585,8 @@
           "lot": "84",
           "address": "4408 Hidden Farm Dr",
           "plan": "",
-          "price": 407990,
-          "priceLabel": "$407,990",
+          "price": 405000,
+          "priceLabel": "$405,000",
           "beds": 5,
           "homeSlug": "4408-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4408-hidden-farm-drive",
@@ -7273,7 +7222,7 @@
         },
         {
           "slug": "e402",
-          "name": "Lakeside",
+          "name": "Lakeside with MultiGen Option",
           "startingLabel": "Starting in the $404s",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/floor-plans/e402",
           "beds": 5,
@@ -7484,8 +7433,8 @@
           "price": 446400,
           "priceLabel": "$446,400",
           "beds": 4,
-          "homeSlug": "325-addalynn-lane",
-          "sourceUrl": "https://www.drhorton.com/south-carolina/greenville/anderson/spring-ridge/qmis/325-addalynn-lane",
+          "homeSlug": "5352-cloudberry-avenue",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5352-cloudberry-avenue",
           "baths": "3",
           "sqft": "2,756",
           "story": "2",
@@ -8069,8 +8018,8 @@
           "lot": "43",
           "address": "1155 Wild Clover Way",
           "plan": "",
-          "price": 340000,
-          "priceLabel": "$340,000",
+          "price": 320000,
+          "priceLabel": "$320,000",
           "beds": 4,
           "homeSlug": "1155-wild-clover-way",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/holloway-landing/qmis/1155-wild-clover-way",
@@ -8874,7 +8823,7 @@
         },
         {
           "slug": "e402",
-          "name": "Lakeside",
+          "name": "Lakeside with MultiGen Option",
           "startingLabel": "Starting in the $458s",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/e402",
           "beds": 5,
@@ -9376,8 +9325,8 @@
       "slug": "leomas-landing-ph2--ph3",
       "name": "Leomas Landing",
       "address": "713 Greenway Boulevard, Lake Wales, FL 33859",
-      "availableCount": 3,
-      "lowestPrice": 259490,
+      "availableCount": 2,
+      "lowestPrice": 270400,
       "highestPrice": 274490,
       "beds": [
         5
@@ -9402,24 +9351,6 @@
           ],
           "incentive": 7500,
           "incentiveLabel": "(7,500)"
-        },
-        {
-          "lot": "115",
-          "address": "1150 Amber Waves Court",
-          "plan": "",
-          "price": 259490,
-          "priceLabel": "$259,490",
-          "beds": 5,
-          "homeSlug": "1150-amber-waves-court",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lake-wales/leomas-landing-ph2--ph3/qmis/1150-amber-waves-court",
-          "baths": "2",
-          "sqft": "1,739",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38994-leomas-landing-ph2--ph3/389940000-leomas-landing-ph2--ph3-40s/e313/0014-1150-amber-waves-court/alford_ele_c_cs5.jpg?iar=1&sc=1&thn=1&w=425&rev=655ab54bb514400bab8504bf1c2e70bb&hash=81C041448D9D1A11391A7C2FCE9CC6A1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38994-leomas-landing-ph2--ph3/389940000-leomas-landing-ph2--ph3-40s/e313/0014-1150-amber-waves-court/alford_ele_c_cs5.jpg?iar=1&sc=1&thn=1&w=425&rev=655ab54bb514400bab8504bf1c2e70bb&hash=81C041448D9D1A11391A7C2FCE9CC6A1"
-          ]
         },
         {
           "lot": "185",
@@ -11378,7 +11309,7 @@
         },
         {
           "slug": "e402",
-          "name": "Lakeside",
+          "name": "Lakeside with MultiGen Option",
           "startingLabel": "Starting in the $422s",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/preston-cove/floor-plans/e402",
           "beds": 5,
@@ -11775,24 +11706,6 @@
       ],
       "lots": [
         {
-          "lot": "133",
-          "address": "10190 SE 158th Lane",
-          "plan": "",
-          "price": 272990,
-          "priceLabel": "$272,990",
-          "beds": 4,
-          "homeSlug": "10190-se-158th-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/summerfield/sunset-hills/qmis/10190-se-158th-lane",
-          "baths": "2",
-          "sqft": "1,498",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/e407/0246-10190-se-158th-lane/1fl_west-florida_drh_express-series_freeport-a.jpg?iar=1&sc=1&thn=1&w=425&rev=31089667511b44beb4d99a0bec3ac035&hash=75F6265D6F305AD797972165DFE7C6B6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/e407/0246-10190-se-158th-lane/1fl_west-florida_drh_express-series_freeport-a.jpg?iar=1&sc=1&thn=1&w=425&rev=31089667511b44beb4d99a0bec3ac035&hash=75F6265D6F305AD797972165DFE7C6B6"
-          ]
-        },
-        {
           "lot": "93",
           "address": "15988 SE 101st Circle",
           "plan": "",
@@ -11808,6 +11721,26 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/e406/0206-15988-se-101st-circle/archer-a-8ft-siding-gen3-elev_ind_2.jpg?iar=1&sc=1&thn=1&w=425&rev=4d2306b784e348a8a059292b616014d6&hash=0DF997EE5B9826CF74F58965E775AE31",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/e406/0206-15988-se-101st-circle/archer-a-8ft-siding-gen3-elev_ind_2.jpg?iar=1&sc=1&thn=1&w=425&rev=4d2306b784e348a8a059292b616014d6&hash=0DF997EE5B9826CF74F58965E775AE31"
+          ],
+          "incentive": 11080,
+          "incentiveLabel": "(11,080)"
+        },
+        {
+          "lot": "133",
+          "address": "10190 SE 158th Lane",
+          "plan": "",
+          "price": 272990,
+          "priceLabel": "$272,990",
+          "beds": 4,
+          "homeSlug": "10190-se-158th-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/summerfield/sunset-hills/qmis/10190-se-158th-lane",
+          "baths": "2",
+          "sqft": "1,498",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/e407/0246-10190-se-158th-lane/1fl_west-florida_drh_express-series_freeport-a.jpg?iar=1&sc=1&thn=1&w=425&rev=31089667511b44beb4d99a0bec3ac035&hash=75F6265D6F305AD797972165DFE7C6B6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97463-sunset-hills/974630000-sunset-hills/e407/0246-10190-se-158th-lane/1fl_west-florida_drh_express-series_freeport-a.jpg?iar=1&sc=1&thn=1&w=425&rev=31089667511b44beb4d99a0bec3ac035&hash=75F6265D6F305AD797972165DFE7C6B6"
           ]
         }
       ],
@@ -12195,7 +12128,7 @@
       "address": "4746 SW 69th Street, Gainesville, FL 32608",
       "availableCount": 5,
       "lowestPrice": 265990,
-      "highestPrice": 281070,
+      "highestPrice": 279990,
       "beds": [
         3
       ],
@@ -12224,8 +12157,8 @@
           "lot": "208",
           "address": "4803 SW 69th STREET",
           "plan": "",
-          "price": 281070,
-          "priceLabel": "$281,070",
+          "price": 279990,
+          "priceLabel": "$279,990",
           "beds": 3,
           "homeSlug": "4803-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4803-sw-69th-street",
@@ -12242,8 +12175,8 @@
           "lot": "207",
           "address": "4807 SW 69th STREET",
           "plan": "",
-          "price": 271070,
-          "priceLabel": "$271,070",
+          "price": 269990,
+          "priceLabel": "$269,990",
           "beds": 3,
           "homeSlug": "4807-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4807-sw-69th-street",
@@ -12260,8 +12193,8 @@
           "lot": "206",
           "address": "4811 SW 69th STREET",
           "plan": "",
-          "price": 271070,
-          "priceLabel": "$271,070",
+          "price": 269990,
+          "priceLabel": "$269,990",
           "beds": 3,
           "homeSlug": "4811-sw-69th-street",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/gainesville/tara-vista/qmis/4811-sw-69th-street",
@@ -12569,7 +12502,7 @@
       "slug": "travis-landing",
       "name": "Travis Landing",
       "address": "4506 Red Fish Run, Kissimmee, FL 34746",
-      "availableCount": 4,
+      "availableCount": 5,
       "lowestPrice": 419997,
       "highestPrice": 498600,
       "beds": [
@@ -12648,6 +12581,24 @@
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38565-travis-landing/385650000-travis-landing/4ebb/0007-4536-red-fish-run/1_1_caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=b1b64f68d11c43c18ee582fd72172236&hash=65D55526A8C493361D9FF368124C862A"
           ]
+        },
+        {
+          "lot": "09",
+          "address": "4548 Red Fish Run",
+          "plan": "",
+          "price": 467985,
+          "priceLabel": "$467,985",
+          "beds": 5,
+          "homeSlug": "4548-red-fish-run",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/travis-landing/qmis/4548-red-fish-run",
+          "baths": "3",
+          "sqft": "2,601",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38565-travis-landing/385650000-travis-landing/4ehb/0009-4548-red-fish-run/4_hayden_front_exterior_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6c949ca3755741ea89ffb80caae40f17&hash=2E05C5E45BD7EA094BB162A79207898A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38565-travis-landing/385650000-travis-landing/4ehb/0009-4548-red-fish-run/4_hayden_front_exterior_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6c949ca3755741ea89ffb80caae40f17&hash=2E05C5E45BD7EA094BB162A79207898A"
+          ]
         }
       ],
       "models": [
@@ -12698,7 +12649,7 @@
         },
         {
           "slug": "e402",
-          "name": "Lakeside",
+          "name": "Lakeside with MultiGen Option",
           "startingLabel": "Starting in the $430s",
           "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/travis-landing/floor-plans/e402",
           "beds": 5,
@@ -12904,8 +12855,8 @@
       "slug": "twisted-oaks",
       "name": "Twisted Oaks",
       "address": "3181 Canopy Oak Blvd., Wildwood, FL 34785",
-      "availableCount": 27,
-      "lowestPrice": 209990,
+      "availableCount": 25,
+      "lowestPrice": 215990,
       "highestPrice": 419990,
       "beds": [
         2,
@@ -12933,24 +12884,6 @@
           ],
           "incentive": 12255,
           "incentiveLabel": "(12,255)"
-        },
-        {
-          "lot": "113",
-          "address": "8276 Gower Trail",
-          "plan": "",
-          "price": 209990,
-          "priceLabel": "$209,990",
-          "beds": 3,
-          "homeSlug": "8276-gower-trail",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8276-gower-trail",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0035-8276-gower-trail/pearson-6_unit-th-stucco-sch2--gen3-elev_day_cropped.png?iar=1&sc=1&thn=1&w=425&rev=53ca737d56974659abc8f021f3965ad0&hash=6AB9E0A2890264395F17F6734BC24643",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0035-8276-gower-trail/pearson-6_unit-th-stucco-sch2--gen3-elev_day_cropped.png?iar=1&sc=1&thn=1&w=425&rev=53ca737d56974659abc8f021f3965ad0&hash=6AB9E0A2890264395F17F6734BC24643"
-          ]
         },
         {
           "lot": "114",
@@ -13202,24 +13135,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974570000-twisted-oaks-sumter-40s-fre/a3jb/0038-8782-pinecrest-trail/jennings-_d_no_hardware_.jpg?iar=1&sc=1&thn=1&w=425&rev=390a62ad34604190b88916ae54098793&hash=BD5668372E3292BB96AFA206F12E93CC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974570000-twisted-oaks-sumter-40s-fre/a3jb/0038-8782-pinecrest-trail/jennings-_d_no_hardware_.jpg?iar=1&sc=1&thn=1&w=425&rev=390a62ad34604190b88916ae54098793&hash=BD5668372E3292BB96AFA206F12E93CC"
-          ]
-        },
-        {
-          "lot": "173",
-          "address": "3036 Canopy Oak Blvd",
-          "plan": "",
-          "price": 306990,
-          "priceLabel": "$306,990",
-          "beds": 3,
-          "homeSlug": "3036-canopy-oak-blvd",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/3036-canopy-oak-blvd",
-          "baths": "2",
-          "sqft": "1,816",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974580000-twisted-oaks-sumter-50s-fre/a4cb/0030-3036-canopy-oak-blvd/clifton-elevation-b-stone-cs10-alt.jpg?iar=1&sc=1&thn=1&w=425&rev=c7b154e49c5f4352b87324eed44cb5a0&hash=1CB43B07D4FAE3889CE782C2612E8AC6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974580000-twisted-oaks-sumter-50s-fre/a4cb/0030-3036-canopy-oak-blvd/clifton-elevation-b-stone-cs10-alt.jpg?iar=1&sc=1&thn=1&w=425&rev=c7b154e49c5f4352b87324eed44cb5a0&hash=1CB43B07D4FAE3889CE782C2612E8AC6"
           ]
         },
         {
