@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-18T21:46:25.703Z",
+  "updatedAt": "2026-11-19T22:01:49.493Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-18T21:46:25.703Z",
-  "photoCount": 200,
+  "publicUpdatedAt": "2026-11-19T22:01:49.493Z",
+  "photoCount": 196,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -1907,7 +1907,7 @@
       "slug": "brookside",
       "name": "Brookside",
       "address": "1474 Sourwood Dr, Ruskin, FL 33570",
-      "availableCount": 11,
+      "availableCount": 10,
       "lowestPrice": 295000,
       "highestPrice": 410000,
       "beds": [
@@ -2081,24 +2081,6 @@
           ]
         },
         {
-          "lot": "150",
-          "address": "1219 12th St SE",
-          "plan": "",
-          "price": 385000,
-          "priceLabel": "$385,000",
-          "beds": 4,
-          "homeSlug": "1219-12th-st-se",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/ruskin/brookside/qmis/1219-12th-st-se",
-          "baths": "3",
-          "sqft": "2,020",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/5emb/0875-1219-12th-st-se/fl_tampannorth_drhorton_madisonl.jpg?iar=1&sc=1&thn=1&w=425&rev=1002f0d76b6d4789a42342c769f59d3d&hash=A7D1BDDC4B359EE17C22EC8E11182B74",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39276-brookside/392760000-brookside/5emb/0875-1219-12th-st-se/fl_tampannorth_drhorton_madisonl.jpg?iar=1&sc=1&thn=1&w=425&rev=1002f0d76b6d4789a42342c769f59d3d&hash=A7D1BDDC4B359EE17C22EC8E11182B74"
-          ]
-        },
-        {
           "lot": "9",
           "address": "1577 Sourwood Dr",
           "plan": "",
@@ -2244,7 +2226,7 @@
       "slug": "deerbrook",
       "name": "Deerbrook",
       "address": "7103 Beaverhead Lane, Land O Lakes, FL 34638",
-      "availableCount": 8,
+      "availableCount": 7,
       "lowestPrice": 340000,
       "highestPrice": 425000,
       "beds": [
@@ -2379,24 +2361,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0128-6984-flint-creek-drive/fl_drhorton_tampanorth_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=3aa03021e0c040128b54ca74dfad82e9&hash=67B447252ADE1ECB9FD1F3D601CA03E8",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0128-6984-flint-creek-drive/fl_drhorton_tampanorth_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=3aa03021e0c040128b54ca74dfad82e9&hash=67B447252ADE1ECB9FD1F3D601CA03E8"
-          ]
-        },
-        {
-          "lot": "23",
-          "address": "7058 Flint Creek Dr",
-          "plan": "",
-          "price": 375000,
-          "priceLabel": "$375,000",
-          "beds": 5,
-          "homeSlug": "7058-flint-creek-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/land-o-lakes/deerbrook/qmis/7058-flint-creek-drive",
-          "baths": "3",
-          "sqft": "2,453",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0077-7058-flint-creek-drive/fl_tampanorth_drhorton_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=f3fdc8abdf5e4148b6afe830065c8da7&hash=6386ECF1E6B0E62A8584B822D101D784",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39220-deerbrook/392200000-deerbrook-40s-exp/e304/0077-7058-flint-creek-drive/fl_tampanorth_drhorton_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=f3fdc8abdf5e4148b6afe830065c8da7&hash=6386ECF1E6B0E62A8584B822D101D784"
           ]
         }
       ],
@@ -6408,7 +6372,7 @@
       "slug": "woodcreek",
       "name": "Woodcreek",
       "address": "2412 Sterling Forest Court, Wesley Chapel, FL 33543",
-      "availableCount": 12,
+      "availableCount": 10,
       "lowestPrice": 400000,
       "highestPrice": 600000,
       "beds": [
@@ -6530,24 +6494,6 @@
           ]
         },
         {
-          "lot": "5",
-          "address": "32680 Duluth Dr",
-          "plan": "",
-          "price": 550000,
-          "priceLabel": "$550,000",
-          "beds": 4,
-          "homeSlug": "32680-duluth-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32680-duluth-drive",
-          "baths": "3.5",
-          "sqft": "2,794",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0091-32680-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa2ce72ffdf040f58dc035ae3edd5b9d&hash=A2C7981FC6A5EF7BCCC298DC39A54188",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393250000-woodcreek-60s-trdtn/2795/0091-32680-duluth-drive/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=fa2ce72ffdf040f58dc035ae3edd5b9d&hash=A2C7981FC6A5EF7BCCC298DC39A54188"
-          ]
-        },
-        {
           "lot": "12",
           "address": "32727 Weathered Oak Dr",
           "plan": "",
@@ -6599,24 +6545,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e304/0302-32908-winterwood-boulevard/fl_tampanorth_drhorton_robieii_h_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=28d123b701834e2f92e253ed46a25d1a&hash=049225331C06CF909911CA42905C8AA2",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e304/0302-32908-winterwood-boulevard/fl_tampanorth_drhorton_robieii_h_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=28d123b701834e2f92e253ed46a25d1a&hash=049225331C06CF909911CA42905C8AA2"
-          ]
-        },
-        {
-          "lot": "18",
-          "address": "32916 Winterwood Blvd",
-          "plan": "",
-          "price": 463990,
-          "priceLabel": "$463,990",
-          "beds": 4,
-          "homeSlug": "32916-winterwood-boulevard",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32916-winterwood-boulevard",
-          "baths": "2.5",
-          "sqft": "2,305",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e303/0303-32916-winterwood-boulevard/fl_tampanorth_drhorton_elstonii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=6b5ce879c442430fab0394cbe315bd19&hash=5BC73737C12FCB990E54819D10D384D0",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39323-woodcreek/393230000-woodcreek-40s-exp/e303/0303-32916-winterwood-boulevard/fl_tampanorth_drhorton_elstonii_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=6b5ce879c442430fab0394cbe315bd19&hash=5BC73737C12FCB990E54819D10D384D0"
           ]
         },
         {

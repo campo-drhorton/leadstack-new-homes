@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-18T21:44:22.547Z",
+  "updatedAt": "2026-11-19T21:59:46.300Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-18T21:44:22.547Z",
-  "photoCount": 438,
+  "publicUpdatedAt": "2026-11-19T21:59:46.300Z",
+  "photoCount": 436,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -46,7 +46,7 @@
           "priceLabel": "$356,490",
           "beds": 5,
           "homeSlug": "4238-lester-drive",
-          "sourceUrl": "",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates/qmis/4238-lester-drive",
           "baths": "3",
           "sqft": "2,077",
           "story": "1",
@@ -246,6 +246,26 @@
       ],
       "lots": [
         {
+          "lot": "92",
+          "address": "4714 Tony Street",
+          "plan": "",
+          "price": 224990,
+          "priceLabel": "$224,990",
+          "beds": 3,
+          "homeSlug": "4714-tony-street",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates-townhomes/qmis/4714-tony-street",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38979-annabelle-estates/389780000-annabelle-estates-th/t20b/0016-4714-tony-street/annabelle_th_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=81326230c61f466ab1f97f2dca2f0876&hash=048165BA46E94EF3AB8F1CB3F582A15B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38979-annabelle-estates/389780000-annabelle-estates-th/t20b/0016-4714-tony-street/annabelle_th_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=81326230c61f466ab1f97f2dca2f0876&hash=048165BA46E94EF3AB8F1CB3F582A15B"
+          ],
+          "incentive": 19000,
+          "incentiveLabel": "(19,000)"
+        },
+        {
           "lot": "89",
           "address": "4702 Tony Street",
           "plan": "",
@@ -297,24 +317,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38979-annabelle-estates/389780000-annabelle-estates-th/t20b/0015-4710-tony-street/annabelle_estates_th_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=8e55626dde9342f9835466fcd5d04893&hash=ACB4D24ED1D5851FEB2E87D52EAF5D46",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38979-annabelle-estates/389780000-annabelle-estates-th/t20b/0015-4710-tony-street/annabelle_estates_th_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=8e55626dde9342f9835466fcd5d04893&hash=ACB4D24ED1D5851FEB2E87D52EAF5D46"
-          ]
-        },
-        {
-          "lot": "92",
-          "address": "4714 Tony Street",
-          "plan": "",
-          "price": 224990,
-          "priceLabel": "$224,990",
-          "beds": 3,
-          "homeSlug": "4714-tony-street",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates-townhomes/qmis/4714-tony-street",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38979-annabelle-estates/389780000-annabelle-estates-th/t20b/0016-4714-tony-street/annabelle_th_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=81326230c61f466ab1f97f2dca2f0876&hash=048165BA46E94EF3AB8F1CB3F582A15B",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38979-annabelle-estates/389780000-annabelle-estates-th/t20b/0016-4714-tony-street/annabelle_th_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=81326230c61f466ab1f97f2dca2f0876&hash=048165BA46E94EF3AB8F1CB3F582A15B"
           ]
         },
         {
@@ -379,6 +381,21 @@
       "beds": [],
       "lots": [],
       "models": [
+        {
+          "slug": "t20a",
+          "name": "Pearson A",
+          "startingLabel": "Starting in the $310s",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/atria-at-ridgewood-lakes/floor-plans/t20a",
+          "beds": 3,
+          "baths": "2.5",
+          "sqft": "1,463",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38898-atria-ridgewood-lakes-th/389210000-atria-ridgewood-lakes-ph2/t20a/atria_2_pearson_6_unit_cs_f1_revised.jpg?as=1&w=425&rev=bbe44681666b47e6a2e36615537740b5&hash=71A0D650488B018C3BD985F1629C969E",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38898-atria-ridgewood-lakes-th/389210000-atria-ridgewood-lakes-ph2/t20a/atria_2_pearson_6_unit_cs_f1_revised.jpg?as=1&w=425&rev=bbe44681666b47e6a2e36615537740b5&hash=71A0D650488B018C3BD985F1629C969E"
+          ]
+        },
         {
           "slug": "t20b",
           "name": "Pearson B",
@@ -1427,7 +1444,7 @@
       "slug": "briarwood",
       "name": "Briarwood",
       "address": "17331 NW 172nd Avenue, Alachua, FL 32615",
-      "availableCount": 5,
+      "availableCount": 4,
       "lowestPrice": 312990,
       "highestPrice": 387990,
       "beds": [
@@ -1435,24 +1452,6 @@
         5
       ],
       "lots": [
-        {
-          "lot": "198",
-          "address": "17066 NW 179Th Way",
-          "plan": "",
-          "price": 337990,
-          "priceLabel": "$337,990",
-          "beds": 4,
-          "homeSlug": "17066-nw-179th-way",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/alachua/briarwood/qmis/17066-nw-179th-way",
-          "baths": "3",
-          "sqft": "1,956",
-          "story": "1",
-          "garage": "3",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34753-briarwood/347530000-briarwood-exp/5emb/0350-17066-nw-179th-way/madison-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=125903c550a3403a895e090fe66be53e&hash=4840817A253C330384D6A6B6B6D5A620",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34753-briarwood/347530000-briarwood-exp/5emb/0350-17066-nw-179th-way/madison-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=125903c550a3403a895e090fe66be53e&hash=4840817A253C330384D6A6B6B6D5A620"
-          ]
-        },
         {
           "lot": "6",
           "address": "17305 NW 172nd Avenue",
@@ -2271,11 +2270,10 @@
       "slug": "cascades",
       "name": "Cascades",
       "address": "1301 Cascades Avenue, Davenport, FL 33837",
-      "availableCount": 8,
-      "lowestPrice": 324490,
+      "availableCount": 7,
+      "lowestPrice": 383990,
       "highestPrice": 414490,
       "beds": [
-        3,
         4,
         5
       ],
@@ -2316,24 +2314,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389320000-cascades-sf-50s/e402/0148-3990-limeklin-falls-loop/lakeside_ele_g_op-multi-gen_cs4_without_stone_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=34fd1dc8fc8040fd9d66687daacfa8ed&hash=3399D110D3D7B621F80E257577A0B132",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389320000-cascades-sf-50s/e402/0148-3990-limeklin-falls-loop/lakeside_ele_g_op-multi-gen_cs4_without_stone_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=34fd1dc8fc8040fd9d66687daacfa8ed&hash=3399D110D3D7B621F80E257577A0B132"
-          ]
-        },
-        {
-          "lot": "7",
-          "address": "3999 Limeklin Falls Loop",
-          "plan": "",
-          "price": 324490,
-          "priceLabel": "$324,490",
-          "beds": 3,
-          "homeSlug": "3999-limeklin-falls-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/3999-limeklin-falls-loop",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389180000-cascades-sf-40s/3eab/0243-3999-limeklin-falls-loop/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=36b8619ae96b401e97d42382980ca373&hash=FA876C1FFB7BDC332A1E570173085323",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38932-cascades-sf/389180000-cascades-sf-40s/3eab/0243-3999-limeklin-falls-loop/allex_c.jpg?iar=1&sc=1&thn=1&w=425&rev=36b8619ae96b401e97d42382980ca373&hash=FA876C1FFB7BDC332A1E570173085323"
           ]
         },
         {
@@ -3387,21 +3367,6 @@
           ]
         },
         {
-          "slug": "4ebb",
-          "name": "Cali",
-          "startingLabel": "Starting in the $340s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/floor-plans/4ebb",
-          "beds": 4,
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/4ebb/cali_g_cropped.jpg?as=1&w=425&rev=6ecb0da7d1a145389c363f576ab63bd4&hash=42333E22169D738ED65FB0657F19B0AB",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/4ebb/cali_g_cropped.jpg?as=1&w=425&rev=6ecb0da7d1a145389c363f576ab63bd4&hash=42333E22169D738ED65FB0657F19B0AB"
-          ]
-        },
-        {
           "slug": "e315",
           "name": "Crestview",
           "startingLabel": "Starting in the $332s",
@@ -3665,108 +3630,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389340000-crosswinds-th/t20b/_0009_1-web-or-mls-4374_butterscotch_cir__lakeland__fl_33811-18552_dji_0026.jpg?as=1&w=425&rev=f22cfd0e81e84a8ea9813acd8e3a8e6e&hash=FAE9665C1C946929CBFDC12475737AD8",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389340000-crosswinds-th/t20b/_0009_1-web-or-mls-4374_butterscotch_cir__lakeland__fl_33811-18552_dji_0026.jpg?as=1&w=425&rev=f22cfd0e81e84a8ea9813acd8e3a8e6e&hash=FAE9665C1C946929CBFDC12475737AD8"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "cypress-park-estates",
-      "name": "Cypress Park Estates",
-      "address": "351 Bottle Brush Drive, Haines City, FL 33844",
-      "availableCount": 0,
-      "lowestPrice": null,
-      "highestPrice": null,
-      "beds": [],
-      "lots": [],
-      "models": [
-        {
-          "slug": "e406",
-          "name": "Archer II",
-          "startingLabel": "Starting in the $280s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/cypress-park-estates/floor-plans/e406",
-          "beds": 3,
-          "baths": "2",
-          "sqft": "1,328",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38911-cypress-park-estates/389120000-cypress-park-estates---ph-ii/e406/archer_ele_a_without_stone_cs_1_revised.jpg?as=1&w=425&rev=c029136ec5a44f1bb81330c355461a2d&hash=C1E085CCCB8C281B8A52B30860E21EF5",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38911-cypress-park-estates/389120000-cypress-park-estates---ph-ii/e406/archer_ele_a_without_stone_cs_1_revised.jpg?as=1&w=425&rev=c029136ec5a44f1bb81330c355461a2d&hash=C1E085CCCB8C281B8A52B30860E21EF5"
-          ]
-        },
-        {
-          "slug": "4eab",
-          "name": "Aria",
-          "startingLabel": "Starting in the $316s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/cypress-park-estates/floor-plans/4eab",
-          "beds": 3,
-          "baths": "2",
-          "sqft": "1,672",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-south-central-florida/38911-cypress-creek-estates/389110000-cypress-park-estates/4eab/aria_front_exterior_d.jpg?as=1&w=425&rev=bbf1e78545eb48cfb031fdb44ce75dab&hash=A13F95F0599D3BE78DF0BE1FED197D8C",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-south-central-florida/38911-cypress-creek-estates/389110000-cypress-park-estates/4eab/aria_front_exterior_d.jpg?as=1&w=425&rev=bbf1e78545eb48cfb031fdb44ce75dab&hash=A13F95F0599D3BE78DF0BE1FED197D8C"
-          ]
-        },
-        {
-          "slug": "4ebb",
-          "name": "Cali",
-          "startingLabel": "Starting in the $315s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/cypress-park-estates/floor-plans/4ebb",
-          "beds": 4,
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-south-central-florida/38911-cypress-creek-estates/389110000-cypress-park-estates/4ebb/cali_g_exterior_front.jpg?as=1&w=425&rev=4a9f81e5008a4935b7321645a65ed8fa&hash=FDA9C0B98CA85FA9D18CF538408D2194",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-south-central-florida/38911-cypress-creek-estates/389110000-cypress-park-estates/4ebb/cali_g_exterior_front.jpg?as=1&w=425&rev=4a9f81e5008a4935b7321645a65ed8fa&hash=FDA9C0B98CA85FA9D18CF538408D2194"
-          ]
-        },
-        {
-          "slug": "e405",
-          "name": "Dundee",
-          "startingLabel": "Starting in the $304s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/cypress-park-estates/floor-plans/e405",
-          "beds": 5,
-          "baths": "2",
-          "sqft": "1,708",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38911-cypress-park-estates/389120000-cypress-park-estates---ph-ii/e405/_0001_dundee_ele_a_cs_-_10_revised_02.jpg?as=1&w=425&rev=b13b4c71b604430985d58b51dce3b653&hash=3FDB46A267D70A56C9353844655C2655",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38911-cypress-park-estates/389120000-cypress-park-estates---ph-ii/e405/_0001_dundee_ele_a_cs_-_10_revised_02.jpg?as=1&w=425&rev=b13b4c71b604430985d58b51dce3b653&hash=3FDB46A267D70A56C9353844655C2655"
-          ]
-        },
-        {
-          "slug": "e407",
-          "name": "Freeport II",
-          "startingLabel": "Starting in the $290s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/cypress-park-estates/floor-plans/e407",
-          "beds": 4,
-          "baths": "2",
-          "sqft": "1,498",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38911-cypress-park-estates/389120000-cypress-park-estates---ph-ii/e407/freeport_ii_ele_a_cs2_without_stone_revised.jpg?as=1&w=425&rev=6f999217e022437eaba228fc89db24b9&hash=09BE4EF0763BA7A26F84AB85A6D3B9AB",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38911-cypress-park-estates/389120000-cypress-park-estates---ph-ii/e407/freeport_ii_ele_a_cs2_without_stone_revised.jpg?as=1&w=425&rev=6f999217e022437eaba228fc89db24b9&hash=09BE4EF0763BA7A26F84AB85A6D3B9AB"
-          ]
-        },
-        {
-          "slug": "4ehb",
-          "name": "Hayden",
-          "startingLabel": "Starting in the $371s",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/cypress-park-estates/floor-plans/4ehb",
-          "beds": 5,
-          "baths": "3",
-          "sqft": "2,601",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38911-cypress-park-estates/389110000-cypress-park-estates/4ehb/2__fronts.jpg?as=1&w=425&rev=3ed7aaa92bda43b8804e291b20b2e3b3&hash=C5B4E1D618A81872F8F5B22361D23F93",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38911-cypress-park-estates/389110000-cypress-park-estates/4ehb/2__fronts.jpg?as=1&w=425&rev=3ed7aaa92bda43b8804e291b20b2e3b3&hash=C5B4E1D618A81872F8F5B22361D23F93"
           ]
         }
       ]
@@ -6009,6 +5872,24 @@
       ],
       "lots": [
         {
+          "lot": "02",
+          "address": "1775 Grandiose Drive",
+          "plan": "",
+          "price": 360490,
+          "priceLabel": "$360,490",
+          "beds": 5,
+          "homeSlug": "1775-grandiose-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1775-grandiose-drive",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0073-1775-grandiose-drive/covington_g_cropped_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=6fddcd1bd3eb4cfcadd1f4324b571594&hash=C0253ACE5202B448F0243AF1494348A3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0073-1775-grandiose-drive/covington_g_cropped_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=6fddcd1bd3eb4cfcadd1f4324b571594&hash=C0253ACE5202B448F0243AF1494348A3"
+          ]
+        },
+        {
           "lot": "16",
           "address": "1248 Cumberland Trail Drive",
           "plan": "",
@@ -6096,24 +5977,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e410/0011-1805-grandiose-drive/fletcher_ele_c_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=aca3d19cac834e90aaffaa8e76e260d6&hash=07D36B7876C93CD431AA01F1AF74EBE9",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e410/0011-1805-grandiose-drive/fletcher_ele_c_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=aca3d19cac834e90aaffaa8e76e260d6&hash=07D36B7876C93CD431AA01F1AF74EBE9"
-          ]
-        },
-        {
-          "lot": "06",
-          "address": "1823 Grandiose Drive",
-          "plan": "",
-          "price": 321990,
-          "priceLabel": "$321,990",
-          "beds": 4,
-          "homeSlug": "1823-grandiose-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1823-grandiose-drive",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/4ebb/0006-1823-grandiose-drive/cropped_0009_cali_g_exterior_front.jpg?iar=1&sc=1&thn=1&w=425&rev=77351d55df2241fca557077d0b6b566b&hash=5901542D0A1DA0C84D25B8559853AEA1",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/4ebb/0006-1823-grandiose-drive/cropped_0009_cali_g_exterior_front.jpg?iar=1&sc=1&thn=1&w=425&rev=77351d55df2241fca557077d0b6b566b&hash=5901542D0A1DA0C84D25B8559853AEA1"
           ]
         }
       ],
@@ -8226,7 +8089,7 @@
       "slug": "kindred",
       "name": "Kindred",
       "address": "1848 Southbury Drive, Kissimmee, FL 34744",
-      "availableCount": 24,
+      "availableCount": 23,
       "lowestPrice": 341990,
       "highestPrice": 494790,
       "beds": [
@@ -8307,24 +8170,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0578-1828-kindle-street/1_1_allexexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=5e2c5c311b3a4676806767ade271e984&hash=0FF79AE2054D87CD05EF451BD9CE8A45",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0578-1828-kindle-street/1_1_allexexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=5e2c5c311b3a4676806767ade271e984&hash=0FF79AE2054D87CD05EF451BD9CE8A45"
-          ]
-        },
-        {
-          "lot": "446",
-          "address": "1834 Howard Mesa Drive",
-          "plan": "",
-          "price": 409997,
-          "priceLabel": "$409,997",
-          "beds": 4,
-          "homeSlug": "1834-howard-mesa-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1834-howard-mesa-drive",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3emb/0520-1834-howard-mesa-drive/harper_g_-_edited_-_web.jpg?iar=1&sc=1&thn=1&w=425&rev=4b61c11d784c4485969e1746c318c40d&hash=1445C48045D38E40CE63D68632B1B7C0",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3emb/0520-1834-howard-mesa-drive/harper_g_-_edited_-_web.jpg?iar=1&sc=1&thn=1&w=425&rev=4b61c11d784c4485969e1746c318c40d&hash=1445C48045D38E40CE63D68632B1B7C0"
           ]
         },
         {
@@ -9499,8 +9344,8 @@
       "name": "Magnolia Pointe",
       "address": "1372 Bear Hammock Drive, Umatilla, FL 32784",
       "availableCount": 1,
-      "lowestPrice": 332490,
-      "highestPrice": 332490,
+      "lowestPrice": 338490,
+      "highestPrice": 338490,
       "beds": [
         4
       ],
@@ -9509,8 +9354,8 @@
           "lot": "165",
           "address": "140 Flag Lilly Lane",
           "plan": "",
-          "price": 332490,
-          "priceLabel": "$332,490",
+          "price": 338490,
+          "priceLabel": "$338,490",
           "beds": 4,
           "homeSlug": "140-flag-lilly-lane",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/qmis/140-flag-lilly-lane",
@@ -9521,7 +9366,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38985-magnolia-pointe/389860000-magnolia-pointe-50s/4ebb/0091-140-flag-lilly-lane/cali_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=dd577337e6534aaaa06e93b006de7f86&hash=492660CE9D3C7F55B8016A0A2F19950E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38985-magnolia-pointe/389860000-magnolia-pointe-50s/4ebb/0091-140-flag-lilly-lane/cali_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=dd577337e6534aaaa06e93b006de7f86&hash=492660CE9D3C7F55B8016A0A2F19950E"
-          ]
+          ],
+          "incentive": 6500,
+          "incentiveLabel": "(6,500)"
         }
       ],
       "models": [
@@ -9558,7 +9405,7 @@
         {
           "slug": "4eab",
           "name": "Aria",
-          "startingLabel": "Starting in the $337s",
+          "startingLabel": "Starting in the $319s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/floor-plans/4eab",
           "beds": 3,
           "baths": "2",
@@ -9573,7 +9420,7 @@
         {
           "slug": "4ebb",
           "name": "Cali",
-          "startingLabel": "Starting in the $347s",
+          "startingLabel": "Starting in the $337s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/floor-plans/4ebb",
           "beds": 4,
           "baths": "2",
@@ -9618,7 +9465,7 @@
         {
           "slug": "e410",
           "name": "Fletcher",
-          "startingLabel": "Starting in the $319s",
+          "startingLabel": "Starting in the $314s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/floor-plans/e410",
           "beds": 4,
           "baths": "2",
@@ -9663,7 +9510,7 @@
         {
           "slug": "4ehb",
           "name": "Hayden",
-          "startingLabel": "Starting in the $395s",
+          "startingLabel": "Starting in the $375s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/floor-plans/4ehb",
           "beds": 5,
           "baths": "3",
@@ -9674,7 +9521,7 @@
         {
           "slug": "e402",
           "name": "Lakeside",
-          "startingLabel": "Starting in the $359s",
+          "startingLabel": "Starting in the $349s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/floor-plans/e402",
           "beds": 5,
           "baths": "3",
@@ -9689,7 +9536,7 @@
         {
           "slug": "e409",
           "name": "Riviera",
-          "startingLabel": "Starting in the $360s",
+          "startingLabel": "Starting in the $355s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/floor-plans/e409",
           "beds": 4,
           "baths": "3",
@@ -9704,7 +9551,7 @@
         {
           "slug": "3efb",
           "name": "Robie",
-          "startingLabel": "Starting in the $375s",
+          "startingLabel": "Starting in the $355s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/umatilla/magnolia-pointe/floor-plans/3efb",
           "beds": 5,
           "baths": "3",
@@ -9869,8 +9716,8 @@
       "name": "Mirror Lake Village",
       "address": "1178 Atlantic Ave, Fruitland Park, FL 34731",
       "availableCount": 3,
-      "lowestPrice": 311990,
-      "highestPrice": 343990,
+      "lowestPrice": 301990,
+      "highestPrice": 333990,
       "beds": [
         3,
         4
@@ -9880,8 +9727,8 @@
           "lot": "138",
           "address": "163 Duckweed Ave",
           "plan": "",
-          "price": 311990,
-          "priceLabel": "$311,990",
+          "price": 301990,
+          "priceLabel": "$301,990",
           "beds": 3,
           "homeSlug": "163-duckweed-ave",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/fruitland-park/mirror-lake-village/qmis/163-duckweed-ave",
@@ -9898,8 +9745,8 @@
           "lot": "137",
           "address": "159 Duckweed Ave",
           "plan": "",
-          "price": 322490,
-          "priceLabel": "$322,490",
+          "price": 312490,
+          "priceLabel": "$312,490",
           "beds": 4,
           "homeSlug": "159-duckweed-ave",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/fruitland-park/mirror-lake-village/qmis/159-duckweed-ave",
@@ -9916,8 +9763,8 @@
           "lot": "125",
           "address": "766 Lemon Ave",
           "plan": "",
-          "price": 343990,
-          "priceLabel": "$343,990",
+          "price": 333990,
+          "priceLabel": "$333,990",
           "beds": 4,
           "homeSlug": "766-lemon-ave",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/fruitland-park/mirror-lake-village/qmis/766-lemon-ave",
@@ -9935,7 +9782,7 @@
         {
           "slug": "3eab",
           "name": "Allex",
-          "startingLabel": "Starting in the $305s",
+          "startingLabel": "Starting in the $295s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/fruitland-park/mirror-lake-village/floor-plans/3eab",
           "beds": 3,
           "baths": "2",
@@ -9950,7 +9797,7 @@
         {
           "slug": "e315",
           "name": "Crestview",
-          "startingLabel": "Starting in the $335s",
+          "startingLabel": "Starting in the $325s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/fruitland-park/mirror-lake-village/floor-plans/e315",
           "beds": 4,
           "baths": "2.5",
@@ -9965,7 +9812,7 @@
         {
           "slug": "e306",
           "name": "Downing II",
-          "startingLabel": "Starting in the $295s",
+          "startingLabel": "Starting in the $285s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/fruitland-park/mirror-lake-village/floor-plans/e306",
           "beds": 3,
           "baths": "2",
@@ -9980,7 +9827,7 @@
         {
           "slug": "3emb",
           "name": "Harper",
-          "startingLabel": "Starting in the $315s",
+          "startingLabel": "Starting in the $305s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/fruitland-park/mirror-lake-village/floor-plans/3emb",
           "beds": 4,
           "baths": "2",
@@ -9995,7 +9842,7 @@
         {
           "slug": "3efb",
           "name": "Robie",
-          "startingLabel": "Starting in the $355s",
+          "startingLabel": "Starting in the $345s",
           "sourceUrl": "https://www.drhorton.com/florida/lake-county/fruitland-park/mirror-lake-village/floor-plans/3efb",
           "beds": 5,
           "baths": "3",
@@ -13633,14 +13480,35 @@
       "slug": "villamar",
       "name": "Villamar",
       "address": "5515 Taverna Loop, Winter Haven, FL 33884",
-      "availableCount": 3,
+      "availableCount": 6,
       "lowestPrice": 273470,
-      "highestPrice": 322490,
+      "highestPrice": 336990,
       "beds": [
         3,
-        4
+        4,
+        5
       ],
       "lots": [
+        {
+          "lot": "18",
+          "address": "4129 Giorgio Drive",
+          "plan": "",
+          "price": 283720,
+          "priceLabel": "$283,720",
+          "beds": 3,
+          "homeSlug": "4129-giorgio-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/4129-giorgio-drive",
+          "baths": "2",
+          "sqft": "1,504",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38888-villamar/389290000-villamar-40s-ph3-3-6/e302/0139-4129-giorgio-drive/allex_d_wynnstone.jpg?iar=1&sc=1&thn=1&w=425&rev=57450d14193f41328c6fdbf9dadcd5cd&hash=F703DBB24BF5E2EFBAA047FDC17C2241",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38888-villamar/389290000-villamar-40s-ph3-3-6/e302/0139-4129-giorgio-drive/allex_d_wynnstone.jpg?iar=1&sc=1&thn=1&w=425&rev=57450d14193f41328c6fdbf9dadcd5cd&hash=F703DBB24BF5E2EFBAA047FDC17C2241"
+          ],
+          "incentive": 6000,
+          "incentiveLabel": "(6,000)"
+        },
         {
           "lot": "284",
           "address": "5565 Taverna Loop",
@@ -13678,6 +13546,24 @@
           ]
         },
         {
+          "lot": "98",
+          "address": "5604 Taverna Loop",
+          "plan": "",
+          "price": 336990,
+          "priceLabel": "$336,990",
+          "beds": 5,
+          "homeSlug": "5604-taverna-loop",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/5604-taverna-loop",
+          "baths": "3",
+          "sqft": "2,447",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38888-villamar/389730000-villamar-40s---ph7--8/3efb/0012-5604-taverna-loop/cropped_0002_robie_g_edit.jpg?iar=1&sc=1&thn=1&w=425&rev=07122e4510204223ae584aec35fe794b&hash=298521C562B1EE0E4ECF6C6AFCE422D3",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38888-villamar/389730000-villamar-40s---ph7--8/3efb/0012-5604-taverna-loop/cropped_0002_robie_g_edit.jpg?iar=1&sc=1&thn=1&w=425&rev=07122e4510204223ae584aec35fe794b&hash=298521C562B1EE0E4ECF6C6AFCE422D3"
+          ]
+        },
+        {
           "lot": "344",
           "address": "6059 Navona Way",
           "plan": "",
@@ -13693,6 +13579,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e315/0090-6059-navona-way/crestview_c.jpg?iar=1&sc=1&thn=1&w=425&rev=b49d733c0dab4b9c8a3e63f901cad9e2&hash=371670DC7370603DB36413ECDAA9F093",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e315/0090-6059-navona-way/crestview_c.jpg?iar=1&sc=1&thn=1&w=425&rev=b49d733c0dab4b9c8a3e63f901cad9e2&hash=371670DC7370603DB36413ECDAA9F093"
+          ]
+        },
+        {
+          "lot": "315",
+          "address": "6060 Navona Way",
+          "plan": "",
+          "price": 305990,
+          "priceLabel": "$305,990",
+          "beds": 4,
+          "homeSlug": "6060-navona-way",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/6060-navona-way",
+          "baths": "2.5",
+          "sqft": "1,866",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38888-villamar/389730000-villamar-40s---ph7--8/e315/0075-6060-navona-way/crestview_ele_a_cs_c1_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=d8bdaecabefe41149b865f69f2df972d&hash=06E3470B86AFB1F5DAACD9AD25C239D6",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38888-villamar/389730000-villamar-40s---ph7--8/e315/0075-6060-navona-way/crestview_ele_a_cs_c1_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=d8bdaecabefe41149b865f69f2df972d&hash=06E3470B86AFB1F5DAACD9AD25C239D6"
           ]
         }
       ],
@@ -14600,7 +14504,7 @@
       "slug": "willowbrook-south",
       "name": "Willowbrook South",
       "address": "2815 Adeline Ave, Winter Haven, FL 33881",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 277490,
       "highestPrice": 320990,
       "beds": [
@@ -14610,24 +14514,24 @@
       ],
       "lots": [
         {
-          "lot": "6",
-          "address": "2799 Adeline Ave",
+          "lot": "74",
+          "address": "2774 Adeline Ave",
           "plan": "",
-          "price": 278740,
-          "priceLabel": "$278,740",
-          "beds": 3,
-          "homeSlug": "2799-adeline-ave",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2799-adeline-ave",
+          "price": 294490,
+          "priceLabel": "$294,490",
+          "beds": 5,
+          "homeSlug": "2774-adeline-ave",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2774-adeline-ave",
           "baths": "2",
-          "sqft": "1,328",
+          "sqft": "1,708",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e406/0006-2799-adeline-ave/archer_ele_a_without_stone_cs_1_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=73d8443658a94eeb806520e463389f32&hash=E406976C08BDF168D38927893AA49E96",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e405/0074-2774-adeline-ave/_0000_dundee_ele_b_cs_-_12_revised_02.jpg?iar=1&sc=1&thn=1&w=425&rev=c66b3a3fb4c04b7fb823284f45de0ce9&hash=64886B859CA007B61D44044831766544",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e406/0006-2799-adeline-ave/archer_ele_a_without_stone_cs_1_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=73d8443658a94eeb806520e463389f32&hash=E406976C08BDF168D38927893AA49E96"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e405/0074-2774-adeline-ave/_0000_dundee_ele_b_cs_-_12_revised_02.jpg?iar=1&sc=1&thn=1&w=425&rev=c66b3a3fb4c04b7fb823284f45de0ce9&hash=64886B859CA007B61D44044831766544"
           ],
-          "incentive": 3000,
-          "incentiveLabel": "(3,000)"
+          "incentive": 4500,
+          "incentiveLabel": "(4,500)"
         },
         {
           "lot": "66",
@@ -14735,24 +14639,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0014-2767-adeline-ave/fletcher_ele_c_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=875a181901ea4a9485a363031f72df52&hash=43536194B7E9C4745CBD48334A0CA2AC",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e410/0014-2767-adeline-ave/fletcher_ele_c_cs_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=875a181901ea4a9485a363031f72df52&hash=43536194B7E9C4745CBD48334A0CA2AC"
-          ]
-        },
-        {
-          "lot": "74",
-          "address": "2774 Adeline Ave",
-          "plan": "",
-          "price": 294490,
-          "priceLabel": "$294,490",
-          "beds": 5,
-          "homeSlug": "2774-adeline-ave",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/willowbrook-south/qmis/2774-adeline-ave",
-          "baths": "2",
-          "sqft": "1,708",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e405/0074-2774-adeline-ave/_0000_dundee_ele_b_cs_-_12_revised_02.jpg?iar=1&sc=1&thn=1&w=425&rev=c66b3a3fb4c04b7fb823284f45de0ce9&hash=64886B859CA007B61D44044831766544",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/36223-willowbrook-south/362230000-willowbrook-south/e405/0074-2774-adeline-ave/_0000_dundee_ele_b_cs_-_12_revised_02.jpg?iar=1&sc=1&thn=1&w=425&rev=c66b3a3fb4c04b7fb823284f45de0ce9&hash=64886B859CA007B61D44044831766544"
           ]
         },
         {
@@ -15078,11 +14964,10 @@
       "slug": "wynwood",
       "name": "Wynwood",
       "address": "2180 Greenwood Oak Drive, Ocoee, FL 34761",
-      "availableCount": 7,
-      "lowestPrice": 417000,
+      "availableCount": 6,
+      "lowestPrice": 419000,
       "highestPrice": 494995,
       "beds": [
-        3,
         4,
         5
       ],
@@ -15106,24 +14991,6 @@
           ],
           "incentive": 27990,
           "incentiveLabel": "(27,990)"
-        },
-        {
-          "lot": "279",
-          "address": "3416 Spineywood Drive",
-          "plan": "",
-          "price": 417000,
-          "priceLabel": "$417,000",
-          "beds": 3,
-          "homeSlug": "3416-spineywood-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/qmis/3416-spineywood-drive",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3eab/0079-3416-spineywood-drive/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=bad4aeb45a054d3d8463c2b40df1ab69&hash=7915F88399FBC466FE2986823028E673",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3eab/0079-3416-spineywood-drive/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=bad4aeb45a054d3d8463c2b40df1ab69&hash=7915F88399FBC466FE2986823028E673"
-          ]
         },
         {
           "lot": "202",
