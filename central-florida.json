@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-19T21:59:46.300Z",
+  "updatedAt": "2026-11-20T21:41:34.066Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-19T21:59:46.300Z",
-  "photoCount": 436,
+  "publicUpdatedAt": "2026-11-20T21:41:34.066Z",
+  "photoCount": 429,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -523,8 +523,8 @@
       "slug": "avalon-woods",
       "name": "Avalon Woods",
       "address": "1617 NW 248th Way, Newberry, FL 32669",
-      "availableCount": 14,
-      "lowestPrice": 269990,
+      "availableCount": 13,
+      "lowestPrice": 279990,
       "highestPrice": 359990,
       "beds": [
         3,
@@ -730,24 +730,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0147-24291-nw-10th-rd/cali-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2bc28ae66f5a4444bb219eb1012254e0&hash=1F776C3E6EA6715E1DDC9D30F7A29E3E",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0147-24291-nw-10th-rd/cali-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2bc28ae66f5a4444bb219eb1012254e0&hash=1F776C3E6EA6715E1DDC9D30F7A29E3E"
-          ]
-        },
-        {
-          "lot": "583",
-          "address": "24333 NW 10Th Rd",
-          "plan": "",
-          "price": 269990,
-          "priceLabel": "$269,990",
-          "beds": 3,
-          "homeSlug": "24333-nw-10th-rd",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24333-nw-10th-rd",
-          "baths": "2",
-          "sqft": "1,453",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0110-24333-nw-10th-rd/allex-bs-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=21f5c5df8260421d9b83aa3defcadafa&hash=D4EEBC9E8EE626D6F322E2B7BA1C9CE6",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0110-24333-nw-10th-rd/allex-bs-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=21f5c5df8260421d9b83aa3defcadafa&hash=D4EEBC9E8EE626D6F322E2B7BA1C9CE6"
           ]
         },
         {
@@ -2913,8 +2895,8 @@
       "slug": "crossroads-at-kelly-park",
       "name": "Crossroads at Kelly Park",
       "address": "5270 Marshelder Street, Apopka, FL 32712",
-      "availableCount": 8,
-      "lowestPrice": 447990,
+      "availableCount": 7,
+      "lowestPrice": 449988,
       "highestPrice": 512990,
       "beds": [
         4,
@@ -2993,24 +2975,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/e402/0114-5019-nickerbean-st/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=c38c36dc59aa4bc0864a01ac5be7bf1c&hash=B04DB20BA4DC4721EF02109871781439",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/e402/0114-5019-nickerbean-st/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=c38c36dc59aa4bc0864a01ac5be7bf1c&hash=B04DB20BA4DC4721EF02109871781439"
-          ]
-        },
-        {
-          "lot": "276",
-          "address": "5039 Marshelder Street",
-          "plan": "",
-          "price": 447990,
-          "priceLabel": "$447,990",
-          "beds": 4,
-          "homeSlug": "5039-marshelder-street",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/crossroads-at-kelly-park/qmis/5039-marshelder-street",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/4ebb/0027-5039-marshelder-street/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=3eda3ab881064156bdfba845f059d386&hash=0EB4FECA7CB67467EB6829EE6C7D3ED2",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/4ebb/0027-5039-marshelder-street/1_1_cali_exterior_h_1.jpg?iar=1&sc=1&thn=1&w=425&rev=3eda3ab881064156bdfba845f059d386&hash=0EB4FECA7CB67467EB6829EE6C7D3ED2"
           ]
         },
         {
@@ -3367,6 +3331,21 @@
           ]
         },
         {
+          "slug": "4ebb",
+          "name": "Cali",
+          "startingLabel": "Starting in the $340s",
+          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds/floor-plans/4ebb",
+          "beds": 4,
+          "baths": "2",
+          "sqft": "1,828",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/4ebb/cali_g_cropped.jpg?as=1&w=425&rev=6ecb0da7d1a145389c363f576ab63bd4&hash=42333E22169D738ED65FB0657F19B0AB",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38933-crosswinds/389350000-crosswinds-sf-50s/4ebb/cali_g_cropped.jpg?as=1&w=425&rev=6ecb0da7d1a145389c363f576ab63bd4&hash=42333E22169D738ED65FB0657F19B0AB"
+          ]
+        },
+        {
           "slug": "e315",
           "name": "Crestview",
           "startingLabel": "Starting in the $332s",
@@ -3501,7 +3480,7 @@
       "slug": "crosswinds-townhomes",
       "name": "Crosswinds Townhomes",
       "address": "2394 Aveeno Avenue, Haines City, FL 33844",
-      "availableCount": 5,
+      "availableCount": 4,
       "lowestPrice": 251590,
       "highestPrice": 270990,
       "beds": [
@@ -3562,24 +3541,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20a/0215-2330-aveeno-avenue/hawthorne_pearson.jpg?iar=1&sc=1&thn=1&w=425&rev=2d45f3eb55f845e2b95a4de47cf7ee64&hash=9A71AE80170D196C82F3F998E8686297",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20a/0215-2330-aveeno-avenue/hawthorne_pearson.jpg?iar=1&sc=1&thn=1&w=425&rev=2d45f3eb55f845e2b95a4de47cf7ee64&hash=9A71AE80170D196C82F3F998E8686297"
-          ]
-        },
-        {
-          "lot": "1003",
-          "address": "2334 Aveeno Avenue",
-          "plan": "",
-          "price": 256500,
-          "priceLabel": "$256,500",
-          "beds": 3,
-          "homeSlug": "2334-aveeno-avenue",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2334-aveeno-avenue",
-          "baths": "2.5",
-          "sqft": "1,463",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20a/0214-2334-aveeno-avenue/hawthorne_pearson.jpg?iar=1&sc=1&thn=1&w=425&rev=b91519ff92b343caad96478d548d2043&hash=64EC4B551DA609A2574A0E140D52FAE3",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20a/0214-2334-aveeno-avenue/hawthorne_pearson.jpg?iar=1&sc=1&thn=1&w=425&rev=b91519ff92b343caad96478d548d2043&hash=64EC4B551DA609A2574A0E140D52FAE3"
           ]
         },
         {
@@ -5862,9 +5823,9 @@
       "slug": "hamilton-bluff",
       "name": "Hamilton Bluff",
       "address": "1607 Plateau Crossing, Haines City, FL 33844",
-      "availableCount": 6,
+      "availableCount": 5,
       "lowestPrice": 298490,
-      "highestPrice": 362490,
+      "highestPrice": 360490,
       "beds": [
         3,
         4,
@@ -5884,9 +5845,9 @@
           "sqft": "2,077",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0073-1775-grandiose-drive/covington_g_cropped_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=6fddcd1bd3eb4cfcadd1f4324b571594&hash=C0253ACE5202B448F0243AF1494348A3",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0073-1775-grandiose-drive/lakeside_g_.jpg?iar=1&sc=1&thn=1&w=425&rev=66ede0eca0fd4718891d93f7b08611d0&hash=4FE9DE5EEF5167DC4BF763A5ED7EE182",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0073-1775-grandiose-drive/covington_g_cropped_mls.jpg?iar=1&sc=1&thn=1&w=425&rev=6fddcd1bd3eb4cfcadd1f4324b571594&hash=C0253ACE5202B448F0243AF1494348A3"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0073-1775-grandiose-drive/lakeside_g_.jpg?iar=1&sc=1&thn=1&w=425&rev=66ede0eca0fd4718891d93f7b08611d0&hash=4FE9DE5EEF5167DC4BF763A5ED7EE182"
           ]
         },
         {
@@ -5905,24 +5866,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/e315/0016-1248-cumberland-trail-drive/_0002_1866_e315_crestview_ele_c_8-8_inch_cs_c5.jpg?iar=1&sc=1&thn=1&w=425&rev=85ce3d6c5a5c458b90f5415aa33834c8&hash=382FEFFB392DCDDC7D2F2FD374C2D015",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389810000-hamilton-bluff-40s/e315/0016-1248-cumberland-trail-drive/_0002_1866_e315_crestview_ele_c_8-8_inch_cs_c5.jpg?iar=1&sc=1&thn=1&w=425&rev=85ce3d6c5a5c458b90f5415aa33834c8&hash=382FEFFB392DCDDC7D2F2FD374C2D015"
-          ]
-        },
-        {
-          "lot": "17",
-          "address": "1783 Grandiose Drive",
-          "plan": "",
-          "price": 362490,
-          "priceLabel": "$362,490",
-          "beds": 5,
-          "homeSlug": "1783-grandiose-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/hamilton-bluff/qmis/1783-grandiose-drive",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0017-1783-grandiose-drive/lakeside_g_.jpg?iar=1&sc=1&thn=1&w=425&rev=ce934307e8f44d3bb4386f908b598bd5&hash=E672986EF230D7B652403370572133E3",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38981-hamilton-bluff/389820000-hamilton-bluff-50s/e402/0017-1783-grandiose-drive/lakeside_g_.jpg?iar=1&sc=1&thn=1&w=425&rev=ce934307e8f44d3bb4386f908b598bd5&hash=E672986EF230D7B652403370572133E3"
           ]
         },
         {
@@ -6867,7 +6810,7 @@
           "priceLabel": "$416,990",
           "beds": 5,
           "homeSlug": "3164-house-finch-road",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3164-house-finch-road",
+          "sourceUrl": "",
           "baths": "3",
           "sqft": "2,447",
           "story": "2",
@@ -7147,8 +7090,8 @@
           "lot": "530",
           "address": "5231 Ligonberry Street",
           "plan": "",
-          "price": 442490,
-          "priceLabel": "$442,490",
+          "price": 437990,
+          "priceLabel": "$437,990",
           "beds": 4,
           "homeSlug": "5231-ligonberry-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5231-ligonberry-street",
@@ -7159,9 +7102,7 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38968-hawthorne/362020000-hawthorne-ph3-60s/e501/0022-5231-ligonberry-street/denham_l_mls_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=543c3a9f932e4b21b014b7cce0d0e5a7&hash=DC8026E755A2031C0508BD984915D32C",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38968-hawthorne/362020000-hawthorne-ph3-60s/e501/0022-5231-ligonberry-street/denham_l_mls_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=543c3a9f932e4b21b014b7cce0d0e5a7&hash=DC8026E755A2031C0508BD984915D32C"
-          ],
-          "incentive": 10500,
-          "incentiveLabel": "(10,500)"
+          ]
         },
         {
           "lot": "410",
@@ -7203,8 +7144,8 @@
           "lot": "539",
           "address": "4660 Barberry Avenue",
           "plan": "",
-          "price": 440400,
-          "priceLabel": "$440,400",
+          "price": 436990,
+          "priceLabel": "$436,990",
           "beds": 4,
           "homeSlug": "4660-barberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/4660-barberry-avenue",
@@ -7221,8 +7162,8 @@
           "lot": "420",
           "address": "5308 Cloudberry Avenue",
           "plan": "",
-          "price": 417990,
-          "priceLabel": "$417,990",
+          "price": 391490,
+          "priceLabel": "$391,490",
           "beds": 4,
           "homeSlug": "5308-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5308-cloudberry-avenue",
@@ -7293,8 +7234,8 @@
           "lot": "431",
           "address": "5352 Cloudberry Avenue",
           "plan": "",
-          "price": 446400,
-          "priceLabel": "$446,400",
+          "price": 436490,
+          "priceLabel": "$436,490",
           "beds": 4,
           "homeSlug": "5352-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5352-cloudberry-avenue",
@@ -7329,8 +7270,8 @@
           "lot": "438",
           "address": "5384 Cloudberry Avenue",
           "plan": "",
-          "price": 440400,
-          "priceLabel": "$440,400",
+          "price": 434490,
+          "priceLabel": "$434,490",
           "beds": 4,
           "homeSlug": "5384-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5384-cloudberry-avenue",
@@ -7347,8 +7288,8 @@
           "lot": "440",
           "address": "5392 Cloudberry Avenue",
           "plan": "",
-          "price": 440400,
-          "priceLabel": "$440,400",
+          "price": 437490,
+          "priceLabel": "$437,490",
           "beds": 4,
           "homeSlug": "5392-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5392-cloudberry-avenue",
@@ -7365,8 +7306,8 @@
           "lot": "442",
           "address": "5400 Cloudberry Avenue",
           "plan": "",
-          "price": 438400,
-          "priceLabel": "$438,400",
+          "price": 435490,
+          "priceLabel": "$435,490",
           "beds": 4,
           "homeSlug": "5400-cloudberry-avenue",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/5400-cloudberry-avenue",
@@ -7401,8 +7342,8 @@
           "lot": "727",
           "address": "6032 Gaura Way",
           "plan": "",
-          "price": 409490,
-          "priceLabel": "$409,490",
+          "price": 404490,
+          "priceLabel": "$404,490",
           "beds": 4,
           "homeSlug": "6032-gaura-way",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/6032-gaura-way",
@@ -7419,8 +7360,8 @@
           "lot": "794",
           "address": "6160 Crocus Street",
           "plan": "",
-          "price": 393490,
-          "priceLabel": "$393,490",
+          "price": 388490,
+          "priceLabel": "$388,490",
           "beds": 5,
           "homeSlug": "6160-crocus-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/6160-crocus-street",
@@ -7437,8 +7378,8 @@
           "lot": "795",
           "address": "6164 Crocus Street",
           "plan": "",
-          "price": 364490,
-          "priceLabel": "$364,490",
+          "price": 359490,
+          "priceLabel": "$359,490",
           "beds": 4,
           "homeSlug": "6164-crocus-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/qmis/6164-crocus-street",
@@ -7501,7 +7442,7 @@
         {
           "slug": "2795",
           "name": "Camden",
-          "startingLabel": "Starting in the $460s",
+          "startingLabel": "Starting in the $445s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/floor-plans/2795",
           "beds": 4,
           "baths": "3.5",
@@ -7516,7 +7457,7 @@
         {
           "slug": "2767",
           "name": "Coral",
-          "startingLabel": "Starting in the $434s",
+          "startingLabel": "Starting in the $414s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/floor-plans/2767",
           "beds": 4,
           "baths": "3",
@@ -7531,7 +7472,7 @@
         {
           "slug": "e502",
           "name": "Covington",
-          "startingLabel": "Starting in the $451s",
+          "startingLabel": "Starting in the $436s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/floor-plans/e502",
           "beds": 5,
           "baths": "3",
@@ -7546,7 +7487,7 @@
         {
           "slug": "e315",
           "name": "Crestview",
-          "startingLabel": "Starting in the $346s",
+          "startingLabel": "Starting in the $341s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/floor-plans/e315",
           "beds": 4,
           "baths": "2.5",
@@ -7561,7 +7502,7 @@
         {
           "slug": "e501",
           "name": "Denham",
-          "startingLabel": "Starting in the $446s",
+          "startingLabel": "Starting in the $431s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/floor-plans/e501",
           "beds": 4,
           "baths": "3",
@@ -7621,7 +7562,7 @@
         {
           "slug": "4ehb",
           "name": "Hayden",
-          "startingLabel": "Starting in the $389s",
+          "startingLabel": "Starting in the $391s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/floor-plans/4ehb",
           "beds": 5,
           "baths": "3",
@@ -7636,7 +7577,7 @@
         {
           "slug": "3129",
           "name": "Holden",
-          "startingLabel": "Starting in the $464s",
+          "startingLabel": "Starting in the $444s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/floor-plans/3129",
           "beds": 4,
           "baths": "3",
@@ -7651,7 +7592,7 @@
         {
           "slug": "e402",
           "name": "Lakeside",
-          "startingLabel": "Starting in the $382s",
+          "startingLabel": "Starting in the $377s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/floor-plans/e402",
           "beds": 5,
           "baths": "3",
@@ -7681,7 +7622,7 @@
         {
           "slug": "2107",
           "name": "Robinson",
-          "startingLabel": "Starting in the $387s",
+          "startingLabel": "Starting in the $373s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/hawthorne-ranch/floor-plans/2107",
           "beds": 4,
           "baths": "3",
@@ -8089,7 +8030,7 @@
       "slug": "kindred",
       "name": "Kindred",
       "address": "1848 Southbury Drive, Kissimmee, FL 34744",
-      "availableCount": 23,
+      "availableCount": 22,
       "lowestPrice": 341990,
       "highestPrice": 494790,
       "beds": [
@@ -8350,24 +8291,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0583-1937-howard-mesa-drive/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=121570358ebf4ca7834e6309b47a5638&hash=A7D58914D63D4FD0BEF7747CCFACE7E3",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0583-1937-howard-mesa-drive/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=121570358ebf4ca7834e6309b47a5638&hash=A7D58914D63D4FD0BEF7747CCFACE7E3"
-          ]
-        },
-        {
-          "lot": "111",
-          "address": "1948 Southbury Drive",
-          "plan": "",
-          "price": 394990,
-          "priceLabel": "$394,990",
-          "beds": 4,
-          "homeSlug": "1948-southbury-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1948-southbury-drive",
-          "baths": "2",
-          "sqft": "1,720",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/385680000-kindred-40s-rl/3rbb/0002-1948-southbury-drive/1_1_baldwinexterior_elevationcstone.jpg?iar=1&sc=1&thn=1&w=425&rev=0b36e573b0b34e1d9c82800afd68437f&hash=9233A602D1BE6173333FA083928E466D",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/385680000-kindred-40s-rl/3rbb/0002-1948-southbury-drive/1_1_baldwinexterior_elevationcstone.jpg?iar=1&sc=1&thn=1&w=425&rev=0b36e573b0b34e1d9c82800afd68437f&hash=9233A602D1BE6173333FA083928E466D"
           ]
         },
         {
@@ -9569,39 +9492,19 @@
       "slug": "millstone",
       "name": "Millstone",
       "address": "8324 Madrid Street, Lakeland, FL 33810",
-      "availableCount": 3,
-      "lowestPrice": 312490,
-      "highestPrice": 315990,
+      "availableCount": 2,
+      "lowestPrice": 313990,
+      "highestPrice": 315490,
       "beds": [
         4
       ],
       "lots": [
         {
-          "lot": "149",
-          "address": "1522 Las Palmas Street",
-          "plan": "",
-          "price": 312490,
-          "priceLabel": "$312,490",
-          "beds": 4,
-          "homeSlug": "1522-las-palmas-street",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1522-las-palmas-street",
-          "baths": "2",
-          "sqft": "1,665",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0149-1522-las-palmas-street/harper_g__cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=b77752c433ac4d91930aa2deef7ba6f7&hash=358FC9D3E66E745B21D1057851A69A35",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38971-millstone/389710000-millstone/3emb/0149-1522-las-palmas-street/harper_g__cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=b77752c433ac4d91930aa2deef7ba6f7&hash=358FC9D3E66E745B21D1057851A69A35"
-          ],
-          "incentive": 9500,
-          "incentiveLabel": "(9,500)"
-        },
-        {
           "lot": "147",
           "address": "1514 Las Palmas Street",
           "plan": "",
-          "price": 315280,
-          "priceLabel": "$315,280",
+          "price": 313990,
+          "priceLabel": "$313,990",
           "beds": 4,
           "homeSlug": "1514-las-palmas-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1514-las-palmas-street",
@@ -9618,8 +9521,8 @@
           "lot": "150",
           "address": "1526 Las Palmas Street",
           "plan": "",
-          "price": 315990,
-          "priceLabel": "$315,990",
+          "price": 315490,
+          "priceLabel": "$315,490",
           "beds": 4,
           "homeSlug": "1526-las-palmas-street",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/qmis/1526-las-palmas-street",
@@ -9637,7 +9540,7 @@
         {
           "slug": "3eab",
           "name": "Allex",
-          "startingLabel": "Starting in the $304s",
+          "startingLabel": "Starting in the $294s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/floor-plans/3eab",
           "beds": 3,
           "baths": "2",
@@ -9652,7 +9555,7 @@
         {
           "slug": "e315",
           "name": "Crestview",
-          "startingLabel": "Starting in the $330s",
+          "startingLabel": "Starting in the $320s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/floor-plans/e315",
           "beds": 4,
           "baths": "2.5",
@@ -9667,7 +9570,7 @@
         {
           "slug": "e306",
           "name": "Downing II",
-          "startingLabel": "Starting in the $289s",
+          "startingLabel": "Starting in the $279s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/floor-plans/e306",
           "beds": 3,
           "baths": "2",
@@ -9682,7 +9585,7 @@
         {
           "slug": "3emb",
           "name": "Harper",
-          "startingLabel": "Starting in the $316s",
+          "startingLabel": "Starting in the $306s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/floor-plans/3emb",
           "beds": 4,
           "baths": "2",
@@ -9697,7 +9600,7 @@
         {
           "slug": "3efb",
           "name": "Robie",
-          "startingLabel": "Starting in the $356s",
+          "startingLabel": "Starting in the $346s",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/lakeland/millstone/floor-plans/3efb",
           "beds": 5,
           "baths": "3",
@@ -9860,33 +9763,13 @@
       "slug": "nona-west",
       "name": "Nona West",
       "address": "14348 Canvas Street, Orlando, FL 32824",
-      "availableCount": 5,
+      "availableCount": 4,
       "lowestPrice": 392990,
       "highestPrice": 402990,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "165",
-          "address": "3563 Chroma Street",
-          "plan": "",
-          "price": 392990,
-          "priceLabel": "$392,990",
-          "beds": 3,
-          "homeSlug": "3563-chroma-street",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/orlando/nona-west/qmis/3563-chroma-street",
-          "baths": "2.5",
-          "sqft": "1,673",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0165-3563-chroma-street/1_1_glenstoneexterior_1.jpg?iar=1&sc=1&thn=1&w=425&rev=3c3752ec5c2042808800f4b3f956b0d0&hash=F3B60E0A20BC4ADDFC5D922F96F5F6C5",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0165-3563-chroma-street/1_1_glenstoneexterior_1.jpg?iar=1&sc=1&thn=1&w=425&rev=3c3752ec5c2042808800f4b3f956b0d0&hash=F3B60E0A20BC4ADDFC5D922F96F5F6C5"
-          ],
-          "incentive": 5000,
-          "incentiveLabel": "(5,000)"
-        },
         {
           "lot": "167",
           "address": "3545 Chroma Street",
@@ -13480,8 +13363,8 @@
       "slug": "villamar",
       "name": "Villamar",
       "address": "5515 Taverna Loop, Winter Haven, FL 33884",
-      "availableCount": 6,
-      "lowestPrice": 273470,
+      "availableCount": 5,
+      "lowestPrice": 283720,
       "highestPrice": 336990,
       "beds": [
         3,
@@ -13525,24 +13408,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38888-villamar/389730000-villamar-40s---ph7--8/e303/0164-5565-taverna-loop/elston_ii_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=73e671b82aa84b13a61e59ac867e4b3e&hash=E75EFF0E8CDDBA8E9F5C09EF8C721115",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-lakeland/38888-villamar/389730000-villamar-40s---ph7--8/e303/0164-5565-taverna-loop/elston_ii_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=73e671b82aa84b13a61e59ac867e4b3e&hash=E75EFF0E8CDDBA8E9F5C09EF8C721115"
-          ]
-        },
-        {
-          "lot": "93",
-          "address": "5584 Taverna Loop",
-          "plan": "",
-          "price": 273470,
-          "priceLabel": "$273,470",
-          "beds": 3,
-          "homeSlug": "5584-taverna-loop",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/villamar/qmis/5584-taverna-loop",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e302/0007-5584-taverna-loop/allex_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=09146977e55c41d6aef08c8792a3fa91&hash=68A09AF60700D8D0D22C9193C9A3A29A",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38888-villamar/389730000-villamar-40s---ph7--8/e302/0007-5584-taverna-loop/allex_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=09146977e55c41d6aef08c8792a3fa91&hash=68A09AF60700D8D0D22C9193C9A3A29A"
           ]
         },
         {
@@ -14964,10 +14829,11 @@
       "slug": "wynwood",
       "name": "Wynwood",
       "address": "2180 Greenwood Oak Drive, Ocoee, FL 34761",
-      "availableCount": 6,
+      "availableCount": 7,
       "lowestPrice": 419000,
       "highestPrice": 494995,
       "beds": [
+        3,
         4,
         5
       ],
@@ -15044,6 +14910,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3emb/0080-3420-spineywood-drive/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=a0445d364fe14a119f28fc55ad92bd7c&hash=CB1B8696C41784802B143CB6557D4357",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3emb/0080-3420-spineywood-drive/1_1_harper_exteriorc.jpg?iar=1&sc=1&thn=1&w=425&rev=a0445d364fe14a119f28fc55ad92bd7c&hash=CB1B8696C41784802B143CB6557D4357"
+          ]
+        },
+        {
+          "lot": "198",
+          "address": "3333 Spineywood Drive",
+          "plan": "",
+          "price": 447645,
+          "priceLabel": "$447,645",
+          "beds": 3,
+          "homeSlug": "3333-spineywood-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/qmis/3333-spineywood-drive",
+          "baths": "2",
+          "sqft": "1,504",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3eab/0043-3333-spineywood-drive/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=e64efb1200374eb99ed22b2dc75c2207&hash=6EABAEE8AAAE09E453E83F13F1D4D04C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/382960000-wynwood-40s/3eab/0043-3333-spineywood-drive/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=e64efb1200374eb99ed22b2dc75c2207&hash=6EABAEE8AAAE09E453E83F13F1D4D04C"
           ]
         },
         {

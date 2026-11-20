@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-19T21:55:30.557Z",
+  "updatedAt": "2026-11-20T21:37:19.101Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-19T21:55:30.557Z",
-  "photoCount": 101,
+  "publicUpdatedAt": "2026-11-20T21:37:19.101Z",
+  "photoCount": 99,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -1695,7 +1695,7 @@
       "slug": "ocala-crossings-south",
       "name": "Ocala Crossings South",
       "address": "8717 SW 46th Terrace, Ocala, FL 34476",
-      "availableCount": 8,
+      "availableCount": 7,
       "lowestPrice": 283990,
       "highestPrice": 339990,
       "beds": [
@@ -1830,24 +1830,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/e303/0201-9069-sw-47th-ct/elston_ii-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b3ab3d41ab5f4ade9921f16dbbecb26f&hash=7C5B4E01E93CF237F28E518B391BE94F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/e303/0201-9069-sw-47th-ct/elston_ii-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b3ab3d41ab5f4ade9921f16dbbecb26f&hash=7C5B4E01E93CF237F28E518B391BE94F"
-          ]
-        },
-        {
-          "lot": "9",
-          "address": "9097 SW 47th Ct",
-          "plan": "",
-          "price": 317990,
-          "priceLabel": "$317,990",
-          "beds": 5,
-          "homeSlug": "9097-sw-47th-ct",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-crossings-south/qmis/9097-sw-47th-ct",
-          "baths": "3",
-          "sqft": "2,447",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3efb/0206-9097-sw-47th-ct/robie-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4c5216ee2e954eeb878d9e8200a661ab&hash=2BBBAE9FAF3349815AB37EF72276678B",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34736-ocala-crossings-south/347360000-ocala-crossings-40-exp---bfs/3efb/0206-9097-sw-47th-ct/robie-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4c5216ee2e954eeb878d9e8200a661ab&hash=2BBBAE9FAF3349815AB37EF72276678B"
           ]
         }
       ],
@@ -2587,13 +2569,12 @@
       "slug": "tartan-farms-at-winding-oaks",
       "name": "Tartan Farms at Winding Oaks",
       "address": "4428 SW 69th Street, Ocala, FL 34474",
-      "availableCount": 10,
+      "availableCount": 9,
       "lowestPrice": 279990,
       "highestPrice": 437990,
       "beds": [
         3,
-        4,
-        5
+        4
       ],
       "lots": [
         {
@@ -2686,24 +2667,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ebb/0028-4466-sw-67th-ln/cali-d-stone-carriage-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4e2a601737e44234b1280a87e1d3644a&hash=9E264736ABBC96EBD15FFDF963349D41",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/975010000-winding-oaks-50s-exp/4ebb/0028-4466-sw-67th-ln/cali-d-stone-carriage-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4e2a601737e44234b1280a87e1d3644a&hash=9E264736ABBC96EBD15FFDF963349D41"
-          ]
-        },
-        {
-          "lot": "106",
-          "address": "6836 SW 45th Ave",
-          "plan": "Robie",
-          "price": 314990,
-          "priceLabel": "$314,990",
-          "beds": 5,
-          "homeSlug": "6836-sw-45th-ave",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/tartan-farms-at-winding-oaks/qmis/6836-sw-45th-ave",
-          "baths": "3",
-          "sqft": "2,447",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-ph4a-40s-exp/3efb/0034-6836-sw-45th-ave/robie-h-8ft-stone-carriage-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=61d1301472c743ae9cd8980ca3449a59&hash=D4222D4E01F5C5E78269595330162844",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34791-winding-oaks/347910000-winding-oaks-ph4a-40s-exp/3efb/0034-6836-sw-45th-ave/robie-h-8ft-stone-carriage-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=61d1301472c743ae9cd8980ca3449a59&hash=D4222D4E01F5C5E78269595330162844"
           ]
         },
         {
