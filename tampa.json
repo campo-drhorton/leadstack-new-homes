@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-20T21:44:01.719Z",
+  "updatedAt": "2026-11-21T20:24:55.686Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-20T21:44:01.719Z",
-  "photoCount": 230,
+  "publicUpdatedAt": "2026-11-21T20:24:55.686Z",
+  "photoCount": 229,
   "communities": [
     {
       "slug": "abbott-park-aa",
@@ -6090,7 +6090,7 @@
       "address": "9841 Coconut Court, Spring Hill, FL 34608",
       "availableCount": 5,
       "lowestPrice": 258070,
-      "highestPrice": 299930,
+      "highestPrice": 300000,
       "beds": [
         3,
         4,
@@ -6173,8 +6173,8 @@
           "lot": "327",
           "address": "4596 Kona Cir",
           "plan": "",
-          "price": 299930,
-          "priceLabel": "$299,930",
+          "price": 300000,
+          "priceLabel": "$300,000",
           "beds": 5,
           "homeSlug": "4596-kona-cir",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/spring-hill/somerset-bay/qmis/4596-kona-cir",
@@ -8173,8 +8173,8 @@
       "slug": "woodcreek-townhomes",
       "name": "Woodcreek Townhomes",
       "address": "2412 Sterling Forest Court, Wesley Chapel, FL 33543",
-      "availableCount": 2,
-      "lowestPrice": 315000,
+      "availableCount": 1,
+      "lowestPrice": 338000,
       "highestPrice": 338000,
       "beds": [
         3
@@ -8199,24 +8199,6 @@
           ],
           "incentive": 990,
           "incentiveLabel": "(990)"
-        },
-        {
-          "lot": "26",
-          "address": "32609 Midsummer Night Ln",
-          "plan": "",
-          "price": 315000,
-          "priceLabel": "$315,000",
-          "beds": 3,
-          "homeSlug": "32609-midsummer-night-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek-townhomes/qmis/32609-midsummer-night-lane",
-          "baths": "2.5",
-          "sqft": "1,673",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0026-32609-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=379872dcfe984828a72f6a15b1a4208e&hash=6B8A1EA199FE3F6739B9ABC24D550784",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39327-woodcreek/393270000-woodcreek-th/1673/0026-32609-midsummer-night-lane/6_unit_th-addington-ballantyne-front-e1-gen3-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=379872dcfe984828a72f6a15b1a4208e&hash=6B8A1EA199FE3F6739B9ABC24D550784"
-          ]
         }
       ],
       "models": [

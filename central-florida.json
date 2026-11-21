@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-20T21:41:34.066Z",
+  "updatedAt": "2026-11-21T20:22:32.619Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-20T21:41:34.066Z",
-  "photoCount": 429,
+  "publicUpdatedAt": "2026-11-21T20:22:32.619Z",
+  "photoCount": 428,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -238,7 +238,7 @@
       "slug": "annabelle-estates-townhomes",
       "name": "Annabelle Estates Townhomes",
       "address": "4602 Linda Drive, Lake Wales, FL 33859",
-      "availableCount": 5,
+      "availableCount": 4,
       "lowestPrice": 224990,
       "highestPrice": 229990,
       "beds": [
@@ -281,24 +281,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38979-annabelle-estates/389780000-annabelle-estates-th/t20a/0013-4702-tony-street/annabelle_th_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=36da6ae8f5c34becb8e3800a80b3f4b6&hash=B74207604AC6600ACB11AABE6D0D8416",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38979-annabelle-estates/389780000-annabelle-estates-th/t20a/0013-4702-tony-street/annabelle_th_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=36da6ae8f5c34becb8e3800a80b3f4b6&hash=B74207604AC6600ACB11AABE6D0D8416"
-          ]
-        },
-        {
-          "lot": "90",
-          "address": "4706 Tony Street",
-          "plan": "",
-          "price": 224990,
-          "priceLabel": "$224,990",
-          "beds": 3,
-          "homeSlug": "4706-tony-street",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/winter-haven/annabelle-estates-townhomes/qmis/4706-tony-street",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38979-annabelle-estates/389780000-annabelle-estates-th/t20b/0014-4706-tony-street/annabelle_th_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=72e0aea8c19940c4b97c8de8c2d496ed&hash=D1917047A0549A6264DFB11E9FD8D443",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38979-annabelle-estates/389780000-annabelle-estates-th/t20b/0014-4706-tony-street/annabelle_th_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=72e0aea8c19940c4b97c8de8c2d496ed&hash=D1917047A0549A6264DFB11E9FD8D443"
           ]
         },
         {
@@ -6810,7 +6792,7 @@
           "priceLabel": "$416,990",
           "beds": 5,
           "homeSlug": "3164-house-finch-road",
-          "sourceUrl": "",
+          "sourceUrl": "https://www.drhorton.com/florida/osceola-county/saint-cloud/harmony-west/qmis/3164-house-finch-road",
           "baths": "3",
           "sqft": "2,447",
           "story": "2",
