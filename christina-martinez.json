@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-24T01:21:56.739Z",
+  "updatedAt": "2026-11-24T23:19:56.821Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-24T01:21:56.739Z",
+  "publicUpdatedAt": "2026-11-24T23:19:56.821Z",
   "photoCount": 94,
   "communities": [
     {
@@ -1872,7 +1872,7 @@
       "address": "5204 NW 41st Loop, Ocala, FL 34482",
       "availableCount": 8,
       "lowestPrice": 232990,
-      "highestPrice": 343960,
+      "highestPrice": 334990,
       "beds": [
         3,
         4
@@ -1956,8 +1956,8 @@
           "lot": "34",
           "address": "4619 NW 39th Street Rd",
           "plan": "",
-          "price": 343960,
-          "priceLabel": "$343,960",
+          "price": 329990,
+          "priceLabel": "$329,990",
           "beds": 4,
           "homeSlug": "4619-nw-39th-street-rd",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve/qmis/4619-nw-39th-street-rd",
