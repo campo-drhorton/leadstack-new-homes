@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-24T23:19:56.821Z",
+  "updatedAt": "2026-11-25T22:52:31.072Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-24T23:19:56.821Z",
-  "photoCount": 94,
+  "publicUpdatedAt": "2026-11-25T22:52:31.072Z",
+  "photoCount": 93,
   "communities": [
     {
       "slug": "autumn-glen",
       "name": "Autumn Glen",
       "address": "11466 SE 72nd Avenue, Belleview, FL 34420",
       "availableCount": 6,
-      "lowestPrice": 286990,
-      "highestPrice": 335990,
+      "lowestPrice": 285990,
+      "highestPrice": 334990,
       "beds": [
         4,
         5
@@ -58,8 +58,8 @@
           "lot": "76",
           "address": "7098 SE 112th Lane",
           "plan": "",
-          "price": 286990,
-          "priceLabel": "$286,990",
+          "price": 285990,
+          "priceLabel": "$285,990",
           "beds": 4,
           "homeSlug": "7098-se-112th-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7098-se-112th-lane",
@@ -76,8 +76,8 @@
           "lot": "79",
           "address": "7126 SE 112th Lane",
           "plan": "",
-          "price": 286990,
-          "priceLabel": "$286,990",
+          "price": 285990,
+          "priceLabel": "$285,990",
           "beds": 4,
           "homeSlug": "7126-se-112th-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7126-se-112th-lane",
@@ -94,8 +94,8 @@
           "lot": "74",
           "address": "7078 SE 112th Lane",
           "plan": "",
-          "price": 335990,
-          "priceLabel": "$335,990",
+          "price": 334990,
+          "priceLabel": "$334,990",
           "beds": 5,
           "homeSlug": "7078-se-112th-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7078-se-112th-lane",
@@ -112,8 +112,8 @@
           "lot": "77",
           "address": "7106 SE 112th Lane",
           "plan": "",
-          "price": 335990,
-          "priceLabel": "$335,990",
+          "price": 334990,
+          "priceLabel": "$334,990",
           "beds": 5,
           "homeSlug": "7106-se-112th-lane",
           "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7106-se-112th-lane",
@@ -355,7 +355,7 @@
       "address": "7665 SW 46th Court, Ocala, FL 34474",
       "availableCount": 6,
       "lowestPrice": 255990,
-      "highestPrice": 265990,
+      "highestPrice": 271965,
       "beds": [
         3,
         4
@@ -382,6 +382,24 @@
           "incentiveLabel": "(9,975)"
         },
         {
+          "lot": "15",
+          "address": "7805 SW 46th Court",
+          "plan": "",
+          "price": 271965,
+          "priceLabel": "$271,965",
+          "beds": 4,
+          "homeSlug": "7805-sw-46th-court",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7805-sw-46th-court",
+          "baths": "2",
+          "sqft": "1,560",
+          "story": "1",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0015-7805-sw-46th-court/dc_7805_sw_46th_court.jpg?iar=1&sc=1&thn=1&w=425&rev=08c09522af67460baf449a1203f4aa7f&hash=4B32D6E67C18DDE85E15F91C4B029968",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0015-7805-sw-46th-court/dc_7805_sw_46th_court.jpg?iar=1&sc=1&thn=1&w=425&rev=08c09522af67460baf449a1203f4aa7f&hash=4B32D6E67C18DDE85E15F91C4B029968"
+          ]
+        },
+        {
           "lot": "19",
           "address": "7837 SW 46th Court",
           "plan": "",
@@ -397,24 +415,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0019-7837-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=2259c60f751a41e58bc7ea97f74975c1&hash=FE23E29B120B39671E0E23F8ED16238A",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0019-7837-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=2259c60f751a41e58bc7ea97f74975c1&hash=FE23E29B120B39671E0E23F8ED16238A"
-          ]
-        },
-        {
-          "lot": "23",
-          "address": "7869 SW 46th Court",
-          "plan": "",
-          "price": 261990,
-          "priceLabel": "$261,990",
-          "beds": 4,
-          "homeSlug": "7869-sw-46th-court",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/derby-creek/qmis/7869-sw-46th-court",
-          "baths": "2",
-          "sqft": "1,560",
-          "story": "1",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0023-7869-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=38bc187863f24345a72d10314d595e4a&hash=904276D9B282A5A1ECCB13D37C8A858B",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97508-winding-oaks/975080000-derby-creek-40s-exp/e312/0023-7869-sw-46th-court/1560_e312_cameron_ele_b_cs4_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=38bc187863f24345a72d10314d595e4a&hash=904276D9B282A5A1ECCB13D37C8A858B"
           ]
         },
         {
@@ -1870,7 +1870,7 @@
       "slug": "ocala-preserve",
       "name": "Ocala Preserve",
       "address": "5204 NW 41st Loop, Ocala, FL 34482",
-      "availableCount": 8,
+      "availableCount": 7,
       "lowestPrice": 232990,
       "highestPrice": 334990,
       "beds": [
@@ -1878,26 +1878,6 @@
         4
       ],
       "lots": [
-        {
-          "lot": "28",
-          "address": "4555 NW 39th Street Rd",
-          "plan": "Delray",
-          "price": 325990,
-          "priceLabel": "$325,990",
-          "beds": 4,
-          "homeSlug": "4555-nw-39th-street-rd",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve/qmis/4555-nw-39th-street-rd",
-          "baths": "2",
-          "sqft": "2,034",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/0187-4555-nw-39th-street-rd/3fl_west_florida_freedom_homes_delray_b.jpg?iar=1&sc=1&thn=1&w=425&rev=8b81e475b3d543a79da05908e52ea3c5&hash=9C2EA3071934A7AC1693B2DA81DF22DE",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34705-ocala-preserve/347060000-ocala-preserve-50-aa/a4db/0187-4555-nw-39th-street-rd/3fl_west_florida_freedom_homes_delray_b.jpg?iar=1&sc=1&thn=1&w=425&rev=8b81e475b3d543a79da05908e52ea3c5&hash=9C2EA3071934A7AC1693B2DA81DF22DE"
-          ],
-          "incentive": 26875,
-          "incentiveLabel": "(26,875)"
-        },
         {
           "lot": "812",
           "address": "3999 NW 44th Circle",

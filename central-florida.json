@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-24T23:24:09.285Z",
+  "updatedAt": "2026-11-25T22:56:41.620Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-24T23:24:09.285Z",
-  "photoCount": 411,
+  "publicUpdatedAt": "2026-11-25T22:56:41.620Z",
+  "photoCount": 410,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -2285,8 +2285,8 @@
           "lot": "12",
           "address": "4209 Bixby Bridge Place",
           "plan": "",
-          "price": 394470,
-          "priceLabel": "$394,470",
+          "price": 396470,
+          "priceLabel": "$396,470",
           "beds": 5,
           "homeSlug": "4209-bixby-bridge-place",
           "sourceUrl": "https://www.drhorton.com/florida/polk-county/davenport/cascades/qmis/4209-bixby-bridge-place",
@@ -2551,26 +2551,6 @@
       ],
       "lots": [
         {
-          "lot": "383",
-          "address": "1337 Camellia Bloom Lane",
-          "plan": "",
-          "price": 399997,
-          "priceLabel": "$399,997",
-          "beds": 3,
-          "homeSlug": "1337-camellia-bloom-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/seminole-county/sanford/concorde/qmis/1337-camellia-bloom-lane",
-          "baths": "2",
-          "sqft": "1,504",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0192-1337-camellia-bloom-lane/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=947625eb122f4aaf9a0216e5b723f39f&hash=096D09FA1879AAEF8362E6B9B1DFC031",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0192-1337-camellia-bloom-lane/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=947625eb122f4aaf9a0216e5b723f39f&hash=096D09FA1879AAEF8362E6B9B1DFC031"
-          ],
-          "incentive": 16088,
-          "incentiveLabel": "(16,088)"
-        },
-        {
           "lot": "380",
           "address": "1336 Grand Flora Lane",
           "plan": "",
@@ -2586,7 +2566,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0191-1336-grand-flora-lane/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=ee962c53bee74380a409a85cc7b97be9&hash=39BBEFFC279C715769D0A69F93B862FB",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0191-1336-grand-flora-lane/1_1_allex_exterior_d.jpg?iar=1&sc=1&thn=1&w=425&rev=ee962c53bee74380a409a85cc7b97be9&hash=39BBEFFC279C715769D0A69F93B862FB"
-          ]
+          ],
+          "incentive": 13000,
+          "incentiveLabel": "(13,000)"
         },
         {
           "lot": "359",
@@ -2604,6 +2586,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0172-1343-grand-flora-lane/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=b088374ab4fa40279da421de87f20e32&hash=8244E5062797699CE7F98759C970BBE1",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0172-1343-grand-flora-lane/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=b088374ab4fa40279da421de87f20e32&hash=8244E5062797699CE7F98759C970BBE1"
+          ]
+        },
+        {
+          "lot": "383",
+          "address": "1337 Camellia Bloom Lane",
+          "plan": "",
+          "price": 399997,
+          "priceLabel": "$399,997",
+          "beds": 3,
+          "homeSlug": "1337-camellia-bloom-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/seminole-county/sanford/concorde/qmis/1337-camellia-bloom-lane",
+          "baths": "2",
+          "sqft": "1,504",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0192-1337-camellia-bloom-lane/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=947625eb122f4aaf9a0216e5b723f39f&hash=096D09FA1879AAEF8362E6B9B1DFC031",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38433-concorde-45s/384330000-concorde-45s/3eab/0192-1337-camellia-bloom-lane/1_1_allex_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=947625eb122f4aaf9a0216e5b723f39f&hash=096D09FA1879AAEF8362E6B9B1DFC031"
           ]
         },
         {
@@ -2833,24 +2833,24 @@
       ],
       "lots": [
         {
-          "lot": "526",
-          "address": "4971 Nickerbean St",
+          "lot": "522",
+          "address": "5019 Nickerbean St",
           "plan": "",
-          "price": 464997,
-          "priceLabel": "$464,997",
+          "price": 459990,
+          "priceLabel": "$459,990",
           "beds": 5,
-          "homeSlug": "4971-nickerbean-st",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/crossroads-at-kelly-park/qmis/4971-nickerbean-st",
+          "homeSlug": "5019-nickerbean-st",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/crossroads-at-kelly-park/qmis/5019-nickerbean-st",
           "baths": "3",
           "sqft": "2,077",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/e402/0118-4971-nickerbean-st/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3f52483e9ac4473083d02b98ca48914f&hash=CD2D5714A289EF6E28FFF1DC347DC6A1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/e402/0114-5019-nickerbean-st/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=c38c36dc59aa4bc0864a01ac5be7bf1c&hash=B04DB20BA4DC4721EF02109871781439",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/e402/0118-4971-nickerbean-st/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3f52483e9ac4473083d02b98ca48914f&hash=CD2D5714A289EF6E28FFF1DC347DC6A1"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/e402/0114-5019-nickerbean-st/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=c38c36dc59aa4bc0864a01ac5be7bf1c&hash=B04DB20BA4DC4721EF02109871781439"
           ],
-          "incentive": 6326,
-          "incentiveLabel": "(6,326)"
+          "incentive": 998,
+          "incentiveLabel": "(998)"
         },
         {
           "lot": "528",
@@ -2871,6 +2871,24 @@
           ]
         },
         {
+          "lot": "526",
+          "address": "4971 Nickerbean St",
+          "plan": "",
+          "price": 464997,
+          "priceLabel": "$464,997",
+          "beds": 5,
+          "homeSlug": "4971-nickerbean-st",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/crossroads-at-kelly-park/qmis/4971-nickerbean-st",
+          "baths": "3",
+          "sqft": "2,077",
+          "story": "1",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/e402/0118-4971-nickerbean-st/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3f52483e9ac4473083d02b98ca48914f&hash=CD2D5714A289EF6E28FFF1DC347DC6A1",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/e402/0118-4971-nickerbean-st/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=3f52483e9ac4473083d02b98ca48914f&hash=CD2D5714A289EF6E28FFF1DC347DC6A1"
+          ]
+        },
+        {
           "lot": "523",
           "address": "5007 Nickerbean St",
           "plan": "",
@@ -2886,24 +2904,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/4ebb/0115-5007-nickerbean-st/1_1_cali_elevation_d3.jpg?iar=1&sc=1&thn=1&w=425&rev=77ecfaab04f54c9bbd0796efbb80df6e&hash=F54C50E1E4771400252F1A43A09093D0",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/4ebb/0115-5007-nickerbean-st/1_1_cali_elevation_d3.jpg?iar=1&sc=1&thn=1&w=425&rev=77ecfaab04f54c9bbd0796efbb80df6e&hash=F54C50E1E4771400252F1A43A09093D0"
-          ]
-        },
-        {
-          "lot": "522",
-          "address": "5019 Nickerbean St",
-          "plan": "",
-          "price": 459990,
-          "priceLabel": "$459,990",
-          "beds": 5,
-          "homeSlug": "5019-nickerbean-st",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/crossroads-at-kelly-park/qmis/5019-nickerbean-st",
-          "baths": "3",
-          "sqft": "2,077",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/e402/0114-5019-nickerbean-st/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=c38c36dc59aa4bc0864a01ac5be7bf1c&hash=B04DB20BA4DC4721EF02109871781439",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/e402/0114-5019-nickerbean-st/1_1_lakeside_exterior_stone_g.jpg?iar=1&sc=1&thn=1&w=425&rev=c38c36dc59aa4bc0864a01ac5be7bf1c&hash=B04DB20BA4DC4721EF02109871781439"
           ]
         },
         {
@@ -2965,16 +2965,16 @@
         {
           "slug": "4eab",
           "name": "Aria",
-          "startingLabel": "Starting in the $000s",
+          "startingLabel": "Starting in the $421s",
           "sourceUrl": "https://www.drhorton.com/florida/orange-county/apopka/crossroads-at-kelly-park/floor-plans/4eab",
           "beds": 3,
           "baths": "2",
           "sqft": "1,672",
           "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/4eab/1_1_aria_exterior_elevationc.jpg?as=1&w=425&rev=6b38c4e835a542b3ac337a0cd5324bc3&hash=27A6DD216C253A323F39E30E62C71D55",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/4eab/1_1_ariaexterior_elevationm.jpg?as=1&w=425&rev=fa5eb4eb96814ee888b9c76b921a2084&hash=16E4E741C8F567D62CFD22CA3F8D19AB",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/4eab/1_1_aria_exterior_elevationc.jpg?as=1&w=425&rev=6b38c4e835a542b3ac337a0cd5324bc3&hash=27A6DD216C253A323F39E30E62C71D55"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38468-crossroads-at-kelly-park/384680000-crossroads-at-kelly-park-52s/4eab/1_1_ariaexterior_elevationm.jpg?as=1&w=425&rev=fa5eb4eb96814ee888b9c76b921a2084&hash=16E4E741C8F567D62CFD22CA3F8D19AB"
           ]
         },
         {
@@ -3409,33 +3409,13 @@
       "slug": "crosswinds-townhomes",
       "name": "Crosswinds Townhomes",
       "address": "2394 Aveeno Avenue, Haines City, FL 33844",
-      "availableCount": 4,
-      "lowestPrice": 251590,
+      "availableCount": 3,
+      "lowestPrice": 258490,
       "highestPrice": 270990,
       "beds": [
         3
       ],
       "lots": [
-        {
-          "lot": "1001",
-          "address": "2342 Aveeno Avenue",
-          "plan": "",
-          "price": 251590,
-          "priceLabel": "$251,590",
-          "beds": 3,
-          "homeSlug": "2342-aveeno-avenue",
-          "sourceUrl": "https://www.drhorton.com/florida/polk-county/haines-city/crosswinds-townhomes/qmis/2342-aveeno-avenue",
-          "baths": "2.5",
-          "sqft": "1,464",
-          "story": "2",
-          "garage": "1",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20b/0212-2342-aveeno-avenue/_0006_1-web-or-mls-orlando_-_crosswinds_-_2394_aveeno_avenue_haines_city_fl_33844-001.jpg?iar=1&sc=1&thn=1&w=425&rev=7f3474bf924046b5973f17079026bb42&hash=DB18B218B1E24BE5FDF38C06B960363F",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38934-crosswinds/389340000-crosswinds-th/t20b/0212-2342-aveeno-avenue/_0006_1-web-or-mls-orlando_-_crosswinds_-_2394_aveeno_avenue_haines_city_fl_33844-001.jpg?iar=1&sc=1&thn=1&w=425&rev=7f3474bf924046b5973f17079026bb42&hash=DB18B218B1E24BE5FDF38C06B960363F"
-          ],
-          "incentive": 11400,
-          "incentiveLabel": "(11,400)"
-        },
         {
           "lot": "1005",
           "address": "2326 Aveeno Avenue",
@@ -4122,8 +4102,8 @@
           "lot": "207",
           "address": "4618 Hidden Farm Drive",
           "plan": "",
-          "price": 323000,
-          "priceLabel": "$323,000",
+          "price": 315000,
+          "priceLabel": "$315,000",
           "beds": 3,
           "homeSlug": "4618-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4618-hidden-farm-drive",
@@ -4230,8 +4210,8 @@
           "lot": "155",
           "address": "4409 Hidden Farm Drive",
           "plan": "",
-          "price": 370000,
-          "priceLabel": "$370,000",
+          "price": 350000,
+          "priceLabel": "$350,000",
           "beds": 4,
           "homeSlug": "4409-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4409-hidden-farm-drive",
@@ -4248,8 +4228,8 @@
           "lot": "206",
           "address": "4616 Hidden Farm Drive",
           "plan": "",
-          "price": 375000,
-          "priceLabel": "$375,000",
+          "price": 365000,
+          "priceLabel": "$365,000",
           "beds": 4,
           "homeSlug": "4616-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4616-hidden-farm-drive",
@@ -4374,8 +4354,8 @@
           "lot": "189",
           "address": "4331 Hidden Farm Drive",
           "plan": "",
-          "price": 425000,
-          "priceLabel": "$425,000",
+          "price": 420000,
+          "priceLabel": "$420,000",
           "beds": 4,
           "homeSlug": "4331-hidden-farm-drive",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4331-hidden-farm-drive",
@@ -4410,8 +4390,8 @@
           "lot": "3",
           "address": "3532 Golden Wheat Ln",
           "plan": "",
-          "price": 475000,
-          "priceLabel": "$475,000",
+          "price": 465000,
+          "priceLabel": "$465,000",
           "beds": 4,
           "homeSlug": "3532-golden-wheat-ln",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3532-golden-wheat-ln",
@@ -4428,8 +4408,8 @@
           "lot": "1",
           "address": "3540 Golden Wheat Ln",
           "plan": "",
-          "price": 475000,
-          "priceLabel": "$475,000",
+          "price": 470000,
+          "priceLabel": "$470,000",
           "beds": 4,
           "homeSlug": "3540-golden-wheat-ln",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3540-golden-wheat-ln",
@@ -7681,8 +7661,8 @@
           "lot": "44",
           "address": "1144 Wild Clover Way",
           "plan": "",
-          "price": 348000,
-          "priceLabel": "$348,000",
+          "price": 345000,
+          "priceLabel": "$345,000",
           "beds": 4,
           "homeSlug": "1144-wild-clover-way",
           "sourceUrl": "https://www.drhorton.com/florida/tampa/plant-city/holloway-landing/qmis/1144-wild-clover-way",
@@ -8931,6 +8911,81 @@
       ]
     },
     {
+      "slug": "lecanto-preserve",
+      "name": "Lecanto Preserve",
+      "address": "3531 W Falcon Path Lane, Lecanto, FL 34461",
+      "availableCount": 0,
+      "lowestPrice": null,
+      "highestPrice": null,
+      "beds": [],
+      "lots": [],
+      "models": [
+        {
+          "slug": "3eab",
+          "name": "Allex",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/lecanto/lecanto-preserve/floor-plans/3eab",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/975160000-lecanto-preserve-40s-exp/3eab/tos_allex_d_lot_139_3131_evenmore_way.png?as=1&w=425&rev=fb5be05f309744da87bf7061cb75dc14&hash=CD46EE6D9025143DD41CC9514805906A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/975160000-lecanto-preserve-40s-exp/3eab/tos_allex_d_lot_139_3131_evenmore_way.png?as=1&w=425&rev=fb5be05f309744da87bf7061cb75dc14&hash=CD46EE6D9025143DD41CC9514805906A"
+          ]
+        },
+        {
+          "slug": "4eab",
+          "name": "Aria",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/lecanto/lecanto-preserve/floor-plans/4eab",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/347030000-lecanto-preserve-50s-exp/4eab/aria_c_siding_ocs.png?as=1&w=425&rev=5a8ef0c9b9f741ba8a275e6088b16c67&hash=EA3E59344E58A9B3EB00D71E4BB6BAB2",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/347030000-lecanto-preserve-50s-exp/4eab/aria_c_siding_ocs.png?as=1&w=425&rev=5a8ef0c9b9f741ba8a275e6088b16c67&hash=EA3E59344E58A9B3EB00D71E4BB6BAB2"
+          ]
+        },
+        {
+          "slug": "4ebb",
+          "name": "Cali",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/lecanto/lecanto-preserve/floor-plans/4ebb",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/347030000-lecanto-preserve-50s-exp/4ebb/cali_-_d_ocs_-_no_address.png?as=1&w=425&rev=0e374418e67b49e39ad68a82ea9f55b1&hash=E6E7C3C2B50F3F9B00ABD507069E410B",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/347030000-lecanto-preserve-50s-exp/4ebb/cali_-_d_ocs_-_no_address.png?as=1&w=425&rev=0e374418e67b49e39ad68a82ea9f55b1&hash=E6E7C3C2B50F3F9B00ABD507069E410B"
+          ]
+        },
+        {
+          "slug": "e315",
+          "name": "Crestview",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/lecanto/lecanto-preserve/floor-plans/e315",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/975160000-lecanto-preserve-40s-exp/e315/crestview_ele_a_cs_1_8_0_revised.jpg?as=1&w=425&rev=ed375d646c1b4cf3bf638d8ff6ae3b73&hash=BA0ECC42A49EF755140C1BF256A39AF7",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/975160000-lecanto-preserve-40s-exp/e315/crestview_ele_a_cs_1_8_0_revised.jpg?as=1&w=425&rev=ed375d646c1b4cf3bf638d8ff6ae3b73&hash=BA0ECC42A49EF755140C1BF256A39AF7"
+          ]
+        },
+        {
+          "slug": "4ehb",
+          "name": "Hayden- Spanish",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/lecanto/lecanto-preserve/floor-plans/4ehb",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/347030000-lecanto-preserve-50s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_h_no_coach.jpg?as=1&w=425&rev=98b1dd78068042608241c57bc2964ced&hash=C6610C445FCF239517F4BDA1498AF00A",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/347030000-lecanto-preserve-50s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_h_no_coach.jpg?as=1&w=425&rev=98b1dd78068042608241c57bc2964ced&hash=C6610C445FCF239517F4BDA1498AF00A"
+          ]
+        },
+        {
+          "slug": "e402",
+          "name": "Lakeside",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/lecanto/lecanto-preserve/floor-plans/e402",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/347030000-lecanto-preserve-50s-exp/e402/mgl_lakeside_g.jpg?as=1&w=425&rev=e8883d8363dc40ae9274aefe47e4fcc8&hash=DD25A02CFE7D82AA813DFA6285C19485",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/347030000-lecanto-preserve-50s-exp/e402/mgl_lakeside_g.jpg?as=1&w=425&rev=e8883d8363dc40ae9274aefe47e4fcc8&hash=DD25A02CFE7D82AA813DFA6285C19485"
+          ]
+        },
+        {
+          "slug": "3efb",
+          "name": "Robie",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/lecanto/lecanto-preserve/floor-plans/3efb",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/975160000-lecanto-preserve-40s-exp/3efb/3226_evenmore_way_tos_robie_h.png?as=1&w=425&rev=56ee96d8fc424724aff4b842c254c6c3&hash=55616AE94E144317C9ED6C0EFF06893C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34703-lecanto-preserve/975160000-lecanto-preserve-40s-exp/3efb/3226_evenmore_way_tos_robie_h.png?as=1&w=425&rev=56ee96d8fc424724aff4b842c254c6c3&hash=55616AE94E144317C9ED6C0EFF06893C"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "leomas-landing-ph2--ph3",
       "name": "Leomas Landing",
       "address": "713 Greenway Boulevard, Lake Wales, FL 33859",
@@ -9609,7 +9664,9 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0167-3545-chroma-street/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=a060647d39ff45298ad80b3f0f3007a4&hash=5C51E41F5FFD3D5D64073CFB2B4F0987",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38118-nona-west-th/381180000-nona-west-th/1673/0167-3545-chroma-street/1_1_glen_exterior2.jpg?iar=1&sc=1&thn=1&w=425&rev=a060647d39ff45298ad80b3f0f3007a4&hash=5C51E41F5FFD3D5D64073CFB2B4F0987"
-          ]
+          ],
+          "incentive": 5000,
+          "incentiveLabel": "(5,000)"
         },
         {
           "lot": "40",
@@ -13526,21 +13583,21 @@
       ],
       "lots": [
         {
-          "lot": "282",
-          "address": "11827 Shine View Lane",
+          "lot": "270",
+          "address": "11899 Shine View Lane",
           "plan": "",
-          "price": 824846,
-          "priceLabel": "$824,846",
-          "beds": 5,
-          "homeSlug": "11827-shine-view-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11827-shine-view-lane",
-          "baths": "4.5",
-          "sqft": "3,225",
-          "story": "2",
+          "price": 689441,
+          "priceLabel": "$689,441",
+          "beds": 4,
+          "homeSlug": "11899-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11899-shine-view-lane",
+          "baths": "3",
+          "sqft": "2,113",
+          "story": "1",
           "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1121-11827-shine-view-lane/torrey_waterleigh_kweb_.jpg?iar=1&sc=1&thn=1&w=425&rev=4661da4a1649460a98b30584d2df4dcb&hash=FD0B6F4158B43D0374C9A7E2410D3E6C",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/2113/1109-11899-shine-view-lane/bellmore_waterleigh_web_k.jpg?iar=1&sc=1&thn=1&w=425&rev=30b64df9026c4aa3a657061612748f8f&hash=A65DFDB94E10D6677855C10228214A03",
           "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1121-11827-shine-view-lane/torrey_waterleigh_kweb_.jpg?iar=1&sc=1&thn=1&w=425&rev=4661da4a1649460a98b30584d2df4dcb&hash=FD0B6F4158B43D0374C9A7E2410D3E6C"
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/2113/1109-11899-shine-view-lane/bellmore_waterleigh_web_k.jpg?iar=1&sc=1&thn=1&w=425&rev=30b64df9026c4aa3a657061612748f8f&hash=A65DFDB94E10D6677855C10228214A03"
           ],
           "incentive": 15000,
           "incentiveLabel": "(15,000)"
@@ -13561,6 +13618,24 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1123-11815-shine-view-lane/torrey_waterleigh_k_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=257aa8823c0244149625951b074e3197&hash=AA78F6FAE960E53DBF446C13A0B695FE",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1123-11815-shine-view-lane/torrey_waterleigh_k_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=257aa8823c0244149625951b074e3197&hash=AA78F6FAE960E53DBF446C13A0B695FE"
+          ]
+        },
+        {
+          "lot": "282",
+          "address": "11827 Shine View Lane",
+          "plan": "",
+          "price": 824846,
+          "priceLabel": "$824,846",
+          "beds": 5,
+          "homeSlug": "11827-shine-view-lane",
+          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11827-shine-view-lane",
+          "baths": "4.5",
+          "sqft": "3,225",
+          "story": "2",
+          "garage": "2",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1121-11827-shine-view-lane/torrey_waterleigh_kweb_.jpg?iar=1&sc=1&thn=1&w=425&rev=4661da4a1649460a98b30584d2df4dcb&hash=FD0B6F4158B43D0374C9A7E2410D3E6C",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1121-11827-shine-view-lane/torrey_waterleigh_kweb_.jpg?iar=1&sc=1&thn=1&w=425&rev=4661da4a1649460a98b30584d2df4dcb&hash=FD0B6F4158B43D0374C9A7E2410D3E6C"
           ]
         },
         {
@@ -13723,24 +13798,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1111-11887-shine-view-lane/torrey_waterleigh_j_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=4b1c2336c0e04cbb915d4d7a1668a286&hash=EE4328CE87A7FCB5E7AEC74C41605B00",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/3225/1111-11887-shine-view-lane/torrey_waterleigh_j_web_.jpg?iar=1&sc=1&thn=1&w=425&rev=4b1c2336c0e04cbb915d4d7a1668a286&hash=EE4328CE87A7FCB5E7AEC74C41605B00"
-          ]
-        },
-        {
-          "lot": "270",
-          "address": "11899 Shine View Lane",
-          "plan": "",
-          "price": 689441,
-          "priceLabel": "$689,441",
-          "beds": 4,
-          "homeSlug": "11899-shine-view-lane",
-          "sourceUrl": "https://www.drhorton.com/florida/orange-county/winter-garden/waterleigh/qmis/11899-shine-view-lane",
-          "baths": "3",
-          "sqft": "2,113",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/2113/1109-11899-shine-view-lane/bellmore_waterleigh_web_k.jpg?iar=1&sc=1&thn=1&w=425&rev=30b64df9026c4aa3a657061612748f8f&hash=A65DFDB94E10D6677855C10228214A03",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38116-waterleigh/382620000-waterleigh-50s/2113/1109-11899-shine-view-lane/bellmore_waterleigh_web_k.jpg?iar=1&sc=1&thn=1&w=425&rev=30b64df9026c4aa3a657061612748f8f&hash=A65DFDB94E10D6677855C10228214A03"
           ]
         },
         {
