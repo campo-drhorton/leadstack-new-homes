@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T22:58:55.548Z",
+  "updatedAt": "2026-11-26T22:47:53.485Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-25T22:58:55.548Z",
+  "publicUpdatedAt": "2026-11-26T22:47:53.485Z",
   "photoCount": 235,
   "communities": [
     {
@@ -4514,8 +4514,8 @@
           "price": 370000,
           "priceLabel": "$370,000",
           "beds": 5,
-          "homeSlug": "35322-homebound-gate-dr",
-          "sourceUrl": "",
+          "homeSlug": "35322-homebound-gate-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/zephyrhills/pasadena-ridge/qmis/35322-homebound-gate-drive",
           "baths": "3",
           "sqft": "2,447",
           "story": "2",
@@ -7866,8 +7866,8 @@
           "price": 450000,
           "priceLabel": "$450,000",
           "beds": 4,
-          "homeSlug": "32336-weathered-oak-drive",
-          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32336-weathered-oak-drive",
+          "homeSlug": "32336-weathered-oak-dr",
+          "sourceUrl": "",
           "baths": "2.5",
           "sqft": "2,305",
           "story": "2",
