@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-26T22:41:42.708Z",
+  "updatedAt": "2026-11-27T22:25:47.903Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-26T22:41:42.708Z",
-  "photoCount": 93,
+  "publicUpdatedAt": "2026-11-27T22:25:47.903Z",
+  "photoCount": 89,
   "communities": [
     {
       "slug": "autumn-glen",
@@ -888,7 +888,7 @@
       "slug": "marion-oaks-spot-lots",
       "name": "Marion County Spot Lots",
       "address": "272 Marion Oaks Course, Ocala, FL 34473",
-      "availableCount": 11,
+      "availableCount": 9,
       "lowestPrice": 310990,
       "highestPrice": 339990,
       "beds": [
@@ -914,42 +914,6 @@
           ],
           "incentive": 3080,
           "incentiveLabel": "(3,080)"
-        },
-        {
-          "lot": "19",
-          "address": "13042 SW 88th Ct",
-          "plan": "Cali",
-          "price": 325990,
-          "priceLabel": "$325,990",
-          "beds": 4,
-          "homeSlug": "13042-sw-88th-ct",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/13042-sw-88th-ct",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974780000-marion-spot-lots---wells/4ebb/0005-13042-sw-88th-ct/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f3df2f4c1b9a47dc87ebe21e72ab8d37&hash=B800337E16D4B473FED1004CFEFCCB04",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974780000-marion-spot-lots---wells/4ebb/0005-13042-sw-88th-ct/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=f3df2f4c1b9a47dc87ebe21e72ab8d37&hash=B800337E16D4B473FED1004CFEFCCB04"
-          ]
-        },
-        {
-          "lot": "15",
-          "address": "13415 SW 29th Cir",
-          "plan": "",
-          "price": 339070,
-          "priceLabel": "$339,070",
-          "beds": 4,
-          "homeSlug": "13415-sw-29th-cir",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/marion-spot-lots/qmis/13415-sw-29th-cir",
-          "baths": "2",
-          "sqft": "1,828",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0373-13415-sw-29th-cir/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=461a2bf8432246a38ddea23823f4da56&hash=9FB721712BA9DBD6F1A5CD568E346FEC",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97431-marionspot-lots/974310000-marion-spot-lots/4ebb/0373-13415-sw-29th-cir/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=461a2bf8432246a38ddea23823f4da56&hash=9FB721712BA9DBD6F1A5CD568E346FEC"
-          ]
         },
         {
           "lot": "47",
@@ -2207,9 +2171,9 @@
       "slug": "ridge-at-heat-brook",
       "name": "Ridge at Heath Brook",
       "address": "5405 SW 44th Court Rd, Ocala, FL 34474",
-      "availableCount": 8,
-      "lowestPrice": 285990,
-      "highestPrice": 427275,
+      "availableCount": 6,
+      "lowestPrice": 287990,
+      "highestPrice": 422990,
       "beds": [
         3,
         4
@@ -2251,24 +2215,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2767/0089-4217-sw-52nd-lane-rd/coral-h-new-colors.jpg?iar=1&sc=1&thn=1&w=425&rev=6dd0daf9fe0d447abba8ebf3faa74f3a&hash=9C803B465B32BC5406FB5B933F93F889",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2767/0089-4217-sw-52nd-lane-rd/coral-h-new-colors.jpg?iar=1&sc=1&thn=1&w=425&rev=6dd0daf9fe0d447abba8ebf3faa74f3a&hash=9C803B465B32BC5406FB5B933F93F889"
-          ]
-        },
-        {
-          "lot": "126",
-          "address": "4225 SW 52Nd Lane Rd",
-          "plan": "Holden",
-          "price": 427275,
-          "priceLabel": "$427,275",
-          "beds": 4,
-          "homeSlug": "4225-sw-52nd-lane-rd",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/4225-sw-52nd-lane-rd",
-          "baths": "3",
-          "sqft": "3,313",
-          "story": "2",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/3129/0088-4225-sw-52nd-lane-rd/holden-g-new-colors.jpg?iar=1&sc=1&thn=1&w=425&rev=945b2f487ed44e1da6d19b7e28c3cae5&hash=645A87459FB9D97FC8CF3B7BF0E9FCF9",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/3129/0088-4225-sw-52nd-lane-rd/holden-g-new-colors.jpg?iar=1&sc=1&thn=1&w=425&rev=945b2f487ed44e1da6d19b7e28c3cae5&hash=645A87459FB9D97FC8CF3B7BF0E9FCF9"
           ]
         },
         {
@@ -2341,24 +2287,6 @@
           "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2767/0134-5249-sw-40th-cir/coral-h-new-colors.jpg?iar=1&sc=1&thn=1&w=425&rev=f781665d59aa4a98afff5b62be53ad26&hash=A09F865DFAC33894077DE49A6B49612F",
           "photos": [
             "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/974870000-ridge-at-heath-brook-ph2/2767/0134-5249-sw-40th-cir/coral-h-new-colors.jpg?iar=1&sc=1&thn=1&w=425&rev=f781665d59aa4a98afff5b62be53ad26&hash=A09F865DFAC33894077DE49A6B49612F"
-          ]
-        },
-        {
-          "lot": "195",
-          "address": "5385 SW 41st Court",
-          "plan": "Aria",
-          "price": 285990,
-          "priceLabel": "$285,990",
-          "beds": 3,
-          "homeSlug": "5385-sw-41st-court",
-          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/ocala/ridge-at-heath-brook/qmis/5385-sw-41st-court",
-          "baths": "2",
-          "sqft": "1,672",
-          "story": "1",
-          "garage": "2",
-          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4eab/0051-5385-sw-41st-court/aria-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=91c2b0ac5f0249bfadcd97046d222554&hash=35DBC3DA6EC2EF182B5CBDAD6305A3F3",
-          "photos": [
-            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34751-heath-brook/347510000-ridge-at-heath-brook-exp/4eab/0051-5385-sw-41st-court/aria-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=91c2b0ac5f0249bfadcd97046d222554&hash=35DBC3DA6EC2EF182B5CBDAD6305A3F3"
           ]
         }
       ],

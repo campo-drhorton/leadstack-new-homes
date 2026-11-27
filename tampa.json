@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-26T22:47:53.485Z",
+  "updatedAt": "2026-11-27T22:32:08.405Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-26T22:47:53.485Z",
+  "publicUpdatedAt": "2026-11-27T22:32:08.405Z",
   "photoCount": 235,
   "communities": [
     {
@@ -7866,8 +7866,8 @@
           "price": 450000,
           "priceLabel": "$450,000",
           "beds": 4,
-          "homeSlug": "32336-weathered-oak-dr",
-          "sourceUrl": "",
+          "homeSlug": "32336-weathered-oak-drive",
+          "sourceUrl": "https://www.drhorton.com/florida/tampa/wesley-chapel/woodcreek/qmis/32336-weathered-oak-drive",
           "baths": "2.5",
           "sqft": "2,305",
           "story": "2",

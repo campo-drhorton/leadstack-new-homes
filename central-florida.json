@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-26T22:45:43.502Z",
+  "updatedAt": "2026-11-27T22:29:53.607Z",
   "source": "drhorton-public",
   "builder": "drhorton",
   "adapter": "drhorton-public",
-  "publicUpdatedAt": "2026-11-26T22:45:43.502Z",
-  "photoCount": 410,
+  "publicUpdatedAt": "2026-11-27T22:29:53.607Z",
+  "photoCount": 411,
   "communities": [
     {
       "slug": "annabelle-estates",
@@ -12429,8 +12429,8 @@
       "slug": "twisted-oaks",
       "name": "Twisted Oaks",
       "address": "3181 Canopy Oak Blvd., Wildwood, FL 34785",
-      "availableCount": 24,
-      "lowestPrice": 215990,
+      "availableCount": 25,
+      "lowestPrice": 207990,
       "highestPrice": 419990,
       "beds": [
         2,
@@ -12458,6 +12458,24 @@
           ],
           "incentive": 12255,
           "incentiveLabel": "(12,255)"
+        },
+        {
+          "lot": "113",
+          "address": "8276 Gower Trail",
+          "plan": "",
+          "price": 207990,
+          "priceLabel": "$207,990",
+          "beds": 3,
+          "homeSlug": "8276-gower-trail",
+          "sourceUrl": "https://www.drhorton.com/florida/west-central-florida/wildwood/twisted-oaks/qmis/8276-gower-trail",
+          "baths": "2.5",
+          "sqft": "1,464",
+          "story": "2",
+          "garage": "1",
+          "photo": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0035-8276-gower-trail/pearson-6_unit-th-stucco-sch2--gen3-elev_day_cropped.png?iar=1&sc=1&thn=1&w=425&rev=53ca737d56974659abc8f021f3965ad0&hash=6AB9E0A2890264395F17F6734BC24643",
+          "photos": [
+            "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/97448-twisted-oaks---sumter/974610000-twisted-oaks-sumter--ths/t20b/0035-8276-gower-trail/pearson-6_unit-th-stucco-sch2--gen3-elev_day_cropped.png?iar=1&sc=1&thn=1&w=425&rev=53ca737d56974659abc8f021f3965ad0&hash=6AB9E0A2890264395F17F6734BC24643"
+          ]
         },
         {
           "lot": "114",
