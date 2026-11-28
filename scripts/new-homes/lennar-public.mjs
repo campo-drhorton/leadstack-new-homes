@@ -69,6 +69,11 @@ export function communitiesFromPage(state, sourceUrl, market, checkedAt) {
     });
   }
   const emptyMasterplan = Object.entries(state).some(([key, row]) => key.startsWith('MpcType:') && absolute(row.url) === sourceUrl && Array.isArray(row.communities) && row.communities.length === 0);
-  if (!result.length && !emptyMasterplan) throw new Error(`No active communities parsed from ${sourceUrl}`);
+  // A masterplan URL can start serving a single not-yet-selling community page
+  // (e.g. South Creek, Nov 2026: CommunityType COMING_SOON, no MpcType record).
+  // It has no inventory yet, so treat it like an empty masterplan instead of a broken page.
+  const comingSoonOnly = !result.length && records.some(c => absolute(c.url) === sourceUrl && c.status === 'COMING_SOON')
+    && !records.some(c => c.status === 'ACTIVE');
+  if (!result.length && !emptyMasterplan && !comingSoonOnly) throw new Error(`No active communities parsed from ${sourceUrl}`);
   return result;
 }
